@@ -439,10 +439,8 @@ gr=2 			Grade 				此汉字在小二被教
 freq=205		frequence			青空文库中的出现频率排名，越小越常用
 ex				example words		例子
 pos				part of speech		词性
-wf				writting form
-knf				kana form
-kjf				kanji form
-mn				meaning
+cn				meaning
+tcn				traditional chinese
 pa				pitch accent
 jy=false			jouyou				常用外
 cau=true		caution				中日异义
@@ -451,25 +449,25 @@ cau=true		caution				中日异义
 <Dict>
 	<kanji	id="亜" freq="1701" jlpt="1" gr="8">
 		<r on="ア" >
-			<ex	 word="亜細亜" pron="アジア" pa="1" jlpt="4" pos="N" mn="亚洲" />
+			<ex	 word="亜細亜" pron="アジア" pa="1" jlpt="4" pos="N" cn="亚洲" />
 		</r>
 	</kanji>
 	
 	<kanji	id="哀" freq="971" jlpt="1" gr="8">
 		<r on="アイ" >
-			<ex	 word="哀愁" pron="あいしゅう"	pa="0" pos="N"	mn="哀愁" />
+			<ex	 word="哀愁" pron="あいしゅう"	pa="0" pos="N"	cn="哀愁" />
 		</r>
 		<r kun="あわ`れ"	pa="1">
-			<ex	 word="哀れ" pron="あわれ"	pa="1"	mn="哀愁" />
+			<ex	 word="哀れ" pron="あわれ"	pa="1"	cn="哀愁" />
 		</r>
 		<r kun="あわ`れむ"	pa="3">
-			<ex	 word="哀れむ" pron="あわれむ"	pa="3"	mn="哀愁" />
+			<ex	 word="哀れむ" pron="あわれむ"	pa="3"	cn="哀愁" />
 		</r>
 	</kanji>
 	
 	<kanji	id="愛" freq="213" jlpt="3" gr="4">
 		<r on="アイ" >
-			<ex	 word="愛情" pron="あいじょう"	pa="0"	mn="love" />
+			<ex	 word="愛情" pron="あいじょう"	pa="0"	cn="love" />
 		</r>
 		<r kun="いと`しい" kk="愛しい"	jy="false" />
 		<r kun="かなしい"	jy="false" />
@@ -477,28 +475,28 @@ cau=true		caution				中日异义
 	
 	<kanji	id="挨" freq="1249" gr="8">
 		<r on="アイ" >
-			<ex	 word="挨拶" pron="あいさつ" pa="1" jlpt="3" pos="N" mn="寒暄语/客套话" />
+			<ex	 word="挨拶" pron="あいさつ" pa="1" jlpt="3" pos="N" cn="寒暄语/客套话" />
 		</r>
 	</kanji>
 	
 	<kanji	id="曖" freq="2661" gr="8">
 		<r on="アイ" >
-			<ex	 word="曖昧" pron="あいまい" pa="0"	jlpt="2"	pos="NA" mn="" />
+			<ex	 word="曖昧" pron="あいまい" pa="0"	jlpt="2"	pos="NA" cn="" />
 		</r>
 		<r kun="かげる" kk="曖る" jy="false" />
 	</kanji>
 	
 	<kanji	id="悪" freq="193" jlpt="4" gr="3">
 		<r on="アク" >
-			<ex	 word="悪夢" pron="あくむ" pa="1" pos="N" mn="" />
-			<ex	 word="悪魔" pron="あくま" pa="1" pos="N" jlpt="3" mn="" />
-			<ex	 word="悪化" pron="あっか" pa="0" pos="N" jlpt="1" mn="" />
+			<ex	 word="悪夢" pron="あくむ" pa="1" pos="N" cn="" />
+			<ex	 word="悪魔" pron="あくま" pa="1" pos="N" jlpt="3" cn="" />
+			<ex	 word="悪化" pron="あっか" pa="0" pos="N" jlpt="1" cn="" />
 		</r>
 		<r on="オ">
-			<ex	 word="嫌悪" pron="けんお" pa="1" mn="" />
+			<ex	 word="嫌悪" pron="けんお" pa="1" cn="" />
 		</r>
 		<r kun="わる`い" pa="2" ></r>
-			<ex	 word="悪い" pron="わるい" pa="2" pos="adj" jlpt="4" mn="" />
+			<ex	 word="悪い" pron="わるい" pa="2" pos="adj" jlpt="4" cn="" />
 		<r kun="にく`む" kk="悪む" jy="false" />
 		<r kun="あ`し" kk="悪し" jy="false" />
 		<r kun="いずく`んぞ" kk="悪んぞ" jy="false" />
@@ -506,8 +504,8 @@ cau=true		caution				中日异义
 	
 	<kanji	id="握" freq="983" jlpt="1" gr="8">
 		<r on="アク" >
-			<ex	 word="握手" pron="あくしゅ" pa="1" jlpt="5" pos="N" mn="漢字" />
-			<ex	 word="把握" pron="はあく" 	pa="0"	mn="掌握" />
+			<ex	 word="握手" pron="あくしゅ" pa="1" jlpt="5" pos="N" cn="漢字" />
+			<ex	 word="把握" pron="はあく" 	pa="0"	cn="掌握" />
 		</r>
 		<r kun="にぎ`る" pa="0" kk="握る">
 		</r>
@@ -515,7 +513,7 @@ cau=true		caution				中日异义
 	
 	<kanji	id="暗" freq="365" jlpt="1" gr="8">
 		<r on="アン" >
-			<ex	 word="暗殺" pron="あんさつ" pa="0" jlpt="5" pos="N" mn="" />
+			<ex	 word="暗殺" pron="あんさつ" pa="0" jlpt="5" pos="N" cn="" />
 		</r>
 		<r kun="くら`い" pa="0" kk="暗い">
 		</r>
@@ -523,28 +521,28 @@ cau=true		caution				中日异义
 	
 	<kanji	id="医" freq="731" jlpt="4" gr="3">
 		<r on="アク" >
-			<ex	 word="医療" pron="いりょう" 	pa="1" jlpt="5" pos="N" mn="" />
-			<ex	 word="医者" pron="いしゃ" 	pa="0"	mn="" />
-			<ex	 word="医師" pron="いし" 	pa="1"	mn="" />
-			<ex	 word="医学" pron="いがく" 	pa="1"	mn="" />
-			<ex	 word="外科医" pron="げかい" 	pa="1"	mn="" />
+			<ex	 word="医療" pron="いりょう" 	pa="1" jlpt="5" pos="N" cn="" />
+			<ex	 word="医者" pron="いしゃ" 	pa="0"	cn="" />
+			<ex	 word="医師" pron="いし" 	pa="1"	cn="" />
+			<ex	 word="医学" pron="いがく" 	pa="1"	cn="" />
+			<ex	 word="外科医" pron="げかい" 	pa="1"	cn="" />
 		</r>
 	</kanji>
 	
 	<kanji	id="依" freq="920" jlpt="2" gr="8">
 		<r on="イ" >
-			<ex	 word="依然" pron="いぜん" pa="0" jlpt="5" pos="N" mn="" >
+			<ex	 word="依然" pron="いぜん" pa="0" jlpt="5" pos="N" cn="" >
 				<sentence>依然として</sentence>
 			</ex>
-			<ex	 word="依頼" pron="いらい" pa="0" jlpt="5" pos="N/ts" mn="" >
+			<ex	 word="依頼" pron="いらい" pa="0" jlpt="5" pos="N/ts" cn="" >
 				<sentence>…を依頼する</sentence>
 			</ex>
-			<ex	 word="依存" pron="いぞん" pa="0" jlpt="5" pos="ts" mn="" >
+			<ex	 word="依存" pron="いぞん" pa="0" jlpt="5" pos="ts" cn="" >
 				<sentence>…に依存する</sentence>
 			</ex>
 		</r>
 		<r on="エ" >
-			<ex	 word="帰依" pron="えき" pa="1" jlpt="5" pos="N" mn="皈依" />
+			<ex	 word="帰依" pron="えき" pa="1" jlpt="5" pos="N" cn="皈依" />
 		</r>
 		<r kun="よ`る" pa="0" kk="" jy='false'>
 		</r>
@@ -552,8 +550,8 @@ cau=true		caution				中日异义
 	
 	<kanji	id="委" freq="1558" jlpt="2" gr="3">
 		<r on="イ" >
-			<ex	 word="委託" pron="いたく" pa="0" jlpt="5" pos="N" mn="" />
-			<ex	 word="委員会" pron="いいんかい" pa="1" jlpt="5" pos="N" mn="" />
+			<ex	 word="委託" pron="いたく" pa="0" jlpt="5" pos="N" cn="" />
+			<ex	 word="委員会" pron="いいんかい" pa="1" jlpt="5" pos="N" cn="" />
 		</r>
 		<r kun="ゆだ `ねる" pa="3" kk="委ねる">
 		</r>
@@ -561,18 +559,18 @@ cau=true		caution				中日异义
 	
 	<kanji	id="威" freq="970" jlpt="1" gr="8">
 		<r on="イ" >
-			<ex	 word="権威" pron="けんい" pa="1" jlpt="5" pos="N" mn="" />
-			<ex	 word="脅威" pron="きょうい" pa="1" jlpt="5" pos="N" mn="" />
-			<ex	 word="威力" pron="いりょく" pa="1" jlpt="5" pos="N" mn="" />
-			<ex	 word="威信" pron="いしん" pa="1" jlpt="5" pos="N" mn="" />
+			<ex	 word="権威" pron="けんい" pa="1" jlpt="5" pos="N" cn="" />
+			<ex	 word="脅威" pron="きょうい" pa="1" jlpt="5" pos="N" cn="" />
+			<ex	 word="威力" pron="いりょく" pa="1" jlpt="5" pos="N" cn="" />
+			<ex	 word="威信" pron="いしん" pa="1" jlpt="5" pos="N" cn="" />
 		</r>
 	</kanji>
 	
 	<kanji	id="偉" freq="1296" jlpt="3" gr="8">
 		<r on="イ" >
-			<ex	 word="偉大" pron="いだい" pa="0" jlpt="5" pos="N/NA" mn="" />
-			<ex	 word="偉業" pron="きょうい" pa="0" jlpt="5" pos="N" mn="" />
-			<ex	 word="偉人" pron="いりょく" pa="0" jlpt="5" pos="N" mn="" />
+			<ex	 word="偉大" pron="いだい" pa="0" jlpt="5" pos="N/NA" cn="" />
+			<ex	 word="偉業" pron="きょうい" pa="0" jlpt="5" pos="N" cn="" />
+			<ex	 word="偉人" pron="いりょく" pa="0" jlpt="5" pos="N" cn="" />
 		</r>
 		<r kun="えら`い" pa="2" kk="偉い" />
 	</kanji>
