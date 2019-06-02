@@ -225,13 +225,15 @@ gr=2 			Grade 				此汉字在小二被教
 freq=205		frequence			青空文库中的出现频率排名，越小越常用
 ex				example words		例子
 pos				part of speech		词性
-wf				writting form
-knf				kana form
-kjf				kanji form
-mn				meaning
-pa				pitch accent
-jy=false			jouyou				常用外
+cn				simplified Chinese	简体中文
+tcn				traditional Chinese	繁体中文
+eng				English				英语
+pa				pitch accent			重音
 cau=true		caution				中日异义
+sp				special read			特殊读法, 比训读更训读的，比如 （流石　さすが）
+
+nfu=			not frequently used		常用外
+
 -->
 
 <Dict>
@@ -538,10 +540,10 @@ cau=true		caution				中日异义
 		<r on="オン" >
 			<ex	 word="騒音" pron="そうおん" pa="0" pos="N" jlpt="3" eng="noise"/>
 		</r>
-		<r kun="おと" kk="音" pa="0" pos="N" jlpt="4" ></>
+		<r kun="おと" kk="音" pa="0" pos="N" jlpt="4" ></r>
 		<r kun="ね" kk="音" pa="0" pos="N" >
-			<ex	 word="本音" pron="ほんね" pa="0" pos="N" jlpt="1" eng="real intention"/>
-		</>
+			<ex	 word="本音" pron="ほんね" pa="0" pos="N" jlpt="1" eng="real intention" />
+		</r>
 		<r nfu="コウ"></r>
 	</kanji>
 	
@@ -561,8 +563,8 @@ cau=true		caution				中日异义
 			<ex	 word="温暖" pron="おんだん" pa="0" pos="NA" />
 			<ex	 word="温泉" pron="おんせん" pa="0" pos="N" />
 		</r>
-		<r kun="あたたか" kk="温か" pa="32" pos="NA" />
-		<r kun="ぬるむ" kk="温む" pa="2" pos="j5" />
+		<r kun="あたた`か" kk="温か" pa="32" pos="NA" />
+		<r kun="ぬる`む" kk="温む" pa="2" pos="j5" />
 		<r nfu="コウ"></r>
 	</kanji>
 	
@@ -572,7 +574,7 @@ cau=true		caution				中日异义
 			<ex	 word="平穏" pron="へいおん" pa="0" pos="N" />
 			<ex	 word="穏健" pron="おんけん" pa="0" pos="NA" />
 		</r>
-		<r kun="おだやか" kk="穏やか" pa="2" pos="NA" jlpt="3" />
+		<r kun="おだ`やか" kk="穏やか" pa="2" pos="NA" jlpt="3" />
 		<r nfu="穏らか≒安らか（やすらか）"></r>
 	</kanji>
 	
@@ -610,8 +612,8 @@ cau=true		caution				中日异义
 			<ex	 word="化粧" pron="けしょう" pa="0" pos="N" />
 			<ex	 word="化身" pron="けしん" pa="0" pos="N" />
 		</r>
-		<r kun="ばける" kk="化ける" pa="2" pos="j1" jlpt="5" ref="変" />
-		<r kun="ばかす" kk="化かす" pa="2" pos="t5" jlpt="5" ref="変" />
+		<r kun="ば`ける" kk="化ける" pa="2" pos="j1" jlpt="5" ref="変" />
+		<r kun="ば`かす" kk="化かす" pa="2" pos="t5" jlpt="5" ref="変" />
 		<r nfu="化わる(かわる)・化える(かえる)"></r>
 	</kanji>
 	
@@ -635,9 +637,9 @@ cau=true		caution				中日异义
 			<ex	 word="加減" pron="かげん" pa="0" pos="N" />
 			<ex	 word="加入" pron="かにゅう" pa="0" pos="N" />
 		</r>
-		<r kun="くわえる" kk="加える" pa="03" pos="t1" jlpt="3" >
+		<r kun="くわ`える" kk="加える" pa="03" pos="t1" jlpt="3" >
 		</r>
-		<r kun="くわわる" kk="加わる" pa="03" pos="j5" jlpt="3" >
+		<r kun="くわ`わる" kk="加わる" pa="03" pos="j5" jlpt="3" >
 		</r>
 	</kanji>
 	
@@ -710,10 +712,9 @@ cau=true		caution				中日异义
 			<ex	 word="成果" pron="せいか" pa="1" pos="N" />
 			<ex	 word="果実" pron="かじつ" pa="1" pos="N" />
 		</r>
-		<r kun="はたす" kk="果たす" pa="2" pos="t5" jlpt="5" />
-		<r kun="はてる" kk="果てる" pa="2" pos="j1" jlpt="5" />
-		<r kun="はて" kk="果て" pa="2" pos="N" jlpt="5" />
-		<r kun="くだ" kk="価" pa="0" pos="N" jlpt="5" />
+		<r kun="は`たす" kk="果たす" pa="2" pos="t5" jlpt="5" />
+		<r kun="は`てる" kk="果てる" pa="2" pos="j1" jlpt="5" />
+		<r kun="は`て" kk="果て" pa="2" pos="N" jlpt="5" />
 	</kanji>
 	
 	<kanji	id="河" freq="502" jlpt="3" gr="5">
@@ -748,10 +749,10 @@ cau=true		caution				中日异义
 		<r on="カ" >
 			<ex	 word="担架" pron="たんか" pa="1" pos="N" />
 		</r>
-		<r kun="かける" kk="架ける" pa="2" pos="N" jlpt="5" >
+		<r kun="か`ける" kk="架ける" pa="2" pos="N" jlpt="5" >
 			<ex	 word="河原" pron="かわら" pa="0" pos="N" />
 		</r>
-		<r kun="かかる" kk="架かる" pa="2" pos="N" jlpt="5" >
+		<r kun="か`かる" kk="架かる" pa="2" pos="N" jlpt="5" >
 			<ex	 word="河原" pron="かわら" pa="0" pos="N" />
 		</r>
 		<r nfu="たな"></r>
@@ -853,13 +854,13 @@ cau=true		caution				中日异义
 			<ex	 word="過失" pron="かしつ" pa="0" pos="N" jlpt="2" />
 			<ex	 word="過程" pron="かてい" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="すぎる" kk="過ぎる" pa="2" pos="j1" jlpt="4" >
+		<r kun="す`ぎる" kk="過ぎる" pa="2" pos="j1" jlpt="4" >
 		</r>
-		<r kun="すごす" kk="過ごす" pa="2" pos="t5" jlpt="3" >
+		<r kun="す`ごす" kk="過ごす" pa="2" pos="t5" jlpt="3" >
 		</r>
-		<r kun="あやまつ" kk="過つ" pa="3" pos="j5" >
+		<r kun="あやま`つ" kk="過つ" pa="3" pos="j5" >
 		</r>
-		<r kun="あやまち" kk="過ち" pa="03" pos="N" jlpt="1" >
+		<r kun="あやま`ち" kk="過ち" pa="03" pos="N" jlpt="1" >
 		</r>
 		<r nfu="とが・過る(よぎる)"></r>
 	</kanji>
@@ -871,7 +872,7 @@ cau=true		caution				中日异义
 		<r kun="よめ" kk="嫁" pa="0" pos="N" jlpt="3" >
 			<ex	 word="花嫁" pron="はなよめ" pa="2" pos="N" jlpt="2" eng="bride" />
 		</r>
-		<r kun="とつぐ" kk="嫁ぐ" pa="2" pos="j5" >
+		<r kun="とつ`ぐ" kk="嫁ぐ" pa="2" pos="j5" >
 		</r>
 	</kanji>
 	
@@ -916,7 +917,7 @@ cau=true		caution				中日异义
 		</r>
 		<r kun="うた" kk="歌" pa="2" pos="N" jlpt="5" >
 		</r>
-		<r kun="うたう" kk="歌う" pa="0" pos="j5" jlpt="5" >
+		<r kun="うた`う" kk="歌う" pa="0" pos="j5" jlpt="5" >
 		</r>
 	</kanji>
 	
@@ -931,7 +932,7 @@ cau=true		caution				中日异义
 		<r on="カ" >
 			<ex	 word="稼働" pron="かどう" pa="0" pos="N/jts" cn="运转;劳动"/>
 		</r>
-		<r kun="かせぐ" kk="稼ぐ" pa="2" pos="t5" jlpt="3" >
+		<r kun="かせ`ぐ" kk="稼ぐ" pa="2" pos="t5" jlpt="3" >
 		</r>
 	</kanji>
 	
@@ -1009,7 +1010,7 @@ cau=true		caution				中日异义
 		</r>
 		<r kun="め" kk="芽" pa="1" pos="N" jlpt="3" >
 			<ex	 word="芽生え" pron="めばえ" pa="0" pos="N" />
-		</>
+		</r>
 	</kanji>
 	
 	<kanji	id="賀" freq="1075" jlpt="1" gr="5" >
@@ -1056,8 +1057,8 @@ cau=true		caution				中日异义
 		<r on="エ" >
 			<ex	 word="回向" pron="えこう" pa="0" pos="N" />
 		</r>
-		<r kun="まわる" kk="回る" pa="2" pos="j5" jlpt="5" />
-		<r kun="まわす" kk="回す" pa="2" pos="t5" jlpt="5" />
+		<r kun="まわ`る" kk="回る" pa="2" pos="j5" jlpt="5" />
+		<r kun="まわ`す" kk="回す" pa="2" pos="t5" jlpt="5" />
 		<r nfu="回らす(めぐらす)"></r>
 	</kanji>
 	
@@ -1098,7 +1099,7 @@ cau=true		caution				中日异义
 			<ex	 word="快適" pron="かいてき" pa="0" pos="N" />
 			<ex	 word="快速" pron="かいそく" pa="0" pos="N" />
 		</r>
-		<r kun="こころよい" kk="快い" pa="4" pos="adj" jlpt="5" />
+		<r kun="こころよ`い" kk="快い" pa="4" pos="adj" jlpt="5" />
 		<r nfu="ケ"></r>
 	</kanji>
 	
@@ -1118,8 +1119,8 @@ cau=true		caution				中日异义
 			<ex	 word="改造" pron="かいぞう" pa="0" pos="N/ts" />
 			<ex	 word="改札" pron="かいさつ" pa="0" pos="N/ts" />
 		</r>
-		<r kun="あらためる" kk="改める" pa="4" pos="t1" jlpt="5" />
-		<r kun="あらたまる" kk="改まる" pa="4" pos="j5" jlpt="5" />
+		<r kun="あらた`める" kk="改める" pa="4" pos="t1" jlpt="5" />
+		<r kun="あらた`まる" kk="改まる" pa="4" pos="j5" jlpt="5" />
 	</kanji>
 	
 	<kanji	id="怪" freq="503" jlpt="1" gr="8">
@@ -1127,8 +1128,8 @@ cau=true		caution				中日异义
 			<ex	 word="怪物" pron="かいぶつ" pa="0" pos="N" />
 			<ex	 word="怪獣" pron="かいじゅう" pa="0" pos="N" />
 		</r>
-		<r kun="あやしい" kk="怪しい" pa="03" pos="adj" jlpt="5" />
-		<r kun="あやしむ" kk="怪しむ" pa="3" pos="adj" jlpt="5" />
+		<r kun="あや`しい" kk="怪しい" pa="03" pos="adj" jlpt="5" />
+		<r kun="あや`しむ" kk="怪しむ" pa="3" pos="adj" jlpt="5" />
 		<r nfu="ケ"></r>
 	</kanji>
 	

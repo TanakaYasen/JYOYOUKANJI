@@ -441,7 +441,7 @@ nfu=			not frequently used		常用外
 			<ex	 word="依存" pron="いぞん" pa="0" jlpt="1" pos="ts" cn="" >
 				<sentence>…に依存する</sentence>
 			</ex>
-			<ex	 word="依拠" pron="いきょ" pa="1" pos="N" >
+			<ex	 word="依拠" pron="いきょ" pa="1" pos="N" />
 		</r>
 		<r on="エ" >
 			<ex	 word="帰依" pron="きえ" pa="1" pos="N" cn="皈依" />
@@ -631,7 +631,7 @@ nfu=			not frequently used		常用外
 		</r>
 		<r nfu="イツ・壱つ(ひとつ)・壱ら(もっぱら)"></r>
 	</kanji>
-	
+
 	<kanji	id="逸" freq="1386" jlpt="1" gr="8">
 		<r on="イツ" >
 			<ex	 word="逸脱" pron="いつだつ" pa="0" pos="N" cn="越出;脱离" />
@@ -670,7 +670,7 @@ nfu=			not frequently used		常用外
 			<ex	 word="印鑑" pron="いんかん" pa="0" pos="N" />
 			<ex	 word="印刷" pron="いんさつ" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="しるし" kk="印" pa="0" pos="N" jlpt="3" ＞
+		<r kun="しるし" kk="印" pa="0" pos="N" jlpt="3" >
 			<ex	 word="目印" pron="めじるし" pa="2" pos="N" jlpt="2" />
 		</r>
 	</kanji>
@@ -681,7 +681,7 @@ nfu=			not frequently used		常用外
 			<ex	 word="因循" pron="いんじゅん" pa="0" pos="adv" />
 			<ex	 word="原因" pron="げんいん" pa="0" pos="N" jlpt="4" eng="cause" />
 		</r>
-		<r kun="よる" kk="因る" pa="0" pos="j5" jlpt="2" ＞
+		<r kun="よる" kk="因る" pa="0" pos="j5" jlpt="2" >
 			<ex	 word="目印" pron="めじるし" pa="0" pos="N" />
 		</r>
 		<r nfu="因む(ちなむ)・ちなみ・よすが"></r>
@@ -723,7 +723,7 @@ nfu=			not frequently used		常用外
 			<ex	 word="淫蕩" pron="いんとう" pa="0" pos="NA" />
 			<ex	 word="淫蕩" pron="いんとう" pa="0" pos="NA" />
 		</r>
-		<r kun="みだら" kk="淫ら" pa="1" pos="NA" ＞
+		<r kun="みだら" kk="淫ら" pa="1" pos="NA" >
 		</r>
 	</kanji>
 	
@@ -781,7 +781,7 @@ nfu=			not frequently used		常用外
 		<r kun="は" kk="羽" pa="0" pos="N" >
 			<ex	 word="羽織" pron="はおり" pa="0" pos="N" />
 			<ex	 word="千羽鶴" pron="せんばづる" pa="4" pos="N" />
-		</>
+		</r>
 		<r kun="はね" kk="羽" pa="0" pos="N" jlpt="3" >
 			<ex	 word="羽田" pron="はねだ" pa="1" pos="N" />
 		</r>
@@ -792,7 +792,7 @@ nfu=			not frequently used		常用外
 			<ex	 word="雨量" pron="うせつ" pa="0" pos="N/js" />
 		</r>
 		<r kun="あめ" kk="雨" pa="1" pos="N" jlpt="5" >
-		</>
+		</r>
 		<r kun="あま～" kk="雨～" pa="1" pos="N" >
 			<ex	 word="雨戸" pron="あまど" pa="2" pos="N" jlpt="2" />
 		</r>

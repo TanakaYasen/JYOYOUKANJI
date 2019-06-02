@@ -381,36 +381,36 @@ cau=true		caution				中日异义
 	
 	<kanji	id="鍛" freq="2023" jlpt="1" gr="8">
 		<r on="タン" >
-			<ex	 word="鍛造" pron="たんぞう" pa="0" jlpt="0" pos="?" />
+			<ex	 word="鍛造" pron="たんぞう" pa="0" pos="ts" jlpt="0" />
 		</r>
 		<r kun="きたえる" kk="鍛える" pa="3" ph="技を鍛える">	</r>
 	</kanji>
 	
 	<kanji	id="団" freq="623" jlpt="2" gr="5">
 		<r on="ダン" >
-			<ex	 word="団子" pron="だんご" pa="0" jlpt="0" pos="?" />
+			<ex	 word="団子" pron="だんご" pa="0" pos="N" jlpt="0" />
 		</r>
 		<r on="トン" >
-			<ex	 word="布団" pron="ふとん" pa="0" jlpt="0" pos="?" />
+			<ex	 word="布団" pron="ふとん" pa="0" pos="N" jlpt="0" />
 		</r>
 	</kanji>
 	
 	<kanji	id="男" freq="101" jlpt="5" gr="1">
 		<r on="ダン" >
-			<ex	 word="男子" pron="だんし" pa="1" jlpt="3" pos="N" />
+			<ex	 word="男子" pron="だんし" pa="1" pos="N" jlpt="3" />
 		</r>
 		<r on="ナン" >
-			<ex	 word="善男善女" pron="ぜんなんぜんにょ" pa="4" jlpt="0" pos="?" />
+			<ex	 word="善男善女" pron="ぜんなんぜんにょ" pa="4" pos="N" jlpt="0" />
 		</r>
 		<r kun="おとこ" kk="男" pa="3" jlpt="5"></r>
 	</kanji>
 	
 	<kanji	id="段" freq="412" jlpt="3" gr="6">
 		<r on="ダン" >
-			<ex	 word="階段" pron="かいだん" pa="0" jlpt="5" pos="N" />
-			<ex	 word="段階" pron="だんかい" pa="0" jlpt="2" pos="N" />
-			<ex	 word="段落" pron="だんらく" pa="0" jlpt="0" pos="?" />
-			<ex	 word="段取り" pron="だんどり" pa="0" jlpt="0" pos="?" />
+			<ex	 word="階段" pron="かいだん" pa="0" pos="N" jlpt="5" />
+			<ex	 word="段階" pron="だんかい" pa="0" pos="N" jlpt="2" />
+			<ex	 word="段落" pron="だんらく" pa="0" pos="N" jlpt="0" />
+			<ex	 word="段取り" pron="だんどり" pa="0" pos="N" jlpt="0" />
 		</r>
 	</kanji>
 	
@@ -426,7 +426,7 @@ cau=true		caution				中日异义
 	
 	<kanji	id="弾" freq="1006" jlpt="1" gr="8">
 		<r on="ダン" >
-			<ex	 word="弾劾" pron="だんがい" pa="0" jlpt="0" pos="?" />
+			<ex	 word="弾劾" pron="だんがい" pa="0" pos="ts" jlpt="0" />
 		</r>
 		<r kun="ひく" kk="弾く" pa="0" pos="t5" ph="pianoを弾く">	</r>
 		<r kun="はずむ" kk="弾む" pa="0" pos="j5"	ph="心が弾む">	</r>
@@ -447,7 +447,7 @@ cau=true		caution				中日异义
 	<kanji	id="談" freq="463" jlpt="3" gr="3">
 		<r on="ダン" >
 			<ex	 word="相談" pron="そうだん" pa="0" pos="N" jlpt="3" />
-			<ex	 word="談話" pron="だんわ" pa="0" pos="?" />
+			<ex	 word="談話" pron="だんわ" pa="0" pos="N" />
 			<ex	 word="談合" pron="だんごう" pa="0" pos="N" />
 		</r>
 	</kanji>
@@ -590,7 +590,7 @@ cau=true		caution				中日异义
 	<kanji	id="築" freq="1173" jlpt="2" gr="5">
 		<r on="チク" >
 			<ex	 word="建築" pron="けんちく" pa="0" pos="N" />
-			<ex	 word="改築" pron="かいちく" pa="0" pos="?" />
+			<ex	 word="改築" pron="かいちく" pa="0" pos="N" />
 		</r>
 		<r kun="きず`く" kk="築く" pa="2" pos="t5" jlpt="1"></r>
 	</kanji>

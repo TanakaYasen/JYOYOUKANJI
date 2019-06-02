@@ -138,6 +138,8 @@ def dump_kanji(doc, kanji):
 		dump_r(doc, r)
 	doc.add_paragraph()
 
+count = 0
+
 def dump_all(xml_name, doc_name):
 	doc = Document()
 	f = open(xml_name, 'rb')
@@ -147,12 +149,30 @@ def dump_all(xml_name, doc_name):
 	tree = ET.ElementTree(file=xml_name)
 	root = tree.getroot()
 	print(root.tag, root.attrib)
-	
+	count = 0
 	for child in root:
+		count = count + 1
 		dump_kanji(doc, child)
 	
 	doc.save(doc_name)
 	
 #dump_all('kanji.xml', "常用漢字.docx")
 
+dump_all('kanji1.xml', "常用漢字1.docx")
+dump_all('kanji2.xml', "常用漢字2.docx")
+dump_all('kanji3.xml', "常用漢字3.docx")
+dump_all('kanji4.xml', "常用漢字4.docx")
+dump_all('kanji5.xml', "常用漢字5.docx")
+dump_all('kanji6.xml', "常用漢字6.docx")
+dump_all('kanji7.xml', "常用漢字7.docx")
+dump_all('kanji8.xml', "常用漢字8.docx")
+dump_all('kanji9.xml', "常用漢字9.docx")
+dump_all('kanji10.xml', "常用漢字10.docx")
+dump_all('kanji11.xml', "常用漢字11.docx")
 dump_all('kanji12.xml', "常用漢字12.docx")
+dump_all('kanji13.xml', "常用漢字13.docx")
+dump_all('kanji14.xml', "常用漢字14.docx")
+dump_all('kanji15.xml', "常用漢字15.docx")
+dump_all('kanji16.xml', "常用漢字16.docx")
+
+print(count)
