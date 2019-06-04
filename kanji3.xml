@@ -660,13 +660,13 @@ nfu=			not frequently used		常用外
 		<r on="ガク" >
 			<ex	 word="下顎" pron="かがく" pa="0" pos="N" />
 		</r>
-		<r kun="あご" kk="顎" pa="1" pos="t5" jlpt="2" />
+		<r kun="あご" kk="顎" pa="1" pos="N" jlpt="2" />
 	</kanji>
 	
 	<kanji	id="掛" freq="411" jlpt="3" gr="8">
-		<r kun="かける" kk="掛ける" pa="1" pos="t5" jlpt="2" />
-		<r kun="かかる" kk="掛かる" pa="1" pos="t5" jlpt="2" />
-		<r kun="かかり" kk="掛かり" pa="1" pos="t5" jlpt="2" />
+		<r kun="か`ける" kk="掛ける" pa="1" pos="t5" jlpt="2" />
+		<r kun="か`かる" kk="掛かる" pa="1" pos="t5" jlpt="2" />
+		<r kun="か`かり" kk="掛かり" pa="1" pos="t5" jlpt="2" />
 	</kanji>
 	
 	<kanji	id="潟" freq="2654" jlpt="1" gr="8">
@@ -726,7 +726,7 @@ nfu=			not frequently used		常用外
 		<r kun="くず" kk="葛" pa="1" pos="N" >
 			<ex	 word="葛湯" pron="くずゆ" pa="0" pos="N" />
 		</r>
-		<r sp="つづら" kk="葛籠" >
+		<r sp="つづら" word="葛籠" >
 		</r>
 		<r nfu="カ・かずら"></r>
 	</kanji>
@@ -1085,25 +1085,76 @@ nfu=			not frequently used		常用外
 		<r nfu="かんぬき・からくり"></r>
 	</kanji>
 	
-	<kanji	id="歓" freq="1508" jlpt="1" gr="8">
+	<kanji	id="歓" freq="1508" jlpt="3" gr="4">
+		<r on="カン" >
+			<ex	 word="観賞" pron="かんしょう" pa="0" pos="N" eng="viewing" />
+			<ex	 word="観衆" pron="かんしゅう" pa="0" pos="N" jlpt="1" eng="audience" />
+			<ex	 word="観測" pron="かんそく" pa="0" pos="N" jlpt="2" eng="observation" />
+			<ex	 word="観点" pron="かんてん" pa="31" pos="N" jlpt="1" eng="point of view" />
+			<ex	 word="観光" pron="かんこう" pa="0" pos="N" jlpt="3" eng="sightseeing" />
+		</r>
+		<r nfu="観る(みる)"></r>
 	</kanji>
 	
 	<kanji	id="監" freq="1256" jlpt="1" gr="8">
+		<r on="カン" >
+			<ex	 word="監視" pron="かんし" pa="0" pos="N/ts" jlpt="1" eng="monitoring" />
+			<ex	 word="監督" pron="かんとく" pa="0" pos="N/ts" jlpt="3" eng="supervision" />
+			<ex	 word="監査" pron="かんさ" pa="1" pos="N" jlpt="3" eng="supervision" />
+			<ex	 word="総監" pron="そうかん" pa="0" pos="N" />
+			<ex	 word="監獄" pron="かんごく" pa="0" pos="N" eng="prison" />
+		</r>
+		<r nfu="ケン・監る(かんがみる)・監る(みる)・監べる(しらべる)"></r>
 	</kanji>
 	
 	<kanji	id="緩" freq="1963" jlpt="1" gr="8">
+		<r on="カン" >
+			<ex	 word="緩和" pron="かんわ" pa="0" pos="N/jts" jlpt="1" eng="relief" />
+			<ex	 word="緩急" pron="かんきゅう" pa="0" pos="N" eng="pace" />
+			<ex	 word="緩慢" pron="かんまん" pa="0" pos="NA" eng="slow" />
+		</r>
+		<r kun="ゆる`い" kk="緩い" pa="2" pos="adj" jlpt="2" eng="loose;gentle;slow" />
+		<r kun="ゆる`む" kk="緩む" pa="2" pos="j5" eng="to become loose" />
+		<r kun="ゆる`める" kk="緩める" pa="3" pos="t1" jlpt="1" eng="to loosen" />
+		<r kun="ゆる`やか" kk="緩やか" pa="2" pos="NA" jlpt="1" eng="loose" />
+		<r nfu="緩い(ぬるい)"></r>
 	</kanji>
 	
 	<kanji	id="憾" freq="2207" jlpt="1" gr="8">
+		<r on="カン" >
+			<ex	 word="遺憾" pron="いかん" pa="0" pos="N/jts" jlpt="1" eng="regrettable" />
+		</r>
+		<r nfu="憾む≒恨む(うらむ)"></r>
 	</kanji>
 	
 	<kanji	id="還" freq="1657" jlpt="1" gr="8">
+		<r on="カン" >
+			<ex	 word="返還" pron="へんかん" pa="0" pos="N/ts" jlpt="1" eng="return" />
+			<ex	 word="還元" pron="かんげん" pa="0" pos="N/jts" jlpt="1" eng="restoration" />
+			<ex	 word="帰還" pron="きかん" pa="0" pos="N/js" eng="return" />
+			<ex	 word="償還" pron="しょうかん" pa="0" pos="N/ts" eng="repayment" />
+		</r>
+		<r nfu="ゲン・還す(かえす)・還る(かえる)・また"></r>
 	</kanji>
 	
-	<kanji	id="館" freq="430" jlpt="1" gr="8">
+	<kanji	id="館" freq="430" jlpt="4" gr="3">
+		<r on="カン" >
+			<ex	 word="美術館" pron="びじゅつかん" pa="2" pos="N" jlpt="4" eng="gallery" />
+			<ex	 word="図書館" pron="としょかん" pa="2" pos="N" jlpt="5" eng="library" />
+			<ex	 word="館内" pron="かんない" pa="0" pos="N" />
+		</r>
+		<r kun="やかた" kk="館" pa="0" pos="N" jlpt="1" ref="屋形" >
+			<ex	 word="お館様" pron="おやかたさｍ" pa="2" pos="N" />
+		</>
+		<r nfu="たて・たち"></r>
 	</kanji>
 	
 	<kanji	id="環" freq="1526" jlpt="1" gr="8">
+		<r on="カン" >
+			<ex	 word="環境" pron="かんきょう" pa="0" pos="N" jlpt="3" eng="environment" />
+			<ex	 word="循環" pron="じゅんかん" pa="0" pos="N/js" jlpt="2" eng="circulation" />
+		</r>
+		<r nfu="わ・たまき・環る(めぐる)"></r>
 	</kanji>
 	
 </Dict>
