@@ -819,19 +819,5 @@ cau=true		caution				中日异义
 		<r kun="あやつ`る" kk="操る" pa="3" jlpt="1" pos="N" />
 	</kanji>
 	
-	<kanji	id="字" freq="205" jlpt="2" gr="4">
-		<r on="ジ" >
-			<ex	 word="漢字" pron="かんじ" pa="1" jlpt="5" pos="N" cn="漢字" />
-			<ex	 word="文字" pron="もじ" 	pa="1"	cn="文字/文章" />
-			<ex	 word="赤字" pron="あかじ"  pa="0" cn="入不敷出，亏空，赤字">
-				<sentence> 今月は赤字になった。</sentence>
-			</ex>
-		</r>
-		<r kun="あざ" kk="字" >
-		</r>
-		<r kun="はぐくむ" kk="字む" jy="false">
-		</r>
-	</kanji>
-	
 </Dict>
 
