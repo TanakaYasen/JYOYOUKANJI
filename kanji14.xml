@@ -245,12 +245,6 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
-	<kanji	id="披" freq="2404" jlpt="1" gr="8">
-		<r on="ヒ" >
-			<ex	 word="披露宴" pron="ひろうえん" pa="2" pos="N" />
-		</r>
-	</kanji>
-	
 	<kanji	id="彼" freq="20" jlpt="3" gr="8">
 		<r on="ヒ" >
 			<ex	 word="彼岸" pron="ひがん" pa="0" pos="N" />
@@ -262,6 +256,12 @@ cau=true		caution				中日异义
 		</r>
 		<r kun="かの" kk="彼の" pa="1" pos="N" jlpt="5">
 			<ex	 word="彼女" pron="かのじょ" pa="1" pos="N" jlpt="4" />
+		</r>
+	</kanji>
+	
+	<kanji	id="披" freq="2404" jlpt="1" gr="8">
+		<r on="ヒ" >
+			<ex	 word="披露宴" pron="ひろうえん" pa="2" pos="N" />
 		</r>
 	</kanji>
 	
@@ -289,29 +289,6 @@ cau=true		caution				中日异义
 			<ex	 word="非常" pron="ひじょう" pa="0" pos="N/NA" jlpt="3" />
 			<ex	 word="是非" pron="ぜひ" pa="1" pos="adv" jlpt="3" eng="certainly"/>
 			<ex	 word="非難" pron="ひなん" pa="1" pos="N/ts" jlpt="1" />
-		</r>
-	</kanji>
-	
-	<kanji	id="秘" freq="813" jlpt="1" gr="6">
-		<r on="ヒ" >
-			<ex	 word="秘密" pron="ひみつ" pa="0" pos="N" jlpt="3" />
-			<ex	 word="秘書" pron="ひじょ" pa="1" pos="N/ts" jlpt="1" />
-			<ex	 word="神秘" pron="しんぴ" pa="1" pos="N" jlpt="1" />
-			<ex	 word="秘訣" pron="ひけつ" pa="0" pos="N" />
-			<ex	 word="極秘" pron="ごくひ" pa="10" pos="N" eng="absolute secrecy"/>
-		</r>
-		<r kun="ひめる" kk="秘める" pa="2" pos="t1" >
-			<sentence>真相は長いこと秘められていた・可能性を秘めている</sentence>
-		</r>
-	</kanji>
-	
-	<kanji	id="被" freq="975" jlpt="2" gr="8">
-		<r on="ヒ" >
-			<ex	 word="被害" pron="ひがい" pa="1" pos="N" jlpt="3" />
-			<ex	 word="法被" pron="はっぴ" pa="0" pos="N" />
-		</r>
-		<r kun="こうむる" kk="被る" pa="3" pos="t5" ref="蒙る">
-			<sentence>恩恵を被る・皆様のお陰を被りまして</sentence>
 		</r>
 	</kanji>
 	
@@ -350,6 +327,29 @@ cau=true		caution				中日异义
 		<r kun="つかれる" kk="疲れる" pa="3" pos="j1" jlpt="5" >
 		</r>
 		<r kun="つからす" kk="疲らす" pa="0" pos="t5" >
+		</r>
+	</kanji>
+	
+	<kanji	id="秘" freq="813" jlpt="1" gr="6">
+		<r on="ヒ" >
+			<ex	 word="秘密" pron="ひみつ" pa="0" pos="N" jlpt="3" />
+			<ex	 word="秘書" pron="ひじょ" pa="1" pos="N/ts" jlpt="1" />
+			<ex	 word="神秘" pron="しんぴ" pa="1" pos="N" jlpt="1" />
+			<ex	 word="秘訣" pron="ひけつ" pa="0" pos="N" />
+			<ex	 word="極秘" pron="ごくひ" pa="10" pos="N" eng="absolute secrecy"/>
+		</r>
+		<r kun="ひめる" kk="秘める" pa="2" pos="t1" >
+			<sentence>真相は長いこと秘められていた・可能性を秘めている</sentence>
+		</r>
+	</kanji>
+	
+	<kanji	id="被" freq="975" jlpt="2" gr="8">
+		<r on="ヒ" >
+			<ex	 word="被害" pron="ひがい" pa="1" pos="N" jlpt="3" />
+			<ex	 word="法被" pron="はっぴ" pa="0" pos="N" />
+		</r>
+		<r kun="こうむる" kk="被る" pa="3" pos="t5" ref="蒙る">
+			<sentence>恩恵を被る・皆様のお陰を被りまして</sentence>
 		</r>
 	</kanji>
 	
@@ -1084,6 +1084,14 @@ cau=true		caution				中日异义
 		<r kun="おなか" kk="お腹" pa="0" pos="N" jlpt="5" ></r>
 	</kanji>
 	
+	<kanji	id="複" freq="1500" jlpt="2" gr="5">
+		<r on="フク" >
+			<ex	 word="重複" pron="ちょうふく" pa="0" pos="N/js" jlpt="1" />
+			<ex	 word="複雑" pron="ふくざつ" pa="0" pos="N/NA" jlpt="4" />
+		</r>
+		<r nfu="複ねる(かさねる)">
+	</kanji>
+	
 	<kanji	id="覆" freq="1602" jlpt="1" gr="8">
 		<r on="フク" >
 			<ex	 word="覆面" pron="ふくめん" pa="0" pos="N" jlpt="1" />
@@ -1097,6 +1105,19 @@ cau=true		caution				中日异义
 		</r>
 		<r kun="くつがえる" kk="覆る" pa="3" pos="j1" >
 			<sentence>天地が覆るような大騒ぎ</sentence>
+		</r>
+	</kanji>
+	
+	<kanji	id="払" freq="801" jlpt="3" gr="8">
+		<r on="フツ" >
+			<ex	 word="払拭" pron="ふっしょく" pa="0" pos="N/ts" />
+		</r>
+		<r kun="はらう" kk="払う" pa="2" pos="N" jlpt="4" ref="祓う">
+			<ex	 word="支払い" pron="しはらい" pa="0" pos="N" jlpt="3" eng="payment"/>
+			<ex	 word="支払う" pron="しはらう" pa="0" pos="t5" jlpt="3" eng="to pay" />
+			<ex	 word="払い込む" pron="はらいこむ" pa="04" pos="t5" jlpt="2" cn="转账" eng="to deposit" />
+			<ex	 word="払い戻す" pron="はらいもどす" pa="05" pos="t5" jlpt="2" cn="退还/还款" />
+			<sentence>埃を払う・下草を払う・代金を払う</sentence>
 		</r>
 	</kanji>
 	

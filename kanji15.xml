@@ -264,19 +264,6 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
-	<kanji	id="払" freq="801" jlpt="3" gr="8">
-		<r on="フツ" >
-			<ex	 word="払拭" pron="ふっしょく" pa="0" pos="N/ts" />
-		</r>
-		<r kun="はらう" kk="払う" pa="2" pos="N" jlpt="4" ref="祓う">
-			<ex	 word="支払い" pron="しはらい" pa="0" pos="N" jlpt="3" eng="payment"/>
-			<ex	 word="支払う" pron="しはらう" pa="0" pos="t5" jlpt="3" eng="to pay" />
-			<ex	 word="払い込む" pron="はらいこむ" pa="04" pos="t5" jlpt="2" cn="转账" eng="to deposit" />
-			<ex	 word="払い戻す" pron="はらいもどす" pa="05" pos="t5" jlpt="2" cn="退还/还款" />
-			<sentence>埃を払う・下草を払う・代金を払う</sentence>
-		</r>
-	</kanji>
-	
 	<kanji	id="粉" freq="1269" jlpt="2" gr="4">
 		<r on="フン" >
 			<ex	 word="粉末" pron="ふんまつ" pa="0" pos="N" jlpt="1" />
@@ -290,17 +277,6 @@ cau=true		caution				中日异义
 		<r kun="こな" kk="粉" pa="2" pos="N" jlpt="3" >
 			<ex	 word="粉雪" pron="こなゆき" pa="2" pos="N" />
 			<ex	 word="粉々" pron="こなごな" pa="0" pos="NA" jlpt="1" />
-		</r>
-	</kanji>
-	
-	<kanji	id="噴" freq="1803" jlpt="1" gr="8">
-		<r on="フン" >
-			<ex	 word="噴火" pron="ふんか" pa="0" pos="N" jlpt="2" />
-			<ex	 word="噴出" pron="ふんしゅつ" pa="0" pos="N" jlpt="1" />
-			<ex	 word="噴水" pron="ふんすい" pa="0" pos="N" jlpt="2" />
-		</r>
-		<r kun="ふく" kk="噴く" pa="1" pos="N" jlpt="5" >
-			<ex	 word="噴き出す" pron="ふきだす" pa="3" pos="j5" />
 		</r>
 	</kanji>
 	
@@ -323,6 +299,17 @@ cau=true		caution				中日异义
 	<kanji	id="雰" freq="2214" jlpt="1" gr="8">
 		<r on="フン" >
 			<ex	 word="雰囲気" pron="ふんいき" pa="3" pos="N" jlpt="3" />
+		</r>
+	</kanji>
+	
+	<kanji	id="噴" freq="1803" jlpt="1" gr="8">
+		<r on="フン" >
+			<ex	 word="噴火" pron="ふんか" pa="0" pos="N" jlpt="2" />
+			<ex	 word="噴出" pron="ふんしゅつ" pa="0" pos="N" jlpt="1" />
+			<ex	 word="噴水" pron="ふんすい" pa="0" pos="N" jlpt="2" />
+		</r>
+		<r kun="ふく" kk="噴く" pa="1" pos="N" jlpt="5" >
+			<ex	 word="噴き出す" pron="ふきだす" pa="3" pos="j5" />
 		</r>
 	</kanji>
 	
@@ -464,22 +451,6 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
-	<kanji	id="柄" freq="817" jlpt="1" gr="8">
-		<r on="ヘイ" >
-			<ex	 word="横柄" pron="おうへい" pa="1" pos="NA" cn="傲慢无礼的" />
-		</r>
-		<r kun="がら" kk="柄" pa="0" pos="N" jlpt="3" >
-			<ex	 word="人柄" pron="ひとがら" pa="0" pos="N" jlpt="1" cn="人品"/>
-			<ex	 word="小柄" pron="こがら" pa="0" pos="NA" jlpt="1" cn="小个子的"/>
-			<ex	 word="日柄" pron="ひがら" pa="0" pos="N" cn="日子的吉凶"/>
-			<ex	 word="手柄" pron="てがら" pa="3" pos="N" cn="功劳;勋绩"/>
-			<ex	 word="身柄" pron="みがら" pa="0" pos="N" cn="身份"/>
-		</r>
-		<r kun="え" kk="柄" pa="0" pos="N" jlpt="3" >
-			<ex	 word="傘の柄" pron="かさのえ" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
 	<kanji	id="並" freq="547" jlpt="2" gr="6">
 		<r on="ヘイ" >
 			<ex	 word="並列" pron="へいれつ" pa="0" pos="N" jlpt="1" />
@@ -494,6 +465,22 @@ cau=true		caution				中日异义
 		<r kun="ならぶ" kk="並ぶ" pa="0" pos="j5" jlpt="3" >
 		</r>
 		<r kun="ならびに" kk="並びに" pa="0" pos="adv" jlpt="3" >
+		</r>
+	</kanji>
+	
+	<kanji	id="柄" freq="817" jlpt="1" gr="8">
+		<r on="ヘイ" >
+			<ex	 word="横柄" pron="おうへい" pa="1" pos="NA" cn="傲慢无礼的" />
+		</r>
+		<r kun="がら" kk="柄" pa="0" pos="N" jlpt="3" >
+			<ex	 word="人柄" pron="ひとがら" pa="0" pos="N" jlpt="1" cn="人品"/>
+			<ex	 word="小柄" pron="こがら" pa="0" pos="NA" jlpt="1" cn="小个子的"/>
+			<ex	 word="日柄" pron="ひがら" pa="0" pos="N" cn="日子的吉凶"/>
+			<ex	 word="手柄" pron="てがら" pa="3" pos="N" cn="功劳;勋绩"/>
+			<ex	 word="身柄" pron="みがら" pa="0" pos="N" cn="身份"/>
+		</r>
+		<r kun="え" kk="柄" pa="0" pos="N" jlpt="3" >
+			<ex	 word="傘の柄" pron="かさのえ" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
