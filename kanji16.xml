@@ -810,5 +810,188 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
+	<kanji	id="銘" freq="1851" jlpt="1" gr="8">
+		<r on="メイ" >
+			<ex	 word="銘柄" pron="めいがら" pa="0" pos="N" eng="grand" />
+			<ex	 word="感銘" pron="かんめい" pa="0" pos="N/js" eng="deep impression" />
+			<ex	 word="座右の銘" pron="ざゆうのめい" pa="0" pos="N" />
+		</r>
+	</kanji>
+	
+	<kanji	id="鳴" freq="468" jlpt="3" gr="2">
+		<r on="メイ" >
+			<ex	 word="共鳴" pron="きょうめい" pa="0" pos="N/js" jlpt="1" />
+			<ex	 word="悲鳴" pron="ひめい" pa="0" pos="N/js" jlpt="1" />
+		</r>
+		<r kun="なく" kk="鳴く" pa="0" pos="j5" jlpt="5" cn="啼，鸣叫(鸟虫等)">
+		</r>
+		<r kun="なる" kk="鳴る" pa="0" pos="j5" jlpt="4" cn="鸣;响（雷声机器汽笛等）">
+		</r>
+		<r kun="ならす" kk="鳴らす" pa="0" pos="t5" jlpt="2" cn="鸣（鸣钟鸣铃）">
+		</r>
+	</kanji>
+	
+	<kanji	id="明" freq="72" jlpt="4" gr="2">
+		<r on="メイ" >
+			<ex	 word="明記" pron="めいき" pa="0" pos="N" jlpt="3" />
+			<ex	 word="明暗" pron="めいあん" pa="0" pos="N" jlpt="3" />
+			<ex	 word="説明" pron="せつめい" pa="0" pos="N" jlpt="4" />
+			<ex	 word="声明" pron="せいめい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="不明" pron="ふめい" pa="0" pos="NA" jlpt="1" />
+			<ex	 word="明確" pron="めいかく" pa="0" pos="NA" jlpt="3" />
+		</r>
+		<r on="ミョウ" >
+			<ex	 word="光明" pron="こうみょう" pa="0" pos="N" />
+			<ex	 word="明日" pron="みょうにち" pa="0" pos="N" jlpt="5" />
+		</r>
+		<r kun="あかり" kk="明り" pa="0" pos="j5" jlpt="3" eng="light" >
+			<ex	 word="薄明り" pron="うすあかり" pa="0" pos="N" />
+			<ex	 word="月明り" pron="つきあかり" pa="0" pos="N" />
+		</r>
+		<r kun="あかるい" kk="明るい" pa="0" pos="adj" jlpt="5" cn="明亮的; 清楚明了">
+		</r>
+		<r kun="あかるむ" kk="明るむ" pa="3" pos="j5" >
+		</r>
+		<r kun="あからむ" kk="明らむ" pa="3" pos="j5" jpn="≒明るむ">
+		</r>
+		<r kun="あきらか" kk="明らか" pa="2" pos="NA" jlpt="3" >
+		</r>
+		<r kun="あける" kk="明ける" pa="0" pos="j1" jlpt="3" cn="某种状态结束开始新状态">
+		</r>
+		<r kun="あく" kk="明く" pa="0" pos="j1" jlpt="3" ref="開く">
+		</r>
+		<r kun="あくる" kk="明くる" pa="0" pos="j1" jlpt="3" >
+		</r>
+		<r kun="あかす" kk="明かす" pa="0" pos="t5" jlpt="3" cn="解谜揭秘" >
+		</r>
+		<r sp="あす" word="明日" pa="0" pos="N" jlpt="5" />
+		<r sp="あさって" word="明後日" pa="0" pos="N" jlpt="5" />
+	</kanji>
+	
+	<kanji	id="滅" freq="910" jlpt="1" gr="8">
+		<r on="メツ" >
+			<ex	 word="滅亡" pron="めつぼう" pa="0" pos="N" jlpt="1" eng="downfall" />
+			<ex	 word="絶滅" pron="ぜつめつ" pa="0" pos="N" jlpt="3" />
+			<ex	 word="消滅" pron="しょうめつ" pa="0" pos="N" />
+		</r>
+		<r kun="ほろびる" kk="滅びる" pa="0" pos="j1" jlpt="1" >
+		</r>
+		<r kun="ほろぼす" kk="滅ぼす" pa="3" pos="t5" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="面" freq="90" jlpt="3" gr="3">
+		<r on="メン" >
+			<ex	 word="面子" pron="めんつ" pa="1" pos="N" />
+			<ex	 word="面会" pron="めんかい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="面目" pron="めんもく" pa="0" pos="N" jlpt="1" />
+			<ex	 word="面倒" pron="めんどう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="面積" pron="めんせき" pa="0" pos="N" jlpt="2" />
+			<ex	 word="面接" pron="めんせつ" pa="0" pos="N" jlpt="2" />
+		</r>
+		<r kun="おも" kk="面" pa="1" pos="N" jlpt="3" >
+			<ex	 word="面影" pron="おもかげ" pa="0" pos="N" />
+			<ex	 word="面長" pron="おもなが" pa="0" pos="N" />
+		</r>
+		<r kun="おもて" kk="面" pa="3" pos="N" jlpt="1" ref="表">
+			<ex	 word="裏表" pron="うらおもて" pa="0" pos="N" jlpt="3" />
+		</r>
+		<r kun="つら" kk="面" pa="2" pos="N" jlpt="3" >
+		</r>
+		<r sp="まじめ" word="真面目" pa="0" pos="N" cn="认真努力" />
+	</kanji>
+	
+	<kanji	id="免" freq="1185" jlpt="1" gr="8">
+		<r on="メン" >
+			<ex	 word="免許" pron="めんきょ" pa="1" pos="N" jlpt="3" eng="license" />
+			<ex	 word="免除" pron="めんじょ" pa="1" pos="N" jlpt="1" />
+			<ex	 word="赦免" pron="しゃめん" pa="0" pos="N" />
+			<ex	 word="免疫" pron="めんえき" pa="0" pos="N" eng="immunity" />
+			<ex	 word="免税" pron="めんぜい" pa="0" pos="N" jlpt="2" eng="tax-free" />
+		</r>
+		<r kun="まぬかれる" kk="免れる" pa="4" pos="t1" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="猛" freq="1411" jlpt="1" gr="8">
+		<r on="モウ" >
+			<ex	 word="猛烈" pron="もうれつ" pa="0" pos="N" jlpt="1" />
+			<ex	 word="猛暑" pron="もうしょ" pa="1" pos="N" />
+			<ex	 word="猛獣" pron="もうじゅう" pa="0" pos="N" />
+		</r>
+		<r sp="もさ" word="猛者" pa="1" pos="N" />
+	</kanji>
+	
+	<kanji	id="綿" freq="1528" jlpt="2" gr="5">
+		<r on="メン" >
+			<ex	 word="綿密" pron="めんみつ" pa="0" pos="NA" />
+			<ex	 word="綿布" pron="めんぷ" pa="1" pos="N" />
+			<ex	 word="木綿" pron="もめん" pa="1" pos="N" jlpt="4" />
+		</r>
+		<r kun="わた" kk="綿" pa="2" pos="N" jlpt="3" >
+			<ex	 word="綿菓子" pron="わたがし" pa="0" pos="N" cn="棉花糖" />
+		</r>
+	</kanji>
+	
+	<kanji	id="茂" freq="1240" jlpt="1" gr="8">
+		<r on="モ" >
+			<ex	 word="繁茂" pron="はんも" pa="1" pos="NA" />
+		</r>
+		<r kun="しげる" kk="茂る" pa="2" pos="*j5" jlpt="2" >
+			<ex	 word="茂み" pron="しげみ" pa="0" pos="N" />
+		</r>
+	</kanji>
+	
+	<kanji	id="模" freq="1046" jlpt="1" gr="6">
+		<r on="モ" >
+			<ex	 word="模擬" pron="もぎ" pa="1" pos="N" />
+			<ex	 word="模型" pron="もけい" pa="0" pos="N" jlpt="1" eng="model" />
+			<ex	 word="模倣" pron="もほう" pa="0" pos="N" jlpt="1" eng="imitation" />
+		</r>
+		<r on="ボ" >
+			<ex	 word="規模" pron="きぼ" pa="1" pos="N" jlpt="1" eng="scale" />
+		</r>
+	</kanji>
+	
+	<kanji	id="毛" freq="607" jlpt="2" gr="2">
+		<r on="モウ" >
+			<ex	 word="毛髪" pron="もうはつ" pa="1" pos="N" />
+			<ex	 word="毛細管" pron="もうさいかん" pa="0" pos="N" />
+		</r>
+		<r kun="け" kk="毛" pa="0" pos="N" jlpt="4" >
+			<ex	 word="毛虫" pron="けむし" pa="3" pos="N" />
+			<ex	 word="毛糸" pron="けいと" pa="0" pos="N" />
+		</r>
+	</kanji>
+	
+	<kanji	id="妄" freq="2128" jlpt="1" gr="8">
+		<r on="モウ" >
+			<ex	 word="妄想" pron="もうそう" pa="0" pos="N" />
+			<ex	 word="迷妄" pron="めいもう" pa="0" pos="N" />
+		</r>
+		<r on="ボウ" >
+			<ex	 word="妄言" pron="ぼうげん" pa="0" pos="N" />
+		</r>
+	</kanji>
+	
+	<kanji	id="盲" freq="1631" jlpt="1" gr="8">
+		<r on="モウ" >
+			<ex	 word="色盲" pron="しきもう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="盲点" pron="もうてん" pa="1" pos="N" jlpt="1" />
+			<ex	 word="盲従" pron="もうじゅう" pa="0" pos="N" />
+			<ex	 word="文盲" pron="もんもう" pa="0" pos="N" />
+		</r>
+	</kanji>
+	
+	<kanji	id="耗" freq="3344" jlpt="1" gr="8">
+		<r on="モウ" >
+			<ex	 word="消耗" pron="しょうもう" pa="0" pos="N" jlpt="2" />
+			<ex	 word="摩耗" pron="まもう" pa="0" pos="N" />
+		</r>
+		<r on="コウ" >
+			<ex	 word="心神耗弱" pron="しんしんこうじゃく" pa="0" pos="N" />
+		</r>
+	</kanji>
+	
 </Dict>
 

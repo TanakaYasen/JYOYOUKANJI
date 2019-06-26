@@ -514,6 +514,17 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
+	<kanji	id="狙" freq="2027" gr="8">
+		<r on="ソ" >
+			<ex	 word="狙撃" pron="そげき" pa="0" pos="N/ts"/>
+		</r>
+		<r kun="ねらう" kk="狙う" pa="0" pos="t5" jlpt="2" >
+			<ex	 word="狙い" pron="ねらい" pa="0" pos="N" jlpt="2" />
+		</>
+		<r nfu="ショ・さる">
+		</r>
+	</kanji>
+	
 	<kanji	id="阻" freq="2883" jlpt="1" gr="8">
 		<r on="ソ" >
 			<ex	 word="阻害" pron="そがい" pa="0" jlpt="5" pos="N"/>
@@ -528,7 +539,6 @@ cau=true		caution				中日异义
 			<ex	 word="素質" pron="すしつ" pa="0" jlpt="5" pos="N"/>
 		</r>
 		<r on="ス" >
-			<ex	 word="素手" pron="すで" pa="2" jlpt="5" pos="N"/>
 			<ex	 word="素手" pron="すで" pa="2" jlpt="5" pos="N"/>
 			<ex	 word="素顔" pron="すがお" pa="1" jlpt="5" pos="N"/>
 		</r>
