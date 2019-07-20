@@ -236,995 +236,754 @@ cau=true		caution				中日异义
 -->
 
 <Dict>
-	
-	<kanji	id="傍" freq="541" jlpt="1" gr="8">
-		<r on="ボウ" >
-			<ex	 word="傍聴" pron="ぼうちょう" pa="0" pos="N/js" />
+	<kanji	id="頂" freq="857" jlpt="3" gr="6">
+		<r on="チョウ" >
+			<ex	 word="頂上" pron="ちょうじょう" pa="0" pos="N" jlpt="3"/>
+			<ex	 word="頂点" pron="ちょうてん" pa="1" pos="N" jlpt="2"/>
 		</r>
-		<r kun="かたわ`ら" kk="傍ら" pa="0" pos="N" jlpt="1"> 
+		<r kun="いただく" kk="頂く" pa="0" pos="t5" jlpt="3"></r>
+		<r kun="いただき" kk="頂" pa="0" pos="N" jlpt="1"></r>
+	</kanji>
+	
+	<kanji	id="帳" freq="1093" jlpt="1" gr="3">
+		<r on="チョウ" >
+			<ex	 word="通帳" pron="つうちょう" pa="0" pos="N" jlpt="0" cn="存折"/>
+			<ex	 word="帳消し" pron="ちょうけし" pa="0" pos="N" jlpt="0" cn="一笔勾销"/>
+		</r>
+		<r kun="とばり" kk="帳" pa="?" pos="?" jlpt="?">
 		</r>
 	</kanji>
 	
-	<kanji	id="帽" freq="1089" jlpt="2" gr="8">
-		<r on="ボウ" >
-			<ex	 word="帽子" pron="ぼうし" pa="0" pos="N" jlpt="5" />
-			<ex	 word="脱帽" pron="だつぼう" pa="0" pos="N/js" />
+	<kanji	id="釣" freq="1151" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="釣魚" pron="ちょうぎょ" pa="1" pos="N" jlpt="0"/>
+		</r>
+		<r kun="つる" kk="釣る" pa="0" pos="t5" jlpt="4" ph="魚を釣る">
+			<ex	 word="釣り合う" pron="つりあう" pa="3" pos="j5" jlpt="2" cn="(收支)平衡，均衡；相称相配"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="暴" freq="940" jlpt="2" gr="5">
-		<r on="ボウ" >
-			<ex	 word="乱暴" pron="らんぼう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="暴力" pron="ぼうりょく" pa="1" pos="N" jlpt="1" eng="violence"/>
-			<ex	 word="暴言" pron="ぼうげん" pa="0" pos="N" jlpt="3" />
-			<ex	 word="暴動" pron="ぼうどう" pa="0" pos="N" jlpt="1" />
-			<ex	 word="暴行" pron="ぼうこう" pa="0" pos="N" />
+	<kanji	id="眺" freq="637" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="眺望" pron="ちょうぼう" pa="0" pos="N/ts" />
 		</r>
-		<r kun="あば`く" kk="暴く" pa="2" pos="t5" cn="揭露;掘开" ph="嘘を暴く"> 
+		<r kun="ながめる" kk="眺める" pa="3" pos="t1" jlpt="3"></r>
+	</kanji>
+	
+	<kanji	id="彫" freq="1486" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="彫刻" pron="ちょうこく" pa="0" pos="N/jts" jlpt="2"/>
+			<ex	 word="木彫" pron="もくちょう" pa="0" pos="N" />
 		</r>
-		<r kun="あば`れる" kk="暴れる" pa="0" pos="j1" jlpt="2" cn="发脾气"> 
+		<r kun="ほる" kk="彫る" pa="1" pos="t1" jlpt="2"></r>
+	</kanji>
+	
+	<kanji	id="張" freq="270" jlpt="1" gr="5">
+		<r on="チョウ" >
+			<ex	 word="主張" pron="しゅちょう" pa="1" pos="N" jlpt="3"/>
+			<ex	 word="出張" pron="しゅっちょう" pa="1" pos="N" jlpt="3"/>
+			<ex	 word="張力" pron="ちょうりょく" pa="1" pos="N" jlpt="0"/>
+		</r>
+		<r kun="はる" kk="張る・貼る" pa="0" pos="jt5" jlpt="5" ph="池に氷が張る"></r>
+	</kanji>
+	
+	<kanji	id="挑" freq="2431" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="挑戦" pron="ちょうせん" pa="0" pos="js" jlpt="1"/>
+			<ex	 word="挑発" pron="ちょうはつ" pa="0" pos="N/ts" cn="挑衅"/>
+		</r>
+		<r kun="いどむ" kk="挑む" pa="2" pos="jt5" jlpt="1" ph="強敵に挑む"></r>
+	</kanji>
+	
+	<kanji	id="長" freq="78" jlpt="5" gr="2">
+		<r on="チョウ" >
+			<ex	 word="長期" pron="ちょうき" pa="1" pos="N" jlpt="3"/>
+			<ex	 word="長男" pron="ちょうなん" pa="13" pos="N" jlpt="2"/>
+			<ex	 word="長女" pron="ちょうじょ" pa="1" pos="N" jlpt="2"/>
+			<ex	 word="町長" pron="ちょうちょう" pa="1" pos="N" />
+			<ex	 word="長官" pron="ちょうかん" pa="0" pos="N" jlpt="1"/>
+		</r>
+		<r kun="ながい" kk="長い" pa="2" pos="adj" jlpt="5"></r>
+	</kanji>
+	
+	<kanji	id="町" freq="243" jlpt="4" gr="1">
+		<r on="チョウ" >
+		</r>
+		<r kun="まち" kk="町" pa="2" pos="N" jlpt="5"></r>
+	</kanji>
+	
+	<kanji	id="兆" freq="2448" jlpt="2" gr="4">
+		<r on="チョウ" >
+			<ex	 word="兆候" pron="ちょうこう" pa="0" pos="N" jlpt="0"/>
+			<ex	 word="前兆" pron="ぜんちょう" pa="0" pos="N" jlpt="0"/>
+		</r>
+		<r kun="きざす" kk="兆す" pa="0" pos="j5" ph="疑心が兆す" ph2="成功の兆しが見える"></r>
+	</kanji>
+	
+	<kanji	id="庁" freq="1989" jlpt="2" gr="6">
+		<r on="チョウ" >
+			<ex	 word="警視庁" pron="けいしちょう" pa="3" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="棒" freq="962" jlpt="2" gr="6">
-		<r on="ボウ" >
-			<ex	 word="泥棒" pron="どろぼう" pa="0" pos="N" jlpt="4" />
-			<ex	 word="金棒" pron="かなぼう" pa="0" pos="N" jlpt="1" />
-			<ex	 word="相棒" pron="あいぼう" pa="0" pos="N" />
+	<kanji	id="弔" freq="2919" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="弔辞" pron="ちょうじ" pa="0" pos="N" />
+		</r>
+		<r kun="とむらう" kk="弔う" pa="3" pos="t5" cn="吊唁" ph="遺族を弔う"></r>
+	</kanji>
+	
+	<kanji	id="賃" freq="1647" jlpt="1" gr="6">
+		<r on="チン" >
+			<ex	 word="賃貸" pron="ちんたい" pa="1" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="膨" freq="2292" jlpt="1" gr="8">
-		<r on="ボウ" >
-			<ex	 word="膨脹" pron="ぼうちょう" pa="0" pos="N" jlpt="3" />
-		</r>
-		<r kun="ふく`らむ" kk="膨らむ" pa="0" pos="j5" jlpt="2" > 
-		</r>
-		<r kun="ふく`れる" kk="膨れる" pa="0" pos="j1" jlpt="1" > 
+	<kanji	id="陳" freq="1599" jlpt="1" gr="8">
+		<r on="チン" >
+			<ex	 word="陳腐" pron="ちんぷ" pa="1" pos="N" />
+			<ex	 word="陳述" pron="ちんじゅつ" pa="0" pos="N" />
+			<ex	 word="陳謝" pron="ちんしゃ" pa="1" pos="N" jlpt="0" eng="apology"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="貿" freq="2623" jlpt="2" gr="5">
-		<r on="ボウ" >
-			<ex	 word="貿易" pron="ぼうえき" pa="0" pos="N" jlpt="4" />
+	<kanji	id="朕" freq="3574" jlpt="1" gr="8">
+		<r on="チン" pa="1"></r>
+	</kanji>
+	
+	<kanji	id="珍" freq="942" jlpt="2" gr="8">
+		<r on="チン" >
+			<ex	 word="珍宝" pron="ちんぽう" pa="1" pos="N" jlpt="0"/>
+		</r>
+		<r kun="めずらしい" kk="珍しい" pa="4" pos="adj" jlpt="4"></r>
+	</kanji>
+	
+	<kanji	id="沈" freq="942" jlpt="2" gr="8">
+		<r on="チン" >
+			<ex	 word="沈黙" pron="ちんもく" pa="0" pos="N" jlpt="1"/>
+		</r>
+		<r kun="しずむ" kk="沈む" pa="0" pos="j5" jlpt="3"></r>
+		<r kun="しずめる" kk="沈める" pa="0" pos="t1" jlpt="1" ph="ベッドに身を沈める"></r>
+	</kanji>
+	
+	<kanji	id="直" freq="178" jlpt="3" gr="2">
+		<r on="チョク" >
+			<ex	 word="直接" pron="ちょくせつ" pa="0" pos="N" jlpt="0"/>
+		</r>
+		<r on="ジキ" >
+			<ex	 word="正直" pron="しょうじき" pa="0" pos="N/NA" jlpt="0"/>
+		</r>
+		<r kun="ただちに" kk="直ちに" pa="1" pos="adv" jlpt="?"></r>
+		<r kun="なおす" kk="直す" pa="2" pos="t5" jlpt="4"></r>
+		<r kun="なおる" kk="直る" pa="2" pos="j5" jlpt="4"></r>
+	</kanji>
+	
+	<kanji	id="懲" freq="2382" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="懲戒" pron="ちょうかい" pa="0" pos="N/ts" jlpt="0"/>
+		</r>
+		<r kun="こりる" kk="懲りる" pa="2" pos="j1" jlpt="1" cn="惩前毖后" ph="失敗に懲りる"></r>
+		<r kun="こらす" kk="懲らす" pa="2" pos="t5" ></r>
+		<r kun="こらしめる" kk="懲らしめる" pa="4" pos="t1" ph="善を勧め悪を懲らしめる"></r>
+	</kanji>
+	
+	<kanji	id="聴" freq="822" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="聴力" pron="ちょうりょく" pa="0" pos="N" jlpt="0"/>
+		</r>
+		<r kun="きく" kk="聴く・聞く" pa="0" pos="t5" jlpt="5" ></r>
+	</kanji>
+			
+	<kanji	id="潮" freq="1183" jlpt="1" gr="6">
+		<r on="チョウ" >
+			<ex	 word="潮流" pron="ちょうりゅう" pa="0" pos="N" />
+		</r>
+		<r kun="しお" kk="潮" pa="2" pos="N" jlpt="1" >
+			<ex	 word="潮時" pron="しおどき" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="謀" freq="1559" jlpt="1" gr="8">
-		<r on="ボウ" >
-			<ex	 word="陰謀" pron="いんぼう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="首謀者" pron="しゅぼうしゃ" pa="2" pos="N" jlpt="3" />
-			<ex	 word="無謀運転" pron="むぼううんてん" pa="4" pos="N" jlpt="3" />
-			<ex	 word="共謀" pron="きょうぼう" pa="0" pos="N/ts" />
+	<kanji	id="調" freq="284" jlpt="3" gr="3">
+		<r on="チョウ" >
+			<ex	 word="強調" pron="きょうちょう" pa="0" pos="N/js" jlpt="3" />
+			<ex	 word="調子" pron="ちょうし" pa="0" pos="N" jlpt="3" ph="その調子その調子" />
 		</r>
-		<r on="ム" >
-			<ex	 word="謀反" pron="むほん" pa="1" pos="N" />
+		<r kun="しらべる" kk="調べる" pa="3" pos="t1" jlpt="4" ></r>
+		<r kun="ととのう" kk="調う" pa="3" pos="j5" jlpt="2" ></r>
+		<r kun="ととのえる" kk="調える・整う" pa="4" pos="t1" jlpt="2" ></r>
+	</kanji>
+	
+	<kanji	id="澄" freq="1205" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="澄明" pron="ちょうめい" pa="0" pos="NA" />
 		</r>
-		<r kun="はか`る" kk="謀る" pa="0" pos="t5" jlpt="1" ref="計る・図る"> 
+		<r kun="すむ" kk="澄む" pa="1" pos="j5" jlpt="2" ></r>
+		<r kun="すます" kk="澄ます" pa="2" pos="t5" jlpt="1" ></r>
+	</kanji>
+	
+	<kanji	id="徴" freq="1321" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="徴兵" pron="ちょうへい" pa="0" pos="N" />
+			<ex	 word="特徴" pron="とくちょう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="徴収" pron="ちょうしゅう" pa="0" pos="N" jlpt="1" />
 		</r>
 	</kanji>
 	
-	<kanji	id="北" freq="458" jlpt="5" gr="2">
-		<r on="ホク" >
-			<ex	 word="東北" pron="とうほく" pa="0" pos="N" jlpt="3" />
-			<ex	 word="北方" pron="ほっぽう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="敗北" pron="はいぼく" pa="0" pos="N" jlpt="3" />
+	<kanji	id="跳" freq="1665" jlpt="1" gr="8">
+		<r on="チョウ" >
+			<ex	 word="跳躍" pron="ちょうやく" pa="0" pos="js" />
 		</r>
-		<r kun="きた" kk="北" pa="0" pos="N" jlpt="5" > 
+		<r kun="はねる" kk="跳ねる" pa="2" pos="j1" jlpt="2" ></r>
+		<r kun="とぶ" kk="跳ぶ" pa="0" pos="j5" jlpt="5" ></r>
+	</kanji>
+	
+	<kanji	id="腸" freq="2167" jlpt="1" gr="4">
+		<r on="チョウ" >
+			<ex	 word="大腸" pron="だいちょう" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="木" freq="118" jlpt="5" gr="1">
-		<r on="ボク" >
-			<ex	 word="大木" pron="とうほく" pa="0" pos="N" jlpt="3" />
-			<ex	 word="土木" pron="ほっぽう" pa="0" pos="N" jlpt="3" />
+	<kanji	id="坪" freq="2101" jlpt="1" gr="4">
+		<r kun="つぼ" kk="坪" pa="0" pos="N" ></r>
+	</kanji>
+	
+	<kanji	id="塚" freq="1519" jlpt="1" gr="8">
+		<r kun="つか" kk="塚" pa="2" pos="N" ></r>
+	</kanji>
+	
+	<kanji	id="漬" freq="2081" jlpt="1" gr="8">
+		<r kun="つける" kk="漬ける" pa="0" pos="t1" jlpt="4" ></r>
+		<r kun="つかる" kk="漬かる・浸かる" pa="0" pos="j5" ></r>
+	</kanji>
+	
+	<kanji	id="痛" freq="585" jlpt="3" gr="6">
+		<r on="ツウ" >
+			<ex	 word="痛感" pron="つうかん" pa="0" pos="N/ts" jlpt="1" />
 		</r>
-		<r on="モク" >
-			<ex	 word="木造" pron="もくぞう" pa="0" pos="N" eng="wooden" />
-			<ex	 word="材木" pron="ざいもく" pa="0" pos="N" jlpt="2" />
-			<ex	 word="樹木" pron="じゅもく" pa="0" pos="N" jlpt="3" />
+		<r kun="いたい" kk="痛い" pa="2" pos="adj" jlpt="5" ></r>
+		<r kun="いたむ" kk="痛む" pa="2" pos="j5" jlpt="1" ></r>
+		<r kun="いためる" kk="痛める" pa="3" pos="t1" jlpt="1" ></r>
+	</kanji>
+	
+	<kanji	id="通" freq="75" jlpt="4" gr="2">
+		<r on="ツウ" >
+			<ex	 word="交通" pron="こうつう" pa="0" pos="N" jlpt="4" />
+			<ex	 word="通行" pron="つうこう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="疎通" pron="そつう" pa="0" pos="N/js" />
 		</r>
-		<r kun="き" kk="木" pa="1" pos="N" jlpt="1" > 
-			<ex	 word="青木" pron="あおき" pa="0" pos="N" jlpt="3" />
+		<r on="ツ" >
+			<ex	 word="通夜" pron="つや" pa="1" pos="N" />
 		</r>
-		<r kun="こ" kk="木" pa="1" pos="N" jlpt="1" > 
-			<ex	 word="木漏れ日" pron="こもれび" pa="1" pos="N" jlpt="3" />
-			<ex	 word="木葉" pron="このは" pa="1" pos="N" jlpt="3" />
+		<r kun="とおる" kk="通る" pa="1" pos="j5" jlpt="4" ></r>
+		<r kun="とおす" kk="通す" pa="1" pos="t5" jlpt="3" ></r>
+		<r kun="かよう" kk="通う" pa="0" pos="j5" jlpt="4" ></r>
+	</kanji>
+	
+	<kanji	id="墜" freq="2412" jlpt="1" gr="8">
+		<r on="ツイ" >
+			<ex	 word="墜落" pron="ついらく" pa="0" pos="js" jlpt="1" />
 		</r>
 	</kanji>
 	
-	<kanji	id="朴" freq="2103" jlpt="1" gr="8">
-		<r on="ボク" >
-			<ex	 word="素朴" pron="そぼく" pa="0" pos="N" jlpt="1" />
-			<ex	 word="純朴" pron="じゅんぼく" pa="0" pos="N" />
+	<kanji	id="追" freq="420" jlpt="3" gr="3">
+		<r on="ツイ" >
+			<ex	 word="追加" pron="ついか" pa="0" pos="N" jlpt="2" />
+			<ex	 word="追試" pron="ついし" pa="0" pos="N" />
+		</r>
+		<r kun="おう" kk="追う" pa="0" pos="t5" jlpt="3" ></r>
+	</kanji>
+	
+	<kanji	id="鎮" freq="1797" jlpt="1" gr="8">
+		<r on="チン" >
+			<ex	 word="鎮静剤" pron="ちんせいざい" pa="0" pos="N" jlpt="?" />
+			<ex	 word="鎮圧" pron="ついし" pa="0" pos="N" />
+		</r>
+		<r kun="しずめる" kk="鎮める" pa="3" pos="t1" ></r>
+		<r kun="しずまる" kk="鎮まる" pa="3" pos="j5" jlpt="2" ></r>
+	</kanji>
+	
+	<kanji	id="底" freq="198" jlpt="2" gr="4">
+		<r on="テイ" >
+			<ex	 word="到底" pron="とうてい" pa="0" pos="adv" jlpt="1" />
+			<ex	 word="海底" pron="かいてい" pa="0" pos="N" />
+		</r>
+		<r kun="そこ" kk="底" pa="0" pos="N" jlpt="3" ></r>
+	</kanji>
+	
+	<kanji	id="廷" freq="1609" jlpt="2" gr="4">
+		<r on="テイ" >
+			<ex	 word="法廷" pron="ほうてい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="朝廷" pron="ちょうてい" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="牧" freq="1227" jlpt="1" gr="4">
-		<r on="ボク" >
-			<ex	 word="牧場" pron="ぼくじょう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="牧畜" pron="ぼくちく" pa="0" pos="N" jlpt="2" />
-			<ex	 word="牧師" pron="ぼくし" pa="1" pos="N" jlpt="1" />
-			<ex	 word="遊牧" pron="ゆうぼく" pa="0" pos="N" jlpt="3" />
+	<kanji	id="定" freq="242" jlpt="3" gr="3">
+		<r on="テイ" >
+			<ex	 word="決定" pron="けってい" pa="0" pos="N/ts" jlpt="3" />
+			<ex	 word="定期" pron="ていき" pa="1" pos="N" jlpt="3" />
+			<ex	 word="予定" pron="よてい" pa="0" pos="N/ts" jlpt="4" />
+			<ex	 word="安定" pron="あんてい" pa="0" pos="js" jlpt="3" />
+			<ex	 word="協定" pron="きょうてい" pa="0" pos="N/ts" jlpt="1" />
+			<ex	 word="定員" pron="ていいん" pa="0" pos="N" jlpt="2" />
+			<ex	 word="定価" pron="ていか" pa="0" pos="N" jlpt="2" />
+			<ex	 word="定食" pron="ていしょく" pa="0" pos="N" jlpt="1" />
+			<ex	 word="定義" pron="ていぎ" pa="13" pos="N/ts" jlpt="1" />
 		</r>
-		<r kun="まき" kk="牧" pa="1" pos="N" jlpt="1" > 
-			<ex	 word="牧場" pron="まきば" pa="0" pos="N" jlpt="2" />
+		<r on="ジョウ" >
+			<ex	 word="勘定" pron="かんじょう" pa="3" pos="N/ts" jlpt="3" />
+		</r>
+		<r kun="さだめる" kk="定める" pa="3" pos="t1" jlpt="1" ></r>
+		<r kun="さだまる" kk="定まる" pa="3" pos="j5" jlpt="1" ></r>
+		<r kun="さだか" kk="定か" pa="1" pos="N"></r>
+	</kanji>
+	
+	<kanji	id="呈" freq="2168" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="贈呈" pron="ぞうてい" pa="0" pos="N" eng="presentation (e.g. of a gift, etc.)"/>
+			<ex	 word="進呈" pron="しんてい" pa="0" pos="N" jlpt="1" />
 		</r>
 	</kanji>
 	
-	<kanji	id="僕" freq="120" jlpt="1" gr="8">
-		<r on="ボク" >
-			<ex	 word="公僕" pron="ぼくじょう" pa="0" pos="N" />
-			<ex	 word="僕等" pron="ぼくら" pa="0" pos="N" />
+	<kanji	id="弟" freq="563" jlpt="4" gr="2">
+		<r on="テイ" >
+			<ex	 word="弟妹" pron="ていまい" pa="0" pos="N" eng="younger brother and sister" />
 		</r>
+		<r on="ダイ" >
+			<ex	 word="兄弟" pron="きょうだい" pa="1" pos="N" jlpt="5" />
+		</r>
+		<r on="デ" >
+			<ex	 word="弟子" pron="でし" pa="2" pos="N" />
+		</r>
+		<r kun="おとうと" kk="弟" pa="4" pos="N" jlpt="5" ></r>
 	</kanji>
 	
-	<kanji	id="墨" freq="1613" jlpt="1" gr="8">
-		<r on="ボク" >
-			<ex	 word="墨守" pron="ぼくしゅ" pa="1" pos="N" />
-		</r>
-		<r kun="すみ" kk="墨" pa="2" pos="N" jlpt="2" > 
-			<ex	 word="墨と雪" pron="すみとゆき" pa="0" pos="N" />
-			<ex	 word="入墨・刺青" pron="いれずみ" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="撲" freq="1929" jlpt="1" gr="8">
-		<r on="ボク" >
-			<ex	 word="撲殺" pron="ぼくしゅ" pa="0" pos="N" />
-			<ex	 word="撲滅" pron="ぼくめつ" pa="0" pos="N" />
-			<ex	 word="打撲" pron="だぼく" pa="0" pos="N" />
-		</r>
-		<r kun="すもう" kk="相撲" pa="0" pos="N" jlpt="2" > </r>
-	</kanji>
-	
-	<kanji	id="没" freq="1570" jlpt="1" gr="8">
-		<r on="ボツ" >
-			<ex	 word="没収" pron="ぼっしゅう" pa="0" pos="N" jlpt="1" />
-			<ex	 word="沈没" pron="ちんぼつ" pa="0" pos="N" jlpt="1" />
-			<ex	 word="没落" pron="ぼつらく" pa="0" pos="N" jlpt="1" />
-			<ex	 word="出没" pron="しゅつぼつ" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="堀" freq="1372" jlpt="1" gr="8">
-		<r kun="ほり" kk="堀" pa="2" pos="N" jlpt="3" eng="moat"> 
-			<ex	 word="外堀" pron="そとほり" pa="0" pos="N" jlpt="3" />
-			<ex	 word="道頓堀" pron="どうとんぼり" pa="3" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="本" freq="27" jlpt="5" gr="1">
-		<r on="ホン" >
-			<ex	 word="本当" pron="ほんとう" pa="0" pos="N/adv" jlpt="5" />
-			<ex	 word="本棚" pron="ほんだな" pa="1" pos="N" jlpt="5" />
-			<ex	 word="本人" pron="ほんにん" pa="1" pos="N" jlpt="3" />
-			<ex	 word="本部" pron="ほんぶ" pa="1" pos="N" jlpt="2" />
-			<ex	 word="本来" pron="ほんらい" pa="1" pos="N" jlpt="2" />
-			<ex	 word="本音" pron="ほんね" pa="0" pos="N" jlpt="1" />
-			<ex	 word="本質" pron="ほんしつ" pa="0" pos="N" jlpt="1" />
-			<ex	 word="本田" pron="ほんだ" pa="*0" pos="N" />
-		</r>
-		<r kun="もと" kk="本" pa="2" pos="N" jlpt="3" > 
-			<ex	 word="旗本" pron="はたもと" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="奔" freq="2019" jlpt="1" gr="8">
-		<r on="ホン" >
-			<ex	 word="奔走" pron="ほんそう" pa="0" pos="N" />
-		</r>
-		<r kun="はし`る" kk="走る" pa="2" pos="j5" jlpt="5" > </r>
-	</kanji>
-	
-	<kanji	id="翻" freq="1659" jlpt="1" gr="8">
-		<r on="ホン" >
-			<ex	 word="翻弄" pron="ほんろう" pa="0" pos="N" />
-			<ex	 word="翻訳" pron="ほんやく" pa="0" pos="N" jlpt="4" />
-		</r>
-		<r kun="ひるがえ`る" kk="翻る" pa="3" pos="j1" >
-			<sentence>木の葉が風に翻る</sentence>
-		</r>
-		<r kun="ひるがえ`す" kk="翻す" pa="3" pos="t5" >
-			<sentence>掌を翻す</sentence>
-		</r>
-	</kanji>
-	
-	<kanji	id="凡" freq="893" jlpt="1" gr="8">
-		<r on="ボン" >
-			<ex	 word="平凡" pron="へいぼん" pa="0" pos="N" jlpt="2" />
-			<ex	 word="凡人" pron="ぼんじん" pa="0" pos="N" />
-		</r>
-		<r on="ハン" >
-			<ex	 word="凡例" pron="はんれい" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="盆" freq="1705" jlpt="1" gr="8">
-		<r on="ボン" >
-			<ex	 word="盆地" pron="ぼんち" pa="0" pos="N" jlpt="2" eng="basin" />
-			<ex	 word="盆踊り" pron="ぼんおどり" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="麻" freq="1242" jlpt="1" gr="8">
-		<r on="マ" >
-			<ex	 word="麻酔" pron="ますい" pa="0" pos="N" />
-			<ex	 word="麻痺" pron="まひ" pa="1" pos="N" />
-			<ex	 word="麻薬" pron="まやく" pa="0" pos="N" jlpt="1" />
-		</r>
-		<r kun="あさ" kk="麻" pa="2" pos="j5" jlpt="1" > </r>
-	</kanji>
-	
-	<kanji	id="摩" freq="1149" jlpt="1" gr="8">
-		<r on="マ" >
-			<ex	 word="摩擦" pron="まさつ" pa="0" pos="N" jlpt="2" />
-			<ex	 word="摩天楼" pron="まてんろう" pa="2" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="磨" freq="1522" jlpt="2" gr="8">
-		<r on="マ" >
-			<ex	 word="磨耗" pron="まもう" pa="0" pos="N" />
-			<ex	 word="歯磨き" pron="はみがき" pa="0" pos="N" jlpt="2" />
-		</r>
-		<r kun="みが`く" kk="磨く" pa="0" pos="t5" jlpt="5" > </r>
-	</kanji>
-	
-	<kanji	id="魔" freq="770" jlpt="1" gr="8">
-		<r on="マ" >
-			<ex	 word="悪魔" pron="あくま" pa="1" pos="N" jlpt="3" />
-			<ex	 word="邪魔" pron="じゃま" pa="0" pos="N" jlpt="3" />
-			<ex	 word="魔が差す" pron="まがさす" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="毎" freq="550" jlpt="5" gr="2">
-		<r on="マイ" >
-			<ex	 word="毎日" pron="まいにち" pa="1" pos="N" jlpt="5" />
-			<ex	 word="毎回" pron="まいかい" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="妹" freq="847" jlpt="4" gr="2">
-		<r on="マイ" >
-			<ex	 word="姉妹" pron="しまい" pa="1" pos="N" jlpt="3" />
-			<ex	 word="令妹" pron="れいまい" pa="0" pos="N" />
-		</r>
-		<r kun="いもうと" kk="妹" pa="0" pos="N" jlpt="5" > </r>
-	</kanji>
-	
-	<kanji	id="枚" freq="777" jlpt="2" gr="6">
-		<r on="マイ" >
-			<ex	 word="枚挙" pron="まいきょ" pa="1" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="昧" freq="2098" jlpt="1" gr="8">
-		<r on="マイ" >
-			<ex	 word="曖昧" pron="あいまい" pa="0" pos="N" jlpt="2" />
-			<ex	 word="三枚" pron="さんまい" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="埋" freq="919" jlpt="2" gr="8">
-		<r on="マイ" >
-			<ex	 word="埋設" pron="あいまい" pa="0" pos="N" />
-		</r>
-		<r kun="う`める" kk="埋める" pa="0" pos="t1" jlpt="2" > </r>
-		<r kun="う`まる" kk="埋まる" pa="0" pos="j5" jlpt="1" > </r>
-		<r kun="う`もれる" kk="埋もれる" pa="0" pos="t5" > </r>
-		<r kun="うず`もれる" kk="埋もれる" pa="0" pos="j1" > </r>
-	</kanji>
-	
-	<kanji	id="幕" freq="897" jlpt="1" gr="6">
-		<r on="マク" >
-			<ex	 word="開幕" pron="かいまく" pa="0" pos="N/js" />
-		</r>
-		<r on="バク" >
-			<ex	 word="幕府" pron="ばくふ" pa="1" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="膜" freq="2700" jlpt="1" gr="8">
-		<r on="マク" >
-			<ex	 word="粘膜" pron="ねんまく" pa="0" pos="N" />
-			<ex	 word="鼓膜" pron="こまく" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="枕" freq="1191" gr="8">
-		<r kun="まくら" kk="枕" pa="1" pos="N" jlpt="2" eng="pillow" >
-			<ex	 word="枕元" pron="まくらもと" pa="3" pos="N" />
-			<ex	 word="腕枕" pron="うでまくら" pa="3" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="又" freq="250" jlpt="1" gr="8">
-		<r kun="また" kk="又" pa="2" pos="adv" jlpt="5" > </r>
-	</kanji>
-	
-	<kanji	id="末" freq="562" jlpt="3" gr="4">
-		<r on="マツ" >
-			<ex	 word="末期" pron="まつご" pa="1" pos="N" jlpt=""/>
-			<ex	 word="末期" pron="まっき" pa="1" pos="N" jlpt="1" />
-			<ex	 word="粉末" pron="ふんまつ" pa="0" pos="N" />
-		</r>
-		<r on="バツ" >
-			<ex	 word="末子" pron="まつご" pa="1" pos="N" />
-		</r>
-		<r kun="すえ" kk="末" pa="2" pos="N" jlpt="3" > 
-			<ex	 word="末っ子" pron="すえっこ" pa="0" pos="N" />
-			<ex	 word="末頼もしい" pron="すえたのもしい" pa="6" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="抹" freq="2737" jlpt="1" gr="8">
-		<r on="マツ" >
-			<ex	 word="抹茶" pron="まっちゃ" pa="0" pos="N" />
-			<ex	 word="抹消" pron="まっしょ" pa="0" pos="N/ts" />
-			<ex	 word="抹殺" pron="まっさつ" pa="0" pos="N/ts" />
-		</r>
-	</kanji>
-	
-	<kanji	id="万" freq="362" jlpt="5" gr="2">
-		<r on="マン" >
-			<ex	 word="万年筆" pron="まんねんひつ" pa="3" pos="N" />
-			<ex	 word="万一" pron="まんいち" pa="1" pos="N" />
-		</r>
-		<r on="バン" >
-		</r>
-	</kanji>
-	
-	<kanji	id="満" freq="517" jlpt="3" gr="4">
-		<r on="マン" >
-			<ex	 word="満足" pron="まんぞく" pa="0" pos="N" jlpt="3" />
-			<ex	 word="不満" pron="ふまん" pa="0" pos="NA" jlpt="3" />
-			<ex	 word="満期" pron="まんき" pa="0" pos="N" />
-		</r>
-		<r kun="み`ちる" kk="満ちる" pa="2" pos="j1" jlpt="3" >
-		</r>
-		<r kun="み`たす" kk="満たす" pa="2" pos="t5" jlpt="1" >
-		</r>
-	</kanji>
-	
-	<kanji	id="慢" freq="1098" jlpt="1" gr="8">
-		<r on="マツ" >
-			<ex	 word="自慢" pron="じまん" pa="0" pos="N/ts" jlpt="3" eng="boast" />
-			<ex	 word="我慢" pron="がまん" pa="1" pos="N" jlpt="3" eng="endurance" />
-			<ex	 word="慢性" pron="まんせい" pa="0" pos="N" />
-			<ex	 word="怠慢" pron="たいまん" pa="0" pos="N/NA" jlpt="1" eng="negligence" />
-		</r>
-	</kanji>
-	
-	<kanji	id="漫" freq="1804" jlpt="1" gr="8">
-		<r on="マツ" >
-			<ex	 word="漫画" pron="まんが" pa="0" pos="N" jlpt="4" eng="comic" />
-			<ex	 word="散漫" pron="さんまん" pa="0" pos="NA" eng="vague" />
-		</r>
-	</kanji>
-	
-	<kanji	id="未" freq="596" jlpt="3" gr="4">
-		<r on="ミ" >
-			<ex	 word="未来" pron="みらい" pa="1" pos="N" jlpt="3" eng="the future" />
-			<ex	 word="未満" pron="みまん" pa="1" pos="NA" jlpt="2" eng="less then; insufficient"/>
-			<ex	 word="前代未聞" pron="ぜんだいみもん" pa="1" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="味" freq="119" jlpt="4" gr="3">
-		<r on="ミ" >
-			<ex	 word="意味" pron="いみ" pa="1" pos="N" jlpt="5" />
-			<ex	 word="味方" pron="みかた" pa="0" pos="N" jlpt="3" cn="我方;伙伴盟友" eng="friend;ally" />
-			<ex	 word="味覚" pron="みかく" pa="0" pos="N" jlpt="1" eng="taste"/>
-			<ex	 word="興味" pron="きょうみ" pa="1" pos="N" jlpt="4" eng="interest"/>
-			<ex	 word="趣味" pron="しゅみ" pa="1" pos="N" jlpt="4" eng="hobby"/>
-		</r>
-		<r kun="あじ" kk="味" pa="0" pos="N" jlpt="3" >
-			<ex	 word="味見" pron="あじみ" pa="0" pos="N" jlpt="3" cn="尝尝看"/>
-			<ex	 word="塩味" pron="しおあじ" pa="0" pos="N" jlpt="3" />
-		</r>
-		<r kun="あじ`わう" kk="味わう" pa="0" pos="t5" jlpt="3" cn="尝">
-		</r>
-	</kanji>
-	
-	<kanji	id="魅" freq="1685" jlpt="1" gr="8">
-		<r on="ミ" >
-			<ex	 word="魅力" pron="みりょく" pa="0" pos="N" jlpt="3" eng="charm"/>
-			<ex	 word="魅了" pron="みりょう" pa="0" pos="N" />
-			<ex	 word="魅惑" pron="みわく" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="岬" freq="2606" jlpt="1" gr="8">
-		<r kun="みさき" kk="岬" pa="0" pos="N" jlpt="2" > 
-		</r>
-	</kanji>
-	
-	<kanji	id="密" freq="684" jlpt="1" gr="6">
-		<r on="ミツ" >
-			<ex	 word="秘密" pron="ひみつ" pa="0" pos="N" jlpt="3" />
-			<ex	 word="厳密" pron="げんみつ" pa="0" pos="NA" jlpt="1" />
-			<ex	 word="精密" pron="せいみつ" pa="0" pos="NA" jlpt="1" />
-			<ex	 word="密約" pron="みつやく" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="蜜" freq="2109" gr="8">
-		<r on="ミツ" >
-			<ex	 word="蜜柑" pron="みかん" pa="1" pos="N" />
-			<ex	 word="蜂蜜" pron="はちみつ" pa="0" pos="N" />
-			<ex	 word="蜜蜂" pron="みつばち" pa="2" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="脈" freq="1600" jlpt="1" gr="4">
-		<r on="ミャク" >
-			<ex	 word="脈動" pron="みゃくどう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="動脈" pron="どうみゃく" pa="0" pos="N" jlpt="3" />
-			<ex	 word="山脈" pron="さんみゃく" pa="0" pos="N" jlpt="1" />
-		</r>
-	</kanji>
-	
-	<kanji	id="妙" freq="518" jlpt="1" gr="8">
-		<r on="ミョウ" >
-			<ex	 word="奇妙" pron="きみょう" pa="1" pos="NA" jlpt="3" />
-			<ex	 word="巧妙" pron="こうみょう" pa="0" pos="NA" jlpt="1" />
-			<ex	 word="絶妙" pron="ぜつみょう" pa="0" pos="NA" />
-		</r>
-		<r kun="たみ" kk="民" pa="1" pos="N" > 
-		</r>
-	</kanji>
-	
-	<kanji	id="民" freq="248" jlpt="3" gr="4">
-		<r on="ミン" >
-			<ex	 word="民宿" pron="みんしゅく" pa="0" pos="N" jlpt="1" />
-			<ex	 word="民族" pron="みんぞく" pa="1" pos="N" jlpt="1" />
-			<ex	 word="国民" pron="こくみん" pa="0" pos="N" jlpt="3" />
-		</r>
-		<r kun="たみ" kk="民" pa="1" pos="N" > 
-		</r>
-	</kanji>
-	
-	<kanji	id="眠" freq="661" jlpt="3" gr="4">
-		<r on="ミン" >
-			<ex	 word="睡眠薬" pron="みんしゅく" pa="0" pos="N" eng="sleeping pill" />
-			<ex	 word="不眠症" pron="みんぞく" pa="1" pos="N" eng="insomnia"/>
-		</r>
-		<r kun="ねむ`る" kk="眠る" pa="0" pos="j5" jlpt="4" > 
-		</r>
-		<r kun="ねむ`い" kk="眠い" pa="0" pos="adj" jlpt="4" eng="sleepy"> 
-		</r>
-	</kanji>
-	
-	<kanji	id="矛" freq="1587" jlpt="1" gr="8">
-		<r on="ム" >
-			<ex	 word="矛盾" pron="むじゅん" pa="0" pos="N" jlpt="2" />
-		</r>
-		<r kun="ほこ" kk="矛" pa="1" pos="N" ref="盾"> 
-		</r>
-	</kanji>
-	
-	<kanji	id="務" freq="742" jlpt="3" gr="5">
-		<r on="ム" >
-			<ex	 word="事務" pron="じむ" pa="1" pos="N" jlpt="3" />
-			<ex	 word="事務所" pron="じむしょ" pa="2" pos="N" jlpt="4" />
-			<ex	 word="義務" pron="ぎむ" pa="1" pos="N" jlpt="3" />
-			<ex	 word="任務" pron="にんむ" pa="1" pos="N" jlpt="1" />
-		</r>
-		<r kun="つと`める" kk="務める" pa="3" pos="t1" jlpt="5" > 
-		</r>
-	</kanji>
-	
-	<kanji	id="無" freq="56" gr="4">
-		<r on="ム" >
-			<ex	 word="無名" pron="むめい" pa="0" pos="N" />
-			<ex	 word="無理" pron="むり" pa="1" pos="N/NA" jlpt="4" />
-			<ex	 word="無料" pron="むりょう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="無我夢中" pron="むがむちゅう" pa="1" pos="N" />
-		</r>
-		<r on="ブ" >
-			<ex	 word="無事" pron="ぶじ" pa="0" pos="N/adv" jlpt="3" eng="safety"/>
-		</r>
-		<r kun="な`い" kk="無い" pa="1" pos="adj" > 
-		</r>
-	</kanji>
-	
-	<kanji	id="夢" freq="401" jlpt="3" gr="5">
-		<r on="ム" >
-			<ex	 word="悪夢" pron="あくむ" pa="1" pos="N" />
-			<ex	 word="夢幻" pron="むげん" pa="0" pos="N" />
-			<ex	 word="夢中" pron="むちゅう" pa="0" pos="N" jlpt="3" />
-		</r>
-		<r kun="ゆめ" kk="夢" pa="2" pos="N" jlpt="4" > 
-			<sentence>夢を見る・夢見る</sentence>
-		</r>
-	</kanji>
-	
-	<kanji	id="霧" freq="1332" jlpt="1" gr="8">
-		<r on="ム" >
-			<ex	 word="五里霧中" pron="ごりむちゅう" pa="1" pos="N" />
-			<ex	 word="濃霧" pron="のうむ" pa="1" pos="N" />
-		</r>
-		<r kun="きり" kk="霧" pa="0" pos="N" jlpt="3" eng="fog" > 
-			<ex	 word="朝霧" pron="あさぎり" pa="2" pos="N" />
-			<ex	 word="霧雨" pron="きりさめ" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="娘" freq="331" jlpt="3" gr="8">
-		<r kun="むすめ" kk="娘" pa="3" pos="N" jlpt="4" > 
-			<ex	 word="小娘" pron="こむすめ" pa="2" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="名" freq="88" jlpt="5" gr="1">
-		<r on="メイ" >
-			<ex	 word="有名" pron="ゆうめい" pa="0" pos="NA" jlpt="5" />
-			<ex	 word="名刺" pron="めいし" pa="0" pos="N" jlpt="2" />
-			<ex	 word="名誉" pron="めいよ" pa="1" pos="N" jlpt="1" />
-			<ex	 word="氏名" pron="しめい" pa="1" pos="N" jlpt="2" />
-		</r>
-		<r on="ミョウ" >
-			<ex	 word="名利" pron="みょうり" pa="1" pos="N" />
-			<ex	 word="名字" pron="みょうじ" pa="1" pos="N" jlpt="2" />
-			<ex	 word="本名" pron="ほんみょう" pa="1" pos="N" jlpt="1" />
-		</r>
-		<r kun="な" kk="名" pa="0" pos="N" jlpt="3" > 
-			<ex	 word="名前" pron="なまえ" pa="0" pos="N" jlpt="3" />
-		</r>
-	</kanji>
-	
-	<kanji	id="迷" freq="855" jlpt="3" gr="5">
-		<r on="メイ" >
-			<ex	 word="迷惑" pron="めいわく" pa="1" pos="N/NA" jlpt="3" eng="trouble;bother" />
+	<kanji	id="低" freq="763" jlpt="2" gr="4">
+		<r on="テイ" >
+			<ex	 word="低俗" pron="ていぞく" pa="0" pos="NA" />
 			<ex	 word="低迷" pron="ていめい" pa="0" pos="N" />
+			<ex	 word="低下" pron="ていか" pa="0" pos="N/js" jlpt="2" />
 		</r>
-		<r kun="まよ`う" kk="迷う" pa="2" pos="N" > 
-			<sentence>路頭に迷う・道に迷う</sentence>
-		</r>
-		<r kun="まよい" kk="迷い" pa="2" pos="adj" > 
+		<r kun="ひくい" kk="低い" pa="2" pos="adj" jlpt="5" ></r>
+		<r kun="ひくめる" kk="低める" pa="3" pos="t1" ></r>
+		<r kun="ひくまる" kk="低まる" pa="3" pos="j5" ></r>
+	</kanji>
+	
+	<kanji	id="抵" freq="1200" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="抵抗" pron="ていこう" pa="0" pos="N/js" jlpt="3" />
+			<ex	 word="抵触" pron="ていしょく" pa="0" pos="N/js" />
+			<ex	 word="大抵" pron="たいてい" pa="0" pos="N/adv" jlpt="4" />
 		</r>
 	</kanji>
 	
-	<kanji	id="命" freq="219" jlpt="3" gr="3">
-		<r on="メイ" >
-			<ex	 word="生命" pron="せいめい" pa="1" pos="N" jlpt="3" />
-			<ex	 word="命令" pron="めいれい" pa="0" pos="N" jlpt="3" />
-			<ex	 word="命中" pron="めいちゅう" pa="0" pos="N" jlpt="1" />
-			<ex	 word="運命" pron="うんめい" pa="1" pos="N" jlpt="1" />
-		</r>
-		<r on="ミョウ" >
-			<ex	 word="寿命" pron="じゅみょう" pa="0" pos="N" jlpt="2" />
-		</r>
-		<r kun="いのち" kk="命" pa="1" pos="N" jlpt="3" >
-			<ex	 word="命拾い" pron="いのちびろい" pa="4" pos="N" />
+	<kanji	id="邸" freq="1327" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="豪邸" pron="ごうてい" pa="0" pos="N" />
+			<ex	 word="邸宅" pron="ていたく" pa="0" pos="N" jlpt="1" />
 		</r>
 	</kanji>
 	
-	<kanji	id="盟" freq="1755" jlpt="1" gr="6">
-		<r on="メイ" >
-			<ex	 word="連盟" pron="れんめい" pa="0" pos="N" jlpt="1" />
-			<ex	 word="同盟" pron="どうめい" pa="0" pos="N/js" jlpt="1" />
-			<ex	 word="加盟" pron="かめい" pa="0" pos="N" />
+	<kanji	id="亭" freq="1055" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="料亭" pron="りょうてい" pa="0" pos="N" />
+			<ex	 word="亭主" pron="ていしゅ" pa="1" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="銘" freq="1851" jlpt="1" gr="8">
-		<r on="メイ" >
-			<ex	 word="銘柄" pron="めいがら" pa="0" pos="N" eng="grand" />
-			<ex	 word="感銘" pron="かんめい" pa="0" pos="N/js" eng="deep impression" />
-			<ex	 word="座右の銘" pron="ざゆうのめい" pa="0" pos="N" />
+	<kanji	id="貞" freq="1301" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="貞操" pron="ていそう" pa="0" pos="N" />
+			<ex	 word="貞節" pron="ていせつ" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="鳴" freq="468" jlpt="3" gr="2">
-		<r on="メイ" >
-			<ex	 word="共鳴" pron="きょうめい" pa="0" pos="N/js" jlpt="1" />
-			<ex	 word="悲鳴" pron="ひめい" pa="0" pos="N/js" jlpt="1" />
-		</r>
-		<r kun="なく" kk="鳴く" pa="0" pos="j5" jlpt="5" cn="啼，鸣叫(鸟虫等)">
-		</r>
-		<r kun="なる" kk="鳴る" pa="0" pos="j5" jlpt="4" cn="鸣;响（雷声机器汽笛等）">
-		</r>
-		<r kun="ならす" kk="鳴らす" pa="0" pos="t5" jlpt="2" cn="鸣（鸣钟鸣铃）">
+	<kanji	id="帝" freq="921" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="帝国" pron="ていこく" pa="0" pos="N" />
+			<ex	 word="帝王" pron="ていおう" pa="0" pos="N" />
+			<ex	 word="始皇帝" pron="しこうてい" pa="2" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="明" freq="72" jlpt="4" gr="2">
-		<r on="メイ" >
-			<ex	 word="明記" pron="めいき" pa="0" pos="N" jlpt="3" />
-			<ex	 word="明暗" pron="めいあん" pa="0" pos="N" jlpt="3" />
-			<ex	 word="説明" pron="せつめい" pa="0" pos="N" jlpt="4" />
-			<ex	 word="声明" pron="せいめい" pa="0" pos="N" jlpt="1" />
-			<ex	 word="不明" pron="ふめい" pa="0" pos="NA" jlpt="1" />
-			<ex	 word="明確" pron="めいかく" pa="0" pos="NA" jlpt="3" />
-		</r>
-		<r on="ミョウ" >
-			<ex	 word="光明" pron="こうみょう" pa="0" pos="N" />
-			<ex	 word="明日" pron="みょうにち" pa="0" pos="N" jlpt="5" />
-		</r>
-		<r kun="あかり" kk="明り" pa="0" pos="j5" jlpt="3" eng="light" >
-			<ex	 word="薄明り" pron="うすあかり" pa="0" pos="N" />
-			<ex	 word="月明り" pron="つきあかり" pa="0" pos="N" />
-		</r>
-		<r kun="あかるい" kk="明るい" pa="0" pos="adj" jlpt="5" cn="明亮的; 清楚明了">
-		</r>
-		<r kun="あかるむ" kk="明るむ" pa="3" pos="j5" >
-		</r>
-		<r kun="あからむ" kk="明らむ" pa="3" pos="j5" jpn="≒明るむ">
-		</r>
-		<r kun="あきらか" kk="明らか" pa="2" pos="NA" jlpt="3" >
-		</r>
-		<r kun="あける" kk="明ける" pa="0" pos="j1" jlpt="3" cn="某种状态结束开始新状态">
-		</r>
-		<r kun="あく" kk="明く" pa="0" pos="j1" jlpt="3" ref="開く">
-		</r>
-		<r kun="あくる" kk="明くる" pa="0" pos="j1" jlpt="3" >
-		</r>
-		<r kun="あかす" kk="明かす" pa="0" pos="t5" jlpt="3" cn="解谜揭秘" >
-		</r>
-		<r sp="あす" word="明日" pa="0" pos="N" jlpt="5" />
-		<r sp="あさって" word="明後日" pa="0" pos="N" jlpt="5" />
-	</kanji>
-	
-	<kanji	id="滅" freq="910" jlpt="1" gr="8">
-		<r on="メツ" >
-			<ex	 word="滅亡" pron="めつぼう" pa="0" pos="N" jlpt="1" eng="downfall" />
-			<ex	 word="絶滅" pron="ぜつめつ" pa="0" pos="N" jlpt="3" />
-			<ex	 word="消滅" pron="しょうめつ" pa="0" pos="N" />
-		</r>
-		<r kun="ほろびる" kk="滅びる" pa="0" pos="j1" jlpt="1" >
-		</r>
-		<r kun="ほろぼす" kk="滅ぼす" pa="3" pos="t5" jlpt="1" >
+	<kanji	id="訂" freq="2399" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="訂正" pron="ていせい" pa="0" pos="N/ts" jlpt="1" />
+			<ex	 word="改訂" pron="かいてい" pa="0" pos="N/ts" jlpt="1" />
 		</r>
 	</kanji>
 	
-	<kanji	id="面" freq="90" jlpt="3" gr="3">
-		<r on="メン" >
-			<ex	 word="面子" pron="めんつ" pa="1" pos="N" />
-			<ex	 word="面会" pron="めんかい" pa="0" pos="N" jlpt="1" />
-			<ex	 word="面目" pron="めんもく" pa="0" pos="N" jlpt="1" />
-			<ex	 word="面倒" pron="めんどう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="面積" pron="めんせき" pa="0" pos="N" jlpt="2" />
-			<ex	 word="面接" pron="めんせつ" pa="0" pos="N" jlpt="2" />
+	<kanji	id="庭" freq="445" jlpt="3" gr="3">
+		<r on="テイ" >
+			<ex	 word="家庭" pron="かてい" pa="0" pos="N" jlpt="5" />
+			<ex	 word="庭園" pron="ていえん" pa="0" pos="N" />
+			<ex	 word="校庭" pron="こうてい" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="おも" kk="面" pa="1" pos="N" jlpt="3" >
-			<ex	 word="面影" pron="おもかげ" pa="0" pos="N" />
-			<ex	 word="面長" pron="おもなが" pa="0" pos="N" />
-		</r>
-		<r kun="おもて" kk="面" pa="3" pos="N" jlpt="1" ref="表">
-			<ex	 word="裏表" pron="うらおもて" pa="0" pos="N" jlpt="3" />
-		</r>
-		<r kun="つら" kk="面" pa="2" pos="N" jlpt="3" >
-		</r>
-		<r sp="まじめ" word="真面目" pa="0" pos="N" cn="认真努力" />
-	</kanji>
-	
-	<kanji	id="免" freq="1185" jlpt="1" gr="8">
-		<r on="メン" >
-			<ex	 word="免許" pron="めんきょ" pa="1" pos="N" jlpt="3" eng="license" />
-			<ex	 word="免除" pron="めんじょ" pa="1" pos="N" jlpt="1" />
-			<ex	 word="赦免" pron="しゃめん" pa="0" pos="N" />
-			<ex	 word="免疫" pron="めんえき" pa="0" pos="N" eng="immunity" />
-			<ex	 word="免税" pron="めんぜい" pa="0" pos="N" jlpt="2" eng="tax-free" />
-		</r>
-		<r kun="まぬかれる" kk="免れる" pa="4" pos="t1" jlpt="1" >
+		<r kun="にわ" kk="庭" pa="0" pos="N" jlpt="5" >
+			<ex	 word="中庭" pron="なかにわ" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="猛" freq="1411" jlpt="1" gr="8">
-		<r on="モウ" >
-			<ex	 word="猛烈" pron="もうれつ" pa="0" pos="N" jlpt="1" />
-			<ex	 word="猛暑" pron="もうしょ" pa="1" pos="N" />
-			<ex	 word="猛獣" pron="もうじゅう" pa="0" pos="N" />
-		</r>
-		<r sp="もさ" word="猛者" pa="1" pos="N" />
-	</kanji>
-	
-	<kanji	id="綿" freq="1528" jlpt="2" gr="5">
-		<r on="メン" >
-			<ex	 word="綿密" pron="めんみつ" pa="0" pos="NA" />
-			<ex	 word="綿布" pron="めんぷ" pa="1" pos="N" />
-			<ex	 word="木綿" pron="もめん" pa="1" pos="N" jlpt="4" />
-		</r>
-		<r kun="わた" kk="綿" pa="2" pos="N" jlpt="3" >
-			<ex	 word="綿菓子" pron="わたがし" pa="0" pos="N" cn="棉花糖" />
+	<kanji	id="逓" freq="3717" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="逓送" pron="ていそう" pa="0" pos="N/ts" />
+			<ex	 word="逓増" pron="ていぞう" pa="0" pos="N/js" />
 		</r>
 	</kanji>
 	
-	<kanji	id="茂" freq="1240" jlpt="1" gr="8">
-		<r on="モ" >
-			<ex	 word="繁茂" pron="はんも" pa="1" pos="NA" />
-		</r>
-		<r kun="しげる" kk="茂る" pa="2" pos="*j5" jlpt="2" >
-			<ex	 word="茂み" pron="しげみ" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="模" freq="1046" jlpt="1" gr="6">
-		<r on="モ" >
-			<ex	 word="模擬" pron="もぎ" pa="1" pos="N" />
-			<ex	 word="模型" pron="もけい" pa="0" pos="N" jlpt="1" eng="model" />
-			<ex	 word="模倣" pron="もほう" pa="0" pos="N" jlpt="1" eng="imitation" />
-		</r>
-		<r on="ボ" >
-			<ex	 word="規模" pron="きぼ" pa="1" pos="N" jlpt="1" eng="scale" />
+	<kanji	id="停" freq="1180" jlpt="2" gr="4">
+		<r on="テイ" >
+			<ex	 word="停留所" pron="ていりゅうじょ" pa="0" pos="N" />
+			<ex	 word="停車" pron="ていしゃ" pa="0" pos="N/js" />
+			<ex	 word="停止" pron="ていし" pa="0" pos="N/jts" jlpt="2" />
+			<ex	 word="停滞" pron="ていたい" pa="0" pos="js" jlpt="1" />
 		</r>
 	</kanji>
 	
-	<kanji	id="毛" freq="607" jlpt="2" gr="2">
-		<r on="モウ" >
-			<ex	 word="毛髪" pron="もうはつ" pa="1" pos="N" />
-			<ex	 word="毛細管" pron="もうさいかん" pa="0" pos="N" />
-		</r>
-		<r kun="け" kk="毛" pa="0" pos="N" jlpt="4" >
-			<ex	 word="毛虫" pron="けむし" pa="3" pos="N" />
-			<ex	 word="毛糸" pron="けいと" pa="0" pos="N" />
+	<kanji	id="偵" freq="1384" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="偵察" pron="ていさつ" pa="0" pos="N/ts" />
+			<ex	 word="名探偵" pron="めいたんてい" pa="3" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="妄" freq="2128" jlpt="1" gr="8">
-		<r on="モウ" >
-			<ex	 word="妄想" pron="もうそう" pa="0" pos="N" />
-			<ex	 word="迷妄" pron="めいもう" pa="0" pos="N" />
+	<kanji	id="堤" freq="1877" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="堤防" pron="ていぼう" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r on="ボウ" >
-			<ex	 word="妄言" pron="ぼうげん" pa="0" pos="N" />
+		<r kun="つつみ" kk="堤" pa="3" pos="N" ></r>
+	</kanji>
+		
+	<kanji	id="締" freq="1380" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="締結" pron="ていけつ" pa="0" pos="N" />
+		</r>
+		<r kun="しまる" kk="締まる" pa="2" pos="j5" jlpt="5" ></r>
+		<r kun="しめる" kk="締める" pa="2" pos="t1" jlpt="5" cn="系 绑" ></r>
+	</kanji>
+	
+	<kanji	id="提" freq="888" jlpt="1" gr="5">
+		<r on="テイ" >
+			<ex	 word="提言" pron="ていげん" pa="3" pos="N" />
+			<ex	 word="提出" pron="ていしゅつ" pa="0" pos="N" jlpt="3" />
+			<ex	 word="提供" pron="ていきょう" pa="0" pos="N" jlpt="1" />
+			<ex	 word="前提" pron="ぜんてい" pa="0" pos="N" jlpt="1" />
+		</r>
+		<r kun="さげる" kk="提げる・下げる" pa="2" pos="t1" ></r>
+	</kanji>
+	
+	<kanji	id="程" freq="325" jlpt="3" gr="5">
+		<r on="テイ" >
+			<ex	 word="程度" pron="ていど" pa="1" pos="N" jlpt="3"/>
+			<ex	 word="日程" pron="にってい" pa="0" pos="N" jlpt="2"/>
+			<ex	 word="過程" pron="かてい" pa="0" pos="N" jlpt="2"/>
+			<ex	 word="課程" pron="かてい" pa="0" pos="N" jlpt="2"/>
+		</r>
+		<r kun="ほど" kk="程" pa="0" pos="N" jlpt="3" >
+			<ex	 word="先程" pron="さきほど" pa="0" pos="adv" jlpt="2"/>
+			<ex	 word="後程" pron="のちほど" pa="0" pos="adv" />
 		</r>
 	</kanji>
 	
-	<kanji	id="盲" freq="1631" jlpt="1" gr="8">
-		<r on="モウ" >
-			<ex	 word="色盲" pron="しきもう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="盲点" pron="もうてん" pa="1" pos="N" jlpt="1" />
-			<ex	 word="盲従" pron="もうじゅう" pa="0" pos="N" />
-			<ex	 word="文盲" pron="もんもう" pa="0" pos="N" />
+	<kanji	id="艇" freq="1669" jlpt="1" gr="8">
+		<r on="テイ" >
+			<ex	 word="競艇" pron="きょうてい" pa="0" pos="N" />
+			<ex	 word="艦艇" pron="かんてい" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="耗" freq="3344" jlpt="1" gr="8">
-		<r on="モウ" >
-			<ex	 word="消耗" pron="しょうもう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="摩耗" pron="まもう" pa="0" pos="N" />
+	<kanji	id="泥" freq="1082" jlpt="2" gr="8">
+		<r on="デイ" >
+			<ex	 word="泥酔" pron="でいすい" pa="0" pos="N" />
+			<ex	 word="雲泥の差" pron="うんでいのさ" pa="0" pos="N" eng="wide difference"/>
+			<ex	 word="拘泥" pron="こうでい" pa="0" pos="N/js" />
 		</r>
-		<r on="コウ" >
-			<ex	 word="心神耗弱" pron="しんしんこうじゃく" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
-	<kanji	id="網" freq="1520" jlpt="1" gr="8">
-		<r on="モウ" >
-			<ex	 word="網羅" pron="もうら" pa="1" pos="N" />
-			<ex	 word="網膜" pron="もうまく" pa="0" pos="N" />
-		</r>
-		<r kun="あみ" kk="網" pa="0" pos="N" jlpt="1" eng="net" >
-			<ex	 word="網戸" pron="あみど" pa="3" pos="N" />
+		<r kun="どろ" kk="泥" pa="2" pos="N" jlpt="3" >
+			<ex	 word="泥棒" pron="どろぼう" pa="0" pos="N" jlpt="4"/>
+			<ex	 word="泥沼" pron="どろぬま" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="目" freq="53" jlpt="4" gr="1">
-		<r on="モク" >
-			<ex	 word="目的" pron="もくてき" pa="0" pos="N" jlpt="3" />
-			<ex	 word="目標" pron="もくひょう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="注目" pron="ちゅうもく" pa="0" pos="N" jlpt="3" />
-			<ex	 word="項目" pron="こうもく" pa="0" pos="N" jlpt="2" eng="item" />
-			<ex	 word="目次" pron="もくじ" pa="0" pos="N" jlpt="2" eng="table of contents" />
-			<ex	 word="目前" pron="もくぜん" pa="0" pos="N" />
+	<kanji	id="的" freq="38" jlpt="5" gr="4">
+		<r on="テキ" >
+			<ex	 word="目的" pron="もくてき" pa="0" pos="N" jlpt="3" eng="goal" />
+			<ex	 word="的中" pron="てきちゅう" pa="0" pos="js"  cn="命中" />
 		</r>
-		<r on="ボク" >
-			<ex	 word="面目" pron="めんぼく" pa="0" pos="N" />
+		<r kun="まと" kk="的" pa="0" pos="N" jlpt="1" cn="目标"></r>
+	</kanji>
+	
+	<kanji	id="笛" freq="1378" jlpt="1" gr="3">
+		<r on="テキ" >
+			<ex	 word="警笛" pron="けいてき" pa="0" pos="N" eng="alarm" />
+			<ex	 word="汽笛" pron="きてき" pa="0" pos="N" />
 		</r>
-		<r kun="め" kk="目" pa="1" pos="N" jlpt="4" >
-			<ex	 word="目立つ" pron="めだつ" pa="２" pos="N" jlpt="2" />
-			<ex	 word="目上" pron="めうえ" pa="0" pos="N" jlpt="2" />
-			<ex	 word="目下" pron="めした" pa="0" pos="N" jlpt="2" />
-			<ex	 word="目安" pron="めやす" pa="0" pos="N" jlpt="2" />
-			<ex	 word="目覚まし" pron="めざまし" pa="0" pos="N" jlpt="2" eng="alarm clock" />
-			<ex	 word="目指す" pron="めざす" pa="0" pos="t5" jlpt="2" eng="to aim at" />
-		</r>
-		<r kun="ま" kk="目" pa="1" pos="N" jlpt="4" >
-			<ex	 word="目の当たり" pron="まのあたり" pa="２" pos="N" />
-			<ex	 word="目深" pron="まぶか" pa="２" pos="N" />
+		<r kun="ふえ" kk="笛" pa="0" pos="N" jlpt="3" >
+			<ex	 word="口笛" pron="くちぶえ" pa="0" pos="N" cn="口哨" eng="whistle"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="黙" freq="557" jlpt="1" gr="8">
-		<r on="モク" >
-			<ex	 word="沈黙" pron="ちんもく" pa="0" pos="N" jlpt="1" />
-			<ex	 word="暗黙" pron="あんもく" pa="0" pos="N" />
-		</r>
-		<r kun="だまる" kk="黙る" pa="2" pos="j5" jlpt="3" >
-		</r>
-	</kanji>
-	
-	<kanji	id="門" freq="188" jlpt="2" gr="2">
-		<r on="モン" >
-			<ex	 word="狭き門" pron="せまきもん" pa="0" pos="N" />
-			<ex	 word="門限" pron="もんげん" pa="3" pos="N" />
-			<ex	 word="専門" pron="ちんもく" pa="0" pos="N" jlpt="2" />
-			<ex	 word="部門" pron="ぶもん" pa="0" pos="N" jlpt="1" />
-		</r>
-		<r kun="かど" kk="門" pa="1" pos="N" jlpt="5" eng="gate" >
-			<ex	 word="門松" pron="かどまつ" pa="0" pos="N" />
+	<kanji	id="適" freq="1079" jlpt="3" gr="5">
+		<r on="テキ" >
+			<ex	 word="適当" pron="てきとう" pa="0" pos="NA/js" jlpt="4"/>
+			<ex	 word="適用" pron="てきよう" pa="0" pos="N/ts" jlpt="3"/>
+			<ex	 word="適切" pron="てきせつ" pa="0" pos="NA" jlpt="3"/>
+			<ex	 word="適度" pron="てきど" pa="1" pos="NA" jlpt="3"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="問" freq="176" jlpt="4" gr="3">
-		<r on="モン" >
-			<ex	 word="問答" pron="もんどう" pa="3" pos="N" jlpt="2" />
-			<ex	 word="問題" pron="もんだい" pa="0" pos="N" jlpt="5" />
-			<ex	 word="訪問" pron="ほうもん" pa="0" pos="N" jlpt="3" />
-			<ex	 word="質問" pron="しつもん" pa="0" pos="N" jlpt="5" />
+	<kanji	id="摘" freq="1771" jlpt="1" gr="8">
+		<r on="テキ" >
+			<ex	 word="指摘" pron="してき" pa="0" pos="N/ts" jlpt="1"  cn="指责"/>
+			<ex	 word="摘発" pron="てきはつ" pa="0" pos="N/ts" jlpt="" cn="取缔;抓获"/>
 		</r>
-		<r kun="とう" kk="問う" pa="1" pos="t5" jlpt="1" >
+		<r kun="つむ" kk="摘む" pa="0" pos="t5" jlpt="1" ph="茶葉を摘む" ></r>
+	</kanji>
+	
+	<kanji	id="滴" freq="1909" jlpt="2" gr="8">
+		<r on="テキ" >
+			<ex	 word="点滴" pron="てんてき" pa="0" pos="ts" />
+			<ex	 word="水滴" pron="すいてき" pa="0" pos="N" jlpt="2"/>
 		</r>
-		<r kun="とい" kk="問い" pa="0" pos="N" jlpt="3" >
-			<ex	 word="問いと答え" pron="といとこたえ" pa="0" pos="N" />
+		<r kun="しずく" kk="滴・雫" pa="3" pos="N" jlpt="1" eng="drop" ></r>
+		<r kun="したたる" kk="滴る" pa="3" pos="j5" cn="滴落;非常鲜艳美丽（青翠欲滴）"></r>
+	</kanji>
+	
+	<kanji	id="敵" freq="612" jlpt="1" gr="5">
+		<r on="テキ" >
+			<ex	 word="素敵" pron="すてき" pa="0" pos="NA" jlpt="3" cn="极好 绝妙" />
+			<ex	 word="敵対" pron="てきたい" pa="0" pos="N/js" />
+			<ex	 word="匹敵" pron="ひってき" pa="0" pos="N/js" jlpt="1" ph="相手に匹敵する" cn="并肩;匹敌" />
 		</r>
-		<r kun="とん" kk="問" pa="0" pos="N" jlpt="1" >
-			<ex	 word="問屋" pron="とんや" pa="0" pos="N" />
+		<r kun="かたき" kk="敵・仇" pa="3" pos="N" jlpt="1" >
+			<ex	 word="恋敵" pron="こいがたき" pa="3" pos="N" />
+			<ex	 word="商売敵" pron="しょうばいがたき" pa="5" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="野" freq="153" jlpt="4" gr="2">
-		<r on="ヤ" >
-			<ex	 word="野菜" pron="やさい" pa="0" pos="N" jlpt="5" />
-			<ex	 word="平野" pron="へいや" pa="0" pos="N" />
-			<ex	 word="野外" pron="やがい" pa="1" pos="N" jlpt="1"/>
-			<ex	 word="分野" pron="ぶんや" pa="1" pos="N" jlpt="3" eng="field" />
-			<ex	 word="野望" pron="やぼう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="野営" pron="やえい" pa="0" pos="N" jlpt="2" />
-		</r>
-		<r kun="の" kk="野" pa="1" pos="N" jlpt="3" >
-			<ex	 word="野原" pron="のはら" pa="1" pos="N" jlpt="2" />
-			<ex	 word="野放し" pron="のばなし" pa="2" pos="N" jlpt="2" cn="放牧" />
+	<kanji	id="迭" freq="4181" jlpt="1" gr="8">
+		<r on="テツ" >
+			<ex	 word="更迭" pron="こうてつ" pa="0" pos="N/jts" />
 		</r>
 	</kanji>
 	
-	<kanji	id="夜" freq="112" jlpt="4" gr="2">
-		<r on="ヤ" >
-			<ex	 word="夜勤" pron="やきん" pa="0" pos="N" />
-			<ex	 word="深夜" pron="しんや" pa="1" pos="N" jlpt="2" />
-			<ex	 word="昼夜" pron="ちゅうや" pa="1" pos="N" />
-		</r>
-		<r kun="よ" kk="夜" pa="1" pos="N" jlpt="5" >
-			<ex	 word="夜中" pron="よなか" pa="3" pos="N" jlpt="3" />
-			<ex	 word="夜風" pron="よかぜ" pa="1" pos="N" />
-			<ex	 word="夜明け" pron="よあけ" pa="3" pos="N" jlpt="3" />
-		</r>
-		<r kun="よる" kk="夜" pa="1" pos="N" jlpt="5" eng="evening;night">
+	<kanji	id="哲" freq="825" jlpt="1" gr="8">
+		<r on="テツ" >
+			<ex	 word="哲学" pron="てつがく" pa="20" pos="N" jlpt="3" eng="philosophy"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="厄" freq="1855" jlpt="1" gr="8">
-		<r on="ヤク" >
-			<ex	 word="厄介" pron="やっかい" pa="0" pos="N" jlpt="3" />
-			<ex	 word="災厄" pron="さいやく" pa="0" pos="N" />
-			<ex	 word="厄年" pron="やくどし" pa="2" pos="N" />
+	<kanji	id="鉄" freq="745" jlpt="2" gr="3">
+		<r on="テツ" >
+			<ex	 word="地下鉄" pron="ちかてつ" pa="0" pos="N" jlpt="5"/>
+			<ex	 word="鉄道" pron="てつどう" pa="0" pos="N" jlpt="3"/>
+			<ex	 word="鉄色" pron="てついろ" pa="0" pos="" />
+			<ex	 word="鉄人" pron="てつじん" pa="0" pos="" />
 		</r>
 	</kanji>
 	
-	<kanji	id="役" freq="392" jlpt="3" gr="3">
-		<r on="ヤク" >
-			<ex	 word="役所" pron="やくしょ" pa="0" pos="N" />
-			<ex	 word="役人" pron="やくにん" pa="0" pos="N" />
-			<ex	 word="主役" pron="しゅやく" pa="0" pos="N" />
-			<ex	 word="脇役" pron="わきやく" pa="0" pos="N" />
-			<ex	 word="役割" pron="やくわり" pa="0" pos="N" />
-		</r>
-		<r on="エキ" >
-			<ex	 word="兵役" pron="へいえき" pa="0" pos="N" />
-			<ex	 word="使役" pron="しえき" pa="0" pos="N" />
+	<kanji	id="徹" freq="1369" jlpt="1" gr="8">
+		<r on="テツ" >
+			<ex	 word="徹夜" pron="てつや" pa="0" pos="N/js" jlpt="3" eng="stay up"/>
+			<ex	 word="徹底" pron="てってい" pa="0" pos="N/js" jlpt="3"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="訳" freq="570" jlpt="1" gr="6">
-		<r on="ヤク" >
-			<ex	 word="翻訳" pron="やくしょ" pa="0" pos="N" jlpt="4" />
-			<ex	 word="通訳" pron="やくにん" pa="0" pos="N" jlpt="2" />
-			<ex	 word="訳文" pron="やくぶん" pa="0" pos="N" />
-		</r>
-		<r kun="わけ" kk="訳" pa="1" pos="N" jlpt="4" >
-			<ex	 word="内訳" pron="うちわけ" pa="0" pos="N" jlpt="1"  />
-			<ex	 word="言い訳" pron="いいわけ" pa="0" pos="N" />
+	<kanji	id="撤" freq="3172" jlpt="1" gr="8">
+		<r on="テツ" >
+			<ex	 word="撤退" pron="てったい" pa="0" pos="N/jts" />
+			<ex	 word="撤回" pron="てっかい" pa="0" pos="N/ts" />
 		</r>
 	</kanji>
 	
-	<kanji	id="薬" freq="865" jlpt="3" gr="3">
-		<r on="ヤク" >
-			<ex	 word="薬草" pron="やくしょ" pa="0" pos="N" />
-			<ex	 word="薬品" pron="やくひん" pa="0" pos="N" jlpt="2" />
-			<ex	 word="薬剤師" pron="やくざいし" pa="3" pos="N" />
-			<ex	 word="薬局" pron="やっきょく" pa="0" pos="N" jlpt="2" />
-			<ex	 word="火薬" pron="かやく" pa="0" pos="N" />
+	<kanji	id="天" freq="142" jlpt="5" gr="1">
+		<r on="テン" >
+			<ex	 word="天然" pron="てんねん" pa="0" pos="N" jlpt="3"/>
+			<ex	 word="天候" pron="てんこう" pa="0" pos="N" jlpt="3" eng="weather"/>
+			<ex	 word="能天気" pron="のうてんき" pa="3" pos="" jlpt=""/>
 		</r>
-		<r kun="くすり" kk="薬" pa="0" pos="N" jlpt="5" >
-			<ex	 word="飲み薬" pron="のみぐすり" pa="3" pos="N" />
-			<ex	 word="薬指" pron="くすりゆび" pa="3" pos="N" jlpt="2" eng="ring finger" />
-		</r>
-	</kanji>
-	
-	<kanji	id="躍" freq="1343" jlpt="1" gr="8">
-		<r on="ヤク" >
-			<ex	 word="躍動" pron="やくどう" pa="0" pos="N" />
-			<ex	 word="活躍" pron="かつやく" pa="3" pos="N" jlpt="2" />
-			<ex	 word="躍起" pron="やっき" pa="0" pos="N" />
-		</r>
-		<r kun="おどる" kk="躍る" pa="0" pos="j5" >
+		<r kun="あめ" kk="天" pa="1" pos="N" ></r>
+		<r kun="あま" kk="天" pa="1" pos="N" >
+			<ex	 word="天下り" pron="あまくだり" pa="0" pos="N" />
+			<ex	 word="天の川" pron="あまのがわ" pa="3" pos="N" jp="銀河"/>
+			<ex	 word="天城" pron="あまぎ" pa="1" pos="N" />
 		</r>
 	</kanji>
 	
-	<kanji	id="約" freq="683" jlpt="3" gr="4">
-		<r on="ヤク" >
-			<ex	 word="約束" pron="やくどう" pa="0" pos="N" jlpt="4" />
-			<ex	 word="契約" pron="けいやく" pa="0" pos="N" jlpt="3" />
-			<ex	 word="条約" pron="じょうやく" pa="0" pos="N" jlpt="1" />
-			<ex	 word="予約" pron="よやく" pa="0" pos="N" jlpt="4" />
-			<ex	 word="公約" pron="こうやく" pa="0" pos="N" eng="public promise" />
-			<ex	 word="約款" pron="やっかん" pa="0" pos="N" />
+	<kanji	id="典" freq="1237" jlpt="1" gr="4">
+		<r on="テン" >
+			<ex	 word="辞典" pron="じてん" pa="0" pos="NA" jlpt="4"/>
+			<ex	 word="典型" pron="てんけい" pa="0" pos="NA" jlpt="3"/>
+			<ex	 word="古典" pron="こてん" pa="0" pos="NA" jlpt="2"/>
+			<ex	 word="式典" pron="しきてん" pa="0" pos="N" eng="ceremony"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="由" freq="281" jlpt="3" gr="3">
-		<r on="ユ" >
-			<ex	 word="由来" pron="ゆらい" pa="0" pos="N" />
-			<ex	 word="経由" pron="けいゆ" pa="0" pos="N" />
+	<kanji	id="店" freq="379" jlpt="4" gr="2">
+		<r on="テン" >
+			<ex	 word="店内" pron="てんない" pa="1" pos="" jlpt=""/>
+			<ex	 word="出店" pron="しゅってん" pa="0" pos="" jlpt=""/>
 		</r>
-		<r on="ユウ" >
-			<ex	 word="理由" pron="りゆう" pa="0" pos="N" jlpt="4" />
-			<ex	 word="自由" pron="じゆう" pa="0" pos="N" jlpt="4" />
+		<r kun="みせ" kk="店" pa="2" pos="N" jlpt="5" eng="shop"></r>
+	</kanji>
+	
+	<kanji	id="転" freq="638" jlpt="4" gr="3">
+		<r on="テン" >
+			<ex	 word="運転" pron="うんてん" pa="0" pos="N/jts" jlpt="3"/>
+			<ex	 word="自転車" pron="てんねん" pa="2" pos="N" jlpt="5"/>
+			<ex	 word="転職" pron="てんしょく" pa="0" pos="js" />
 		</r>
-		<r on="ユイ" >
-			<ex	 word="由緒" pron="ゆいしょ" pa="0" pos="N" eng="history" />
-		</r>
-		<r kun="よし" kk="由" pa="0" pos="N" jlpt="4" eng="cause">
+		<r kun="ころがる" kk="転がる" pa="0" pos="j5" jlpt="2" ></r>
+		<r kun="ころげる" kk="転げる" pa="0" pos="j1" ></r>
+		<r kun="ころがす" kk="転がす" pa="0" pos="t5" jlpt="2" ></r>
+		<r kun="ころぶ" kk="転ぶ" pa="0" pos="j5" jlpt="3" cn="跌倒"></r>
+	</kanji>
+	
+	<kanji	id="点" freq="208" jlpt="3" gr="2">
+		<r on="テン" >
+			<ex	 word="点数" pron="てんすう" pa="0" pos="N" jlpt="2"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="油" freq="992" jlpt="2" gr="3">
-		<r on="ユ" >
-			<ex	 word="石油" pron="せきゆ" pa="0" pos="N" jlpt="3" />
-			<ex	 word="原油" pron="げんゆ" pa="0" pos="N" jlpt="1" />
-			<ex	 word="醤油" pron="しょうゆ" pa="0" pos="N" />
-			<ex	 word="油田" pron="ゆでん" pa="0" pos="N" />
-			<ex	 word="油脂" pron="ゆし" pa="1" pos="N" />
-		</r>
-		<r kun="あぶら" kk="油" pa="0" pos="N" jlpt="3" eng="oil" >
-			<ex	 word="油絵" pron="あぶらえ" pa="1" pos="N" jlpt="1" />
-			<sentence>油を売る・油を搾る・油を注ぐ</sentence>
+	<kanji	id="展" freq="960" jlpt="1" gr="6">
+		<r on="テン" >
+			<ex	 word="発展" pron="はってん" pa="0" pos="N/js" jlpt="3" eng="development"/>
+			<ex	 word="展望" pron="てんぼう" pa="0" pos="N/ts" jlpt="1"/>
+			<ex	 word="展覧会" pron="てんらんかい" pa="3" pos="N" jlpt="4"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="愉" freq="1226" jlpt="1" gr="8">
-		<r on="ユ" >
-			<ex	 word="愉快" pron="ゆかい" pa="0" pos="N" jlpt="3" />
-			<ex	 word="愉悦" pron="ゆえつ" pa="0" pos="N" eng="joy" />
+	<kanji	id="添" freq="1136" jlpt="1" gr="8">
+		<r on="テン" >
+			<ex	 word="無添加" pron="むてんか" pa="2" pos="N" />
+			<ex	 word="添乗員" pron="てんじょういん" pa="3" pos="N" />
+			<ex	 word="添削" pron="てんさく" pa="0" pos="N" />
+		</r>
+		<r kun="そえる" kk="添える" pa="0" pos="t5" jlpt="1" ></r>
+		<r kun="そう" kk="添う" pa="0" pos="j5" jlpt="1" ph="影のように添う"></r>
+	</kanji>
+	
+	<kanji	id="田" freq="86" jlpt="4" gr="1">
+		<r on="デン" >
+			<ex	 word="田園" pron="でんえん" pa="0" pos="N" jlpt="1"/>
+			<ex	 word="水田" pron="すいでん" pa="0" pos="N" jlpt="1"/>
+		</r>
+		<r kun="た" kk="田" pa="1" pos="N" jlpt="3" ></r>
+	</kanji>
+	
+	<kanji	id="伝" freq="328" jlpt="3" gr="4">
+		<r on="デン" >
+			<ex	 word="宣伝" pron="でんえん" pa="0" pos="N" jlpt="2"/>
+			<ex	 word="伝説" pron="でんせつ" pa="0" pos="N" jlpt="1" eng="legend"/>
+			<ex	 word="伝統" pron="でんとう" pa="0" pos="N" jlpt="3" eng="tradition" />
+			<ex	 word="伝染" pron="でんせん" pa="0" pos="js" jlpt="2"/>
+			<ex	 word="伝授" pron="でんじゅ" pa="1" pos="N" />
+			<ex	 word="以心伝心" pron="いしんでんしん" pa="1" pos="N" />
+		</r>
+		<r kun="つたわる" kk="伝わる" pa="0" pos="j5" jlpt="2" cn="流传;传承"></r>
+		<r kun="つたえる" kk="伝える" pa="0" pos="t1" jlpt="4" cn="传达;传授;传给"></r>
+		<r kun="つたう" kk="伝う" pa="0" pos="j5" ></r>
+	</kanji>
+	
+	<kanji	id="電" freq="384" jlpt="5" gr="2">
+		<r on="デン" >
+			<ex	 word="電車" pron="でんしゃ" pa="0" pos="N" jlpt="5"/>
+			<ex	 word="電気" pron="でんえん" pa="0" pos="N" jlpt="5"/>
+			<ex	 word="電子" pron="でんし" pa="1" pos="N" jlpt="3"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="諭" freq="2331" jlpt="1" gr="8">
-		<r on="ユ" >
-			<ex	 word="教諭" pron="きょうゆ" pa="0" pos="N" eng="licensed teacher"/>
+	<kanji	id="殿" freq="577" jlpt="2" gr="8">
+		<r on="デン" >
+			<ex	 word="宮殿" pron="きゅうでん" pa="0" pos="N" jlpt="1"/>
+			<ex	 word="殿堂" pron="でんどう" pa="0" pos="N" />
 		</r>
-		<r kun="さとす" kk="諭す" pa="2" pos="t5" >
+		<r on="テン" >
+			<ex	 word="御殿" pron="ごてん" pa="1" pos="N" />
+		</r>
+		<r kun="との" kk="殿" pa="1" pos="N" ></r>
+		<r kun="どの" kk="殿" pa="1" pos="N" ph="~~殿"></r>
+	</kanji>
+	
+	<kanji	id="斗" freq="2049" jlpt="1" gr="8">
+		<r on="ト" >
 		</r>
 	</kanji>
 	
-	<kanji	id="輸" freq="1933" jlpt="2" gr="5">
-		<r on="ユ" >
-			<ex	 word="輸送" pron="ゆそう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="輸出" pron="ゆしゅつ" pa="0" pos="N" jlpt="3" />
-			<ex	 word="運輸" pron="うんゆ" pa="0" pos="N" jlpt="1" />
-			<ex	 word="密輸入" pron="みつゆにゅう" pa="0" pos="N" />
+	<kanji	id="吐" freq="1095" jlpt="1" gr="8">
+		<r on="ト" >
+			<ex	 word="吐露" pron="とろ" pa="1" pos="N" />
+			<ex	 word="嘔吐" pron="おうと" pa="1" pos="N" />
+		</r>
+		<r kun="はく" kk="吐く" pa="1" pos="t5" jlpt="3" ph="痰を吐く"></r>
+	</kanji>
+	
+	<kanji	id="徒" freq="832" jlpt="3" gr="4">
+		<r on="ト" >
+			<ex	 word="生徒" pron="せいと" pa="1" pos="" jlpt="5"/>
+			<ex	 word="徒歩" pron="とほ" pa="1" pos="" jlpt="1"/>
+			<ex	 word="徒労" pron="とろう" pa="0" pos="" jlpt=""/>
+		</r>
+		<r kun="むだ" kk="無駄" pa="0" pos="NA" jlpt="3" ></r>
+	</kanji>
+	
+	<kanji	id="都" freq="409" jlpt="3" gr="3">
+		<r on="ト" >
+			<ex	 word="都市" pron="とし" pa="1" pos="N" jlpt="3" eng="city;town"/>
+			<ex	 word="首都" pron="しゅと" pa="12" pos="N" jlpt="3" eng="capital"/>
+		</r>
+		<r on="ツ" >
+			<ex	 word="都合" pron="つごう" pa="0" pos="N/adv" jlpt="4"/>
+			<ex	 word="都度" pron="つど" pa="1" pos="N" />
+		</r>
+		<r kun="みやこ" kk="都" pa="0" pos="N" jlpt="3" ph="住んで都にする"></r>
+	</kanji>
+	
+	<kanji	id="途" freq="574" jlpt="3" gr="8">
+		<r on="ト" >
+			<ex	 word="途中" pron="とちゅう" pa="0" pos="N" jlpt="4"/>
+			<ex	 word="用途" pron="ようと" pa="1" pos="N" jlpt="2"/>
+			<ex	 word="前途" pron="ぜんと" pa="1" pos="N" jlpt="1"/>
+			<ex	 word="中途半端" pron="ちゅうとはんぱ" pa="4" pos="N" />
+			<ex	 word="途方" pron="とほう" pa="0" pos="N" cn="手段;方向"/>
 		</r>
 	</kanji>
 	
-	<kanji	id="癒" freq="1975" jlpt="1" gr="8">
-		<r on="ユ" >
-			<ex	 word="治癒" pron="ちゆ" pa="1" pos="N" />
-			<ex	 word="癒合" pron="ゆごう" pa="0" pos="N" />
+	<kanji	id="渡" freq="399" jlpt="3" gr="8">
+		<r on="ト" >
+			<ex	 word="譲渡" pron="じょうと" pa="1" pos="N" />
+			<ex	 word="渡来" pron="とらい" pa="0" pos="N" jlpt=""/>
 		</r>
+		<r kun="わたる" kk="渡る" pa="0" pos="j5" jlpt="5" >
+			<ex	 word="渡り鳥" pron="わたりどり" pa="3" pos="N" cn="候鸟"/>
+		</r>
+		<r kun="わたす" kk="渡す" pa="0" pos="t5" jlpt="5" cn="交给" eng="to hand over;to give"></r>
+	</kanji>
+	
+	<kanji	id="塗" freq="1346" jlpt="2" gr="8">
+		<r on="ト" >
+			<ex	 word="塗料" pron="とりょう" pa="1" pos="N" />
+		</r>
+		<r kun="ぬる" kk="塗る" pa="0" pos="t5" jlpt="4" ph="顔に泥を塗る"></r>
+	</kanji>
+	
+	<kanji	id="土" freq="234" jlpt="5" gr="1">
+		<r on="ド" >
+			<ex	 word="土木" pron="どぼく" pa="0" pos="N" jlpt="1"/>
+			<ex	 word="国土" pron="こくど" pa="1" pos="N" jlpt="1"/>
+			<ex	 word="粘土" pron="ねんど" pa="1" pos="N" />
+		</r>
+		<r on="ト" >
+			<ex	 word="土地" pron="とち" pa="0" pos="N" jlpt="3"/>
+		</r>
+		<r kun="つち" kk="土" pa="2" pos="t5" jlpt="" cn="土を耕す"></r>
+	</kanji>
+	
+	<kanji	id="怒" freq="773" jlpt="3" gr="8">
+		<r on="ド" >
+			<ex	 word="激怒" pron="どぼく" pa="1" pos="N" eng="rage"/>
+			<ex	 word="怒涛" pron="こくど" pa="0" pos="N" />
+		</r>
+		<r kun="いかる" kk="怒る" pa="2" pos="j5" jlpt="4" ></r>
+		<r kun="おこる" kk="怒る" pa="2" pos="j5" jlpt="4" cn="发怒;训骂"></r>
 	</kanji>
 	
 </Dict>

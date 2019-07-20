@@ -350,7 +350,7 @@ nfu=			not frequently used		常用外
 		<r kun="かお" kk="顔" pa="0" pos="N" eng="face" >
 			<ex	 word="笑顔" pron="えがお" pa="1" pos="N" jlpt="3" />
 			<ex	 word="素顔" pron="すがお" pa="1" pos="N" jlpt="3" />
-		</>
+		</r>
 		<r nfu="かんばせ・（額）ひたい"></r>
 	</kanji>
 	

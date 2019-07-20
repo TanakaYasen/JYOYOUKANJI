@@ -433,7 +433,7 @@ cau=true		caution				中日异义
 			<ex	 word="開墾" pron="かいこん" pa="0" pos="N" />
 		</r>
 		<r kun="ひらく" kk="墾" pa="2" pos="t5" >
-		</r
+		</r>
 	</kanji>
 	
 	<kanji	id="懇" freq="1988" jlpt="1" gr="8">
@@ -444,9 +444,9 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
-	<kanji	id="左" freq="299" jlpt="5" gr="1">
+	<kanji	id="左" freq="299" jlpt="5" gr="1" >
 		<r on="サ" >
-			<ex	 word="左右" pron="さゆう" pa="0" pos="N" jlpt="3" eng="left&right"/>
+			<ex	 word="左右" pron="さゆう" pa="0" pos="N" jlpt="3" eng="left right" />
 		</r>
 		<r kun="ひだり" kk="左" pa="0" pos="N" jlpt="5" >
 		</r>
@@ -456,7 +456,7 @@ cau=true		caution				中日异义
 		<r on="サ" >
 			<ex	 word="補佐" pron="ほさ" pa="0" pos="N" eng="aid"/>
 		</r>
-		<r nfu="すけ・佐ける(たすける)">
+		<r nfu="すけ・佐ける(たすける)" >
 		</r>
 	</kanji>
 	
@@ -587,8 +587,8 @@ cau=true		caution				中日异义
 	
 	<kanji	id="妻" freq="428" jlpt="3" gr="5">
 		<r on="サイ" >
-			<ex	 word="妻子" pron="さいし" pa="1" pos="N" eng="wife&children"/>
-			<ex	 word="夫妻" pron="ふさい" pa="2" pos="N" jlpt="2" eng="H&W"/>
+			<ex	 word="妻子" pron="さいし" pa="1" pos="N" eng="wife children"/>
+			<ex	 word="夫妻" pron="ふさい" pa="2" pos="N" jlpt="2" eng="H W"/>
 		</r>
 		<r kun="つま" kk="妻" pa="1" pos="N" jlpt="4" >
 			<ex	 word="稲妻" pron="いなづま" pa="1" pos="N" eng="lightning"/>
@@ -656,6 +656,7 @@ cau=true		caution				中日异义
 			<ex	 word="救済" pron="きゅうさい" pa="0" pos="N" jlpt="1" eng="relief"/>
 		</r>
 		<r kun="すむ" kk="済む" pa="1" pos="j5" jlpt="4" >
+		</r>
 		<r kun="すます" kk="済ます" pa="2" pos="t5" jlpt="1" >
 		</r>
 	</kanji>
@@ -674,7 +675,7 @@ cau=true		caution				中日异义
 		<r on="サイ" >
 			<ex	 word="書斎" pron="しょさい" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r nfu="ものいみ・斎み(いみ)・とき・いつき・斎く(いつく)・斎う(いわう)">
+		<r nfu="ものいみ・斎み(いみ)・とき・いつき・斎く(いつく)・斎う(いわう)" />
 	</kanji>
 	
 	<kanji	id="細" freq="351" jlpt="2" gr="2">
@@ -692,7 +693,7 @@ cau=true		caution				中日异义
 		</r>
 		<r kun="こまかい" kk="細かい" pa="2" pos="adj" jlpt="4" >
 		</r>
-		<r nfu="細やか(ささやか)・細しい(くわしい)">
+		<r nfu="細やか(ささやか)・細しい(くわしい)" ></r>
 	</kanji>
 	
 	<kanji	id="菜" freq="1431" jlpt="2" gr="4">
@@ -709,7 +710,7 @@ cau=true		caution				中日异义
 		</r>
 		<r kun="もっとも" kk="最も" pa="2" pos="adv" jlpt="3" >
 		</r>
-		<r nfu="も">
+		<r nfu="も" />
 	</kanji>
 	
 	<kanji	id="裁" freq="1321" jlpt="1" gr="6">
@@ -733,7 +734,8 @@ cau=true		caution				中日异义
 			<ex	 word="債務" pron="さいむ" pa="0" pos="N" eng="debt" />
 			<ex	 word="負債" pron="ふさい" pa="0" pos="N" />
 		</r>
-		<r nfu="債り(かり)・債し(かし)">
+		<r nfu="債り(かり)・債し(かし)" >
+		</r>
 	</kanji>
 	
 	<kanji	id="催" freq="1540" jlpt="1" gr="8">
@@ -747,6 +749,7 @@ cau=true		caution				中日异义
 			<ex	 word="催し" pron="もよおし" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r nfu="催す(うながす)・催い(もよい)">
+		</r>
 	</kanji>
 	
 	<kanji	id="塞" freq="1882" gr="8">
@@ -761,6 +764,7 @@ cau=true		caution				中日异义
 		<r kun="ふさがる" kk="塞がる" pa="2" pos="j5" jlpt="2" >
 		</r>
 		<r nfu="とりで">
+		</r>
 	</kanji>
 	
 	<kanji	id="歳" freq="618" jlpt="3" gr="8">
@@ -770,6 +774,7 @@ cau=true		caution				中日异义
 		<r on="セイ" >
 		</r>
 		<r nfu="とし・よわい・歳ごとに(としごとに)">
+		</r>
 	</kanji>
 	
 	<kanji	id="載" freq="1090" jlpt="1" gr="8">
@@ -783,6 +788,7 @@ cau=true		caution				中日异义
 		<r kun="のる" kk="載る" pa="2" pos="j5" jlpt="2" >
 		</r>
 		<r nfu="とし・載す(しるす)">
+		</r>
 	</kanji>
 	
 	<kanji	id="際" freq="354" jlpt="3" gr="5">
@@ -793,6 +799,7 @@ cau=true		caution				中日异义
 		<r kun="きわ" kk="際" pa="2" pos="N" jlpt="1" eng="edge" >
 		</r>
 		<r nfu="あい・際わる(まじわる)">
+		</r>
 	</kanji>
 		
 	<kanji	id="埼" freq="3512" gr="8">
@@ -800,6 +807,7 @@ cau=true		caution				中日异义
 			<ex	 word="埼玉" pron="さいたま" pa="0" pos="N" cn="日本一个县" />
 		</r>
 		<r nfu="キ・さき">
+		</r>
 	</kanji>
 	
 	<kanji	id="在" freq="256" jlpt="3" gr="5">
@@ -811,6 +819,7 @@ cau=true		caution				中日异义
 		<r kun="ある" kk="在る" pa="1" pos="j5" jlpt="5" >
 		</r>
 		<r nfu="在す(います)・在す(まします)">
+		</r>
 	</kanji>
 	
 	<kanji	id="材" freq="1123" jlpt="2" gr="4">
@@ -821,6 +830,7 @@ cau=true		caution				中日异义
 			<ex	 word="材質" pron="ざいしつ" pa="0" pos="N" />
 		</r>
 		<r nfu="サイ・まるた">
+		</r>
 	</kanji>
 	
 	<kanji	id="剤" freq="2549" jlpt="1" gr="8">
@@ -829,6 +839,7 @@ cau=true		caution				中日异义
 			<ex	 word="薬剤" pron="やくざい" pa="0" pos="N" jlpt="3" eng="cruel"/>
 		</r>
 		<r nfu="セイ・剤ぜる(まぜる)">
+		</r>
 	</kanji>
 	
 	<kanji	id="財" freq="1168" jlpt="1" gr="8">
@@ -841,6 +852,7 @@ cau=true		caution				中日异义
 			<ex	 word="財布" pron="さいふ" pa="0" pos="N" jlpt="5" eng="wallet"/>
 		</r>
 		<r nfu="たから・財かに(わずかに)">
+		</r>
 	</kanji>
 	
 	<kanji	id="罪" freq="666" jlpt="3" gr="5">
@@ -853,6 +865,7 @@ cau=true		caution				中日异义
 		<r kun="つみ" kk="罪" pa="2" pos="N" jlpt="3" >
 		</r>
 		<r nfu="罪する(つみする)">
+		</r>
 	</kanji>
 	
 	<kanji	id="崎" freq="956" jlpt="1" gr="8">
@@ -862,6 +875,7 @@ cau=true		caution				中日异义
 			<ex	 word="川崎" pron="かわさき" pa="0" pos="N" />
 		</r>
 		<r nfu="キ・崎しい(けわしい)・（岬）みさき">
+		</r>
 	</kanji>
 	
 	<kanji	id="作" freq="46" jlpt="4" gr="2">
@@ -874,6 +888,7 @@ cau=true		caution				中日异义
 		<r kun="つくる" kk="作る" pa="2" pos="t5" jlpt="4" >
 		</r>
 		<r nfu="作す(なす)">
+		</r>
 	</kanji>
 	
 	<kanji	id="削" freq="2065" jlpt="1" gr="8">
@@ -884,6 +899,7 @@ cau=true		caution				中日异义
 		<r kun="けずる" kk="削る" pa="2" pos="adj" jlpt="4" >
 		</r>
 		<r nfu="削ぐ(そぐ)・削る(はつる)・削り(はつり)">
+		</r>
 	</kanji>
 	
 	<kanji	id="昨" freq="633" jlpt="1" gr="8">
@@ -891,6 +907,7 @@ cau=true		caution				中日异义
 			<ex	 word="昨日" pron="さくじつ" pa="0" pos="N" jlpt="3" eng="cruel"/>
 		</r>
 		<r nfu="きのう">
+		</r>
 	</kanji>
 	
 	<kanji	id="柵" freq="2358" jlpt="1" gr="8">
@@ -898,6 +915,7 @@ cau=true		caution				中日异义
 			<ex	 word="鉄柵" pron="てっさく" pa="0" pos="N" />
 		</r>
 		<r nfu="サン・しがらみ・とりで">
+		</r>
 	</kanji>
 	
 	<kanji	id="索" freq="1661" jlpt="1" gr="8">
@@ -907,6 +925,7 @@ cau=true		caution				中日异义
 			<ex	 word="捜索" pron="そうさく" pa="0" pos="N" jlpt="3" eng="search"/>
 		</r>
 		<r nfu="つな・なわ・索める(もとめる)・索す(さがす)">
+		</r>
 	</kanji>
 	
 	<kanji	id="策" freq="1164" jlpt="1" gr="8">
@@ -916,6 +935,7 @@ cau=true		caution				中日异义
 			<ex	 word="対策" pron="たいさく" pa="0" pos="N" jlpt="3" eng="cruel"/>
 		</r>
 		<r nfu="ふだ・ふみ・はかりごと・むち・策うつ(むちうつ)・つえ・策つく(つえつく)">
+		</r>
 	</kanji>
 	
 	<kanji	id="酢" freq="2930" jlpt="1" gr="8">
@@ -925,6 +945,7 @@ cau=true		caution				中日异义
 		<r kun="す" kk="酢" pa="2" pos="N" jlpt="4" >
 		</r>
 		<r nfu="ソ・酢い(すい)">
+		</r>
 	</kanji>
 	
 	<kanji	id="搾" freq="2690" jlpt="1" gr="8">
@@ -943,12 +964,14 @@ cau=true		caution				中日异义
 			<ex	 word="錯誤" pron="さくご" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r nfu="ソ・錯じる(まじる)・錯る(あやまる)・錯く(おく)">
+		</r>
 	</kanji>
 	
 	<kanji	id="咲" freq="1051" jlpt="2" gr="8">
 		<r kun="さく" kk="咲く" pa="2" pos="j5" jlpt="5" eng="to bloom" >
 		</r>
 		<r nfu="ショウ">
+		</r>
 	</kanji>
 	
 	<kanji	id="冊" freq="1588" jlpt="2" gr="6">
@@ -959,6 +982,7 @@ cau=true		caution				中日异义
 			<ex	 word="短冊" pron="たんざく" pa="0" pos="N" />
 		</r>
 		<r nfu="ふみ・冊てる(たてる)">
+		</r>
 	</kanji>
 	
 	<kanji	id="札" freq="1287" jlpt="2" gr="4">
@@ -970,6 +994,7 @@ cau=true		caution				中日异义
 		<r kun="ふだ" kk="札" pa="0" pos="N" jlpt="3" >
 		</r>
 		<r nfu="さね・わかじに">
+		</r>
 	</kanji>
 	
 	<kanji	id="刷" freq="729" jlpt="2" gr="4">
@@ -980,6 +1005,7 @@ cau=true		caution				中日异义
 		<r kun="する" kk="刷る" pa="2" pos="t5" jlpt="2" >
 		</r>
 		<r nfu="刷く(はく)">
+		</r>
 	</kanji>
 	
 	<kanji	id="刹" freq="2055" gr="8">
@@ -1012,6 +1038,7 @@ cau=true		caution				中日异义
 		<r kun="ころす" kk="殺す" pa="2" pos="t5" jlpt="3" >
 		</r>
 		<r nfu="殺ぐ(そぐ)・殺らす(へらす)">
+		</r>
 	</kanji>
 	
 	<kanji	id="察" freq="608" jlpt="3" gr="4">
@@ -1022,6 +1049,7 @@ cau=true		caution				中日异义
 			<ex	 word="監察" pron="かんさつ" pa="0" pos="N" />
 		</r>
 		<r nfu="察る(しる)・察る(みる)・察らか(あきらか)">
+		</r>
 	</kanji>
 	
 	<kanji	id="撮" freq="1997" jlpt="1" gr="8">
@@ -1031,6 +1059,7 @@ cau=true		caution				中日异义
 		<r kun="とる" kk="撮る" pa="2" pos="t5" jlpt="5" >
 		</r>
 		<r nfu="撮む(つまむ)">
+		</r>
 	</kanji>
 	
 	<kanji	id="擦" freq="1986" jlpt="1" gr="8">
@@ -1042,6 +1071,7 @@ cau=true		caution				中日异义
 		<r kun="すれる" kk="擦れる" pa="2" pos="j1" jlpt="1" >
 		</r>
 		<r nfu="擦る(こする)・擦る(なする)・擦る(さする)・擦れる(かすれる)">
+		</r>
 	</kanji>
 	
 	<kanji	id="雑" freq="525" jlpt="3" gr="5">
@@ -1053,6 +1083,7 @@ cau=true		caution				中日异义
 		<r on="ゾウ" >
 		</r>
 		<r nfu="雑じる(まじる)・雑ぜる(まぜる)">
+		</r>
 	</kanji>
 	
 	<kanji	id="皿" freq="1532" jlpt="2" gr="3">
@@ -1060,6 +1091,7 @@ cau=true		caution				中日异义
 			<ex	 word="灰皿" pron="はいざら" pa="0" pos="N" jlpt="5" />
 		</r>
 		<r nfu="ベイ">
+		</r>
 	</kanji>
 	
 	<kanji	id="三" freq="30" jlpt="5" gr="1">
@@ -1080,6 +1112,7 @@ cau=true		caution				中日异义
 		<r kun="やま" kk="山" pa="2" pos="N" jlpt="5" >
 		</r>
 		<r nfu="セン">
+		</r>
 	</kanji>
 	
 	<kanji	id="参" freq="490" jlpt="3" gr="4">
@@ -1090,6 +1123,7 @@ cau=true		caution				中日异义
 		<r kun="まいる" kk="参る" pa="2" pos="j5" jlpt="4" >
 		</r>
 		<r nfu="シン・参わる(まじわる)">
+		</r>
 	</kanji>
 	
 	<kanji	id="桟" freq="2374" jlpt="1" gr="8">
@@ -1097,6 +1131,7 @@ cau=true		caution				中日异义
 			<ex	 word="桟橋" pron="さんばし" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r nfu="かけはし・（棚）たな・さじき・さん">
+		</r>
 	</kanji>
 	
 	<kanji	id="蚕" freq="2827" jlpt="1" gr="6">
@@ -1106,6 +1141,7 @@ cau=true		caution				中日异义
 		<r kun="かいこ" kk="蚕" pa="2" pos="N" >
 		</r>
 		<r nfu="こ">
+		</r>
 	</kanji>
 	
 </Dict>

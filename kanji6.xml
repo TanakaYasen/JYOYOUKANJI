@@ -416,7 +416,7 @@ cau=true		caution				中日异义
 		<r on="コウ" >
 			<ex	 word="勾配" pron="こうばい" pa="3" pos="N" eng="slope" />
 		</r>
-		<r sp="まがたま" word="勾玉" pron="0" >
+		<r sp="まがたま" word="勾玉" pron="0" />
 		<r nfu="ク・かぎ">
 		</r>
 	</kanji>
@@ -783,11 +783,11 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
-	<kanji	id="貢ぐfreq="1843" jlpt="2" gr="5">
+	<kanji	id="貢" freq="1843" jlpt="2" gr="5">
 		<r on="コウ" >
 			<ex	 word="貢ぐ" pron="こうさく" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="貢ぐ" pron="こうち" pa="1" pos="N" jlpt="2" />
-			<ex	 word="農貢ぐpron="のうこう" pa="0" pos="N" jlpt="1" />
+			<ex	 word="農貢" pron="のうこう" pa="0" pos="N" jlpt="1" />
 		</r>
 	</kanji>
 	
