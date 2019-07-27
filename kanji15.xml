@@ -236,6 +236,7 @@ cau=true		caution				中日异义
 -->
 
 <Dict>
+	
 	<kanji	id="濯" freq="2381" jlpt="2" gr="8">
 		<r on="タク" >
 			<ex	 word="洗濯" pron="せんたく" pa="0" jlpt="5" pos="N" cn="洗涤" />

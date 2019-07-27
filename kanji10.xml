@@ -238,8 +238,6 @@ cau=true		caution				中日异义
 	
 	<kanji	id="叔" freq="916" jlpt="3" gr="6">
 		<r on="シュク" >
-			<ex	 word="叔父" pron="おじ" pa="0" pos="NA" />
-			<ex	 word="叔母" pron="おば" pa="0" pos="NA" />
 		</r>
 		<r sp="おじ" word="叔父" pa="0" pos="N" />
 		<r sp="おば" word="叔母" pa="0" pos="N" />
@@ -247,29 +245,30 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
-	<kanji	id="祝" freq="1285" jlpt="3" gr="6">
+	<kanji	id="祝" freq="1285" jlpt="2" gr="4">
 		<r on="シュク" >
+			<ex	 word="祝日" pron="しゅくじつ" pa="0" pos="N" jlpt="2" />
+			<ex	 word="祝賀" pron="しゅくが" pa="0" pos="NA" jlpt="1" />
 			<ex	 word="慶祝" pron="けいしゅく" pa="0" pos="NA" />
-			<ex	 word="祝賀" pron="しゅくが" pa="0" pos="NA" />
 		</r>
 		<r on="シユウ" >
 			<ex	 word="祝儀" pron="しゅうぎ" pa="0" pos="NA" />
 			<ex	 word="祝言" pron="しゅうげん" pa="0" pos="NA" />
 		</r>
-		<r kun="いわう" kk="祝う" pa="1" pos="N" jlpt="5" >
+		<r kun="いわう" kk="祝う" pa="1" pos="N" jlpt="3" >
 		</r>	
 		<r sp="のりと" word="祝詞" pa="0" pos="N" />
 		<r nfu="祝る(のる)・呪う≒祝う(のろう)・祝つ(たつ)">
 		</r>
 	</kanji>
 	
-	<kanji	id="宿" freq="438" jlpt="3" gr="6">
+	<kanji	id="宿" freq="438" jlpt="3" gr="3">
 		<r on="シュク" >
-			<ex	 word="宿題" pron="しゅくだい" pa="0" pos="NA" />
-			<ex	 word="宿命" pron="しゅくめい" pa="0" pos="NA" />
-			<ex	 word="宿泊" pron="しゅくはく" pa="0" pos="NA" />
+			<ex	 word="宿題" pron="しゅくだい" pa="0" pos="NA" jlpt="5" />
+			<ex	 word="宿命" pron="しゅくめい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="宿泊" pron="しゅくはく" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="やど" kk="宿" pa="1" pos="N" jlpt="5" >
+		<r kun="やど" kk="宿" pa="1" pos="N" jlpt="3" >
 			<ex	 word="宿屋" pron="やどや" pa="0" pos="NA" />
 			<ex	 word="相宿" pron="あいやど" pa="0" pos="NA" />
 		</r>

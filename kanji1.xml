@@ -237,7 +237,7 @@ nfu=			not frequently used		常用外
 -->
 
 <Dict>
-
+	
 	<kanji	id="亜" freq="1701" jlpt="1" gr="8">
 		<r on="ア" >
 			<ex	 word="亜細亜" pron="アジア" pa="1" pos="N" jlpt="4" cn="亚洲" eng="asia" />
@@ -1087,5 +1087,6 @@ nfu=			not frequently used		常用外
 		</r>
 		<r nfu="閲する(けみする)・閲る≒経る(へる)"></r>
 	</kanji>
+	
 </Dict>
 

@@ -236,6 +236,7 @@ cau=true		caution				中日异义
 -->
 
 <Dict>
+	
 	<kanji	id="頂" freq="857" jlpt="3" gr="6">
 		<r on="チョウ" >
 			<ex	 word="頂上" pron="ちょうじょう" pa="0" pos="N" jlpt="3"/>

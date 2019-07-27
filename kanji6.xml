@@ -235,7 +235,7 @@ cau=true		caution				中日异义
 -->
 
 <Dict>
-		
+	
 	<kanji	id="雇" freq="1862" jlpt="2" gr="8">
 		<r on="コ" >
 			<ex	 word="雇用" pron="こよう" pa="0" pos="N/ts" jlpt="1" />
