@@ -1198,7 +1198,7 @@ cau=true		caution				中日异义
 	
 	<kanji	id="愉" freq="1226" jlpt="1" gr="8">
 		<r on="ユ" >
-			<ex	 word="愉快" pron="ゆかい" pa="0" pos="N" jlpt="3" />
+			<ex	 word="愉快" pron="ゆかい" pa="0" pos="NA" jlpt="3" eng="pleasant" />
 			<ex	 word="愉悦" pron="ゆえつ" pa="0" pos="N" eng="joy" />
 		</r>
 	</kanji>

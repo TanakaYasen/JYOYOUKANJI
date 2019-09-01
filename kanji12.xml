@@ -236,7 +236,7 @@ cau=true		caution				中日异义
 
 <Dict>
 	
-	<kanji	id="迅" freq="2467" jlpt="3" gr="6">
+	<kanji	id="迅" freq="2467" jlpt="1" gr="8">
 		<r on="ジン" >
 			<ex	 word="迅速" pron="じんそく" pa="0" pos="NA" jlpt="1" />
 			<ex	 word="疾風迅雷" pron="しっぷうじんらい" pa="0" pos="N" />
@@ -245,20 +245,20 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
-	<kanji	id="甚" freq="819" jlpt="3" gr="6">
+	<kanji	id="甚" freq="819" jlpt="1" gr="8">
 		<r on="ジン" >
 			<ex	 word="激甚" pron="げきじん" pa="0" pos="N" />
 			<ex	 word="幸甚" pron="こうじん" pa="0" pos="N" />
 		</r>
-		<r kun="はなはだ" kk="甚だ" pa="2" pos="N" jlpt="5" >
+		<r kun="はなはだ" kk="甚だ" pa="0" pos="adv" jlpt="1" eng="very" >
 		</r>
-		<r kun="はなはだしい" kk="甚だしい" pa="2" pos="N" jlpt="5" >
+		<r kun="はなはだしい" kk="甚だしい" pa="5" pos="adj" jlpt="2" eng="extreme" >
 		</r>
 		<r nfu="甚く(いたく)">
 		</r>
 	</kanji>
 	
-	<kanji	id="陣" freq="1004" jlpt="3" gr="6">
+	<kanji	id="陣" freq="1004" jlpt="1" gr="8">
 		<r on="ジン" >
 			<ex	 word="円陣" pron="えんじん" pa="0" pos="N" />
 			<ex	 word="初陣" pron="ういじん" pa="0" pos="N" />
@@ -268,12 +268,12 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
-	<kanji	id="尋" freq="908" jlpt="3" gr="6">
+	<kanji	id="尋" freq="908" jlpt="1" gr="8">
 		<r on="ジン" >
-			<ex	 word="尋常" pron="えんじん" pa="0" pos="N" />
-			<ex	 word="尋問" pron="ういじん" pa="0" pos="N" />
+			<ex	 word="尋常" pron="じんじょう" pa="0" pos="NA" />
+			<ex	 word="尋問" pron="じんもん" pa="0" pos="N" />
 		</r>
-		<r kun="たずねる" kk="尋ねる" pa="2" pos="N" jlpt="5" >
+		<r kun="たずねる" kk="尋ねる" pa="3" pos="t1" jlpt="4" eng="to ask; to search" >
 		</r>
 		<r nfu="つね・ひろ">
 		</r>
