@@ -464,6 +464,18 @@ cau=true		caution				中日异义
 		</r>
 	</kanji>
 	
+	<kanji	id="膝" freq="954" gr="8">
+		<r kun="ひざ" kk="膝" pa="0" pos="N" jlpt="3" eng="knee" >
+		</r>
+		<r nfu="シツ"></r>
+	</kanji>
+	
+	<kanji	id="肘" freq="2697" gr="8">
+		<r kun="ひじ" kk="肘" pa="2" pos="N" jlpt="2" eng="elbow" >
+		</r>
+		<r nfu="チュウ"></r>
+	</kanji>
+	
 	<kanji	id="匹" freq="1427" jlpt="2" gr="8">
 		<r on="ヒツ" >
 			<ex	 word="匹敵" pron="ひってき" pa="0" pos="N" jlpt="1" />

@@ -256,13 +256,13 @@ cau=true		caution				中日异义
 	
 	<kanji	id="乳" freq="1147" jlpt="2" gr="6">
 		<r on="ニュウ" >
-			<ex	 word="牛乳" pron="ぎゅうにゅう" pa="0" pos="N" jlpt="5" />
+			<ex	 word="牛乳" pron="ぎゅうにゅう" pa="0" pos="N" jlpt="5" eng="milk" />
 			<ex	 word="乳児" pron="にゅうじ" pa="0" pos="N" />
 		</r>
 		<r kun="ちち" kk="乳" pa="1" pos="N" jlpt="1"> </r>
 		<r kun="ち" kk="乳" pa="0" pos="" jlpt="">
-			<ex	 word="乳首" pron="ちくび" pa="1" pos="N" />
-			<ex	 word="乳房" pron="ちぶさ" pa="1" pos="N" />
+			<ex	 word="乳首" pron="ちくび" pa="1" pos="N" eng="nipple" />
+			<ex	 word="乳房" pron="ちぶさ" pa="1" pos="N" eng="breast" jp="おっぱい" />
 		</r>
 	</kanji>
 	

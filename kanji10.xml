@@ -247,16 +247,17 @@ cau=true		caution				中日异义
 	
 	<kanji	id="祝" freq="1285" jlpt="2" gr="4">
 		<r on="シュク" >
-			<ex	 word="祝日" pron="しゅくじつ" pa="0" pos="N" jlpt="2" />
-			<ex	 word="祝賀" pron="しゅくが" pa="0" pos="NA" jlpt="1" />
+			<ex	 word="祝日" pron="しゅくじつ" pa="0" pos="N" jlpt="2" eng="national holiday" />
+			<ex	 word="祝賀" pron="しゅくが" pa="0" pos="N" jlpt="1" eng="celebration; congratulations" />
+			<ex	 word="祝福" pron="しゅくふく" pa="0" pos="N" eng="blessing" />
 			<ex	 word="慶祝" pron="けいしゅく" pa="0" pos="NA" />
 		</r>
 		<r on="シユウ" >
-			<ex	 word="祝儀" pron="しゅうぎ" pa="0" pos="NA" />
-			<ex	 word="祝言" pron="しゅうげん" pa="0" pos="NA" />
+			<ex	 word="祝儀" pron="しゅうぎ" pa="0" pos="N" />
+			<ex	 word="祝言" pron="しゅうげん" pa="0" pos="N" />
 		</r>
-		<r kun="いわう" kk="祝う" pa="1" pos="N" jlpt="3" >
-		</r>	
+		<r kun="いわう" kk="祝う" pa="2" pos="t5" jlpt="3" eng="to celebrate; to congratulate" >
+		</r>
 		<r sp="のりと" word="祝詞" pa="0" pos="N" />
 		<r nfu="祝る(のる)・呪う≒祝う(のろう)・祝つ(たつ)">
 		</r>

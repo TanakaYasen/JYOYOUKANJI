@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+		LIST
+亜	哀	挨	愛	曖	悪	握	圧	扱	宛
+
+-->
+
+<!--	ABBR
+-->
+
+<Dict>
+	
+	<kanji	id="渚" freq="427" jlpt="3" gr="4">
+		<r on="ルイ" >
+		</r>
+		<r kun="なぎさ" kk="渚" pa="0" pos="N" jlpt="1" eng="shore" >
+		</r>
+	</kanji>
+	
+	<kanji	id="椿" freq="2162" jlpt="3" gr="4">
+		<r on="チン" >
+		</r>
+		<r kun="つばき" kk="椿" pa="1" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="楠" freq="2162" jlpt="3" gr="4">
+		<r on="ナン" >
+		</r>
+		<r kun="くす" kk="楠" pa="1" pos="N" jlpt="1" />
+		<r kun="くすのき" kk="楠" pa="1" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="梓" freq="2162" jlpt="3" gr="4">
+		<r on="シ" >
+		</r>
+		<r kun="あずさ" kk="梓" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="檎" freq="2162" jlpt="3" gr="4">
+		<r on="ゴ" >
+		</r>
+		<r on="キン" >
+		</r>
+	</kanji>
+	
+	<kanji	id="蟹" freq="2162" jlpt="3" gr="4">
+		<r on="カイ" >
+		</r>
+		<r kun="かに" kk="蟹" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="霞" freq="2162" jlpt="3" gr="4">
+		<r on="カ" >
+		</r>
+		<r kun="かすみ" kk="霞" pa="1" pos="N" jlpt="1" />
+		<r kun="かすむ" kk="霞む" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="鞘" freq="2162" jlpt="3" gr="4">
+		<r on="ショウ" >
+		</r>
+		<r kun="さや" kk="鞘" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="鮎" freq="2162" jlpt="3" gr="4">
+		<r on="デン" >
+		</r>
+		<r kun="あゆ" kk="鮎" pa="1" pos="N" jlpt="1" />
+		<r kun="なまず" kk="鯰" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="鯉" freq="2162" jlpt="3" gr="4">
+		<r on="リ" >
+		</r>
+		<r kun="こい" kk="鯉" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="鳶" freq="2162" jlpt="3" gr="4">
+		<r on="エン" >
+		</r>
+		<r kun="とび" kk="鳶" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="鳩" freq="2162" jlpt="3" gr="4">
+		<r on="エン" >
+		</r>
+		<r kun="はと" kk="鳩" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="鴨" freq="2162" jlpt="3" gr="4">
+		<r kun="かも" kk="鴨" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="鯛" freq="2162" jlpt="3" gr="4">
+		<r on="デン" >
+		</r>
+		<r kun="たい" kk="鯛" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="論" freq="171" jlpt="3" gr="6">
+		<r on="ロン" >
+			<ex	 word="異論" pron="いろん" pa="0" pos="N" jlpt="1" eng="different opinion" />
+			<ex	 word="議論" pron="ぎろん" pa="0" pos="N" />
+			<ex	 word="結論" pron="けつろん" pa="0" pos="N" />
+			<ex	 word="言論" pron="げんろん" pa="0" pos="N" />
+		</r>
+		<r nfu="論う(あげつらう)・論く(とく)">
+		</r>
+	</kanji>
+	
+</Dict>
+

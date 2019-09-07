@@ -609,7 +609,7 @@ cau=true		caution				中日异义
 	<kanji	id="洗" freq="944" jlpt="3" gr="6">
 		<r on="セン" >
 			<ex	 word="洗濯" pron="せんたく"	pa="0" jlpt="5" pos="N/ts" />
-			<ex	 word="洗剤" pron="せんざい"	pa="0" jplp="2" cn="洗涤剂，洗衣粉" />
+			<ex	 word="洗剤" pron="せんざい"	pa="0" jlpt="2" cn="洗涤剂，洗衣粉" />
 		</r>
 		<r kun="あら`う" pa="0" kk="洗う">
 			<ex	 word="洗う" pron="あらう"	pa="*0" jlpt="5" pos="t5" />
@@ -620,7 +620,7 @@ cau=true		caution				中日异义
 		<r on="セン" >
 			<ex	 word="感染" pron="かんせん"	pa="0" jlpt="1" pos="N/js" eng="infection" />
 			<ex	 word="汚染" pron="おせん"		pa="0" jlpt="1" pos="N/js" eng="pollution" />
-			<ex	 word="伝染" pron="でんせん"	pa="0" jplt="2" pos="js" eng="contagion" />
+			<ex	 word="伝染" pron="でんせん"	pa="0" jlpt="2" pos="js" eng="contagion" />
 		</r>
 		<r kun="そ`める" pa="0" kk="染める">
 			<ex	 word="染める" pron="そめる"	pa="0" jlpt="1" pos="t1" eng="to dye" ext="おしゃれ染め・白髪染め"/>
@@ -638,7 +638,7 @@ cau=true		caution				中日异义
 	
 	<kanji	id="扇" freq="1656" jlpt="3" gr="6">
 		<r on="セン" >
-			<ex	 word="扇子" pron="せんす"	pa="0" jlpt="5" pos="N" ext="団扇（うちわ⓪）"/>
+			<ex	 word="扇子" pron="せんす"	pa="0" jlpt="5" pos="N" ref="団扇"/>
 		</r>
 		<r kun="おうぎ" pa="3" kk="扇" />
 	</kanji>

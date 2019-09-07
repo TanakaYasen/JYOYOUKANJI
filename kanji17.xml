@@ -551,7 +551,9 @@ cau=true		caution				中日异义
 			<ex	 word="洞窟" pron="どうくつ" pa="0" pos="N" />
 			<ex	 word="洞察" pron="どうさつ" pa="0" pos="N/ts" />
 		</r>
-		<r kun="ほら" kk="洞" pa="1" pos="N" jlpt="4" ></r>
+		<r kun="ほら" kk="洞" pa="1" pos="N" jlpt="4" >
+		</r>
+		<r nfu="トウ・うつろ・貫く≒洞く(つらぬく)・洞く(つらぬく)・うろ"></r>
 	</kanji>
 	
 	<kanji	id="胴" freq="1789" jlpt="1" gr="8">
@@ -572,8 +574,8 @@ cau=true		caution				中日异义
 			<ex	 word="動機" pron="どうき" pa="0" pos="N" jlpt="1" />
 			<ex	 word="騒動" pron="そうどう" pa="1" pos="N" jlpt="1"/>
 		</r>
-		<r kun="うごく" kk="動く" pa="2" pos="j5" jlpt="4" ></r>
-		<r kun="うごかす" kk="動かす" pa="3" pos="t5" jlpt="3" ></r>
+		<r kun="うご`く" kk="動く" pa="2" pos="j5" jlpt="4" ></r>
+		<r kun="うご`かす" kk="動かす" pa="3" pos="t5" jlpt="3" ></r>
 	</kanji>
 	
 	<kanji	id="童" freq="1116" jlpt="2" gr="3">
@@ -619,7 +621,7 @@ cau=true		caution				中日异义
 			<ex	 word="労働" pron="しょくどう" pa="0" pos="N" jlpt="3"/>
 			<ex	 word="稼働" pron="どうとく" pa="0" pos="N" />
 		</r>
-		<r kun="はたらく" kk="働く" pa="0" pos="jt5" jlpt="5" ph="~で働く" ref="勤める"></r>
+		<r kun="はたら`く" kk="働く" pa="0" pos="jt5" jlpt="5" ph="~で働く" ref="勤める"></r>
 	</kanji>
 	
 	<kanji	id="銅" freq="1596" jlpt="2" gr="5">
@@ -633,7 +635,8 @@ cau=true		caution				中日异义
 			<ex	 word="誘導" pron="ゆうどう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="指導" pron="しどう" pa="0" pos="N" jlpt="3" eng="guidance"/>
 		</r>
-		<r kun="みちびく" kk="導く" pa="3" pos="t5" jlpt="1" ></r>
+		<r kun="みちび`く" kk="導く" pa="3" pos="t5" jlpt="1" >
+		</r>
 	</kanji>
 	
 	<kanji	id="特" freq="353" jlpt="4" gr="4">
@@ -684,7 +687,7 @@ cau=true		caution				中日异义
 	
 	<kanji	id="篤" freq="2265" jlpt="1" gr="8">
 		<r on="トク" >
-			<ex	 word="危篤" pron="きとく" pa="0" pos="" />
+			<ex	 word="危篤" pron="きとく" pa="0" pos="N" />
 			<ex	 word="懇篤" pron="こんとく" pa="0" pos="NA" />
 		</r>
 	</kanji>
@@ -693,7 +696,7 @@ cau=true		caution				中日异义
 		<r on="ドク" >
 			<ex	 word="毒薬" pron="どくやく" pa="0" pos="N" />
 			<ex	 word="毒舌" pron="どくぜつ" pa="0" pos="N" />
-			<ex	 word="中毒" pron="ちゅうどく" pa="1" pos="" jlpt="1" />
+			<ex	 word="中毒" pron="ちゅうどく" pa="1" pos="N" jlpt="1" />
 		</r>
 	</kanji>
 	
@@ -701,7 +704,7 @@ cau=true		caution				中日异义
 		<r on="ドク" >
 			<ex	 word="独身" pron="どくしん" pa="1" pos="N" jlpt="" />
 			<ex	 word="独自" pron="どくじ" pa="1" pos="N/NA" jlpt="1" />
-			<ex	 word="孤独" pron="こどく" pa="0" pos="" jlpt="" />
+			<ex	 word="孤独" pron="こどく" pa="0" pos="NA" jlpt="1" />
 		</r>
 		<r kun="ひとり" kk="独り" pa="2" pos="N" jlpt="5"> </r>
 	</kanji>
@@ -712,35 +715,45 @@ cau=true		caution				中日异义
 			<ex	 word="音読" pron="おんどく" pa="0" pos="" jlpt="" cn="朗读"/>
 		</r>
 		<r on="トク" >
-			<ex	 word="読本" pron="とくほん" pa="0" pos="" jlpt="" />
+			<ex	 word="読本" pron="とくほん" pa="0" pos="N" jlpt="" />
 		</r>
 		<r on="トウ" >
 			<ex	 word="読点" pron="とうてん" pa="1" pos="N" jlpt="" cn="逗号" eng="comma"/>
 		</r>
-		<r kun="よむ" kk="読む" pa="1" pos="" jlpt=""> </r>
+		<r kun="よむ" kk="読む" pa="1" pos="t5" jlpt="5"> </r>
+	</kanji>
+	
+	<kanji	id="瞳" freq="1858" jlpt="1" gr="8">
+		<r on="ドウ" >
+			<ex	 word="瞳孔" pron="どうこう" pa="0" pos="N" jlpt="3" />
+		</r>
+		<r kun="ひとみ" kk="瞳" pa="0" pos="N" jlpt="2" >
+		</r>
 	</kanji>
 	
 	<kanji	id="峠" freq="1681" jlpt="1" gr="8">
-		<r kun="とうげ" kk="峠" pa="3" pos="" jlpt="" cn="山角"> </r>
+		<r kun="とうげ" kk="峠" pa="3" pos="N" jlpt="2" cn="山角"> </r>
 	</kanji>
 	
 	<kanji	id="突" freq="302" jlpt="3" gr="8">
 		<r on="トツ" >
-			<ex	 word="突然" pron="とつぜん" pa="0" pos="NA/adj" jlpt="3" />
-			<ex	 word="唐突" pron="とうとつ" pa="0" pos="" jlpt="" />
+			<ex	 word="突然" pron="とつぜん" pa="0" pos="NA" jlpt="3" />
+			<ex	 word="唐突" pron="とうとつ" pa="0" pos="NA" />
 		</r>
-		<r kun="つく" kk="突く" pa="0" pos="" jlpt=""> </r>
+		<r kun="つく" kk="突く" pa="0" pos="t5" jlpt="2"> </r>
 	</kanji>
 	
 	<kanji	id="凸" freq="2868" jlpt="1" gr="8">
 		<r on="トツ" >
-			<ex	 word="凹凸" pron="おうとつ" pa="0" pos="" />
+			<ex	 word="凹凸" pron="おうとつ" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
 	<kanji	id="届" freq="1241" jlpt="2" gr="6">
-		<r kun="とどける" kk="届ける" pa="3" pos="t1" jlpt="4"> </r>
-		<r kun="とどく" kk="届く" pa="2" pos="j5" jlpt="3"> </r>
+		<r kun="とどける" kk="届ける" pa="3" pos="t1" jlpt="4">
+		</r>
+		<r kun="とどく" kk="届く" pa="2" pos="j5" jlpt="3">
+		</r>
 	</kanji>
 	
 	<kanji	id="豚" freq="1853" jlpt="1" gr="8">
@@ -770,7 +783,30 @@ cau=true		caution				中日异义
 			<ex	 word="曇天" pron="どんてん" pa="0" pos="N" />
 		</r>
 		<r kun="くもる" kk="曇る" pa="2" pos="j5" jlpt="5" cn="变阴"></r>
-		<r kun="くもり" kk="曇り" pa="0" pos="N" jlpt="5"></r>
+		<r kun="くもり" kk="曇り" pa="0" pos="N" jlpt="5" eng="cloudiness"></r>
+	</kanji>
+	
+	<kanji	id="丼" freq="3413" jlpt="2" gr="8">
+		<r on="ドン" >
+		</r>
+	</kanji>
+	
+	<kanji	id="那" freq="1480" jlpt="1" gr="8">
+		<r on="ナ" >
+			<ex	 word="旦那" pron="だんな" pa="0" pos="N" jlpt="1" />
+			<ex	 word="那覇" pron="なは" pa="1" pos="N" />
+		</r>
+		<r nfu="ダ" />
+	</kanji>
+	
+	<kanji	id="奈" freq="1254" jlpt="1" gr="8">
+		<r on="ナ" >
+			<ex	 word="奈落" pron="ならく" pa="0" pos="N" eng="hell" cn="佛教术语中的地狱"/>
+			<ex	 word="神奈川" pron="かながわ" pa="2" pos="N" cn="日本关东的一个县" />
+			<ex	 word="奈良" pron="なら" pa="1" pos="N" cn="奈良县 奈良市 日本关西的一个行政区" />
+		</r>
+		<r sp="いかん" word="奈何" pa="0" pos="N" />
+		<r nfu="ダイ・いかん・奈せん(いかんせん)" />
 	</kanji>
 	
 	<kanji	id="内" freq="113" jlpt="3" gr="2">
@@ -787,6 +823,24 @@ cau=true		caution				中日异义
 			<ex	 word="内気" pron="うちき" pa="0" pos="N" />
 			<ex	 word="内輪" pron="うちわ" pa="0" pos="N" />
 		</r>
+	</kanji>
+	
+	<kanji	id="梨" freq="2293" jlpt="1" gr="8">
+		<r kun="なし" kk="梨" pa="20" pos="N" eng="pear" >
+		</r>
+		<r nfu="リ" />
+	</kanji>
+	
+	<kanji	id="謎" freq="2007" gr="8">
+		<r kun="なぞ" kk="謎" pa="0" pos="N" jlpt="3" cn="谜语;暗示" eng="mystery; puzzle" >
+		</r>
+		<r nfu="メイ" />
+	</kanji>
+	
+	<kanji	id="鍋" freq="1792" gr="8">
+		<r kun="なべ" kk="鍋" pa="1" pos="N" jlpt="3" eng="pot" >
+		</r>
+		<r nfu="カ" />
 	</kanji>
 	
 	<kanji	id="南" freq="494" jlpt="5" gr="2">
@@ -840,10 +894,21 @@ cau=true		caution				中日异义
 		<r on="ニ" >	</r>
 	</kanji>
 	
+	<kanji	id="匂" freq="1351" gr="8">
+		<r kun="におう" kk="匂う" pa="2" pos="j5" jlpt="2" eng="to be fragrant" >
+		</r>
+	</kanji>
+	
 	<kanji	id="肉" freq="533" jlpt="4" gr="2">
 		<r kun="にく" kk="肉" pa="2" pos="N" jlpt="5" >
 			<ex	 word="贅肉" pron="ぜいにく" pa="0" pos="N" />
 			<ex	 word="皮肉" pron="ひにく" pa="0" pos="N" jlpt="" />
+		</r>
+	</kanji>
+	
+	<kanji	id="虹" freq="2393" jlpt="1" gr="8">
+		<r kun="にじ" kk="虹" pa="2" pos="N" jlpt="2" eng="rainbow" >
+			<ex	 word="虹色" pron="にじいろ" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
@@ -862,5 +927,6 @@ cau=true		caution				中日异义
 			<ex	 word="二十日" pron="はつか" pa="0" pos="N" jlpt="" />
 		</r>
 	</kanji>
+	
 </Dict>
 

@@ -361,10 +361,10 @@ cau=true		caution				中日异义
 			<ex	 word="無償" pron="ほしょう" pa="0" pos="N" eng="without pay"/>
 			<ex	 word="賠償" pron="ばいしょう" pa="0" pos="N/ts" jlpt="1" eng="compensation" />
 			<ex	 word="補償" pron="ほしょう" pa="0" pos="N/ts" jlpt="1" eng="compensation" />
-			<ex	 word="償還" pron="しょうかん" pa="0" pos="N/ts" eng="repayment" >
+			<ex	 word="償還" pron="しょうかん" pa="0" pos="N/ts" eng="repayment" />
 			<ex	 word="償金" pron="しょうきん" pa="0" pos="N" />
 		</r>
-		<r kun="つぐなう" kk="償う" pa="1" pos="t5" jlpt="5" >
+		<r kun="つぐな`う" kk="償う" pa="1" pos="t5" jlpt="5" >
 		</r>
 	</kanji>
 	

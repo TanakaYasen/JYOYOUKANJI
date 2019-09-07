@@ -247,16 +247,16 @@ cau=true		caution				中日异义
 		<r on="ソウ" >
 			<ex	 word="霜害" pron="そうがい" pa="1" pos="N" />
 		</r>
-		<r kun="しも" kk="霜"  pa="2" >
+		<r kun="しも" kk="霜"  pa="2" pos="N" >
 			<ex	 word="霜降り" pron="しもふり" pa="1" pos="N" />
 		</r>
 	</kanji>
 	
 	<kanji	id="騒" freq="821" jlpt="1" gr="8">
 		<r on="ソウ" >
-			<ex	 word="騒動" pron="そうどう" pa="1" jlpt="1" pos="N" eng="strife" />
+			<ex	 word="騒動" pron="そうどう" pa="1" pos="N" jlpt="1" eng="strife" />
 		</r>
-		<r kun="さわぐ" kk="騒ぐ" pa="2" cn="吵闹" jlpt="4" />
+		<r kun="さわぐ" kk="騒ぐ" pa="2" pos="j5" jlpt="4" cn="吵闹" />
 	</kanji>
 	
 	<kanji	id="藻" freq="1962" jlpt="1" gr="8">

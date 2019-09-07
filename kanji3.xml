@@ -397,10 +397,11 @@ nfu=			not frequently used		常用外
 		<r nfu="諧らぐ(やわらぐ)・諧う(かなう)・諧う(ととのう)・諧れ(たわむれ)"></r>
 	</kanji>
 	
-	<kanji	id="貝" freq="1690" jlpt="2" gr="1">
+	<kanji	id="貝" freq="1690" jlpt="2" gr="1" lv="10" >
 		<r on="カイ" >
-			<ex	 word="仮説" pron="おんけん" pa="0" pos="N" />
+			<ex	 word="貝殻" pron="かいがら" pa="0" pos="N" />
 		</r>
+		<r nfu="バイ"></r>
 	</kanji>
 	
 	<kanji	id="外" freq="102" jlpt="5" gr="2">
@@ -600,6 +601,7 @@ nfu=			not frequently used		常用外
 			<ex	 word="捕獲" pron="ほかく" pa="0" pos="N/ts" jlpt="1" eng="capture" />
 		</r>
 		<r kun="える" kk="獲る" pa="1" pos="*t5" jlpt="3" ref="得る" />
+		<r sp="えもの" word="獲物" pa="0" pos="N" />
 	</kanji>
 	
 	<kanji	id="嚇" freq="2508" jlpt="1" gr="8">
@@ -616,14 +618,14 @@ nfu=			not frequently used		常用外
 		<r nfu="穫る(かる)・穫れる(とりいれる)"></r>
 	</kanji>
 	
-	<kanji	id="学" freq="49" jlpt="1" gr="8">
+	<kanji	id="学" freq="49" jlpt="5" gr="1" lv="10" >
 		<r on="ガク" >
 			<ex	 word="医学" pron="いがく" pa="0" pos="N" />
 			<ex	 word="学校" pron="がっこう" pa="0" pos="N" />
 			<ex	 word="学習" pron="がくしゅう" pa="0" pos="N" />
 			<ex	 word="大学" pron="だいがく" pa="0" pos="N" />
 		</r>
-		<r kun="まなぶ" kk="学ぶ" pa="1" pos="t5" jlpt="2" />
+		<r kun="まなぶ" kk="学ぶ" pa="0" pos="t5" jlpt="3" eng="to study" />
 		<r nfu="まなびや"></r>
 	</kanji>
 	

@@ -1097,11 +1097,11 @@ cau=true		caution				中日异义
 	<kanji	id="三" freq="30" jlpt="5" gr="1">
 		<r on="サン" >
 		</r>
-		<r kun="み" kk="三" pa="2" pos="t5" jlpt="3" >
+		<r kun="み" kk="三" pa="2" pos="Num" jlpt="3" >
 		</r>
-		<r kun="みつ" kk="三つ" pa="2" pos="t5" jlpt="3" >
+		<r kun="みつ" kk="三つ" pa="2" pos="Num" jlpt="3" >
 		</r>
-		<r kun="みっつ" kk="三つ" pa="2" pos="t5" jlpt="3" >
+		<r kun="みっつ" kk="三つ" pa="2" pos="Num" jlpt="3" >
 		</r>
 	</kanji>
 	

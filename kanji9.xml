@@ -608,7 +608,7 @@ cau=true		caution				中日异义
 			<ex	 word="主宰" pron="しゅさい" pa="0" pos="N/jts" />
 			<ex	 word="主人" pron="しゅじん" pa="1" pos="N" />
 			<ex	 word="主張" pron="しゅちょう" pa="0" pos="N/ts" jlpt="3" />
-			<ex	 word="主義" pron="しゅぎ" pa="1" pos="N" jlpt="3" eng"-ism"/>
+			<ex	 word="主義" pron="しゅぎ" pa="1" pos="N" jlpt="3" eng="-ism"/>
 			<ex	 word="主役" pron="しゅやく" pa="0" pos="N" jlpt="2" cn="主角" eng="leading actor(actress)"/>
 		</r>
 		<r on="ス" >

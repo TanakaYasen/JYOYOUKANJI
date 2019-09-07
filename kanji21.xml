@@ -375,7 +375,7 @@ cau=true		caution				中日异义
 			<ex	 word="撲滅" pron="ぼくめつ" pa="0" pos="N" />
 			<ex	 word="打撲" pron="だぼく" pa="0" pos="N" />
 		</r>
-		<r kun="すもう" kk="相撲" pa="0" pos="N" jlpt="2" > </r>
+		<r sp="すもう" word="相撲" pa="0" pos="N" />
 	</kanji>
 	
 	<kanji	id="没" freq="1570" jlpt="1" gr="8">
@@ -852,7 +852,7 @@ cau=true		caution				中日异义
 		</r>
 		<r kun="あかるむ" kk="明るむ" pa="3" pos="j5" >
 		</r>
-		<r kun="あからむ" kk="明らむ" pa="3" pos="j5" jpn="≒明るむ">
+		<r kun="あからむ" kk="明らむ" pa="3" pos="j5" jp="≒明るむ">
 		</r>
 		<r kun="あきらか" kk="明らか" pa="2" pos="NA" jlpt="3" >
 		</r>
