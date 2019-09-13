@@ -10,7 +10,7 @@
 			<ex	 word="対象" pron="たいしょう" pa="0" pos="N" jlpt="3" eng="target; object" />
 			<ex	 word="抽象" pron="ちゅうしょう" pa="0" pos="N" eng="abstraction" />
 		</r>
-		<r on="ゾウ" >
+		<r on="ゾウ" > 
 			<ex	 word="巨象" pron="きょぞう" pa="0" pos="N" />
 			<ex	 word="象牙" pron="ぞうげ" pa="30" pos="N" eng="ivory" />
 		</r>
@@ -466,9 +466,9 @@
 			<ex	 word="繁殖" pron="はんしょく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="学殖" pron="がくしょく" pa="0" pos="N" />
 		</r>
-		<r kun="ふえる" kk="殖える" pa="2" pos="j1" jlpt="4" >
+		<r kun="ふえる" kk="殖える" pa="2" pos="j1" jlpt="4" ref="増える" >
 		</r>
-		<r kun="ふやす" kk="殖やす" pa="2" pos="t5" jlpt="2" >
+		<r kun="ふやす" kk="殖やす" pa="2" pos="t5" jlpt="2" ref="増える">
 		</r>
 	</kanji>
 	
@@ -494,9 +494,9 @@
 			<ex	 word="触覚" pron="しょっかく" pa="0" pos="N" />
 			<ex	 word="触手" pron="しょくしゅ" pa="0" pos="N" />
 		</r>
-		<r kun="ふれる" kk="触れる" pa="0" pos="j1" jlpt="3" >
+		<r kun="ふれる" kk="触れる" pa="0" pos="j1" jlpt="3" eng="to touch" >
 		</r>
-		<r kun="さわる" kk="触る" pa="0" pos="j1" jlpt="4" >
+		<r kun="さわる" kk="触る" pa="0" pos="j1" jlpt="4" eng="to touch" >
 		</r>
 		<r nfu="ソク">
 		</r>
@@ -593,11 +593,11 @@
 			<ex	 word="屈伸" pron="くっしん" pa="0" pos="N" />
 			<ex	 word="伸縮" pron="しんしゅく" pa="0" pos="N" />
 		</r>
-		<r kun="のびる" kk="伸びる" pa="2" pos="j1" jlpt="3" >
+		<r kun="のびる" kk="伸びる" pa="2" pos="j1" jlpt="3" ref="延びる">
 		</r>
-		<r kun="のばす" kk="伸ばす" pa="2" pos="t5" jlpt="3" >
+		<r kun="のばす" kk="伸ばす" pa="2" pos="t5" jlpt="3" ref="延ばす">
 		</r>
-		<r kun="のべる" kk="伸べる" pa="2" pos="t1" >
+		<r kun="のべる" kk="伸べる" pa="2" pos="t1" ref="延べる">
 		</r>
 		<r nfu="申ねる(かさねる)・伸る(のる)">
 		</r>
@@ -859,7 +859,7 @@
 			<ex	 word="謹慎" pron="きんしん" pa="0" pos="N" cn="*禁闭" eng="self-restriction" />
 			<ex	 word="慎重" pron="しんちょう" pa="0" pos="NA" />
 		</r>
-		<r kun="つつしむ" kk="慎む" pa="２" pos="N" jlpt="5" >
+		<r kun="つつしむ" kk="慎む" pa="3" pos="t5" jlpt="１" ref="謹む" >
 		</r>
 		<r nfu="慎しい(つつましい)・慎しやか(つつましやか)">
 		</r>
@@ -896,9 +896,8 @@
 	
 	<kanji	id="震" freq="1058" jlpt="2" gr="8">
 		<r on="シン" >
-			<ex	 word="維新" pron="いしん" pa="0" pos="N" />
-			<ex	 word="革新" pron="かくしん" pa="0" pos="N" />
-			<ex	 word="更新" pron="こうしん" pa="0" pos="N" />
+			<ex	 word="震動" pron="しんどう" pa="0" pos="N" />
+			<ex	 word="地震" pron="じしん" pa="0" pos="N" />
 		</r>
 		<r kun="ふるう" kk="震う" pa="0" pos="j5" >
 		</r>

@@ -282,6 +282,13 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="藤" freq="426" jlpt="1" gr="8">
+		<r on="トウ" >
+			<ex	 word="葛藤" pron="かっとう" pa="0" pos="N/js" cn="心里矛盾; 纠葛" eng="conflict; complication" />
+		</r>
+		<r kun="ふじ" kk="藤" pa="0" pos="N" jlpt="3" ></r>
+	</kanji>
+	
 	<kanji	id="闘" freq="1137" jlpt="1" gr="8">
 		<r on="トウ" >
 			<ex	 word="戦闘" pron="せんとう" pa="1" pos="" jlpt="1"/>

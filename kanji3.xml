@@ -13,9 +13,9 @@
 		<r on="カイ" >
 			<ex	 word="後悔" pron="こうかい" pa="1" pos="N" />
 		</r>
-		<r kun="くいる" kk="悔いる" pa="2" pos="t1" jlpt="5" />
-		<r kun="くやむ" kk="悔やむ" pa="2" pos="t5" jlpt="5" />
-		<r kun="くやしい" kk="悔しい" pa="3" pos="adj" jlpt="5" />
+		<r kun="く`いる" kk="悔いる" pa="2" pos="t1" jlpt="5" />
+		<r kun="く`やむ" kk="悔やむ" pa="2" pos="t5" jlpt="5" />
+		<r kun="くや`しい" kk="悔しい" pa="3" pos="adj" jlpt="5" />
 		<r nfu="ケ"></r>
 	</kanji>
 	
@@ -67,8 +67,8 @@
 			<ex	 word="開催" pron="かいさい" pa="0" pos="N" />
 			<ex	 word="開放" pron="かいほう" pa="0" pos="N" />
 		</r>
-		<r kun="ひらく" kk="開く" pa="4" pos="jt5" jlpt="5" />
-		<r kun="ひらける" kk="開ける" pa="3" pos="j1" jlpt="5" />
+		<r kun="ひら`く" kk="開く" pa="4" pos="jt5" jlpt="5" />
+		<r kun="ひら`ける" kk="開ける" pa="3" pos="j1" jlpt="5" />
 		<r kun="あく" kk="開く" pa="0" pos="j5" jlpt="5" />
 		<r kun="あける" kk="開ける" pa="0" pos="t1" jlpt="5" />
 		<r nfu="開る(はだかる)・開ける(はだける)"></r>
@@ -217,6 +217,15 @@
 			<ex	 word="街道" pron="かいどう" pa="0" pos="N" />
 		</r>
 		<r kun="まち" kk="街" pa="2" pos="N" jlpt="5" ref="町"/>
+	</kanji>
+	
+	<kanji	id="慨" freq="1957" jlpt="1" gr="8">
+		<r on="ガイ" >
+			<ex	 word="憤慨" pron="ふんがい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="感慨" pron="かんがい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="慨嘆" pron="がいたん" pa="0" pos="N" />
+		</r>
+		<r nfu="カイ・慨く(なげく)・慨る(いきどおる)"></r>
 	</kanji>
 	
 	<kanji	id="蓋" freq="1473" gr="8">
@@ -384,12 +393,13 @@
 	
 	<kanji	id="学" freq="49" jlpt="5" gr="1" lv="10" >
 		<r on="ガク" >
-			<ex	 word="医学" pron="いがく" pa="0" pos="N" />
-			<ex	 word="学校" pron="がっこう" pa="0" pos="N" />
-			<ex	 word="学習" pron="がくしゅう" pa="0" pos="N" />
+			<ex	 word="医学" pron="いがく" pa="1" pos="N" />
+			<ex	 word="学校" pron="がっこう" pa="0" pos="N" jlpt="5" />
+			<ex	 word="学習" pron="がくしゅう" pa="0" pos="N/ts" jlpt="3" />
 			<ex	 word="大学" pron="だいがく" pa="0" pos="N" />
+			<ex	 word="学会" pron="がっかい" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="まなぶ" kk="学ぶ" pa="0" pos="t5" jlpt="3" eng="to study" />
+		<r kun="まな`ぶ" kk="学ぶ" pa="0" pos="t5" jlpt="3" eng="to study" />
 		<r nfu="まなびや"></r>
 	</kanji>
 	
@@ -418,7 +428,7 @@
 		<r on="ガク" >
 			<ex	 word="金額" pron="きんがく" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="ひたい" kk="額" pa="0" pos="N" jlpt="3" />
+		<r kun="ひたい" kk="額" pa="0" pos="N" jlpt="3" cn="额;天庭" />
 		<r nfu="額ずく(ぬかずく)"></r>
 	</kanji>
 	
@@ -513,7 +523,7 @@
 	
 	<kanji	id="褐" freq="2709" jlpt="1" gr="8">
 		<r on="カツ" >
-			<ex	 word="仮説" pron="おんけん" pa="0" pos="N" />
+			<ex	 word="褐色" pron="かっしょく" pa="0" pos="N" eng="dark brown" />
 		</r>
 	</kanji>
 	

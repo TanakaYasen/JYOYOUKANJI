@@ -525,6 +525,13 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="溺" freq="2287" gr="8">
+		<r on="デキ" >
+		</r>
+		<r kun="おぼれる" kk="溺れる" pa="0" pos="j1" jlpt="3" >
+		</r>
+	</kanji>
+	
 	<kanji	id="迭" freq="4181" jlpt="1" gr="8">
 		<r on="テツ" >
 			<ex	 word="更迭" pron="こうてつ" pa="0" pos="N/jts" />

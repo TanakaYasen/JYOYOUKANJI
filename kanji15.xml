@@ -60,6 +60,13 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="誰" freq="252" gr="8">
+		<r kun="だれ" kk="誰" pa="1" pos="N" >
+		</r>
+		<r nfu="スイ・たれ">
+		</r>
+	</kanji>
+	
 	<kanji	id="丹" freq="1142" jlpt="1" gr="8">
 		<r on="タン" >
 			<ex	 word="丹念" pron="たんねん" pa="1" pos="NA" cn="细心;精心"/>

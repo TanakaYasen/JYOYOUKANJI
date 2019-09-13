@@ -454,7 +454,6 @@
 		<r kun="けた" kk="桁" pa="0" pos="N" jlpt="2" >
 			<ex	 word="橋桁" pron="はしげた" pa="0" pos="N" />
 		</r>
-		<r nfu="劇しい≒激しい(はげしい)"></r>
 	</kanji>
 	
 	<kanji	id="欠" freq="1012" jlpt="3" gr="4">
@@ -514,22 +513,23 @@
 		<r kun="いさぎよい" kk="潔い" pa="4" pos="adj" > </r>
 	</kanji>
 	
-	<kanji	id="月" freq="47" jlpt="5" gr="1">
+	<kanji	id="月" freq="47" jlpt="5" gr="1" lv="10">
 		<r on="ゲツ" >
 			<ex	 word="今月" pron="こんげつ" pa="0" pos="N/adv" jlpt="5" />
 			<ex	 word="月食" pron="げっしょく" pa="0" pos="N" />
 		</r>
-		<r on="ガツ" >
+		<r on="ガツ" eng="month" >
 			<ex	 word="何月" pron="なんがつ" pa="1" pos="N" jlpt="5" />
 		</r>
-		<r kun="つき" kk="月" pa="2" pos="N" jlpt=""> </r>
+		<r kun="つき" kk="月" pa="2" pos="N" jlpt="3" eng="moon" > </r>
 	</kanji>
 	
-	<kanji	id="犬" freq="707" jlpt="4" gr="1">
+	<kanji	id="犬" freq="707" jlpt="4" gr="1" lv="10">
 		<r on="ケン" >
 			<ex	 word="犬猿" pron="けんえん" pa="0" pos="N" />
+			<ex	 word="盲導犬" pron="もうどうけん" pa="0" pos="N" />
 		</r>
-		<r kun="いぬ" kk="犬" pa="2" pos="N" jlpt="5"> </r>
+		<r kun="いぬ" kk="犬" pa="2" pos="N" jlpt="5" eng="dog" > </r>
 	</kanji>
 	
 	<kanji	id="件" freq="511" jlpt="3" gr="5">
@@ -540,13 +540,15 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="見" freq="3" jlpt="5" gr="1">
+	<kanji	id="見" freq="3" jlpt="5" gr="1" lv="10">
 		<r on="ケン" >
 			<ex	 word="意見" pron="いけｎ" pa="1" pos="N" jlpt="4" />
 		</r>
-		<r kun="みる" kk="見る" pa="1" pos="t1" jlpt="5"> </r>
-		<r kun="みえる" kk="見える" pa="2" pos="j1" jlpt="4"> </r>
-		<r kun="みせる" kk="見せる" pa="2" pos="t5" jlpt="5"> </r>
+		<r kun="み`る" kk="見る" pa="1" pos="t1" jlpt="5">
+		
+		</r>
+		<r kun="み`える" kk="見える" pa="2" pos="j1" jlpt="4"> </r>
+		<r kun="み`せる" kk="見せる" pa="2" pos="t5" jlpt="5"> </r>
 	</kanji>
 	
 	<kanji	id="券" freq="2565" jlpt="2" gr="5">

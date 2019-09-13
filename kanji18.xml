@@ -514,6 +514,13 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="箸" freq="2000" gr="8">
+		<r kun="はし" kk="箸" pa="1" pos="N" jlpt="5" eng="chopsticks" >
+		</r>
+		<r nfu="チョ" >
+		</r>
+	</kanji>
+	
 	<kanji	id="畑" freq="1139" jlpt="3" gr="3">
 		<r kun="はた" kk="畑" pa="2" pos="N" jlpt="3" >
 			<ex	 word="田畑" pron="たはた" pa="1" pos="N" />

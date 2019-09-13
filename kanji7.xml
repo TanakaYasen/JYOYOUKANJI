@@ -9,7 +9,6 @@
 			<ex	 word="全国" pron="ぜんこく" pa="0" pos="N" jlpt="3" />
 		</r>
 		<r kun="くに" kk="国" pa="0" pos="N" jlpt="5" >
-			<ex	 word="" pron="でむかえ" pa="0" pos="N" jlpt="2" />
 		</r>
 	</kanji>
 	
@@ -180,7 +179,7 @@
 	
 	<kanji	id="紺" freq="2070" jlpt="1" gr="8">
 		<r on="コン" >
-			<ex	 word="紺屋" pron="ざんこく" pa="0" pos="N" eng="dyer"/>
+			<ex	 word="紺屋" pron="コンや" pa="0" pos="N" eng="dyer"/>
 		</r>
 	</kanji>
 	

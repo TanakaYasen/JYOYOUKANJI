@@ -7,14 +7,14 @@
 -->
 
 <Dict>
-	<kanji	id="茜" freq="427" jlpt="3" gr="4">
+	<kanji	id="茜" freq="3658" jlpt="3" gr="4">
 		<r on="セン" >
 		</r>
 		<r kun="あかね" kk="茜" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="芥" freq="427" jlpt="3" gr="4">
+	<kanji	id="芥" freq="1776" jlpt="3" gr="4">
 		<r on="カイ" >
 		</r>
 		<r kun="からし" kk="芥子" pa="0" pos="N" jlpt="1" >
@@ -23,233 +23,225 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="葦" freq="427" jlpt="3" gr="4">
+	<kanji	id="葦" freq="2548" jlpt="3" gr="4">
 		<r on="イ" >
 		</r>
 		<r kun="あし" kk="葦" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="蕨" freq="171" jlpt="3" gr="6">
+	<kanji	id="蕨" freq="3564" jlpt="3" gr="6">
 		<r on="ケツ" >
 		</r>
 		<r kun="わらび" kk="蕨" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="笠" freq="427" jlpt="3" gr="4">
+	<kanji	id="笠" freq="1437" jlpt="3" gr="4">
 		<r on="リュウ" >
 		</r>
-		<r kun="かさ" kk="笠" pa="0" pos="N" jlpt="1" >
+		<r kun="かさ" kk="笠" pa="1" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="篠" freq="427" jlpt="3" gr="4">
+	<kanji	id="篠" freq="2304" jlpt="3" gr="4">
 		<r on="ダ" >
 		</r>
-		<r kun="しずく" kk="雫" pa="0" pos="N" jlpt="1" >
+		<r kun="しの" kk="篠" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="飴" freq="427" jlpt="3" gr="4">
+	<kanji	id="飴" freq="2615" jlpt="3" gr="4">
 		<r on="イ" >
 		</r>
 		<r kun="あめ" kk="飴" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="虻" freq="427" jlpt="3" gr="4">
+	<kanji	id="虻" freq="3723" jlpt="3" gr="4">
 		<r on="ボウ" >
 		</r>
 		<r kun="あぶ" kk="虻" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="綾" freq="427" jlpt="3" gr="4">
+	<kanji	id="綾" freq="2155" jlpt="3" gr="4">
 		<r on="リョウ" >
 		</r>
 		<r kun="あや" kk="綾" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="磯" freq="427" jlpt="3" gr="4">
+	<kanji	id="磯" freq="1726" jlpt="3" gr="4">
 		<r on="キ" >
 		</r>
 		<r kun="いそ" kk="磯" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="碇" freq="427" jlpt="3" gr="4">
+	<kanji	id="碇" freq="3322" jlpt="3" gr="4">
 		<r on="テイ" >
 		</r>
 		<r kun="いかり" kk="碇" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="瓜" freq="427" jlpt="3" gr="4">
+	<kanji	id="瓜" freq="1714" jlpt="3" gr="4">
 		<r on="カ" >
 		</r>
 		<r kun="うり" kk="瓜" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="云" freq="427" jlpt="3" gr="4">
+	<kanji	id="云" freq="39" jlpt="3" gr="4">
 		<r on="ウン" >
 		</r>
 		<r kun="いう" kk="云う" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="峨" freq="427" jlpt="3" gr="4">
+	<kanji	id="峨" freq="3269" jlpt="3" gr="4">
 		<r on="ガ" >
 		</r>
 	</kanji>
 	
-	<kanji	id="鎧" freq="427" jlpt="3" gr="4">
+	<kanji	id="鎧" freq="2348" jlpt="3" gr="4">
 		<r on="ガイ" >
 		</r>
 		<r kun="よろい" kk="鎧" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="鈎" freq="427" jlpt="3" gr="4">
+	<kanji	id="鈎" freq="3459" jlpt="3" gr="4">
 		<r on="ア" >
 		</r>
 		<r kun="かぎ" kk="鈎" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="癌" freq="427" jlpt="3" gr="4">
+	<kanji	id="癌" freq="3703" jlpt="3" gr="4">
 		<r on="ガン" >
 		</r>
 	</kanji>
 	
-	<kanji	id="鳶" freq="2162" jlpt="3" gr="4">
+	<kanji	id="鳶" freq="2452" jlpt="3" gr="4">
 		<r on="エン" >
 		</r>
 		<r kun="とび" kk="鳶" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="鳩" freq="2162" jlpt="3" gr="4">
+	<kanji	id="鳩" freq="2052" jlpt="3" gr="4">
 		<r on="エン" >
 		</r>
 		<r kun="はと" kk="鳩" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="鴨" freq="2162" jlpt="3" gr="4">
+	<kanji	id="鴨" freq="1815" jlpt="3" gr="4">
 		<r kun="かも" kk="鴨" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="蛙" freq="427" jlpt="3" gr="4">
+	<kanji	id="鴎" freq="2253" jlpt="3" gr="4">
+		<r kun="かもめ" kk="鴎" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="蛙" freq="1850" jlpt="3" gr="4">
 		<r on="ア" >
 		</r>
 		<r kun="かえる" kk="蛙" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="亀" freq="427" jlpt="3" gr="4">
-		<r on="キ" >
-		</r>
-		<r kun="かめ" kk="亀" pa="0" pos="N" jlpt="1" >
-		</r>
-	</kanji>
-	
-	<kanji	id="蟹" freq="2162" jlpt="3" gr="4">
+	<kanji	id="蟹" freq="2199" jlpt="3" gr="4">
 		<r on="カイ" >
 		</r>
 		<r kun="かに" kk="蟹" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="祇" freq="427" jlpt="3" gr="4">
+	<kanji	id="祇" freq="2521" jlpt="3" gr="4">
 		<r on="ギ" >
 		</r>
 	</kanji>
 	
-	<kanji	id="駒" freq="427" jlpt="3" gr="4">
-		<r kun="こま" kk="駒" pa="0" pos="N" jlpt="1" >
-		</r>
-	</kanji>
-	
-	<kanji	id="狐" freq="427" jlpt="3" gr="4">
+	<kanji	id="狐" freq="1445" jlpt="3" gr="4">
 		<r kun="きつね" kk="狐🦊" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="鼠" freq="427" jlpt="3" gr="4">
+	<kanji	id="鼠" freq="1352" jlpt="3" gr="4">
 		<r kun="ねずみ" kk="鼠🐭" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="獅" freq="427" jlpt="3" gr="4">
+	<kanji	id="獅" freq="2073" jlpt="3" gr="4">
 		<r kun="しし" kk="獅子" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="鯖" freq="427" jlpt="3" gr="4">
+	<kanji	id="鯖" freq="3896" jlpt="3" gr="4">
 		<r kun="さば" kk="鯖" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="鮎" freq="2162" jlpt="3" gr="4">
+	<kanji	id="鮎" freq="2309" jlpt="3" gr="4">
 		<r on="デン" >
 		</r>
 		<r kun="あゆ" kk="鮎" pa="1" pos="N" jlpt="1" />
 		<r kun="なまず" kk="鯰" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="鯉" freq="2162" jlpt="3" gr="4">
+	<kanji	id="鯉" freq="2257" jlpt="3" gr="4">
 		<r on="リ" >
 		</r>
 		<r kun="こい" kk="鯉" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="鯛" freq="2162" jlpt="3" gr="4">
+	<kanji	id="鯛" freq="2636" jlpt="3" gr="4">
 		<r on="デン" >
 		</r>
 		<r kun="たい" kk="鯛" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="鰐" freq="2162" jlpt="3" gr="4">
+	<kanji	id="鰐" freq="3284" jlpt="3" gr="4">
 		<r on="ガク" >
 		</r>
 		<r kun="わに" kk="鰐" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="鮒" freq="427" jlpt="3" gr="4">
+	<kanji	id="鮒" freq="2980" jlpt="3" gr="4">
 		<r on="フ" >
 		</r>
 		<r kun="ふな" kk="鮒" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="鰻" freq="427" jlpt="3" gr="4">
+	<kanji	id="鰻" freq="2706" jlpt="3" gr="4">
 		<r on="バン" >
 		</r>
 		<r kun="うなぎ" kk="鰻" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="雫" freq="427" jlpt="3" gr="4">
+	<kanji	id="雫" freq="2780" jlpt="3" gr="4">
 		<r on="ダ" >
 		</r>
 		<r kun="しずく" kk="雫" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="嘘" freq="427" jlpt="3" gr="4">
+	<kanji	id="嘘" freq="1230" jlpt="3" gr="4">
 		<r on="キョ" >
 		</r>
 		<r kun="うそ" kk="嘘" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="叶" freq="427" jlpt="3" gr="4">
+	<kanji	id="叶" freq="2530" jlpt="3" gr="4">
 		<r on="キョウ" >
 		</r>
 		<r kun="かなう" kk="叶う" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="喰" freq="427" jlpt="3" gr="4">
+	<kanji	id="喰" freq="1049" jlpt="3" gr="4">
 		<r on="サン" >
 		</r>
 		<r kun="くう" kk="喰う" pa="0" pos="N" jlpt="1" >
@@ -258,7 +250,7 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="渚" freq="427" jlpt="3" gr="4">
+	<kanji	id="渚" freq="2988" jlpt="3" gr="4">
 		<r on="ルイ" >
 		</r>
 		<r kun="なぎさ" kk="渚" pa="0" pos="N" jlpt="1" eng="shore" >
@@ -272,7 +264,7 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="楠" freq="2162" jlpt="3" gr="4">
+	<kanji	id="楠" freq="2171" jlpt="3" gr="4">
 		<r on="ナン" >
 		</r>
 		<r kun="くす" kk="楠" pa="1" pos="N" jlpt="1" />
@@ -280,71 +272,111 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="梓" freq="2162" jlpt="3" gr="4">
+	<kanji	id="梓" freq="3180" jlpt="3" gr="4">
 		<r on="シ" >
 		</r>
 		<r kun="あずさ" kk="梓" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="槻" freq="2162" jlpt="3" gr="4">
+	<kanji	id="槻" freq="3350" jlpt="3" gr="4">
 		<r on="キ" >
 		</r>
 		<r kun="つき" kk="槻" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="檎" freq="2162" jlpt="3" gr="4">
+	<kanji	id="檎" freq="2427" jlpt="3" gr="4">
 		<r on="ゴ" >
 		</r>
 		<r on="キン" >
 		</r>
 	</kanji>
 	
-	<kanji	id="楓" freq="2162" jlpt="3" gr="4">
+	<kanji	id="楓" freq="2716" jlpt="3" gr="4">
 		<r on="フウ" >
 		</r>
 		<r kun="かえで" kk="楓" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="掴" freq="2162" jlpt="3" gr="4">
+	<kanji	id="掴" freq="1503" jlpt="3" gr="4">
 		<r on="カク" >
 		</r>
 		<r kun="つかむ" kk="掴む" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="辻" freq="2162" jlpt="3" gr="4">
+	<kanji	id="辻" freq="1553" jlpt="3" gr="4">
 		<r kun="つじ" kk="辻" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="霞" freq="2162" jlpt="3" gr="4">
+	<kanji	id="霞" freq="1993" jlpt="3" gr="4">
 		<r on="カ" >
 		</r>
 		<r kun="かすみ" kk="霞" pa="1" pos="N" jlpt="1" />
 		<r kun="かすむ" kk="霞む" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="鞄" freq="427" jlpt="3" gr="4">
+	<kanji	id="鞄" freq="2177" jlpt="3" gr="4">
 		<r on="キョウ" >
 		</r>
 		<r kun="かばん" kk="鞄" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="鞘" freq="2162" jlpt="3" gr="4">
+	<kanji	id="鞘" freq="2489" jlpt="3" gr="4">
 		<r on="ショウ" >
 		</r>
 		<r kun="さや" kk="鞘" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="倭" freq="171" jlpt="3" gr="6">
+	<kanji	id="倭" freq="2675" jlpt="3" gr="6">
 		<r on="ワ" >
 		</r>
 		<r kun="やまと" kk="倭" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="妾" freq="171" jlpt="3" gr="6">
+	<kanji	id="妾" freq="1087" jlpt="3" gr="6">
 		<r on="ショウ" >
 		</r>
 		<r kun="めかけ" kk="妾" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="絆" freq="2759" jlpt="3" gr="6">
+		<r on="ショウ" >
+		</r>
+		<r kun="きずな" kk="絆" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="綺" freq="1395" jlpt="3" gr="6">
+		<r on="キ" >
+		</r>
+		<r kun="あや" kk="綺" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="顎" freq="1919" jlpt="3" gr="6">
+		<r on="キ" >
+		</r>
+		<r kun="あご" kk="顎" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="頬" freq="1014" jlpt="3" gr="6">
+		<r on="キ" >
+		</r>
+		<r kun="ほお" kk="頬" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="蔑" freq="1632" gr="8">
+		<r on="ベツ" >
+			<ex	 word="軽蔑" pron="けいべつ" pa="1" pos="N" />
+			<ex	 word="蔑視" pron="べっし" pa="1" pos="N" />
+		</r>
+		<r kun="さげすむ" kk="蔑む" pa="30" pos="t5" eng="to scorn" />
+	</kanji>
+	
+	<kanji	id="捧" freq="2074" gr="8">
+		<r on="ベツ" >
+			<ex	 word="軽蔑" pron="けいべつ" pa="1" pos="N" />
+			<ex	 word="蔑視" pron="べっし" pa="1" pos="N" />
+		</r>
+		<r kun="ささげる" kk="捧げる" pa="30" pos="t5" eng="to scorn" />
 	</kanji>
 	
 </Dict>

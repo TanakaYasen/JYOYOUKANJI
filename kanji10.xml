@@ -344,7 +344,7 @@
 			<ex	 word="書籍" pron="しょせき" pa="0" pos="NA" />
 			<ex	 word="図書館" pron="としょかん" pa="0" pos="NA" />
 		</r>
-		<r kun="かく" kk="書く" pa="1" pos="N" jlpt="5" >
+		<r kun="かく" kk="書く" pa="1" pos="N" jlpt="5" ref="描く" >
 			<ex	 word="筋書" pron="すじがき" pa="0" pos="NA" />
 		</r>
 		<r nfu="ふみ">
@@ -361,17 +361,17 @@
 	
 	<kanji	id="暑" freq="48" jlpt="1" gr="3">
 		<r on="ショ" >
-			<ex	 word="寒暑" pron="かんしょ" pa="0" pos="NA" />
-			<ex	 word="暑気" pron="しょき" pa="0" pos="NA" />
+			<ex	 word="寒暑" pron="かんしょ" pa="0" pos="N" />
+			<ex	 word="暑気" pron="しょき" pa="0" pos="N" />
 		</r>
-		<r kun="あつい" kk="暑い" pa="1" pos="N" jlpt="5" >
+		<r kun="あつい" kk="暑い" pa="1" pos="N" jlpt="5" ref="熱い">
 		</r>
 	</kanji>
 	
 	<kanji	id="署" freq="1606" jlpt="3" gr="6">
 		<r on="ショ" >
-			<ex	 word="警察署" pron="けいさつしょ" pa="0" pos="NA" />
-			<ex	 word="署名" pron="しょめい" pa="0" pos="NA" />
+			<ex	 word="警察署" pron="けいさつしょ" pa="0" pos="N" />
+			<ex	 word="署名" pron="しょめい" pa="0" pos="N" />
 		</r>
 		<r nfu="やくわり・署す(しるす)">
 		</r>
@@ -547,6 +547,7 @@
 			<ex	 word="召集" pron="しょうしゅう" pa="0" pos="N" />
 		</r>
 		<r kun="めす" kk="召す" pa="1" pos="N" jlpt="5" >
+			<ex	 word="召し上がる" pron="めしあがる" pa="04" pos="t5" />
 		</r>
 	</kanji>
 	
@@ -645,7 +646,7 @@
 			<ex	 word="湖沼" pron="こしょう" pa="0" pos="N" />
 			<ex	 word="沼沢" pron="しょうたく" pa="0" pos="N" />
 		</r>
-		<r kun="まつ" kk="松" pa="1" pos="N" jlpt="5" >
+		<r kun="ぬま" kk="沼" pa="2" pos="N" jlpt="1" eng="marsh" >
 			<ex	 word="沼地" pron="ぬまち" pa="0" pos="N" />
 			<ex	 word="泥沼" pron="どろぬま" pa="0" pos="N" />
 		</r>
