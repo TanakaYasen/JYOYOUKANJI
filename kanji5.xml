@@ -303,6 +303,7 @@
 			<ex	 word="傾斜" pron="けいしゃ" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r kun="かたむく" kk="傾く" pa="3" pos="j5" jlpt="2"></r>
+		<r kun="かたむける" kk="傾ける" pa="4" pos="t1" jlpt="1"></r>
 	</kanji>
 	
 	<kanji	id="携" freq="1972" jlpt="1" gr="8">
@@ -371,7 +372,7 @@
 		<r kun="いましめる" kk="警める" pa="4" pos="t1" ref="戒"></r>
 	</kanji>
 	
-	<kanji	id="鶏" freq="1457" jlpt="1" gr="8">
+	<kanji	id="鶏" freq="1457" jlpt="1" gr="8" alt="鷄">
 		<r on="ケイ" >
 			<ex	 word="鶏肉" pron="けいにく" pa="0" pos="N" jlpt="5" />
 		</r>
@@ -379,7 +380,7 @@
 		<r nfu="とり"></r>
 	</kanji>
 	
-	<kanji	id="芸" freq="366" jlpt="2" gr="4">
+	<kanji	id="芸" freq="366" jlpt="2" gr="4" alt="藝">
 		<r on="ゲイ" >
 			<ex	 word="芸術" pron="げいじゅつ" pa="0" pos="N" jlpt="3" />
 			<ex	 word="芸能" pron="げいのう" pa="10" pos="N" jlpt="2" />
@@ -437,7 +438,7 @@
 			<ex	 word="撃破" pron="げきは" pa="1" pos="N/ts" />
 			<ex	 word="狙撃" pron="そげき" pa="0" pos="N/ts" />
 		</r>
-		<r kun="うつ" kk="撃つ" pa="0" pos="t5" jlpt="3" ref="打"> </r>
+		<r kun="うつ" kk="撃つ" pa="0" pos="t5" jlpt="3" ref="打つ"> </r>
 		<r nfu="ケキ"></r>
 	</kanji>
 	
@@ -607,7 +608,7 @@
 		<r on="ケン" >
 			<ex	 word="兼任" pron="けんにん" pa="0" pos="js" />
 		</r>
-		<r kun="かねる" kk="兼ねる" pa="2" pos="N" jlpt="2">
+		<r kun="かねる" kk="兼ねる" pa="2" pos="t1" jlpt="2">
 			<ex	 word="兼ね合い" pron="かねあい" pa="0" pos="N" cn="保持均衡。兼顾"/>
 			<ex	 word="気兼ね" pron="きがね" pa="0" pos="N/js" jlpt="1" cn="多心，拘泥" />
 		</r>
@@ -632,10 +633,11 @@
 	
 	<kanji	id="軒" freq="785" jlpt="2" gr="8">
 		<r on="ケン" >
+		</r>
+		<r kun="のき" kk="軒" pa="0" pos="N" jlpt="3">
 			<ex	 word="軒先" pron="のきさき" pa="0" pos="N" />
 			<ex	 word="軒並み" pron="のきなみ" pa="0" pos="N" jlpt="1" cn="鳞次栉比" />
 		</r>
-		<r kun="のき" kk="軒" pa="0" pos="N" jlpt="3"> </r>
 	</kanji>
 	
 	<kanji	id="健" freq="948" jlpt="1" gr="4">
@@ -945,7 +947,7 @@
 		<r on="キ" >
 			<ex	 word="知己" pron="ちき" pa="1" pos="N" />
 		</r>
-		<r kun="おのれ" kk="己" pa="0" pos="N" jlpt="1" >	</r>
+		<r kun="おのれ" kk="己" pa="0" pos="N" jlpt="1" ></r>
 	</kanji>
 	
 	<kanji	id="戸" freq="235" jlpt="2" gr="2">

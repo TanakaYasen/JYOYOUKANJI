@@ -41,11 +41,9 @@
 		<r kun="こえ" kk="肥え" pa="2" pos="N" >
 			<ex	 word="下肥" pron="しもごえ" pa="0" pos="N" />
 		</r>
-		<r kun="こやす" kk="肥やす" pa="2" pos="t5" >
-			<sentence>土を肥やす・私腹を肥やす</sentence>
+		<r kun="こやす" kk="肥やす" pa="2" pos="t5" ph="土を肥やす・私腹を肥やす" >
 		</r>
-		<r kun="こやし" kk="肥やし" pa="3" pos="N" >
-			<sentence>失敗を肥やしにする</sentence>
+		<r kun="こやし" kk="肥やし" pa="3" pos="N" ph="失敗を肥やしにする" >
 		</r>
 	</kanji>
 	
@@ -63,8 +61,7 @@
 			<ex	 word="卑劣" pron="ひれつ" pa="0" pos="N/NA" />
 			<ex	 word="卑屈" pron="ひくつ" pa="0" pos="N/NA" />
 		</r>
-		<r kun="いやしい" kk="卑しい" pa="3" pos="adj" jlpt="1" ref="賤しい">
-			<sentence>酒に卑しい・金に卑しい</sentence>
+		<r kun="いやしい" kk="卑しい" pa="3" pos="adj" jlpt="1" ref="賤しい" ph="酒に卑しい・金に卑しい" >
 		</r>
 		<r kun="いやしむ" kk="卑しむ" pa="3" pos="j5">	</r>
 		<r kun="いやしめる" kk="卑しめる" pa="4" pos="t1" ></r>
@@ -76,11 +73,9 @@
 			<ex	 word="飛躍" pron="ひやく" pa="0" pos="N/NA" />
 		</r>
 		<r kun="とぶ" kk="飛ぶ" pa="0" pos="j5" jlpt="5" >
-			<ex	 word="飛び出す" pron="とびだす" pa="0" pos="j5" jlpt="3"/>
-			<sentence>空を飛ぶ・こちらはWIFIがとんでいますか。</sentence>
+			<ex	 word="飛び出す" pron="とびだす" pa="0" pos="j5" jlpt="3" ph="空を飛ぶ・こちらはWIFIがとんでいますか。" />
 		</r>
-		<r kun="とばす" kk="飛ばす" pa="0" pos="t5" jlpt="3" >
-			<sentence>車を飛ばしてきた</sentence>
+		<r kun="とばす" kk="飛ばす" pa="0" pos="t5" jlpt="3" ph="車を飛ばしてきた" >
 		</r>
 	</kanji>
 	
@@ -103,8 +98,7 @@
 			<ex	 word="秘訣" pron="ひけつ" pa="0" pos="N" />
 			<ex	 word="極秘" pron="ごくひ" pa="10" pos="N" eng="absolute secrecy"/>
 		</r>
-		<r kun="ひめる" kk="秘める" pa="2" pos="t1" >
-			<sentence>真相は長いこと秘められていた・可能性を秘めている</sentence>
+		<r kun="ひめる" kk="秘める" pa="2" pos="t1" ph="真相は長いこと秘められていた・可能性を秘めている" >
 		</r>
 	</kanji>
 	
@@ -113,8 +107,7 @@
 			<ex	 word="被害" pron="ひがい" pa="1" pos="N" jlpt="3" />
 			<ex	 word="法被" pron="はっぴ" pa="0" pos="N" />
 		</r>
-		<r kun="こうむる" kk="被る" pa="3" pos="t5" ref="蒙る">
-			<sentence>恩恵を被る・皆様のお陰を被りまして</sentence>
+		<r kun="こうむる" kk="被る" pa="3" pos="t5" ref="蒙る" ph="恩恵を被る・皆様のお陰を被りまして" >
 		</r>
 	</kanji>
 	
@@ -162,6 +155,15 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="罷" freq="2536" jlpt="1" gr="8">
+		<r on="ヒ" >
+			<ex	 word="罷業" pron="ひぎょう" pa="0" pos="N" eng="strike" jp="スト"/>
+			<ex	 word="罷免" pron="ひめん" pa="0" pos="N/ts" />
+		</r>
+		<r nfu="罷める(やめる)・罷める(やめる)・罷る(まかる)">
+		</r>
+	</kanji>
+	
 	<kanji	id="避" freq="1202" jlpt="1" gr="8">
 		<r on="ヒ" >
 			<ex	 word="避難" pron="ひなん" pa="1" pos="N" jlpt="1" />
@@ -169,8 +171,7 @@
 			<ex	 word="回避" pron="かいひ" pa="1" pos="N" />
 			<ex	 word="不可避" pron="ふかひ" pa="2" pos="N" />
 		</r>
-		<r kun="さける" kk="避ける" pa="2" pos="t1" jlpt="3">
-			<sentence>混雑を避けて早朝</sentence>
+		<r kun="さける" kk="避ける" pa="2" pos="t1" jlpt="3" ph="混雑を避けて早朝" >
 		</r>
 	</kanji>
 	
@@ -181,6 +182,17 @@
 			<ex	 word="最後尾" pron="さいこうび" pa="3" pos="N" />
 		</r>
 		<r kun="お" kk="尾" pa="1" pos="N" jlpt="1">
+		</r>
+	</kanji>
+	
+	<kanji	id="眉" freq="1264" jlpt="1" gr="8">
+		<r on="ビ" >
+			<ex	 word="焦眉" pron="しょうび" pa="0" pos="N" />
+		</r>
+		<r on="ミ" >
+			<ex	 word="眉間" pron="みけん" pa="0" pos="N" />
+		</r>
+		<r kun="まゆ" kk="眉" pa="1" pos="N" jlpt="1" eng="eyebrow">
 		</r>
 	</kanji>
 	
@@ -224,8 +236,7 @@
 		<r on="ビ" >
 			<ex	 word="耳鼻科" pron="じびか" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="はな" kk="鼻" pa="0" pos="N" jlpt="5">
-			<sentence>鼻で笑う</sentence>
+		<r kun="はな" kk="鼻" pa="0" pos="N" jlpt="5" ph="鼻で笑う" >
 		</r>
 	</kanji>
 	
@@ -311,23 +322,6 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="俵" freq="2130" jlpt="1" gr="5">
-		<r on="ヒョウ" >
-			<ex	 word="土俵" pron="どひょう" pa="0" pos="N" jlpt="1" />
-		</r>
-		<r kun="たわら" kk="俵" pa="0" pos="N" >
-		</r>
-	</kanji>
-	
-	<kanji	id="漂" freq="1636" jlpt="1" gr="8">
-		<r on="ヒョウ" >
-			<ex	 word="漂白" pron="ひょうはく" pa="0" pos="N/ts" />
-		</r>
-		<r kun="ただよう" kk="漂う" pa="3" pos="j5" jlpt="1">
-			<sentence>不穏な空気が漂っている</sentence>
-		</r>
-	</kanji>
-	
 	<kanji	id="表" freq="156" jlpt="3" gr="3">
 		<r on="ヒョウ" >
 			<ex	 word="表示" pron="じょうじ" pa="01" pos="N/ts" />
@@ -344,6 +338,14 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="俵" freq="2130" jlpt="1" gr="5">
+		<r on="ヒョウ" >
+			<ex	 word="土俵" pron="どひょう" pa="0" pos="N" jlpt="1" />
+		</r>
+		<r kun="たわら" kk="俵" pa="0" pos="N" >
+		</r>
+	</kanji>
+	
 	<kanji	id="票" freq="3032" jlpt="1" gr="4">
 		<r on="ヒョウ" jlpt="1" >
 			<ex	 word="投票" pron="とうひょう" pa="0" pos="N/js" jlpt="3" />
@@ -356,6 +358,14 @@
 			<ex	 word="評価" pron="ひょうか" pa="1" pos="N" jlpt="3" />
 			<ex	 word="評判" pron="ひょうばん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="批評" pron="ひひょう" pa="0" pos="N" />
+		</r>
+	</kanji>
+	
+	<kanji	id="漂" freq="1636" jlpt="1" gr="8">
+		<r on="ヒョウ" >
+			<ex	 word="漂白" pron="ひょうはく" pa="0" pos="N/ts" />
+		</r>
+		<r kun="ただよう" kk="漂う" pa="3" pos="j5" jlpt="1" ph="不穏な空気が漂っている" >
 		</r>
 	</kanji>
 	
@@ -427,21 +437,21 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="貧" freq="891" jlpt="3" gr="5">
-		<r on="ヒン" >
-			<ex	 word="貧困" pron="ひんこん" pa="0" pos="N/NA" jlpt="1"/>
-			<ex	 word="貧弱" pron="ひんじゃく" pa="0" pos="N/NA" jlpt="1"/>
-		</r>
-		<r kun="まずしい" kk="貧しい" pa="3" pos="adj" jlpt="3">
-		</r>
-	</kanji>
-	
 	<kanji	id="浜" freq="1039" jlpt="1" gr="8">
 		<r on="ヒン" >
 			<ex	 word="海浜" pron="かいひん" pa="0" pos="N" />
 		</r>
 		<r kun="はま" kk="浜" pa="2" pos="N" jlpt="1">
 			<ex	 word="浜辺" pron="はまべ" pa="03" pos="N" jlpt="1" />
+		</r>
+	</kanji>
+	
+	<kanji	id="貧" freq="891" jlpt="3" gr="5">
+		<r on="ヒン" >
+			<ex	 word="貧困" pron="ひんこん" pa="0" pos="N/NA" jlpt="1"/>
+			<ex	 word="貧弱" pron="ひんじゃく" pa="0" pos="N/NA" jlpt="1"/>
+		</r>
+		<r kun="まずしい" kk="貧しい" pa="3" pos="adj" jlpt="3">
 		</r>
 	</kanji>
 	
@@ -494,18 +504,6 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="父" freq="146" jlpt="5" gr="2">
-		<r on="フ" >
-			<ex	 word="祖父" pron="そふ" pa="1" pos="N" jlpt="4" />
-			<ex	 word="父母" pron="ふぼ" pa="1" pos="N" jlpt="2" />
-		</r>
-		<r kun="ちち" kk="父" pa="2" pos="N" jlpt="1">
-			<ex	 word="父親" pron="ちちおや" pa="0" pos="N" jlpt="3" eng="father"/>
-		</r>
-		<r kun="おとうさん" kk="お父さん" pa="2" pos="N" jlpt="5">
-		</r>
-	</kanji>
-	
 	<kanji	id="夫" freq="143" jlpt="3" gr="2">
 		<r on="フ" >
 			<ex	 word="夫人" pron="ふじん" pa="0" pos="N" jlpt="3" />
@@ -515,6 +513,18 @@
 		<r on="フウ" >
 			<ex	 word="夫婦" pron="ふうふ" pa="1" pos="N" jlpt="3" />
 			<ex	 word="工夫" pron="くふう" pa="0" pos="N" jlpt="2" />
+		</r>
+	</kanji>
+	
+	<kanji	id="父" freq="146" jlpt="5" gr="2">
+		<r on="フ" >
+			<ex	 word="祖父" pron="そふ" pa="1" pos="N" jlpt="4" />
+			<ex	 word="父母" pron="ふぼ" pa="1" pos="N" jlpt="2" />
+		</r>
+		<r kun="ちち" kk="父" pa="2" pos="N" jlpt="1">
+			<ex	 word="父親" pron="ちちおや" pa="0" pos="N" jlpt="3" eng="father"/>
+		</r>
+		<r kun="おとうさん" kk="お父さん" pa="2" pos="N" jlpt="5">
 		</r>
 	</kanji>
 	
@@ -568,8 +578,20 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="阜" freq="3294" gr="8">
+		<r on="フ" >
+			<ex	 word="岐阜" pron="ぎふ" pa="1" pos="N" jlpt="3" />
+		</r>
+	</kanji>
+	
 	<kanji	id="附" freq="545" jlpt="1" gr="8">
 		<r on="フ" >
+		</r>
+	</kanji>
+	
+	<kanji	id="訃" freq="4232" gr="8">
+		<r on="フ" >
+			<ex	 word="訃報" pron="ふほう" pa="1" pos="N" jlpt="3" />
 		</r>
 	</kanji>
 	
@@ -595,31 +617,19 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="符" freq="1450" jlpt="2" gr="8">
-		<r on="フ" >
-			<ex	 word="符号" pron="ふごう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="切符" pron="きっぷ" pa="0" pos="N" jlpt="5" cn="票" eng="ticket" />
-			<ex	 word="音符" pron="おんぷ" pa="0" pos="N" />
-		</r>
-	</kanji>
-	
 	<kanji	id="浮" freq="484" jlpt="3" gr="8">
 		<r on="フ" >
 			<ex	 word="浮力" pron="ふごう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="浮浪" pron="きっぷ" pa="0" pos="N" />
 			<ex	 word="音符" pron="おんぷ" pa="0" pos="N" />
 		</r>
-		<r kun="うく" kk="浮く" pa="0" pos="j5" jlpt="2">
-			<sentence>木は水に浮く・浮かない顔</sentence>
+		<r kun="うく" kk="浮く" pa="0" pos="j5" jlpt="2" ph="木は水に浮く・浮かない顔" >
 		</r>
-		<r kun="うかれる" kk="浮かれる" pa="0" pos="j1" >
-			<sentence>合格のに浮かれる</sentence>
+		<r kun="うかれる" kk="浮かれる" pa="0" pos="j1" ph="合格のに浮かれる" >
 		</r>
-		<r kun="うかぶ" kk="浮かぶ" pa="0" pos="j5" jlpt="2">
-			<sentence>白雲が浮かぶ・名案が浮かぶ</sentence>
+		<r kun="うかぶ" kk="浮かぶ" pa="0" pos="j5" jlpt="2" ph="白雲が浮かぶ・名案が浮かぶ" >
 		</r>
-		<r kun="うかべる" kk="浮かべる" pa="0" pos="t1" jlpt="2">
-			<sentence>顔に笑みを浮かべる</sentence>
+		<r kun="うかべる" kk="浮かべる" pa="0" pos="t1" jlpt="2" ph="顔に笑みを浮かべる" >
 		</r>
 	</kanji>
 	
@@ -627,6 +637,14 @@
 		<r on="フ" >
 			<ex	 word="婦人" pron="ふじん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="主婦" pron="しゅふ" pa="1" pos="N" jlpt="3" />
+		</r>
+	</kanji>
+	
+	<kanji	id="符" freq="1450" jlpt="2" gr="8">
+		<r on="フ" >
+			<ex	 word="符号" pron="ふごう" pa="0" pos="N" jlpt="2" />
+			<ex	 word="切符" pron="きっぷ" pa="0" pos="N" jlpt="5" cn="票" eng="ticket" />
+			<ex	 word="音符" pron="おんぷ" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
@@ -639,8 +657,7 @@
 		<r on="フウ" >
 			<ex	 word="富貴" pron="ふうき" pa="1" pos="N" />
 		</r>
-		<r kun="とむ" kk="富む" pa="1" pos="j5" jlpt="1" cn="富有" eng="be rich in">
-			<sentence>才能に富む・波乱に富んだ人生</sentence>
+		<r kun="とむ" kk="富む" pa="1" pos="j5" jlpt="1" cn="富有" eng="be rich in" ph="才能に富む・波乱に富んだ人生" >
 		</r>
 		<r kun="とみ" kk="富み" pa="1" pos="N" jlpt="1">
 		</r>
@@ -661,8 +678,7 @@
 			<ex	 word="腐敗" pron="ふはい" pa="0" pos="N" jlpt="1" />
 			<ex	 word="腐心" pron="ふへん" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="くさる" kk="腐る" pa="2" pos="j5" jlpt="3">
-			<sentence>肉が腐る</sentence>
+		<r kun="くさる" kk="腐る" pa="2" pos="j5" jlpt="3" ph="肉が腐る" >
 		</r>
 		<r kun="くされる" kk="腐れる" pa="3" pos="j1" >
 		</r>
@@ -707,8 +723,7 @@
 			<ex	 word="侮辱" pron="ぶじょく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="軽侮" pron="けいぶ" pa="1" pos="N" />
 		</r>
-		<r kun="あなどる" kk="侮る" pa="3" pos="t5" >
-			<sentence>侮り難い勢力・対戦相手を侮るな</sentence>
+		<r kun="あなどる" kk="侮る" pa="3" pos="t5" ph="侮り難い勢力・対戦相手を侮るな" >
 		</r>
 	</kanji>
 	
@@ -745,8 +760,7 @@
 			<ex	 word="鼓舞" pron="こぶ" pa="1" pos="N" jlpt="1" />
 		</r>
 		<r kun="まう" kk="舞う" pa="0" pos="j5" >
-			<ex	 word="見舞う" pron="みまう" pa="02" pos="t5" jlpt="2" cn="访问，看望" />
-			<sentence>雪が舞う</sentence>
+			<ex	 word="見舞う" pron="みまう" pa="02" pos="t5" jlpt="2" cn="访问，看望" ph="雪が舞う" />
 		</r>
 		<r kun="まい" kk="舞" pa="0" pos="t5" >
 			<ex	 word="舞子" pron="まいこ" pa="0" pos="N" jlpt="1" />
@@ -795,8 +809,7 @@
 		</r>
 		<r kun="ふせる" kk="伏せる" pa="2" pos="t1" >
 		</r>
-		<r kun="ふす" kk="伏す" pa="1" pos="j5" >
-			<sentence>伏してお願い申し上げます</sentence>
+		<r kun="ふす" kk="伏す" pa="1" pos="j5" ph="伏してお願い申し上げます" >
 		</r>
 	</kanji>
 	
@@ -810,6 +823,14 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="副" freq="2150" jlpt="2" gr="4">
+		<r on="フク" >
+			<ex	 word="副詞" pron="ふくし" pa="0" pos="N" />
+			<ex	 word="副作用" pron="ふくさよう" pa="3" pos="N" />
+			<ex	 word="副業" pron="ふくぎょう" pa="0" pos="N" />
+		</r>
+	</kanji>
+	
 	<kanji	id="幅" freq="1594" jlpt="2" gr="8">
 		<r on="フク" >
 			<ex	 word="拡幅" pron="かくふく" pa="0" pos="N" />
@@ -818,14 +839,6 @@
 			<ex	 word="大幅" pron="おおはば" pa="04" pos="N/NA" jlpt="1" />
 			<ex	 word="幅寄せ" pron="はばよせ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="幅広い" pron="はばひろい" pa="4" pos="adj" />
-		</r>
-	</kanji>
-	
-	<kanji	id="副" freq="2150" jlpt="2" gr="4">
-		<r on="フク" >
-			<ex	 word="副詞" pron="ふくし" pa="0" pos="N" />
-			<ex	 word="副作用" pron="ふくさよう" pa="3" pos="N" />
-			<ex	 word="副業" pron="ふくぎょう" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
@@ -875,14 +888,11 @@
 			<ex	 word="覆面" pron="ふくめん" pa="0" pos="N" jlpt="1" />
 			<ex	 word="転覆" pron="てんぷく" pa="0" pos="N" />
 		</r>
-		<r kun="おおう" kk="覆う" pa="0" pos="t5" jlpt="3" >
-			<sentence>耳を覆う</sentence>
+		<r kun="おおう" kk="覆う" pa="0" pos="t5" jlpt="3" ph="耳を覆う" >
 		</r>
-		<r kun="くつがえす" kk="覆す" pa="3" pos="t5" jlpt="1" cn="推翻;颠覆">
-			<sentence>定説を覆す</sentence>
+		<r kun="くつがえす" kk="覆す" pa="3" pos="t5" jlpt="1" cn="推翻;颠覆" ph="定説を覆す">
 		</r>
-		<r kun="くつがえる" kk="覆る" pa="3" pos="j1" >
-			<sentence>天地が覆るような大騒ぎ</sentence>
+		<r kun="くつがえる" kk="覆る" pa="3" pos="j1" ph="天地が覆るような大騒ぎ" >
 		</r>
 	</kanji>
 	
@@ -894,8 +904,7 @@
 			<ex	 word="支払い" pron="しはらい" pa="0" pos="N" jlpt="3" eng="payment"/>
 			<ex	 word="支払う" pron="しはらう" pa="0" pos="t5" jlpt="3" eng="to pay" />
 			<ex	 word="払い込む" pron="はらいこむ" pa="04" pos="t5" jlpt="2" cn="转账" eng="to deposit" />
-			<ex	 word="払い戻す" pron="はらいもどす" pa="05" pos="t5" jlpt="2" cn="退还/还款" />
-			<sentence>埃を払う・下草を払う・代金を払う</sentence>
+			<ex	 word="払い戻す" pron="はらいもどす" pa="05" pos="t5" jlpt="2" cn="退还/还款" ph="埃を払う・下草を払う・代金を払う" />
 		</r>
 	</kanji>
 	
@@ -904,11 +913,9 @@
 			<ex	 word="沸騰" pron="ふっとう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="沸点" pron="ふってん" pa="0" pos="N" />
 		</r>
-		<r kun="わく" kk="沸く" pa="0" pos="j5" jlpt="4" >
-			<sentence>電気ポットの湯が沸く・会場が沸く</sentence>
+		<r kun="わく" kk="沸く" pa="0" pos="j5" jlpt="4" ph="電気ポットの湯が沸く・会場が沸く" >
 		</r>
-		<r kun="わかす" kk="沸かす" pa="0" pos="t5" jlpt="4" cn="推翻;颠覆">
-			<sentence>お湯を沸かす・湯沸かし器</sentence>
+		<r kun="わかす" kk="沸かす" pa="0" pos="t5" jlpt="4" cn="推翻;颠覆" ph="お湯を沸かす・湯沸かし器">
 		</r>
 	</kanji>
 	
@@ -918,8 +925,7 @@
 			<ex	 word="仏堂" pron="ぶつどう" pa="0" pos="N" />
 			<ex	 word="大仏" pron="だいぶつ" pa="0" pos="N" />
 		</r>
-		<r kun="ほとけ" kk="仏" pa="03" pos="N" jlpt="3" >
-			<sentence>神様、仏様、○○様</sentence>
+		<r kun="ほとけ" kk="仏" pa="03" pos="N" jlpt="3" ph="神様、仏様、○○様" >
 		</r>
 	</kanji>
 	

@@ -546,8 +546,8 @@
 			<ex	 word="召還" pron="しょうかん" pa="0" pos="N" />
 			<ex	 word="召集" pron="しょうしゅう" pa="0" pos="N" />
 		</r>
-		<r kun="めす" kk="召す" pa="1" pos="N" jlpt="5" >
-			<ex	 word="召し上がる" pron="めしあがる" pa="04" pos="t5" />
+		<r kun="めす" kk="召す" pa="1" pos="t5" jlpt="1" >
+			<ex	 word="召し上がる" pron="めしあがる" pa="04" pos="t5" jlpt="4" eng="to eat; to drink" />
 		</r>
 	</kanji>
 	
@@ -731,7 +731,7 @@
 			<ex	 word="爆笑" pron="ばくしょう" pa="0" pos="N" />
 			<ex	 word="笑納" pron="しょうのう" pa="0" pos="N" />
 		</r>
-		<r kun="わらう" kk="笑う" pa="1" pos="N" jlpt="5" >
+		<r kun="わらう" kk="笑う" pa="1" pos="j5" jlpt="5" >
 		</r>
 		<r kun="えむ" kk="笑む" pa="1" pos="N" jlpt="5" >
 			<ex	 word="微笑み" pron="ほほえみ" pa="0" pos="N" />
@@ -889,7 +889,7 @@
 		<r on="ショウ" >
 			<ex	 word="詔書" pron="しょうしょ" pa="0" pos="N" />
 		</r>
-		<r kun="みことのり" kk="詔" pa="1" pos="N" >
+		<r kun="みことのり" kk="詔" pa="1" pos="N" ph="尊(みこと)則(のり)">
 		</r>
 		<r nfu="告げる≒詔げる(つげる)">
 		</r>
@@ -902,6 +902,7 @@
 			<ex	 word="証券" pron="しょうけん" pa="0" pos="N" />
 			<ex	 word="論証" pron="ろんしょう" pa="0" pos="N" />
 			<ex	 word="保証" pron="ほしょう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="査証" pron="さしょう" pa="0" pos="N" />
 		</r>
 		<r nfu="証す(あかす)・あかし">
 		</r>

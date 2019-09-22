@@ -801,7 +801,7 @@
 			<ex	 word="液体" pron="えきたい" pa="0" pos="N" jlpt="2" eng="liquid" />
 			<ex	 word="液晶" pron="えきしょう" pa="0" pos="N" eng="liquid crystal" />
 			<ex	 word="液状" pron="えきじょう" pa="0" pos="N" />
-			<ex	 word="血液" pron="けつえき" pa="0" pos="N/" jlpt="2" eng="blood" />
+			<ex	 word="血液" pron="けつえき" pa="0" pos="N" jlpt="2" eng="blood" />
 			<ex	 word="液化" pron="えきか" pa="0" pos="N/ts" />
 		</r>
 		<r nfu="しる・わき"></r>

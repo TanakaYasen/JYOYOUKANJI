@@ -442,6 +442,8 @@
 			<ex	 word="布施" pron="ふせ" pa="0" pos="N" />
 			<ex	 word="施療" pron="せりょう" pa="0" pos="js" />
 		</r>
+		<r kun="ほどこす" kk="施す" pa="3" pos="t5" jlpt="1" eng="to give/donate" >
+		</r>
 		<r nfu="施く(しく)" >
 		</r>
 	</kanji>
@@ -720,7 +722,7 @@
 	
 	<kanji	id="児" freq="724" jlpt="2" gr="4">
 		<r on="ジ" >
-			<ex	 word="育児" pron="かくじ" pa="1" jlpt="2" pos="N" eng="babycare" />
+			<ex	 word="育児" pron="いくじ" pa="1" jlpt="2" pos="N" eng="babycare" />
 			<ex	 word="孤児" pron="こじ" pa="1" jlpt="1" pos="N" eng="orphan" />
 			<ex	 word="幼児" pron="ようじ" pa="1" jlpt="1" pos="N" eng="orphan" />
 		</r>

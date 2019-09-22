@@ -357,20 +357,6 @@
 		<r kun="あご" kk="顎" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="頬" freq="1014" jlpt="3" gr="6">
-		<r on="キ" >
-		</r>
-		<r kun="ほお" kk="頬" pa="1" pos="N" jlpt="1" />
-	</kanji>
-	
-	<kanji	id="蔑" freq="1632" gr="8">
-		<r on="ベツ" >
-			<ex	 word="軽蔑" pron="けいべつ" pa="1" pos="N" />
-			<ex	 word="蔑視" pron="べっし" pa="1" pos="N" />
-		</r>
-		<r kun="さげすむ" kk="蔑む" pa="30" pos="t5" eng="to scorn" />
-	</kanji>
-	
 	<kanji	id="捧" freq="2074" gr="8">
 		<r on="ベツ" >
 			<ex	 word="軽蔑" pron="けいべつ" pa="1" pos="N" />

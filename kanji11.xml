@@ -143,7 +143,7 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="鍾" freq="4004" >
+	<kanji	id="鐘" freq="4004" alt="鍾">
 		<r on="ショウ" >
 			<ex	 word="警鐘" pron="けいしょう" pa="0" pos="N" />
 			<ex	 word="鐘声" pron="しょうせい" pa="0" pos="N" />
@@ -599,7 +599,7 @@
 		</r>
 		<r kun="のべる" kk="伸べる" pa="2" pos="t1" ref="延べる">
 		</r>
-		<r nfu="申ねる(かさねる)・伸る(のる)">
+		<r nfu="伸る(のる)">
 		</r>
 	</kanji>
 	

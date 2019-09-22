@@ -488,7 +488,7 @@
 	
 	<kanji	id="荒" freq="781" jlpt="2" gr="8">
 		<r on="コウ" >
-			<ex	 word="荒廃" pron="こうはい" pa="0" pos="Ｎ/js" jlpt="1" />
+			<ex	 word="荒廃" pron="こうはい" pa="0" pos="N/js" jlpt="1" />
 		</r>
 		<r kun="あらい" kk="荒い" pa="0" pos="adj" jlpt="2" cn="粗暴；凶猛；不礼貌" >
 		</r>

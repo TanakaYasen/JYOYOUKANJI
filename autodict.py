@@ -18,7 +18,7 @@ from docx.enum.dml import MSO_THEME_COLOR
 
 #①②③④⑤⑥⑦⑧
 DICT_ACCENT = {'0':'⓪',	'1':'①',	'2':'②',	'3':'③',	'4':'④',	'5':'⑤',	'6':'⑥',	'7':'⑦',	'8':'⑧'}
-DICT_POS= {'N':'名詞',	'NA':'形容動詞',	'adj':'adj',	'no':'~の',	'adv':'adv',
+DICT_POS= {'N':'名詞',	'P':'代詞',	'NA':'形容動詞',	'adj':'adj',	'no':'~の',	'adv':'adv',
 				'j5':'自五',	'j1':'自一',	't5':'他五',	't1':'他一',	'js':'自サ',	'ts':'他サ',	'jts':'自他サ',
 				'5i':'自五',	'1i':'自一',	'5t':'他五',	'1t':'他一',
 				'jt1':'自他一', 'jt5':'自他五'}
@@ -157,7 +157,7 @@ def dump_all(xml_name, doc_name):
 	doc.save(doc_name)
 	
 #dump_all('kanji.xml', "常用漢字.docx")
-
+"""
 dump_all('kanji1.xml', "常用漢字1.docx")
 dump_all('kanji2.xml', "常用漢字2.docx")
 dump_all('kanji3.xml', "常用漢字3.docx")
@@ -174,5 +174,60 @@ dump_all('kanji13.xml', "常用漢字13.docx")
 dump_all('kanji14.xml', "常用漢字14.docx")
 dump_all('kanji15.xml', "常用漢字15.docx")
 dump_all('kanji16.xml', "常用漢字16.docx")
-
+dump_all('kanji17.xml', "常用漢字17.docx")
+dump_all('kanji18.xml', "常用漢字18.docx")
+dump_all('kanji19.xml', "常用漢字19.docx")
+dump_all('kanji20.xml', "常用漢字20.docx")
+dump_all('kanji21.xml', "常用漢字21.docx")
+dump_all('kanji22.xml', "常用漢字22.docx")
+dump_all('kanji23.xml', "常用漢字23.docx")
 print(count)
+"""
+
+kanji_list = []
+
+def count_kanji(doc, kanji):
+	global kanji_list
+	paragragh = doc.add_paragraph()
+	run = paragragh.add_run(kanji.attrib['id'])
+	print(kanji.attrib['id'])
+	kanji_list.append(kanji.attrib['id'])
+	
+def count_all(xml_name):
+	doc = Document()
+	f = open(xml_name, 'rb')
+	file_context=f.read() 
+	f.close()
+	
+	tree = ET.ElementTree(file=xml_name)
+	root = tree.getroot()
+	#print(root.tag, root.attrib)
+	for child in root:
+		count_kanji(doc, child)
+
+count_all('kanji1.xml')
+count_all('kanji2.xml')
+count_all('kanji3.xml')
+count_all('kanji4.xml')
+count_all('kanji5.xml')
+count_all('kanji6.xml')
+count_all('kanji7.xml')
+count_all('kanji8.xml')
+count_all('kanji9.xml')
+count_all('kanji10.xml')
+count_all('kanji11.xml')
+count_all('kanji12.xml')
+count_all('kanji13.xml')
+count_all('kanji14.xml')
+count_all('kanji15.xml')
+count_all('kanji16.xml')
+count_all('kanji17.xml')
+count_all('kanji18.xml')
+count_all('kanji19.xml')
+count_all('kanji20.xml')
+count_all('kanji21.xml')
+count_all('kanji22.xml')
+count_all('kanji23.xml')
+
+print(len(kanji_list))
+

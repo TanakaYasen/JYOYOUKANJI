@@ -400,7 +400,7 @@
 		<r on="サイ" >
 			<ex	 word="彩色" pron="さいしき" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="いろどる" kk="彩る" pa="2" pos="adj" jlpt="4" >
+		<r kun="いろどる" kk="彩る" pa="2" pos="t5" >
 		</r>
 		<r nfu="あや">
 		</r>
@@ -411,7 +411,7 @@
 			<ex	 word="採用" pron="さいよう" pa="0" pos="N" jlpt="1" eng="pick; employment"/>
 			<ex	 word="採決" pron="さいけつ" pa="0" pos="N" jlpt="1" eng="vote" />
 		</r>
-		<r kun="とる" kk="採る" pa="2" pos="adj" jlpt="4" >
+		<r kun="とる" kk="採る" pa="2" pos="t5" jlpt="2" >
 		</r>
 	</kanji>
 	
@@ -450,7 +450,7 @@
 			<ex	 word="詳細" pron="しょうさい" pa="0" pos="N" jlpt="1" eng="details"/>
 		</r>
 		<r kun="ほそい" kk="細い" pa="2" pos="adj" jlpt="5" >
-			<ex	 word="細腕" pron="さいぼう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="細腕" pron="ほそうで" pa="0" pos="N" jlpt="3" />
 		</r>
 		<r kun="ほそる" kk="細る" pa="2" pos="j5" >
 		</r>
@@ -707,7 +707,7 @@
 		<r on="サク" >
 			<ex	 word="酢酸" pron="さくさん" pa="0" pos="N" jlpt="3" eng="cruel"/>
 		</r>
-		<r kun="す" kk="酢" pa="2" pos="N" jlpt="4" >
+		<r kun="す" kk="酢" pa="1" pos="N" jlpt="2" >
 		</r>
 		<r nfu="ソ・酢い(すい)">
 		</r>
@@ -821,7 +821,7 @@
 		<r on="サツ" >
 			<ex	 word="撮影" pron="さつえい" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="とる" kk="撮る" pa="2" pos="t5" jlpt="5" >
+		<r kun="とる" kk="撮る" pa="1" pos="t5" jlpt="5" >
 		</r>
 		<r nfu="撮む(つまむ)">
 		</r>

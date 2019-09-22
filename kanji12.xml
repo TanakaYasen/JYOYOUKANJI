@@ -840,11 +840,11 @@
 			<ex	 word="赤組" pron="あかぐみ" pa="0" pos="N" />
 			<ex	 word="赤土" pron="あかつち" pa="0" pos="N" />
 		</r>
-		<r kun="あかい" kk="赤い" pa="2" pos="N" jlpt="5" >
+		<r kun="あかい" kk="赤い" pa="2" pos="adj" jlpt="5" >
 		</r>
-		<r kun="あからむ" kk="赤らむ" pa="2" pos="N" jlpt="5" >
+		<r kun="あからむ" kk="赤らむ" pa="2" pos="j5" jlpt="1" >
 		</r>
-		<r kun="あからめる" kk="赤らめる" pa="2" pos="N" jlpt="5" >
+		<r kun="あからめる" kk="赤らめる" pa="2" pos="t1" >
 		</r>
 		<r sp="まっか" word="真っ赤" pa="0" pos="N" />
 	</kanji>
