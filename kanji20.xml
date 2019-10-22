@@ -745,7 +745,7 @@
 	
 	<kanji	id="倣" freq="2423" jlpt="1" gr="8">
 		<r on="ホウ" >
-			<ex	 word="模倣" pron="もほう" pa="0" pos="N" />
+			<ex	 word="模倣" pron="もほう" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r kun="ならう" kk="倣う" pa="2" pos="t5" jlpt="2" eng="to imitate; to follow; to emulate" >
 		</r>

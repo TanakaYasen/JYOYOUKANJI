@@ -7,6 +7,70 @@
 -->
 
 <Dict>
+
+	<kanji	id="佇" freq="3658" jlpt="3" gr="4">
+		<r on="チョ" >
+		</r>
+		<r kun="たたずむ" kk="佇む" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="儘" freq="3658" jlpt="3" gr="4">
+		<r on="ジン" >
+		</r>
+		<r kun="まま" kk="儘" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="俘" freq="3658" jlpt="3" gr="4">
+		<r on="ジン" >
+		</r>
+		<r kun="とりこ" kk="俘" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="俑" freq="3658" jlpt="3" gr="4">
+		<r on="ヨウ" >
+		</r>
+		<r kun="ひとがた" kk="俑" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="俯" freq="3658" jlpt="3" gr="4">
+		<r on="フ" >
+		</r>
+		<r kun="ふせる" kk="俯せる" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="傀" freq="3658" jlpt="3" gr="4">
+		<r on="カイ" >
+		</r>
+		<r kun="くぐつ" kk="傀儡" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="儂" freq="3658" jlpt="3" gr="4">
+		<r on="ドウ" >
+		</r>
+		<r on="ノウ" >
+		</r>
+		<r kun="わし" kk="儂" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="儚" freq="3658" jlpt="3" gr="4">
+		<r on="ボウ" >
+		</r>
+		<r kun="はかない" kk="儚い" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="祇" freq="2521" jlpt="3" gr="4">
+		<r on="ギ" >
+		</r>
+	</kanji>
+	
 	<kanji	id="茜" freq="3658" jlpt="3" gr="4">
 		<r on="セン" >
 		</r>
@@ -129,6 +193,16 @@
 		<r kun="とび" kk="鳶" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
+	<kanji	id="燕" freq="2452" jlpt="3" gr="4">
+		<r on="エン" >
+		</r>
+		<r kun="つばめ" kk="燕" pa="0" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="鵺" freq="2452" jlpt="3" gr="4">
+		<r kun="ぬえ" kk="鵺" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
 	<kanji	id="鳩" freq="2052" jlpt="3" gr="4">
 		<r on="エン" >
 		</r>
@@ -156,9 +230,10 @@
 		<r kun="かに" kk="蟹" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="祇" freq="2521" jlpt="3" gr="4">
-		<r on="ギ" >
+	<kanji	id="兎" freq="2452" jlpt="3" gr="4">
+		<r on="ト" >
 		</r>
+		<r kun="うさぎ" kk="兎🐇" pa="0" pos="N" jlpt="1" />
 	</kanji>
 	
 	<kanji	id="狐" freq="1445" jlpt="3" gr="4">
@@ -173,6 +248,11 @@
 	
 	<kanji	id="獅" freq="2073" jlpt="3" gr="4">
 		<r kun="しし" kk="獅子" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="獏" freq="2073" jlpt="3" gr="4">
+		<r kun="ばく" kk="獏" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
@@ -217,6 +297,13 @@
 		<r on="バン" >
 		</r>
 		<r kun="うなぎ" kk="鰻" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="鮫" freq="2706" jlpt="3" gr="4">
+		<r on="バン" >
+		</r>
+		<r kun="さめ" kk="鮫" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
