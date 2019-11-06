@@ -361,7 +361,9 @@
 			<ex	 word="到底" pron="とうてい" pa="0" pos="adv" jlpt="1" />
 			<ex	 word="海底" pron="かいてい" pa="0" pos="N" />
 		</r>
-		<r kun="そこ" kk="底" pa="0" pos="N" jlpt="3" ></r>
+		<r kun="そこ" kk="底" pa="0" pos="N" jlpt="3" >
+			<ex	 word="底力" pron="そこちから" pa="0" pos="N" />
+		</r>
 	</kanji>
 	
 	<kanji	id="抵" freq="1200" jlpt="1" gr="8">

@@ -78,6 +78,13 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="蕾" freq="3658" jlpt="3" gr="4">
+		<r on="ライ" >
+		</r>
+		<r kun="つぼみ" kk="蕾" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
 	<kanji	id="芥" freq="1776" jlpt="3" gr="4">
 		<r on="カイ" >
 		</r>
@@ -121,17 +128,17 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="虻" freq="3723" jlpt="3" gr="4">
-		<r on="ボウ" >
-		</r>
-		<r kun="あぶ" kk="虻" pa="0" pos="N" jlpt="1" >
-		</r>
-	</kanji>
-	
 	<kanji	id="綾" freq="2155" jlpt="3" gr="4">
 		<r on="リョウ" >
 		</r>
 		<r kun="あや" kk="綾" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="塚" freq="1519" jlpt="3" gr="4">
+		<r on="キ" >
+		</r>
+		<r kun="つか" kk="塚" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
@@ -217,6 +224,13 @@
 		<r kun="かもめ" kk="鴎" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
+	<kanji	id="虻" freq="3723" jlpt="3" gr="4">
+		<r on="ボウ" >
+		</r>
+		<r kun="あぶ" kk="虻" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
 	<kanji	id="蛙" freq="1850" jlpt="3" gr="4">
 		<r on="ア" >
 		</r>
@@ -258,6 +272,11 @@
 	
 	<kanji	id="鯖" freq="3896" jlpt="3" gr="4">
 		<r kun="さば" kk="鯖" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="鮭" freq="3896" jlpt="3" gr="4">
+		<r kun="ふぐ" kk="鮭" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
@@ -321,6 +340,12 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="噂" freq="1230" jlpt="3" gr="4">
+		<r kun="うわさ" kk="噂" pa="0" pos="N" jlpt="1" eng="rumor" >
+			<ex	 word="風の噂" pron="かぜのうわさ" pa="0" pos="N" eng="hearsay" />
+		</r>
+	</kanji>
+	
 	<kanji	id="叶" freq="2530" jlpt="3" gr="4">
 		<r on="キョウ" >
 		</r>
@@ -334,6 +359,34 @@
 		<r kun="くう" kk="喰う" pa="0" pos="N" jlpt="1" >
 		</r>
 		<r kun="くらう" kk="喰らう" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="喉" freq="1049" jlpt="3" gr="4">
+		<r on="コウ" >
+		</r>
+		<r kun="のど" kk="喉" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="咳" freq="1049" jlpt="3" gr="4">
+		<r on="ガイ" >
+		</r>
+		<r kun="せき" kk="喉" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="囁" freq="1049" jlpt="3" gr="4">
+		<r on="ガイ" >
+		</r>
+		<r kun="ささやく" kk="囁く" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="噛" freq="1049" jlpt="3" gr="4">
+		<r on="コウ" >
+		</r>
+		<r kun="かむ" kk="噛む" pa="0" pos="N" jlpt="1" ref="咬む" >
 		</r>
 	</kanji>
 	
@@ -381,13 +434,19 @@
 	<kanji	id="楓" freq="2716" jlpt="3" gr="4">
 		<r on="フウ" >
 		</r>
-		<r kun="かえで" kk="楓" pa="1" pos="N" jlpt="1" />
+		<r kun="かえで" kk="楓" pa="0" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="掴" freq="1503" jlpt="3" gr="4">
+	<kanji	id="桂" freq="1980" jlpt="1" gr="4">
+		<r on="ケイ" >
+		</r>
+		<r kun="かつら" kk="桂" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="掴" freq="1503" >
 		<r on="カク" >
 		</r>
-		<r kun="つかむ" kk="掴む" pa="1" pos="N" jlpt="1" />
+		<r kun="つかむ" kk="掴む" pa="2" pos="t5" jlpt="3" />
 	</kanji>
 	
 	<kanji	id="辻" freq="1553" jlpt="3" gr="4">

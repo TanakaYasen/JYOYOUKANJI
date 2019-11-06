@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	熟字訓	と	当て字
+-->
+<Dict>
+	
+	<table tag="frequence">
+		<ex	 word="乏しい" pron="とぼしい" pa="0" pos="adj" jlpt="1" eng="always" />
+		<ex	 word="狡い" pron="ずるい" pa="0" pos="adj" jlpt="2" eng="sly" />
+		<ex	 word="ヤバい" pron="ずるい" pa="0" pos="adj" jlpt="3" eng="terrific" />
+		<ex	 word="ダサい" pron="ずるい" pa="0" pos="adj" jlpt="3" eng="uncool; unsophisticated; out of fashion" />
+		<ex	 word="ケチな" pron="けちな" pa="0" pos="adj" jlpt="3" eng="stingy" />
+	</table>
+	
+</Dict>
+

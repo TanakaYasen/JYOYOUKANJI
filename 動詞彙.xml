@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	熟字訓	と	当て字
+-->
+<Dict>
+	
+	<table tag="frequence">
+		<ex	 word="ぶつかる" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
+	</table>
+</Dict>
+
