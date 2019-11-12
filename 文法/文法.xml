@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dict>
+	
+	<table tag="動詞">
+		<ex	 word="要る" pron="いる" pa="0" pos="j5" />
+	</table>
+	
+	<table tag="だ">
+		<ex	 word="帰る" pron="かえる" pa="0" pos="j5" />
+	</table>
+	
+	<table tag="体言">
+	</table>
+	
+	<table tag="条件（Conditionals）">
+		<point txt="と・ば・なら・たら">
+		</point>
+		"と" 自然规律的后续结果 natural consequence	（一旦xxx则yyy）
+			=  [Condition] + と + [Result] 
+			=  [State-of-being] + だと + [Result]
+			ボールを落すと落ちる		松手则球落。（物理现象）
+		
+		即使不是自然规律结果，也可以，表述人认为会是这样结果也可以
+			学校に行かないと友達と会えないよ		不去学校就见不到朋友们了哟。
+			先生だと、きっと年上なんじゃないですか？	如果此人是老师，一定年长于你对吧？
+			
+			
+		"なら"　前提条件　Contextual conditionals	what will happen given a certain context
+			= [Assumed Context] + なら + [Result]
+		
+		
+		
+	 </table>
+</Dict>
+

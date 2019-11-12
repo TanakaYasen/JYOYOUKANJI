@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dict>
+	
+	<table tag="-iru">
+		<ex	 word="要る" pron="いる" pa="0" pos="j5" />
+		<ex	 word="裏切る" pron="うらぎる" pa="3" pos="j5" />
+		<ex	 word="気に入る" pron="きにいる" pa="0" pos="j5" />
+		<ex	 word="切る" pron="きる" pa="1" pos="t5/j5" />
+		<ex	 word="店に入る" pron="みせにいる" pa="0" pos="j5" />
+		<ex	 word="走る" pron="はしる" pa="2" pos="j5" />
+		<ex	 word="入る" pron="はいる" pa="1" pos="j5" />
+		<ex	 word="参る" pron="まいる" pa="1" pos="j5" />
+		<ex	 word="弄る" pron="いじる" pa="2" pos="t5" />
+		<ex	 word="煎る" pron="いる" pa="1" pos="t5" />
+		<ex	 word="限る" pron="かぎる" pa="2" pos="jt5" />
+		<ex	 word="齧る" pron="かじる" pa="2" pos="t5" cn="咬啃" />
+		<ex	 word="くねる" pron="くねる" pa="2" pos="j5" cn="弯曲" />
+		<ex	 word="抉る" pron="こじる" pa="2" pos="t5" />
+		<ex	 word="遮る" pron="さえぎる" pa="3" pos="t5" />
+		<ex	 word="知る" pron="しる" pa="0" pos="j5" />
+		<ex	 word="しくじる" pron="しくじる" pa="2" pos="j5" />
+		<ex	 word="散る" pron="ちる" pa="0" pos="j5" />
+		<ex	 word="契る" pron="ちぎる" pa="2" pos="t5" />
+		<ex	 word="詰る" pron="なじる" pa="2" pos="t5" cn="责问责难" />
+		<ex	 word="罵る" pron="ののしる" pa="3" pos="t5" />
+		<ex	 word="握る" pron="にぎる" pa="0" pos="t5" />
+		<ex	 word="捻る" pron="ねじる" pa="2" pos="t5" />
+		<ex	 word="穿る" pron="ほじる" pa="2" pos="t5" />
+		<ex	 word="混じる" pron="まじる" pa="2" pos="j5" />
+		<ex	 word="捩る" pron="もじる" pa="2" pos="j5" />
+		<ex	 word="やじる" pron="やじる" pa="2" pos="t5" cn="发出怪声" />
+		<ex	 word="過ぎる" pron="よぎる" pa="2" pos="j5" />
+		<ex	 word="捩る" pron="よじる" pa="2" pos="j5" />
+		<ex	 word="漲る" pron="みなぎる" pa="3" pos="j5" />
+	</table>
+	
+	<table tag="-eru">
+		<ex	 word="帰る" pron="かえる" pa="0" pos="j5" />
+		<ex	 word="覆る" pron="くつがえる" pa="3" pos="j5" />
+		<ex	 word="蹴る" pron="ける" pa="1" pos="j5" />
+		<ex	 word="滑る" pron="ぬめる" pa="2" pos="j5" />
+		<ex	 word="嘲る" pron="あざける" pa="3" pos="t5" />
+		<ex	 word="焦る" pron="あせる" pa="2" pos="j5" />
+		<ex	 word="扱ける" pron="こける" pa="1" pos="j5" />
+		<ex	 word="茂る" pron="しげる" pa="1" pos="j5" />
+		<ex	 word="喋る" pron="しゃべる" pa="2" pos="t5" />
+		<ex	 word="湿る" pron="しめる" pa="0" pos="J5" />
+		<ex	 word="滑る" pron="すべる" pa="2" pos="j5" />
+		<ex	 word="競る" pron="せる" pa="1" pos="t5" />
+		<ex	 word="抓る" pron="つねる" pa="2" pos="t5" />
+		<ex	 word="照る" pron="てる" pa="1" pos="j5" />
+		<ex	 word="練る" pron="ねる" pa="1" pos="j5" />
+		<ex	 word="捻る" pron="ひねる" pa="2" pos="t5" />
+		<ex	 word="耽る" pron="ふける" pa="2" pos="j5" />
+		<ex	 word="減る" pron="へる" pa="0" pos="j5" />
+		<ex	 word="蘇る" pron="よみがえる" pa="30" pos="j5" />
+	</table>
+</Dict>
+
