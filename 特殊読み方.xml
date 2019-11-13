@@ -175,6 +175,7 @@
 		<r sp="あさって" word="明後日" pa="2" pos="N" />
 		<r sp="やのあさって" word="弥明後日" pa="2" pos="N" />
 		<r sp="しあさって" word="明々後日" pa="3" pos="N" />
+		<r sp="こぞ" word="去年" pa="0" pos="N" />
 		<r sp="きさらぎ" word="如月" pa="0" pos="N" cn="二月" eng="February(lunar)" />
 		<r sp="やよい" word="弥生" pa="0" pos="N" cn="三月/常见人名地名" />
 		<r sp="つごもり" word="晦" pa="0" pos="N" cn="月末" />
@@ -228,7 +229,7 @@
 		<r sp="うまずめ" word="石女" pa="0" pos="N" />
 		<r sp="ますらお" word="丈夫" pa="2" pos="N" />
 		<r sp="やもお" word="寡男・鰥夫" pa="2" pos="N" />
-		<r sp="やもめ" word="寡婦" pa="2" pos="N" />
+		<r sp="やもめ" word="寡婦" pa="2" pos="N" ref="孀" />
 		<r sp="つつもたせ" word="美人局" pa="0" pos="N" />
 		
 		<r sp="なぜ" word="何故" pa="0" pos="N" />

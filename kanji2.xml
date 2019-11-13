@@ -189,10 +189,10 @@
 		<r on="オウ" >
 			<ex	 word="押韻" pron="おういん" pa="0" pos="N" />
 		</r>
-		<r kun="おす" kk="押す" pa="0" pos="t5" jlpt="5" cn="推；按" >
+		<r kun="お`す" kk="押す" pa="0" pos="t5" jlpt="5" cn="推；按" >
 			<ex	 word="押し込む" pron="おしこむ" pa="0" pos="j5" />
 		</r>
-		<r kun="おさえる" kk="押さえる" pa="3" pos="t1" jlpt="2" />
+		<r kun="お`さえる" kk="押さえる" pa="3" pos="t1" jlpt="2" />
 	</kanji>
 	
 	<kanji	id="旺" freq="2906" jlpt="1" gr="8">
@@ -213,7 +213,7 @@
 		<r on="オウ" >
 			<ex	 word="殴打" pron="おうだ" pa="0" pos="N" />
 		</r>
-		<r kun="なぐる" kk="殴る" pa="0" pos="t5" jlpt="5" />
+		<r kun="なぐ`る" kk="殴る" pa="0" pos="t5" jlpt="5" />
 		<r nfu="殴つ(うつ)・殴く(たたく)"></r>
 	</kanji>
 	

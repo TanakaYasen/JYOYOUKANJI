@@ -40,7 +40,7 @@
 	
 	<kanji	id="顧" freq="1421" jlpt="1" gr="8">
 		<r on="コ" >
-			<ex	 word="顧客" pron="こきゅう" pa="0" pos="N" />
+			<ex	 word="顧客" pron="こきゃく" pa="0" pos="N" />
 			<ex	 word="回顧" pron="かいこ" pa="1" pos="N/ts" />
 			<ex	 word="顧問" pron="こもん" pa="1" pos="N" />
 		</r>
@@ -49,7 +49,6 @@
 	
 	<kanji	id="五" freq="71" jlpt="5" gr="1">
 		<r on="ゴ" >
-			<ex	 word="呼吸" pron="こきゅう" pa="0" pos="N/js" jlpt="5" />
 		</r>
 		<r kun="いつ" kk="伍" pa="1" pos="N" jlpt="5">
 			<ex	 word="五日" pron="いつか" pa="0" pos="N" />
@@ -59,10 +58,10 @@
 	
 	<kanji	id="互" freq="866" jlpt="3" gr="8">
 		<r on="ゴ" >
-			<ex	 word="互角" pron="こきゅう" pa="0" pos="N/js" jlpt="5" />
-			<ex	 word="相互" pron="こきゅう" pa="0" pos="N/js" jlpt="5" />
+			<ex	 word="互角" pron="ごかく" pa="0" pos="N/js" />
+			<ex	 word="相互" pron="そうご" pa="0" pos="N/js" jlpt="2" eng="mutual" />
 		</r>
-		<r kun="たが`い" kk="互い" pa="0" pos="N" jlpt="3"></r>
+		<r kun="たが`い" kk="互い" pa="0" pos="N" jlpt="3" cn="彼此，互相" ></r>
 	</kanji>
 	
 	<kanji	id="午" freq="775" jlpt="5" gr="2">
@@ -134,7 +133,7 @@
 		<r on="ゴ" >
 			<ex	 word="誤解" pron="ごかい" pa="0" pos="N/js" jlpt="5" />
 		</r>
-		<r kun="あやまる" kk="誤る" pa="02" pos="j5" ref="謝る" >
+		<r kun="あやま`る" kk="誤る" pa="02" pos="j5" ref="謝る" >
 		</r>
 	</kanji>
 	
@@ -143,7 +142,7 @@
 			<ex	 word="保護" pron="ほご" pa="1" pos="N/js" jlpt="5" />
 			<ex	 word="弁護士" pron="べんごし" pa="1" pos="N/js" jlpt="5" />
 		</r>
-		<r kun="まもる" kk="護る" pa="2" pos="j5" ref="守る・戍" >
+		<r kun="まも`る" kk="護る" pa="2" pos="j5" ref="守る・戍" >
 		</r>
 	</kanji>
 	
@@ -249,17 +248,17 @@
 			<ex	 word="交通" pron="こうつう" pa="0" pos="N" jlpt="5" />
 			<ex	 word="交換" pron="こうかん" pa="0" pos="N" jlpt="5" />
 		</r>
-		<r kun="まじわる" kk="交わる" pa="3" pos="j5" jlpt="1" >
+		<r kun="まじ`わる" kk="交わる" pa="3" pos="j5" jlpt="1" >
 		</r>
-		<r kun="まじえる" kk="交える" pa="3" pos="t1" jlpt="1" >
+		<r kun="まじ`える" kk="交える" pa="3" pos="t1" jlpt="1" >
 		</r>
-		<r kun="まじる" kk="交じる" pa="2" pos="j5" jlpt="2" ref="混じる" >
+		<r kun="ま`じる" kk="交じる" pa="2" pos="j5" jlpt="2" ref="混じる" >
 		</r>
-		<r kun="まざる" kk="交ざる" pa="2" pos="j5" jlpt="2" ref="混ざる" >
+		<r kun="ま`ざる" kk="交ざる" pa="2" pos="j5" jlpt="2" ref="混ざる" >
 		</r>
-		<r kun="かう" kk="交う" pa="0" pos="j5" >
+		<r kun="か`う" kk="交う" pa="0" pos="j5" >
 		</r>
-		<r kun="かわす" kk="交わす" pa="0" pos="t5" jlpt="1" >
+		<r kun="か`わす" kk="交わす" pa="0" pos="t5" jlpt="1" >
 		</r>
 		<r nfu="こもごも">
 		</r>
@@ -272,7 +271,7 @@
 			<ex	 word="観光" pron="かんこう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="日光" pron="にっこう" pa="1" pos="N" jlpt="3" />
 		</r>
-		<r kun="ひかる" kk="光る" pa="2" pos="j5" jlpt="4" >
+		<r kun="ひか`る" kk="光る" pa="2" pos="j5" jlpt="4" >
 		</r>
 		<r kun="ひかり" kk="光" pa="3" pos="N" jlpt="4" >
 		</r>

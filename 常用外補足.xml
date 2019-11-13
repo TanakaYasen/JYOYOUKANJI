@@ -78,6 +78,16 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="葵" freq="3658" jlpt="3" gr="4">
+		<r on="キ" >
+			<ex	 word="葵花" pron="キカ" pa="0" pos="N" />
+		</r>
+		<r kun="あおい" kk="葵" pa="0" pos="N" jlpt="1" >
+		</r>
+		<r sp="ひまわり" word="向日葵" pa="0" pos="N" jlpt="2" />
+		<r sp="わさび" word="わさび" pa="0" pos="N" jlpt="2" />
+	</kanji>
+	
 	<kanji	id="蕾" freq="3658" jlpt="3" gr="4">
 		<r on="ライ" >
 		</r>

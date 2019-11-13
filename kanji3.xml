@@ -857,7 +857,7 @@
 			<ex	 word="感覚" pron="かんかく" pa="0" pos="N" />
 			<ex	 word="感情" pron="かんじょう" pa="0" pos="NA" />
 		</r>
-		<r kun="かんじる" kk="感じる" pa="0" pos="N" jlpt="4" />
+		<r kun="かん`じる" kk="感じる" pa="0" pos="N" jlpt="4" />
 	</kanji>
 	
 	<kanji	id="漢" freq="1084" jlpt="4" gr="3">

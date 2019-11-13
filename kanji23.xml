@@ -331,11 +331,11 @@
 			<ex	 word="連合" pron="れんごう" pa="0" pos="N" jlpt="2" />
 			<ex	 word="関連" pron="かんれん" pa="0" pos="N" />
 		</r>
-		<r kun="つらなる" kk="連なる" pa="3" pos="j5" jlpt="3" >
+		<r kun="つらなる" kk="連なる" pa="3" pos="j5" jlpt="1" >
 		</r>
 		<r kun="つらねる" kk="連ねる" pa="3" pos="t1" jlpt="3" >
 		</r>
-		<r kun="つれる" kk="連れる" pa="0" pos="t1" jlpt="3" >
+		<r kun="つれる" kk="連れる" pa="0" pos="t1" >
 		</r>
 	</kanji>
 	
@@ -359,7 +359,7 @@
 	</kanji>
 	
 	<kanji	id="錬" freq="2781" jlpt="1" gr="8">
-		<r on="ロ" >
+		<r on="レン" >
 			<ex	 word="鍛錬" pron="たんれん" pa="0" pos="N" />
 		</r>
 	</kanji>
