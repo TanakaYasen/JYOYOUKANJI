@@ -22,7 +22,7 @@
 			<ex	 word="祝儀" pron="しゅうぎ" pa="0" pos="N" />
 			<ex	 word="祝言" pron="しゅうげん" pa="0" pos="N" />
 		</r>
-		<r kun="いわう" kk="祝う" pa="2" pos="t5" jlpt="3" eng="to celebrate; to congratulate" >
+		<r kun="いわ`う" kk="祝う" pa="2" pos="t5" jlpt="3" eng="to celebrate; to congratulate" >
 		</r>
 		<r sp="のりと" word="祝詞" pa="0" pos="N" />
 		<r nfu="祝る(のる)・呪う≒祝う(のろう)・祝つ(たつ)">

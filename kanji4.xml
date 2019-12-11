@@ -1012,10 +1012,12 @@
 	
 	<kanji	id="挟" freq="2274" jlpt="2" gr="8">
 		<r on="キョウ" >
-			<ex	 word="享年" pron="きょうねん" pa="0" pos="N" />
+			<ex	 word="挟撃" pron="きょうげき" pa="0" pos="N" />
 		</r>
-		<r kun="はさむ" kk="挟む" pa="2" pos="N" jlpt="1" >
+		<r kun="はさむ" kk="挟む" pa="2" pos="t5" jlpt="2" >
 			<ex	 word="板挟み" pron="いたばさみ" pa="3" pos="N" cn="进退维谷"/>
+		</r>
+		<r kun="はさまる" kk="挟まる" pa="2" pos="t5" jlpt="2" >
 		</r>
 	</kanji>
 	
@@ -1054,6 +1056,10 @@
 		<r on="キョウ" >
 			<ex	 word="脅迫" pron="きょうはく" pa="0" pos="教養N" />
 		</r>
+		<r kun="おびやかす" kk="脅かす" pa="2" pos="N" jlpt="1" ></r>
+		<r kun="おどす" kk="脅す" pa="2" pos="N" jlpt="1" ></r>
+		<r kun="おどかす" kk="脅かす" pa="2" pos="N" jlpt="1" ></r>
+		<r nfu="脅える(おびえる)"></r>
 	</kanji>
 	
 	<kanji	id="強" freq="260" jlpt="4" gr="2">
@@ -1061,9 +1067,9 @@
 			<ex	 word="強大" pron="きょうだい" pa="0" pos="N" />
 		</r>
 		<r kun="つよ`い" kk="強い" pa="2" pos="adj" jlpt="1" ></r>
-		<r kun="つよ`まる" kk="強まる" pa="3" pos="j1" jlpt="1" ></r>
-		<r kun="つよ`める" kk="強める" pa="3" pos="j1" jlpt="1" ></r>
-		<r kun="し`いる" kk="強いる" pa="3" pos="j1" jlpt="1" ></r>
+		<r kun="つよ`まる" kk="強まる" pa="3" pos="j5" jlpt="1" eng="to get strong" ></r>
+		<r kun="つよ`める" kk="強める" pa="3" pos="j1" jlpt="1" eng="to strengthen; to emphasize" cn="强调" ></r>
+		<r kun="し`いる" kk="強いる" pa="2" pos="t1" jlpt="1" eng=" to force; to coerce" ph="強いて言えば" ></r>
 	</kanji>
 	
 	<kanji	id="教" freq="185" jlpt="4" gr="2">

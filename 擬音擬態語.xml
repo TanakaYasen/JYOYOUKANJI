@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	熟字訓	と	当て字
+-->
+<Dict>
+	
+	<table tag="frequence">
+		<ex	 word="からから" pron="カラカラ" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="ぺらぺら" pron="ペラペラ" pa="10" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="がやがや" pron="ガヤガヤ" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="めっちゃめっちゃ" pron="メッチャメッチャ" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="なかなか" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="がたがた" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="ぶるぶる" pron="ブルブル" pa="0" pos="j5" jlpt="2" eng="to collide" />
+	</table>
+</Dict>
+

@@ -241,6 +241,13 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="蠍" freq="3723" jlpt="3" gr="4">
+		<r on="ボウ" >
+		</r>
+		<r kun="さそり" kk="蠍" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
 	<kanji	id="蛙" freq="1850" jlpt="3" gr="4">
 		<r on="ア" >
 		</r>
@@ -350,9 +357,8 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="噂" freq="1230" jlpt="3" gr="4">
-		<r kun="うわさ" kk="噂" pa="0" pos="N" jlpt="1" eng="rumor" >
-			<ex	 word="風の噂" pron="かぜのうわさ" pa="0" pos="N" eng="hearsay" />
+	<kanji	id="唸" freq="1230" jlpt="3" gr="4">
+		<r kun="うなる" kk="唸る" pa="0" pos="N" jlpt="1" eng="rumor" >
 		</r>
 	</kanji>
 	

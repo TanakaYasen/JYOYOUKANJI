@@ -139,6 +139,7 @@
 		<r sp="いるか" word="海豚" pa="0" pos="N" />
 		<r sp="くらげ" word="海月・水母" pa="0" pos="N" />
 		<r sp="えび" word="海老" pa="0" pos="N" jp="蝦" />
+		<r sp="のり" word="海苔" pa="2" pos="N" ph="海苔巻き" />
 		<r sp="ゆり" word="百合" pa="0" pos="N" />
 		<r sp="わさび" word="山葵" pa="*1" pos="N" />
 		<r sp="いちょう" word="銀杏" pa="0" pos="N" />

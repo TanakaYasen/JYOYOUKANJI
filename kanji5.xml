@@ -4,6 +4,7 @@
 	
 	<kanji	id="屈" freq="906" jlpt="1" gr="8">
 		<r on="クツ" >
+			<ex	 word="退屈" pron="たいくつ" pa="0" pos="N/NA/js" cn="无聊 闷 寂寞 厌倦" ph="どうもご退屈さまでした" />
 			<ex	 word="理屈" pron="りくつ" pa="0" pos="N" jlpt="1" cn="理论"/>
 			<ex	 word="屈折" pron="くっせつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="屈辱" pron="くつじょく" pa="0" pos="N" />
@@ -857,7 +858,7 @@
 			<ex	 word="言語" pron="げんご" pa="1" pos="N" />
 		</r>
 		<r on="ゴン" >
-			<ex	 word="過言" pron="かごん" pa="0" pos="N" jlpt="5" />
+			<ex	 word="過言" pron="かごん" pa="0" pos="N" jlpt="5" cn="夸张，说得过火; 言过其实" />
 			<ex	 word="伝言" pron="でんごん" pa="0" pos="N" jlpt="5" />
 		</r>
 		<r kun="いう" kk="言う" pa="0" pos="jt5" jlpt="5" >
