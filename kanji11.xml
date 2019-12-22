@@ -230,10 +230,10 @@
 			<ex	 word="乗客" pron="じょうきゃく" pa="0" pos="N" jlpt="3" eng="passenger" />
 			<ex	 word="乗車" pron="じょうしゃ" pa="0" pos="N" jlpt="2"/>
 		</r>
-		<r kun="のる" kk="乗る" pa="0" pos="j5" jlpt="5" >
+		<r kun="の`る" kk="乗る" pa="0" pos="j5" jlpt="5" >
 			<ex	 word="乗り物" pron="のりもの" pa="0" pos="N" jlpt="4" eng="vehicle" />
 		</r>
-		<r kun="のせる" kk="乗せる" pa="0" pos="t1" jlpt="3" >
+		<r kun="の`せる" kk="乗せる" pa="0" pos="t1" jlpt="3" >
 		</r>
 		<r nfu="ショウ">
 		</r>
@@ -295,7 +295,7 @@
 		</r>
 		<r on="セイ" >
 		</r>
-		<r kun="なさけ" kk="情け" pa="13" pos="N" jlpt="1" eng="pity;mercy;sympathy" >
+		<r kun="なさけ" kk="情け" pa="13" pos="N/NA" jlpt="1" cn="仁慈 同情; 可怜的" eng="pity;mercy;sympathy" >
 		</r>
 		<r nfu="こころ・おもむき">
 		</r>
@@ -318,9 +318,9 @@
 		<r on="ジョウ" >
 			<ex	 word="重畳" pron="ちょうじょう" pa="0" pos="N" />
 		</r>
-		<r kun="たたむ" kk="畳む" pa="0" pos="t5" jlpt="2" >
+		<r kun="たた`む" kk="畳む" pa="0" pos="t5" jlpt="2" >
 		</r>
-		<r kun="たたみ" kk="畳み" pa="0" pos="N" jlpt="4" >
+		<r kun="たた`み" kk="畳み" pa="0" pos="N" jlpt="4" >
 			<ex	 word="石畳み" pron="いしだたみ" pa="0" pos="N" />
 		</r>
 		<r nfu="畳ねる(かさねる)">
@@ -332,11 +332,11 @@
 			<ex	 word="蒸気" pron="じょうき" pa="0" pos="N" jlpt="2" eng="steam;vapour" />
 			<ex	 word="蒸発" pron="じょうはつ" pa="0" pos="N" jlpt="2" eng="evaporation" />
 		</r>
-		<r kun="むす" kk="蒸す" pa="1" pos="t5" jlpt="2" >
+		<r kun="む`す" kk="蒸す" pa="1" pos="t5" jlpt="2" >
 		</r>
-		<r kun="むれる" kk="蒸れる" pa="1" pos="j1" >
+		<r kun="む`れる" kk="蒸れる" pa="1" pos="j1" >
 		</r>
-		<r kun="むらす" kk="蒸らす" pa="1" pos="t5" >
+		<r kun="む`らす" kk="蒸らす" pa="1" pos="t5" >
 		</r>
 		<r nfu="蒸かす(ふかす)・蒸ける(ふける)・蒸い(おおい)">
 		</r>
@@ -346,7 +346,7 @@
 		<r on="ジョウ" >
 			<ex	 word="縄文" pron="じょうもん" pa="0" pos="N" />
 		</r>
-		<r kun="なわ" kk="縄" pa="2" pos="N" jlpt="3" >
+		<r kun="なわ" kk="縄" pa="2" pos="N" jlpt="3" eng="rope; cord" >
 		</r>
 		<r nfu="縄す(ただす)">
 		</r>
@@ -383,7 +383,7 @@
 			<ex	 word="譲渡" pron="じょうと" pa="0" pos="N" />
 			<ex	 word="譲歩" pron="じょうほ" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="ゆずる" kk="譲る" pa="2" pos="t5" jlpt="3" >
+		<r kun="ゆず`る" kk="譲る" pa="2" pos="t5" jlpt="3" >
 		</r>
 		<r nfu="譲める(せめる)">
 		</r>
@@ -394,7 +394,7 @@
 			<ex	 word="醸成" pron="じょうせい" pa="0" pos="N" />
 			<ex	 word="醸造" pron="じょうぞう" pa="0" pos="N" />
 		</r>
-		<r kun="かもす" kk="醸す" pa="2" pos="t5" >
+		<r kun="かも`す" kk="醸す" pa="2" pos="t5" >
 		</r>
 	</kanji>
 	
@@ -418,9 +418,9 @@
 		<r on="ショク" >
 			<ex	 word="払拭" pron="ふっしょく" pa="0" pos="N" />
 		</r>
-		<r kun="ふく" kk="拭く" pa="0" pos="t5" jlpt="2" >
+		<r kun="ふ`く" kk="拭く" pa="0" pos="t5" jlpt="2" >
 		</r>
-		<r kun="ぬぐう" kk="拭う" pa="02" pos="t5" >
+		<r kun="ぬぐ`う" kk="拭う" pa="02" pos="t5" >
 			<ex	 word="手ぬぐい" pron="てぬぐい" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r nfu="シキ">
@@ -452,9 +452,9 @@
 			<ex	 word="植樹" pron="しょくじゅ" pa="0" pos="N" />
 			<ex	 word="植物" pron="しょくぶつ" pa="0" pos="N" jlpt="3" eng="plant" />
 		</r>
-		<r kun="うえる" kk="植える" pa="0" pos="t1" jlpt="4" >
+		<r kun="う`える" kk="植える" pa="0" pos="t1" jlpt="4" >
 		</r>
-		<r kun="うわる" kk="植わる" pa="0" pos="j5" jlpt="1" >
+		<r kun="う`わる" kk="植わる" pa="0" pos="j5" jlpt="1" >
 		</r>
 		<r nfu="植てる(たてる)・チ">
 		</r>

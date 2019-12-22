@@ -1296,7 +1296,7 @@
 			<ex	 word="勤行" pron="ごんぎょう" pa="0" pos="N" cn="(僧侶)修行"/>
 		</r>
 		<r kun="つと`まる" kk="勤まる" pa="3" pos="j5" jlpt="5"> </r>
-		<r kun="つと`める" kk="勤める" pa="3" pos="t1" jlpt="1"> </r>
+		<r kun="つと`める" kk="勤める" pa="3" pos="t1" jlpt="1" ph="工場に勤める" cn="（有编制）上班(所以用に)" jp="通勤するといる感じ" ref="働く"> </r>
 	</kanji>
 	
 	<kanji	id="琴" freq="1662" jlpt="1" gr="8">

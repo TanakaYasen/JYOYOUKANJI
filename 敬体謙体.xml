@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	熟字訓	と	当て字
+-->
+<Dict>
+	three level:			 casual, polite, and honorific/humble;	
+		stand at speaker's view, performed by onself is in humber; performed by others is in honorific
+		自己的动作用谦格，他人的动作用尊格
+		
+	politer  language		(丁寧語		ていねいご) 
+	honorific				（尊敬語　そんけいご）
+	humble					（謙譲語　けんじょうご）
+	
+	Plain				Honorific							Humber
+	する				なさる								致す
+	往く				いらっしゃる／おいでになる			参る
+	来る				いらっしゃる／おいでになる			参る
+	いる				いらっしゃる／おいでになる			おる
+	見る				ご覧になる							拝見する
+	聞く													伺う
+	言う				おっしゃる							申す・申し上げる
+	あげる													差し上げる
+	くれる				下さる								-
+	もらう				-									頂く
+	食べる				召し上がる							頂く
+	飲む				召し上がる							頂く
+	知っている			ご存知								存じる
+	
+	
+	--例
+		私はキムと申します
+		私が書いたレポートを見ていただけますか
+		失礼致しました。
+		
+		お名前を伺ってもよろしいでしょうか
+		畏（かしこ）まりました。
+		
+		お釣りになります。
+		
+</Dict>
+

@@ -511,7 +511,7 @@
 			<ex	 word="労働" pron="しょくどう" pa="0" pos="N" jlpt="3"/>
 			<ex	 word="稼働" pron="どうとく" pa="0" pos="N" />
 		</r>
-		<r kun="はたら`く" kk="働く" pa="0" pos="jt5" jlpt="5" ph="~で働く" ref="勤める"></r>
+		<r kun="はたら`く" kk="働く" pa="0" pos="jt5" jlpt="5" ph="工場で働く" jp="単純に仕事する" ref="勤める"></r>
 	</kanji>
 	
 	<kanji	id="銅" freq="1596" jlpt="2" gr="5">

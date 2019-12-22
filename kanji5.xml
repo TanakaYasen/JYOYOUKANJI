@@ -4,9 +4,10 @@
 	
 	<kanji	id="屈" freq="906" jlpt="1" gr="8">
 		<r on="クツ" >
-			<ex	 word="退屈" pron="たいくつ" pa="0" pos="N/NA/js" cn="无聊 闷 寂寞 厌倦" ph="どうもご退屈さまでした" />
+			<ex	 word="退屈" pron="たいくつ" pa="0" pos="N/NA/js" jlpt="3" cn="无聊 闷 寂寞 厌倦" ph="どうもご退屈さまでした" />
 			<ex	 word="理屈" pron="りくつ" pa="0" pos="N" jlpt="1" cn="理论"/>
 			<ex	 word="屈折" pron="くっせつ" pa="0" pos="N" jlpt="1" />
+			<ex	 word="屁理屈" pron="へりくつ" pa="0" pos="N" cn="歪理; 强词夺理"/>
 			<ex	 word="屈辱" pron="くつじょく" pa="0" pos="N" />
 		</r>
 		<r nfu="屈む(かがむ)・屈まる(くぐまる)・屈まる(こごまる)"></r>
@@ -16,7 +17,7 @@
 		<r on="クツ" >
 			<ex	 word="発掘" pron="はっくつ" pa="0" pos="N/ts" jlpt="1" />
 		</r>
-		<r kun="ほる" kk="掘る" pa="1" pos="t5" jlpt="2">
+		<r kun="ほ`る" kk="掘る" pa="1" pos="t5" jlpt="2">
 			<ex	 word="根掘り葉掘り" pron="ねほりはほり" pa="4" pos="adv" jlpt="1" />
 		</r>
 	</kanji>
@@ -30,7 +31,7 @@
 	</kanji>
 	
 	<kanji	id="熊" freq="1161" jlpt="1" gr="8">
-		<r kun="くま" kk="熊" pa="2" pos="N" >
+		<r kun="くま" kk="熊" pa="2" pos="N" eng="bear" >
 			<ex	 word="熊本" pron="くまもと" pa="0" pos="N" cn="日本九州的一个县" />
 			<ex	 word="熊手" pron="くまで" pa="0" pos="N" cn="钉耙" />
 		</r>
@@ -38,8 +39,9 @@
 	</kanji>
 	
 	<kanji	id="繰" freq="1071" jlpt="1" gr="8">
-		<r kun="くる" kk="繰る" pa="1" pos="t5" >
+		<r kun="く`る" kk="繰る" pa="1" pos="t5" >
 			<ex	 word="繰り返す" pron="くりかえす" pa="0" pos="N/ts" jlpt="3" />
+			<ex	 word="手繰る" pron="たぐる" pa="0" pos="t5" jlpt="3" />
 		</r>
 		<r nfu="ソウ"></r>
 	</kanji>
@@ -104,7 +106,7 @@
 			<ex	 word="群生" pron="ぐんせい" pa="0" pos="N" />
 			<ex	 word="抜群" pron="ばつぐん" pa="0" pos="N/NA" eng="outstanding" />
 		</r>
-		<r kun="むれる" kk="群れる" pa="2" pos="j1" ></r>
+		<r kun="む`れる" kk="群れる" pa="2" pos="j1" ></r>
 		<r kun="むれ" kk="群" pa="2" pos="N" jlpt="2"></r>
 		<r kun="むら" kk="群" pa="2" pos="N" jlpt="2"></r>
 		<r nfu="群がる(むらがる)"></r>
@@ -117,7 +119,7 @@
 		<r on="キョウ" >
 			<ex	 word="兄弟" pron="きょうだい" pa="1" pos="N" jlpt="5" />
 		</r>
-		<r kun="あに" kk="兄" pa="1" pos="N" jlpt="5">
+		<r kun="あに" kk="兄" pa="1" pos="N" jlpt="5" eng="elder brother">
 			<ex	 word="兄貴" pron="あにき" pa="1" pos="N" />
 		</r>
 		<r nfu="え"></r>
@@ -125,9 +127,9 @@
 	
 	<kanji	id="刑" freq="1096" jlpt="1" gr="8">
 		<r on="ケイ" >
-			<ex	 word="刑事" pron="けいじ" pa="1" pos="N" jlpt="3" />
-			<ex	 word="刑罰" pron="けいばつ" pa="1" pos="N" jlpt="1" />
-			<ex	 word="死刑" pron="しけい" pa="2" pos="N" jlpt="1" />
+			<ex	 word="刑事" pron="けいじ" pa="1" pos="N" jlpt="3" eng="criminal mater" />
+			<ex	 word="刑罰" pron="けいばつ" pa="1" pos="N" jlpt="1" eng="penalty; punishment" />
+			<ex	 word="死刑" pron="しけい" pa="2" pos="N" jlpt="1" eng="death penalty; capital punishment" />
 			<ex	 word="刑法" pron="けいほう" pa="1" pos="N" />
 		</r>
 		<r nfu="ギョウ・（仕置き）しおき"></r>
@@ -145,7 +147,7 @@
 		<r kun="かた" kk="形" pa="2" pos="N" >
 			<ex	 word="形見" pron="かたみ" pa="0" pos="N" cn="纪念品;遗物" />
 		</r>
-		<r kun="かたち" kk="形" pa="0" pos="N" jlpt="4" eng="form">
+		<r kun="かたち" kk="形" pa="0" pos="N" jlpt="4" eng="form" cn="形状 姿态 形式">
 		</r>
 		<r nfu="なり"></r>
 	</kanji>
@@ -296,10 +298,10 @@
 			<ex	 word="軽薄" pron="けいはく" pa="0" pos="NA" />
 		</r>
 		<r kun="かる`い" kk="軽い" pa="0" pos="adj" jlpt="5">
-			<ex	 word="気軽" pron="きがる" pa="0" pos="NA" jlpt="1" eng="carefree" cn="爽快不顾忌" />
+			<ex	 word="気軽" pron="きがる" pa="0" pos="NA" jlpt="1" eng="carefree" cn="爽快;不顾忌" />
 		</r>
-		<r kun="かろ`やか" kk="軽やか" pa="2" pos="NA" eng="light"></r>
-		<r nfu="キン・軽くする(かるくする)・軽しい(かるがるしい)・軽んずる(かろんずる)"></r>
+		<r kun="かろ`やか" kk="軽やか" pa="2" pos="NA" cn="（动作、节奏）轻快" eng="light" ph="軽やかに踊る"></r>
+		<r nfu="キン・軽くする(かるくする)・軽しい(かるがるしい)・軽んずる(かろんずる)" />
 	</kanji>
 	
 	<kanji	id="傾" freq="871" jlpt="2" gr="8">
@@ -308,8 +310,9 @@
 			<ex	 word="傾斜" pron="けいしゃ" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r kun="かたむ`く" kk="傾く" pa="3" pos="j5" jlpt="2" eng="to incline toward; to lurch" ></r>
-		<r kun="かたむ`ける" kk="傾ける" pa="4" pos="t1" jlpt="1"></r>
-		<r nfu="傾げる(かたげる)・傾ぐ(かしぐ)・傾る(くつがえる)"></r>
+		<r kun="かたむ`ける" kk="傾ける" pa="4" pos="t1" jlpt="1" cn="使倾斜">
+		</r>
+		<r nfu="傾げる(かたげる)・傾ぐ(かしぐ)・傾る(くつがえる)" />
 	</kanji>
 	
 	<kanji	id="携" freq="1972" jlpt="1" gr="8">

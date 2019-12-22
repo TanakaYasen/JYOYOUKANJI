@@ -555,11 +555,11 @@
 			<ex	 word="信頼" pron="しんらい" pa="0" pos="N" jlpt="3" />
 			<ex	 word="無頼漢" pron="ぶらいかん" pa="2" pos="N" />
 		</r>
-		<r kun="たのむ" kk="頼む" pa="2" pos="t5" jlpt="5" >
+		<r kun="たのむ" kk="頼む" pa="2" pos="t5" jlpt="5" ph="に頼む" cn="拜托; 点餐" jp="お願いする" >
 		</r>
-		<r kun="たのもしい" kk="頼もしい" pa="4" pos="adj" jlpt="2" >
+		<r kun="たのもしい" kk="頼もしい" pa="4" pos="adj" jlpt="2" cn="可靠，值得信赖" jp="信頼できる">
 		</r>
-		<r kun="たよる" kk="頼る" pa="2" pos="j5" jlpt="3" >
+		<r kun="たよる" kk="頼る" pa="2" pos="j5" jlpt="3" ph="に頼る" cn="依靠~" >
 		</r>
 	</kanji>
 	

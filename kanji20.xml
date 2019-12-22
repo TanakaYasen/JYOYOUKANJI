@@ -887,7 +887,7 @@
 		<r on="ボウ" >
 			<ex	 word="妨害" pron="ぼうがい" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="さまたげる" kk="妨げる" pa="4" pos="t1" jlpt="2" eng="to disturb;to obstruct" >
+		<r kun="さまたげる" kk="妨げる" pa="4" pos="t1" jlpt="2" cn="妨碍;阻挠" eng="to disturb;to obstruct" ph="交通を妨げる">
 		</r>
 		<r nfu="ホウ" />
 	</kanji>
