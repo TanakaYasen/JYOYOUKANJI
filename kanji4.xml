@@ -233,8 +233,9 @@
 			<ex	 word="祈祷" pron="こうき" pa="1" pos="N" />
 			<ex	 word="祈願" pron="きど" pa="1" pos="N" />
 		</r>
-		<r kun="いの`る" kk="祈る" pa="2" pos="t5" jlpt="4" eng="to pray;to wish">
-			<ex	 word="祈り" pron="いのり" pa="3" pos="N" eng="prayer" />
+		<r kun="いの`る" kk="祈る" pa="2" pos="t5" jlpt="4" ph="～を祈る" cn="祈求;祝愿" eng="to pray;to wish">
+			<e ph="一路平安を祈る・ご家族の健康をお祈りいたします。" />
+			<ex	 word="祈り" pron="いのり" pa="3" pos="N" eng="prayer" ph="祈りを捧げる。" />
 		</r>
 	</kanji>
 	
@@ -295,7 +296,9 @@
 			<ex	 word="飢餓" pron="きが" pa="1" pos="N" eng="starvation;famine;hunger" />
 			<ex	 word="飢饉" pron="ききん" pa="2" pos="N" jlpt="2" eng="famine" />
 		</r>
-		<r kun="飢える" kk="うえる" pa="2" pos="j1" jlpt="2" cn="饥饿;渴望" ref="餓える"></r>
+		<r kun="う`える" kk="飢える" pa="2" pos="j1" jlpt="2" cn="饥饿;渴望" ph="~に飢える" ref="餓える">
+			<e ph="知識に飢える・愛に飢える・飢えるものは食を選ばず（饥不择食）"  />
+		</r>
 	</kanji>
 	
 	<kanji	id="鬼" freq="996" jlpt="1" gr="8">

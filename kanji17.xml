@@ -4,7 +4,6 @@
 	
 	<kanji	id="度" freq="62" jlpt="4" gr="3">
 		<r on="ド" >
-			<ex	 word="緯度" pron="いど" pa="1" pos="N" jlpt="2"/>
 			<ex	 word="制度" pron="せいど" pa="1" pos="N" jlpt="3"/>
 			<ex	 word="態度" pron="たいど" pa="1" pos="N" jlpt="3"/>
 			<ex	 word="今度" pron="こんど" pa="1" pos="N" jlpt="4"/>

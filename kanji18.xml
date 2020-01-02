@@ -13,8 +13,11 @@
 			<ex	 word="立ち入る" pron="たちいる" pa="0" pos="j5" />
 			<ex	 word="入口" pron="いりぐち" pa="0" pos="N" jlpt="5" />
 		</r>
-		<r kun="いれる" kk="入れる" pa="0" pos="t1" jlpt="5" cn="装入" jp="収納する">
+		<r kun="い`れる" kk="入れる" pa="0" pos="t1" jlpt="5" cn="装入" jp="収納する">
 			<ex	 word="入れ物" pron="いれもの" pa="0" pos="N" jlpt="2" cn="容器;钱包" />
+			<ex	 word="入れ替える" pron="いれかえる" pa="34" pos="t1" cn="改换,更换" >
+				<e ph="空気を入れ替える・心を入れ替える・担当者を入れ替える・体の弱い人を入れ替える・AとBを入れ替える" />
+			</ex>
 		</r>
 		<r kun="はいる" kk="入る" pa="1" pos="*j5" jlpt="5"> </r>
 	</kanji>

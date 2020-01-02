@@ -181,10 +181,10 @@
 	<grammar id="わけ～" >
 		<grammar id="～わけがない" mn="強い否定"/> 
 		<grammar id="～わけではない" mn="弱い否定"/> 
-		<grammar id="～わけにはいかない" mn="したいけど、できない" /> 
+		<grammar id="～わけにはいかない" mn="したいけど、できない" cn="（字面）有道理也不行; 虽想做但（出于道德操守）不能做" /> 
 		<grammar id="～ないわけにはいかない" mn="したくないけど、するしかない" /> 
-		<grammar id="～わけだ" mn="だから～だ　理解" /> 
-	</ grammar>	
+		<grammar id="～わけだ" mn="だから～だ　理解" / cn="~的理由; 难怪xx"> 
+	</ grammar>
 	
 	<grammar id="うる・える・えない" >
 		<point mn="可能性がある／ない" /> 
