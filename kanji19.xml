@@ -333,9 +333,10 @@
 		</r>
 		<r kun="おもて" kk="表" pa="3" pos="N" jlpt="4" ref="裏">
 		</r>
-		<r kun="あらわす" kk="表す" pa="3" pos="t5" jlpt="3">
+		<r kun="あらわ`す" kk="表す" pa="3" pos="t5" jlpt="3" cn="表现,表露,表示,表达" ref="現す">
+			<e ph="この記号は何を表すのですか。彼はその憤激を外に表さなかった" />
 		</r>
-		<r kun="あらわれる" kk="表れる" pa="4" pos="j1" jlpt="3">
+		<r kun="あらわ`れる" kk="表れる" pa="4" pos="j1" jlpt="3">
 		</r>
 	</kanji>
 	

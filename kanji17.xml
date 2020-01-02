@@ -25,8 +25,11 @@
 			<ex	 word="激怒" pron="どぼく" pa="1" pos="N" eng="rage"/>
 			<ex	 word="怒涛" pron="こくど" pa="0" pos="N" />
 		</r>
-		<r kun="いかる" kk="怒る" pa="2" pos="j5" jlpt="4" ></r>
-		<r kun="おこる" kk="怒る" pa="2" pos="j5" jlpt="4" cn="发怒;训骂"></r>
+		<r kun="いかり" kk="怒り" pa="3" pos="N" jlpt="1" eng="anger; rage; fury" >
+			<e ph="怒りを買う。怒りを静める。怒りで顔が真っ赤になった。" />
+		</r>
+		<r kun="おこる" kk="怒る" pa="2" pos="jt5" jlpt="4" cn="j-发怒; t-训骂">
+		</r>
 	</kanji>
 	
 	<kanji	id="刀" freq="662" jlpt="1" gr="2">
@@ -67,8 +70,12 @@
 			<ex	 word="当然" pron="とうぜん" pa="0" pos="" />
 			<ex	 word="当該" pron="とうがい" pa="0" pos="" jlpt=""/>
 		</r>
-		<r kun="あたる" kk="当たる" pa="0" pos="j5" jlpt="3" ></r>
-		<r kun="あてる" kk="当てる" pa="0" pos="t1" jlpt="3" ></r>
+		<r kun="あたる" kk="当たる" pa="0" pos="j5" jlpt="3" cn="碰上; 猜中">
+			<e ph="雨が窓に当たる。この頃は天気予報があまり当たらない。当たりました。" >
+		</r>
+		<r kun="あ`てる" kk="当てる" pa="0" pos="t1" jlpt="3" cn="砸, 打中; 使接触; 晒; 中奖; 猜测" >
+			<e ph="ボウルを壁に当てる。受話器を耳に当てる。日光に当てて乾かす。一等賞を当てる。当ててみてください" >
+		</r>
 	</kanji>
 	
 	<kanji	id="投" freq="641" jlpt="3" gr="3">

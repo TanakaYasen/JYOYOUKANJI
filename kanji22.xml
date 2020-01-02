@@ -163,6 +163,7 @@
 		<r kun="やさしい" kk="優しい" pa="*0" pos="adj" jlpt="4" >
 		</r>
 		<r kun="すぐれる" kk="優れる" pa="3" pos="j1" jlpt="3" >
+			<e ph="優れた成績。" />
 		</r>
 	</kanji>
 	
@@ -225,7 +226,8 @@
 			<ex	 word="幼稚" pron="ようち" pa="0" pos="N" jlpt="2" />
 			<ex	 word="幼虫" pron="ようちゅう" pa="0" pos="N" />
 		</r>
-		<r kun="おさない" kk="幼い" pa="3" pos="adj" jlpt="3" eng="very young" >
+		<r kun="おさない" kk="幼い" pa="3" pos="adj" jlpt="3" eng="very young" ph="幼い頃">
+			<ex	 word="幼馴染" pron="おさななじみ" pa="4" pos="N" cn="青梅竹马之交; 发小" />
 		</r>
 	</kanji>
 	
@@ -416,7 +418,7 @@
 			<ex	 word="養殖" pron="ようしょく" pa="0" pos="N" />
 			<ex	 word="養育" pron="よういく" pa="0" pos="N" />
 		</r>
-		<r kun="やしなう" kk="養う" pa="3" pos="t5" jlpt="1" >
+		<r kun="やしな`う" kk="養う" pa="3" pos="t5" jlpt="1" cn="培养" >
 		</r>
 	</kanji>
 	
@@ -468,7 +470,8 @@
 			<ex	 word="浴場" pron="よくじょう" pa="0" pos="N" />
 			<ex	 word="浴室" pron="よくしつ" pa="2" pos="N" jlpt="1" />
 		</r>
-		<r kun="あびる" kk="浴びる" pa="0" pos="t1" jlpt="5" >
+		<r kun="あびる" kk="浴びる" pa="0" pos="t1" jlpt="5" cn="淋浴;遭受" >
+			<e ph="喝采を浴びる		血を浴びて戦う	非難を浴びる" />
 		</r>
 		<r kun="あびせる" kk="浴びせる" pa="0" pos="t1" >
 		</r>

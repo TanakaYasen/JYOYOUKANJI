@@ -169,9 +169,13 @@
 		</r>
 		<r kun="とまる" kk="止まる" pa="0" pos="j5" jlpt="5" >
 		</r>
-		<r kun="とめる" kk="止める" pa="0" pos="t1" jlpt="4" >
+		<r kun="とめる" kk="止める" pa="0" pos="t1" jlpt="4" ph="車を止める">
 		</r>
-		<r nfu="止まる(とどまる)・止める(とどめる)・止む(やむ)・止める(やめる)・止す(さす)・止す(よす)" >
+		<r kun="やむ" kk="止む" pa="0" pos="j5" jlpt="4" >
+		</r>
+		<r kun="やめる" kk="止める" pa="0" pos="t1" jlpt="4" ph="車を止める">
+		</r>
+		<r nfu="止まる(とどまる)・止める(とどめる)・止す(さす)・止す(よす)" >
 		</r>
 	</kanji>
 	
@@ -341,7 +345,7 @@
 	
 	<kanji	id="刺" freq="928" jlpt="2" gr="8">
 		<r on="シ" >
-			<ex	 word="刺激" pron="しげき" pa="0" pos="N/ts" jlpt="3" />
+			<ex	 word="刺激" pron="しげき" pa="0" pos="N/ts" jlpt="3" eng="stimulus" />
 			<ex	 word="名刺" pron="めいし" pa="0" pos="N" jlpt="2" cn="名片" />
 		</r>
 		<r kun="さす" kk="刺す" pa="1" pos="t5" jlpt="2" >
@@ -413,6 +417,8 @@
 			<ex	 word="相思" pron="そうし" pa="1" pos="N" />
 		</r>
 		<r kun="おもう" kk="思う" pa="2" pos="t5" jlpt="4" >
+			<ex	 word="思い付く" pron="おもいつく" pa="2" pos="t5" jlpt="2" cn="忽然想起" ref="浮かぶ" />
+			<ex	 word="思い出す" pron="おもいだす" pa="4" pos="t5" jlpt="4" />
 		</r>
 		<r nfu="思しい(おぼしい)・こころ" >
 		</r>
@@ -702,7 +708,7 @@
 		</r>
 		<r on="シ" >
 		</r>
-		<r kun="みずから" kk="自" pa="1" pos="N" jlpt="5" >
+		<r kun="みずから" kk="自ら" pa="1" pos="N" >
 		</r>
 		<r nfu="自ら(おのずから)・自り(より)" >
 		</r>

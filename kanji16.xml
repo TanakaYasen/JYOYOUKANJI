@@ -168,7 +168,8 @@
 	
 	<kanji	id="直" freq="178" jlpt="3" gr="2">
 		<r on="チョク" >
-			<ex	 word="直接" pron="ちょくせつ" pa="0" pos="N" jlpt="0"/>
+			<ex	 word="直接" pron="ちょくせつ" pa="0" pos="N" jlpt="3" eng="directly" ref="間接"/>
+			<ex	 word="直前" pron="ちょくぜん" pa="0" pos="N/adv" jlpt="2" cn="即将…之前" eng="just before"/>
 		</r>
 		<r on="ジキ" >
 			<ex	 word="正直" pron="しょうじき" pa="0" pos="N/NA" jlpt="0"/>
@@ -273,8 +274,12 @@
 			<ex	 word="痛感" pron="つうかん" pa="0" pos="N/ts" jlpt="1" />
 		</r>
 		<r kun="いたい" kk="痛い" pa="2" pos="adj" jlpt="5" ></r>
-		<r kun="いたむ" kk="痛む" pa="2" pos="j5" jlpt="1" ></r>
-		<r kun="いためる" kk="痛める" pa="3" pos="t1" jlpt="1" ></r>
+		<r kun="いたむ" kk="痛む" pa="2" pos="j5" jlpt="1" cn="痛苦;苦恼" ref="傷む">
+			<e ph="虫歯が痛む。傷が痛むので眠れなかった。" >
+		</r>
+		<r kun="いためる" kk="痛める" pa="3" pos="t1" jlpt="1" cn="弄痛" ref="炒める">
+			<e ph="腰を痛めてよく歩けない。借金で頭を痛める。懐を痛める(破费)。" >
+		</r>
 	</kanji>
 	
 	<kanji	id="塚" freq="1519" jlpt="1" gr="8">

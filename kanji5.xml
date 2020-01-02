@@ -213,8 +213,11 @@
 			<ex	 word="計画" pron="けいかく" pa="0" pos="N" jlpt="3" />
 			<ex	 word="計時" pron="けいじ" pa="0" pos="N" />
 		</r>
-		<r kun="はかる" kk="計る" pa="2" pos="N" jlpt="3" jp="推測する"></r>
-		<r kun="はからす" kk="計らす" pa="3" pos="N" jp="相談する"></r>
+		<r kun="はか`る" kk="計る" pa="2" pos="t5" jlpt="3" cn="测量(度量衡);揣测" jp="推測する"></r>
+		<r kun="はか`らう" kk="計らう" pa="3" pos="t5" jp="相談する">
+			<ex	 word="図らざるに" pron="はからざるに" pa="4" pos="adv" cn="没想到"/>
+		</r>
+		<r nfu="計える(かぞえる)"></r>
 	</kanji>
 	
 	<kanji	id="恵" freq="1275" jlpt="1" gr="8">
@@ -255,14 +258,14 @@
 		<r on="ケイ" >
 			<ex	 word="経済" pron="けいざい" pa="0" pos="N" jlpt="4" eng="economics" />
 			<ex	 word="経費" pron="けいひ" pa="0" pos="N" jlpt="1" eng="expenses" />
-			<ex	 word="経験" pron="けいひ" pa="0" pos="N" jlpt="3" eng="experience"/>
+			<ex	 word="経験" pron="けいけん" pa="0" pos="N" jlpt="3" eng="experience"/>
 			<ex	 word="経営" pron="けいえい" pa="0" pos="N" jlpt="3" />
 			<ex	 word="経由" pron="けいゆ" pa="0" pos="N" jlpt="3" eng="via"/>
 		</r>
-		<r kun="へる" kk="経る" pa="1" pos="j1" jlpt="1" ref="歴"></r>
+		<r kun="へ`る" kk="経る" pa="1" pos="j1" jlpt="1" ref="歴"></r>
 	</kanji>
 	
-	<kanji	id="蛍" freq="3039" jlpt="1" gr="8">
+	<kanji	id="蛍" freq="3039" jlpt="1" gr="8" alt="螢" >
 		<r on="ケイ" >
 			<ex	 word="蛍光灯" pron="けいこうとう" pa="0" pos="N" jlpt="2" />
 			<ex	 word="蛍雪" pron="けいせつ" pa="0" pos="N" />
@@ -276,7 +279,9 @@
 			<ex	 word="敬意" pron="けいい" pa="1" pos="N" jlpt="3" />
 			<ex	 word="敬礼" pron="けいれい" pa="0" pos="N" />
 		</r>
-		<r kun="うやまう" kk="敬う" pa="3" pos="t5" jlpt="2" ref="恭"></r>
+		<r kun="うやま`う" kk="敬う" pa="3" pos="t5" jlpt="2" jp="尊敬する" ref="恭">
+			<e ph="目上の人を敬う。先生を敬う。お年寄りを敬う" />
+		</r>
 		<r nfu="キョウ・敬む(つつしむ)"></r>
 	</kanji>
 	
@@ -297,8 +302,8 @@
 			<ex	 word="軽傷" pron="けいしょう" pa="0" pos="N" />
 			<ex	 word="軽薄" pron="けいはく" pa="0" pos="NA" />
 		</r>
-		<r kun="かる`い" kk="軽い" pa="0" pos="adj" jlpt="5">
-			<ex	 word="気軽" pron="きがる" pa="0" pos="NA" jlpt="1" eng="carefree" cn="爽快;不顾忌" />
+		<r kun="かる`い" kk="軽い" pa="0" pos="adj" jlpt="5" cn="重量小，程度浅；轻率" >
+			<ex	 word="気軽" pron="きがる" pa="0" pos="NA" jlpt="1" eng="carefree" cn="爽快;不顾忌" ph="気軽にお問い合わせください。" />
 		</r>
 		<r kun="かろ`やか" kk="軽やか" pa="2" pos="NA" cn="（动作、节奏）轻快" eng="light" ph="軽やかに踊る"></r>
 		<r nfu="キン・軽くする(かるくする)・軽しい(かるがるしい)・軽んずる(かろんずる)" />
@@ -865,6 +870,12 @@
 			<ex	 word="伝言" pron="でんごん" pa="0" pos="N" jlpt="5" />
 		</r>
 		<r kun="いう" kk="言う" pa="0" pos="jt5" jlpt="5" >
+			<ex	 word="言い合う" pron="いいあう" pa="3" pos="N" />
+			<ex	 word="言いつける" pron="いいつける" pa="3" pos="t1" cn="命令,吩咐; 告发造密" >
+				<e ph="押しつけがましい態度で仕事を言いつける。（用爷的态度）" />
+				<e ph="何かあったらすぐ先生に言いつける。（一发生什么就打小报告）" />
+			</ex>
+			<ex	 word="言い訳" pron="いいわけ" pa="0" pos="N" jlpt="1" cn="辩解 借口" ph="申し訳ございません" />
 		</r>
 		<r kun="こと" kk="言" pa="2" pos="N" >
 			<ex	 word="言葉" pron="ことば" pa="0" pos="N" jlpt="5" />
@@ -914,7 +925,9 @@
 			<ex	 word="現地" pron="げんち" pa="1" pos="N" jlpt="1" />
 		</r>
 		<r kun="あらわ`れる" kk="現れる" pa="4" pos="j1"  jlpt="3" ref="表れる"></r>
-		<r kun="あらわ`す" kk="現す" pa="3" pos="t5" jlpt="3" ref="表す"></r>
+		<r kun="あらわ`す" kk="現す" pa="3" pos="t5" jlpt="3" cn="出现,显露" ref="表す">
+			<e ph="姿を現す。彼は心に思ったことを顔に現わさないタイプです。" />
+		</r>
 	</kanji>
 	
 	<kanji	id="舷" freq="2604" gr="8">

@@ -105,7 +105,10 @@
 			<ex	 word="大切" pron="たいせつ" pa="0" pos="NA" jlpt="5" />
 		</r>
 		<r on="サイ" >
-			<ex	 word="一切" pron="ぎょうせき" pa="0" pos="N" />
+			<ex	 word="一切" pron="ぎょうせき" pa="0" pos="N" >
+				<e ph="一切の責任を負う。うちの店は一切の責任を負いかねますので、ご了承ください。" />
+				<e ph="無断欠勤は一切許さない。主人は家で仕事の話は一切しない。" />
+			</ex>
 		</r>
 		<r kun="きる" kk="切る" pa="1" pos="*jt5" jlpt="5" ref="斬る" >
 		</r>
@@ -385,11 +388,11 @@
 	
 	<kanji	id="扇" freq="1656" jlpt="1" gr="8">
 		<r on="セン" >
-			<ex	 word="扇子" pron="せんす"	pa="0" pos="N" jlpt="2"/>
+			<ex	 word="扇子" pron="せんす" pa="0" pos="N" jlpt="2"/>
+			<ex	 word="扇風機" pron="せんぷうき"	pa="3" pos="N" jlpt="2"/>
 		</r>
 		<r kun="おうぎ" kk="扇" pa="3" pos="N" eng="folding fan" />
-		<r nfu="扇ぐ(あおぐ)・扇ぐ(あおぐ)">
-		</r>
+		<r kun="あおぐ" kk="扇ぐ" pa="2" pos="t5" jlpt="2" eng="to fan" />
 	</kanji>
 	
 	<kanji	id="栓" freq="3007" jlpt="1" gr="8">
@@ -715,7 +718,9 @@
 			<ex	 word="告訴" pron="こくそ" pa="1" jlpt="5" pos="N" cn="*控告起诉" />
 			<ex	 word="訴訟" pron="そしょう" pa="0" jlpt="1" pos="js" eng="lawsuit" ph="訴訟を起す。"/>
 		</r>
-		<r kun="うった`える" kk="訴える" pa="3" ph="武力に訴える" />
+		<r kun="うった`える" kk="訴える" pa="3" pos="t1" jlpt="3" cn="起诉;求助于" >
+			<e ph="名誉毀損で訴える。空腹を訴える。武力に訴える" />
+		</r>
 	</kanji>
 	
 	<kanji	id="塑" freq="3952" jlpt="1" gr="8">
@@ -957,7 +962,7 @@
 			<ex	 word="想像" pron="そうぞう" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r on="ソ" >
-			<ex	 word="愛想" pron="あいそ" pa="1" pos="N" jlpt="2" />
+			<ex	 word="愛想" pron="あいそう" pa="1" pos="N" jlpt="2" />
 		</r>
 	</kanji>
 	

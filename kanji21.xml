@@ -41,7 +41,7 @@
 	
 	<kanji	id="暴" freq="940" jlpt="2" gr="5">
 		<r on="ボウ" >
-			<ex	 word="乱暴" pron="らんぼう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="乱暴" pron="らんぼう" pa="0" pos="N" jlpt="3" cn="粗暴" />
 			<ex	 word="暴力" pron="ぼうりょく" pa="1" pos="N" jlpt="1" eng="violence"/>
 			<ex	 word="暴言" pron="ぼうげん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="暴動" pron="ぼうどう" pa="0" pos="N" jlpt="1" />
@@ -49,7 +49,8 @@
 		</r>
 		<r kun="あば`く" kk="暴く" pa="2" pos="t5" cn="揭露;掘开" ph="嘘を暴く"> 
 		</r>
-		<r kun="あば`れる" kk="暴れる" pa="0" pos="j1" jlpt="2" cn="发脾气"> 
+		<r kun="あば`れる" kk="暴れる" pa="0" pos="j1" jlpt="2" cn="胡闹发脾气; 大显身手"> 
+			
 		</r>
 	</kanji>
 	
@@ -303,8 +304,12 @@
 		<r on="マイ" >
 			<ex	 word="埋設" pron="あいまい" pa="0" pos="N" />
 		</r>
-		<r kun="う`める" kk="埋める" pa="0" pos="t1" jlpt="2" > </r>
-		<r kun="う`まる" kk="埋まる" pa="0" pos="j5" jlpt="1" > </r>
+		<r kun="う`める" kk="埋める" pa="0" pos="t1" jlpt="2" cn="埋着;填满;填补">
+			<e ph="穴を埋める。赤字を埋める。観衆が会場を埋める。" />
+		</r>
+		<r kun="う`まる" kk="埋まる" pa="0" pos="j5" jlpt="1" cn="埋着;填满;填补" >
+			<e ph="穴が埋まる。席が埋まる。赤字が埋まる。プラットホームが乗客で埋まる。" />
+		</r>
 		<r kun="う`もれる" kk="埋もれる" pa="0" pos="t5" > </r>
 		<r kun="うず`もれる" kk="埋もれる" pa="0" pos="j1" > </r>
 	</kanji>
@@ -416,7 +421,7 @@
 			<ex	 word="味見" pron="あじみ" pa="0" pos="N" jlpt="3" cn="尝尝看"/>
 			<ex	 word="塩味" pron="しおあじ" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="あじ`わう" kk="味わう" pa="0" pos="t5" jlpt="3" cn="尝">
+		<r kun="あじ`わう" kk="味わう" pa="0" pos="t5" jlpt="3" cn="品尝;鉴赏;体验">
 		</r>
 	</kanji>
 	
@@ -696,7 +701,7 @@
 			<ex	 word="面目" pron="めんもく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="面倒" pron="めんどう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="面積" pron="めんせき" pa="0" pos="N" jlpt="2" />
-			<ex	 word="面接" pron="めんせつ" pa="0" pos="N" jlpt="2" />
+			<ex	 word="面接" pron="めんせつ" pa="0" pos="N/js" jlpt="2" cn="面试" eng="interview (for a job)" />
 		</r>
 		<r kun="おも" kk="面" pa="1" pos="N" jlpt="3" >
 			<ex	 word="面影" pron="おもかげ" pa="0" pos="N" />
@@ -814,6 +819,7 @@
 			<ex	 word="目標" pron="もくひょう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="注目" pron="ちゅうもく" pa="0" pos="N" jlpt="3" />
 			<ex	 word="項目" pron="こうもく" pa="0" pos="N" jlpt="2" eng="item" />
+			<ex	 word="目安" pron="めやす" pa="0" pos="N" jlpt="2" cn="大致目标" eng="aim" />
 			<ex	 word="目次" pron="もくじ" pa="0" pos="N" jlpt="2" eng="table of contents" />
 			<ex	 word="目前" pron="もくぜん" pa="0" pos="N" />
 		</r>
@@ -1054,6 +1060,8 @@
 	
 	<kanji	id="輸" freq="1933" jlpt="2" gr="5">
 		<r on="ユ" >
+			<ex	 word="輸入" pron="ゆにゅう" pa="0" pos="N" jlpt="3" cn="输入，进口" eng="importation; introduction" />
+			<ex	 word="輸送" pron="ゆそう" pa="0" pos="N" jlpt="2" />
 			<ex	 word="輸送" pron="ゆそう" pa="0" pos="N" jlpt="2" />
 			<ex	 word="輸出" pron="ゆしゅつ" pa="0" pos="N" jlpt="3" />
 			<ex	 word="運輸" pron="うんゆ" pa="0" pos="N" jlpt="1" />

@@ -8,6 +8,16 @@
 
 <Dict>
 
+	<kanji	id="頷" freq="2131" >
+		<r on="ガン" ></r>
+		<r on="かん" ></r>
+		<r kun="あご" kk="頷" pa="2" pos="N" cn="下巴"></r>
+		<r kun="おとがい" kk="頤" pa="3" pos="j5" cn="下巴" eng="to nod; to agree"></r>
+		<r kun="うなず`く" kk="頷く" pa="3" pos="j5" cn="点头;首肯,赞同" eng="to nod; to agree">
+			<e ph="頷きながらメモを取る・頷けることではない。（不敢苟同）・人の話にうなずく" />
+		</r>
+	</kanji>
+
 	<kanji	id="佇" freq="3658" jlpt="3" gr="4">
 		<r on="チョ" >
 		</r>
@@ -358,7 +368,8 @@
 	</kanji>
 	
 	<kanji	id="唸" freq="1230" jlpt="3" gr="4">
-		<r kun="うなる" kk="唸る" pa="0" pos="N" jlpt="1" eng="rumor" >
+		<r kun="うなる" kk="唸る" pa="2" pos="j5" jlpt="1" cn="呻吟;悲鸣;轰鸣" >
+			<e ph="犬が唸る・痛さに唸る。病人が一晩中唸っていた・サイレンが唸る" />
 		</r>
 	</kanji>
 	

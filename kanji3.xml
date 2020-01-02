@@ -635,8 +635,10 @@
 		<r kun="あまい" kk="甘い" pa="0" pos="adj" jlpt="5" cn="甜的" eng="sweet" >
 		</r>
 		<r kun="あまえる" kk="甘える" pa="0" pos="j1" jlpt="1" cn="撒娇" eng="to behave like a spoiled child" >
+			<e ph="両親に甘える。甘えた調子で言う。この子は甘えてしようがない・甘えん坊（嗲）" />
 		</r>
-		<r kun="あまやかす" kk="甘やかす" pa="04" pos="t5" jlpt="2" cn="割" eng="to pamper" >
+		<r kun="あまやかす" kk="甘やかす" pa="4" pos="t5" jlpt="2" cn="宠;惯纵" eng="to pamper" >
+			<e ph="子供を甘やかしてはならない・甘やかした子・この子は両親に甘やかされて育った" />
 		</r>
 		<r nfu="甘い(うまい)"></r>
 	</kanji>

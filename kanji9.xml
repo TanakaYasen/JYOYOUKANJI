@@ -550,6 +550,16 @@
 		</r>
 		<r kun="う`ける" kk="受ける" pa="2" pos="jt1" jlpt="4" >
 			<ex	 word="受け身" pron="うけみ" pa="0" pos="N" />
+			<ex	 word="受け取り" pron="うけとり" pa="0" pos="N" cn="收,领;" >
+				
+			</ex>
+			<ex	 word="受け取る" pron="うけとる" pa="3" pos="jt5" jlpt="3" cn="接受领取;理解,心领神会" >
+				<e ph="ボールを受け取る。これはつまらないものですが、どうぞ受け取ってください。厚意の籠った贈り物を受け取った。" />
+				<e ph="そういう意味に受け取ってください。" />
+			</ex>
+			<ex	 word="受け持つ" pron="うけもつ" pa="3" pos="t5" jlpt="2" cn="担任,负责" eng="to take/(be in) charge of">
+				<e ph="案内係を受け持つ。三年生のクラスを受け持つ。" />
+			</ex>
 			<ex	 word="受付" pron="うけつけ" pa="0" pos="N/jts" jlpt="4" eng="reception; acceptance" cn="受理，接受" />
 		</r>
 		<r kun="う`かる" kk="受かる" pa="2" pos="j5" jlpt="1" eng="to pass" >

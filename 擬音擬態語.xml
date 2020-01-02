@@ -7,11 +7,18 @@
 	<table tag="frequence">
 		<ex	 word="からから" pron="カラカラ" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="ぺらぺら" pron="ペラペラ" pa="10" pos="j5" jlpt="2" eng="to collide" />
-		<ex	 word="がやがや" pron="ガヤガヤ" pa="0" pos="j5" jlpt="2" eng="to collide" />
-		<ex	 word="めっちゃめっちゃ" pron="メッチャメッチャ" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="すらすら" pron="スラスラ" pa="1" pos="adv" jlpt="2" cn="流利;顺利" eng="smoothly; easily" ph="すらすらと答える" />
+		<ex	 word="きらきら" pron="キラキラ" pa="1" pos="adv" jlpt="2" cn="闪耀" eng="sparking" ph="夜空に星がきらきらとまたたいている"/>
+		<ex	 word="ぴかぴか" pron="ピカピカ" pa="0" pos="adv" jlpt="2" cn="闪耀" eng="sparking" ph="夜空に星がきらきらとまたたいている"/>
+		<ex	 word="がやがや" pron="ガヤガヤ" pa="1" pos="adv" eng="noisy" />
+		<ex	 word="めっちゃめっちゃ" pron="メッチャメッチャ" pa="0" pos="j5" jlpt="2" cn="超，非常(关西年轻人)" eng="to collide" />
 		<ex	 word="なかなか" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="がたがた" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="ぶるぶる" pron="ブルブル" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		
+		<ex	 word="こそこそ" pron="コソコソ" pa="0" pos="j5" jlpt="2" cn="偷偷摸摸，鬼鬼祟祟" />
+		<ex	 word="態々" pron="*わざわざ" pa="1" pos="adv" jlpt="1" cn="特意; 专程" eng="expressly" />
+		<ex	 word="様々" pron="*さまざま" pa="23" pos="NA" jlpt="3" cn="种种，形形色色" eng="various" />
 	</table>
 </Dict>
 

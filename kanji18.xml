@@ -73,7 +73,8 @@
 			<ex	 word="認識" pron="にんしき" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="認定" pron="にんてい" pa="0" pos="N/ts" />
 		</r>
-		<r kun="みとめる" kk="認める" pa="0" pos="t1" jlpt="3"> </r>
+		<r kun="みとめる" kk="認める" pa="0" pos="t1" jlpt="3" cn="看到;认识;赏识;承认;断定" > </r>
+		<r kun="したためる" kk="認める" pa="0" pos="t1" jlpt="1" > </r>
 	</kanji>
 	
 	<kanji	id="寧" freq="1166" jlpt="1" gr="8">
@@ -90,7 +91,7 @@
 			<ex	 word="情熱" pron="じょうねつ" pa="1" pos="N" jlpt="1" cn="热情" eng="passion" />
 			<ex	 word="熱血" pron="ねっけつ" pa="1" pos="N" />
 		</r>
-		<r kun="あつい" kk="熱い" pa="2" pos="adj" jlpt="5"> </r>
+		<r kun="あつ`い" kk="熱い" pa="2" pos="adj" jlpt="5" eng="hot"> </r>
 	</kanji>
 	
 	<kanji	id="年" freq="29" jlpt="5" gr="1">
@@ -128,7 +129,7 @@
 			<ex	 word="粘土" pron="ねんど" pa="1" pos="N" eng="clay" />
 			<ex	 word="粘着" pron="ねんちゃく" pa="0" pos="N/js" />
 		</r>
-		<r kun="ねばる" kk="粘る" pa="2" pos="j5" jlpt="1"> </r>
+		<r kun="ねば`る" kk="粘る" pa="2" pos="j5" jlpt="1"> </r>
 	</kanji>
 	
 	<kanji	id="燃" freq="1047" jlpt="2" gr="5">
@@ -136,9 +137,9 @@
 			<ex	 word="燃焼" pron="ねんしょう" pa="0" pos="N/js" jlpt="1" eng="burning" />
 			<ex	 word="燃料" pron="ねんりょう" pa="3" pos="N" jlpt="1" eng="fuel"/>
 		</r>
-		<r kun="もえる" kk="燃える" pa="0" pos="j1" jlpt="3"> </r>
-		<r kun="もやす" kk="燃える" pa="0" pos="t5" jlpt="2"> </r>
-		<r kun="もす" kk="燃す" pa="0" pos="t5" > </r>
+		<r kun="も`える" kk="燃える" pa="0" pos="j1" jlpt="3"> </r>
+		<r kun="も`やす" kk="燃やす" pa="0" pos="t5" jlpt="2"> </r>
+		<r kun="も`す" kk="燃す" pa="0" pos="t5" > </r>
 	</kanji>
 	
 	<kanji	id="悩" freq="1295" jlpt="2" gr="8">
@@ -147,11 +148,11 @@
 			<ex	 word="煩悩" pron="ぼんのう" pa="0" pos="N" />
 			<ex	 word="悩殺" pron="のうさつ" pa="0" pos="N" />
 		</r>
-		<r kun="なやむ" kk="悩む" pa="2" pos="j1" jlpt="3" eng="to be worried">
+		<r kun="なや`む" kk="悩む" pa="2" pos="j1" jlpt="3" eng="to be worried">
 			<ex	 word="悩み" pron="なやみ" pa="3" pos="N" jlpt="1" />
 		</r>
-		<r kun="なやます" kk="悩ます" pa="3" pos="t5" jlpt="1"> </r>
-		<r kun="なやましい" kk="悩ましい" pa="4" pos="adj" jlpt="1"> </r>
+		<r kun="なや`ます" kk="悩ます" pa="3" pos="t5" jlpt="1"> </r>
+		<r kun="なや`ましい" kk="悩ましい" pa="4" pos="adj" jlpt="1"> </r>
 	</kanji>
 	
 	<kanji	id="納" freq="959" jlpt="1" gr="6">
@@ -821,7 +822,7 @@
 		<r on="バン" >
 			<ex	 word="黒板" pron="こうはん" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="いた" kk="板" pa="1" pos="N" jlpt="3" ph="板挟み">
+		<r kun="いた" kk="板" pa="1" pos="N" jlpt="3" ph="板挟み・板につく（熟练）">
 			<ex	 word="板前" pron="いたまえ" pa="0" pos="N" />
 			<ex	 word="俎板" pron="まないた" pa="0" pos="N" />
 		</r>

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Dict>
-
-	https://nihongokyoshi-net.com/2018/07/18/jlptn3-grammar-wakedewanai/
 	
-	にとって		From the standpoint of			〜の立場から考えると
-	難しすぎる		古すぎる
+	<grammar id="からすると・からすれば" >
+		<point mn="～の立場から考えると／判断すると" />
+		<point mn="後ろは～だと「思います」「でしょう」" />
+		 
+		 接続：	N＋からすると
+		 
+		 先生：もうすぐJLPT試験ですね。自信はありますか？
+		 学生：…
+		 先生：皆さんの実力からすると合格できると思います。
+		 
+		 通勤に、片道1時間？私からすると無理だね。
+		 あの話し方からすると、彼は東京の人ではないようだ。
+		 
+		 A：明日の天気はどうでしょうか。
+		 B：よく分からりませんが、今日の雲の様子からすると、恐らく雨だと思います。
+		 
+	</ grammar>
 	
-	と比べて
-	
-	<table tag="動詞">
-		<ex	 word="要る" pron="いる" pa="0" pos="j5" />
-	</table>
-	
-	<table tag="だ">
-		<ex	 word="帰る" pron="かえる" pa="0" pos="j5" />
-	</table>
-	
-	<table tag="体言">
-	</table>
-	
-	<table tag="条件（Conditionals）">
-		<point txt="と・ば・なら・たら">
-		</point>
-		"と" 自然规律的后续结果 natural consequence	（一旦xxx则yyy）
-			=  [Condition] + と + [Result] 
-			=  [State-of-being] + だと + [Result]
-			ボールを落すと落ちる		松手则球落。（物理现象）
-		
-		即使不是自然规律结果，也可以，表述人认为会是这样结果也可以
-			学校に行かないと友達と会えないよ		不去学校就见不到朋友们了哟。
-			先生だと、きっと年上なんじゃないですか？	如果此人是老师，一定年长于你对吧？
-			
-			
-		"なら"　前提条件　Contextual conditionals	what will happen given a certain context
-			= [Assumed Context] + なら + [Result]
-		
-		
-		
-	 </table>
+	<grammar id="からして" >
+		<point mn="1．～から判断して＋だろう、思う、感じる（推測）＝（からすると）" />
+		<point mn="2.	～から判断して　がそうだから、それ以外ももちろん（主張）" />
+		 
+		 接続：	N＋からして
+		 
+		あの汚い字からして、書いた人はシンさんに違いない（だろう）。
+		あの人は見た目からして怖そうだ。
+		 
+		 がそうだから、それ以外も勿論（主張）
+		 Ngon？？？ベトナム語は発音からして難しい
+		 
+		 あの足の長さからして、彼女は日本人ではないと思う
+		 
+		 A：今年の新入社員大丈夫？挨拶の仕方からして、全然ダメだね。
+		 B：まあ私たちが頑張って育てればいいじゃないですか！
+		 
+		 このレストランはトイレからして汚い。きっとサービスも良くないだろう。（推測）
+	</ grammar>
 </Dict>
 

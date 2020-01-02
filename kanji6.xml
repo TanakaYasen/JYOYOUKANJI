@@ -444,7 +444,10 @@
 		<r on="コウ" >
 			<ex	 word="厚意" pron="こうい" pa="1" pos="N" jlpt="5" />
 		</r>
-		<r kun="あつい" kk="厚い" pa="*0" pos="adj" jlpt="5" eng="thick" >
+		<r kun="あつい" kk="厚い" pa="*0" pos="adj" jlpt="5" eng="thick; deep" >
+		</r>
+		<r kun="あつかましい" kk="厚かましい" pa="4" pos="adj" jlpt="2" eng="shameless" ref="図々しい・鉄面皮てつめんぴな" >
+			<e ph="厚かましいにも程がある。私が言うのも厚かましいが(不情之请)。何という厚かましいやつだろう。" >
 		</r>
 	</kanji>
 	
@@ -491,7 +494,8 @@
 		</r>
 		<r kun="あらい" kk="荒い" pa="0" pos="adj" jlpt="2" cn="粗暴；凶猛；不礼貌" >
 		</r>
-		<r kun="あれる" kk="荒れる" pa="0" pos="j1" cn="闹，乱；荒芜" >
+		<r kun="あ`れる" kk="荒れる" pa="0" pos="j1" cn="闹，乱；荒芜; 粗糙" >
+			<e ph="会議が荒れる。水仕事で手が荒れる。髭を剃った後は顔が荒れるから、クリームをつける方がいい。嵐で海が荒れる" />
 		</r>
 		<r kun="あらす" kk="荒らす" pa="0" pos="t5" jlpt="1" cn="使荒芜；弄乱" >
 		</r>
@@ -678,7 +682,10 @@
 		<r on="コウ" >
 			<ex	 word="恐慌" pron="きょうこう" pa="0" pos="N/js" />
 		</r>
-		<r kun="あわてる" kk="慌てる" pa="0" pos="j1" jlpt="2" >
+		<r kun="あわてる" kk="慌てる" pa="0" pos="j1" jlpt="2" cn="慌慌张张" >
+			<e ph="慌てて家を出たので、財布を忘れて来た" >
+			<e ph="家で音楽を聴いている最中、地震が起きて、慌てて机の下に潜り込んだ。" >
+			<ex	 word="慌て者" pron="あわてもの" pa="0" pos="N" />
 		</r>
 		<r kun="あわただしい" kk="慌ただしい" pa="5" pos="adj" jlpt="2" eng="busy;hurried">
 		</r>

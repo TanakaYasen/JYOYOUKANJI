@@ -168,11 +168,14 @@
 	
 	<kanji	id="応" freq="622" jlpt="1" gr="5">
 		<r on="オウ" >
+			<ex	 word="一応" pron="いちおう" pa="0" pos="adv" cn="大致,大体;首先,暂且" >
+				<e ph="一応理解はできた。一応準備は整った。" />
+			</ex>
 			<ex	 word="応酬" pron="おうしゅう" pa="0" pos="N" cn="应答;回信" />
 			<ex	 word="応答" pron="おうとう" pa="0" pos="N/js" />
 			<ex	 word="応用" pron="おうよう" pa="0" pos="N/ts" jlpt="2" eng="application" />
 			<ex	 word="反応" pron="はんおう" pa="0" pos="N/js" jlpt="1" eng="reaction" />
-			<ex	 word="応対" pron="おうたい" pa="1" pos="N/js" />
+			<ex	 word="応対" pron="おうたい" pa="1" pos="N/js" />	
 		</r>
 		<r kun="こたえる" kk="応える" pa="3" pos="j1" jlpt="4" ref="答える"/>
 		<r nfu="応に(まさに)"></r>
@@ -922,8 +925,15 @@
 			<ex	 word="改造" pron="かいぞう" pa="0" pos="N/ts" jlpt="2" />
 			<ex	 word="改札" pron="かいさつ" pa="0" pos="N/ts" jlpt="2" />
 		</r>
-		<r kun="あらた`める" kk="改める" pa="4" pos="t1" jlpt="2" />
-		<r kun="あらた`まる" kk="改まる" pa="4" pos="j5" jlpt="1" />
+		<r kun="あらた`まる" kk="改まる" pa="4" pos="j5" jlpt="1" cn="更替;端正态度;郑重其事">
+			<e ph="年が改まる。教科書の内容が改まった。改まった挨拶。改まった口振り。" />
+		</r>
+		<r kun="あらた`める" kk="改める" pa="4" pos="t1" jlpt="2" cn="改变更新;端正" > 
+			<e ph="名前を改める。態度を改める" />
+			<ex	 word="改めて" pron="あらた`めて" pa="*3" pos="adv" jlpt="2" cn="再次;另外;重新" ＞
+				<e ph="改めて説明することはない（没必要再重新说明）。それはわかりきったことで、改めて言うまでもない。（再明白不过了,故不复言）" />
+			</ex>
+		</r>
 	</kanji>
 	
 	<kanji	id="怪" freq="503" jlpt="1" gr="8">

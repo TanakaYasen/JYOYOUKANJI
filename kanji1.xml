@@ -48,7 +48,7 @@
 			<ex	 word="悪意" pron="あくい" pa="1" pos="N" eng="malice;an evil intention" />
 			<ex	 word="悪夢" pron="あくむ" pa="1" pos="N" eng="nightmare" />
 			<ex	 word="悪魔" pron="あくま" pa="1" pos="N" jlpt="3" eng="deamon" />
-			<ex	 word="悪化" pron="あっか" pa="0" pos="N" jlpt="1" />
+			<ex	 word="悪化" pron="あっか" pa="0" pos="N" jlpt="1" ref="好転"/>
 		</r>
 		<r on="オ">
 			<ex	 word="嫌悪" pron="けんお" pa="1" pos="N" eng="hate" />
@@ -72,13 +72,17 @@
 		<r on="アツ" >
 			<ex	 word="血圧" pron="けつあつ" pa="0" pos="N" jlpt="2" />
 			<ex	 word="圧力" pron="あつりょく" pa="0" pos="N" jlpt="1" eng="pressure" />
-			<ex	 word="圧縮" pron="あっしゅく" pa="0" pos="N/ts" jlpt="2" />
+			<ex	 word="圧迫" pron="あっぱく" pa="0" pos="N" jlpt="1" eng="pressure" />
+			<ex	 word="圧縮" pron="あっしゅく" pa="0" pos="N/ts" jlpt="2" cn="压缩;缩简文句;缩减(开支)"
+				<e ph="気体を圧縮する・原稿を圧縮する・予算を圧縮する">
+			</ex>
 		</r>
 		<r nfu="オウ・圧す(おす)・圧さえる(おさえる)・圧す(へす)"></r>
 	</kanji>
 	
 	<kanji	id="扱" freq="1208" jlpt="1" gr="8">
 		<r kun="あつか`う" kk="扱う" pa="03" pos="t5" jlpt="3" eng="to deal with; to treat; to handle; to operate (e.g. a machine)" cn="处理;待客;调停; 操纵机器">
+			<ex	 word="取り扱い" pron="とりあつかい" pa="0" pos="N/ts" jlpt="1" ph="一様に取り扱い" cn="对待，待遇，处理" eng="treatment; handling" />
 		</r>
 		<r nfu="ソウ・キュウ・扱く(こく)・扱く(しごく)"></r>
 	</kanji>
@@ -334,6 +338,7 @@
 	<kanji	id="違" freq="220" jlpt="3" gr="8">
 		<r on="イ" >
 			<ex	 word="違反" pron="いはん" pa="0" pos="N/ts" jlpt="3" eng="violation; offense" />
+			<ex	 word="相違" pron="そうい" pa="0" pos="N/ts" jlpt="2" cn="不同差异" />
 			<ex	 word="違法" pron="いほう" pa="0" pos="N/js" />
 			<ex	 word="違和感" pron="いわかん" pa="0" pos="N" eng="uncomfortable feeling" />
 		</r>
@@ -597,11 +602,13 @@
 		<r on="ウ" >
 			<ex	 word="雨量" pron="うりょう" pa="1" pos="N" />
 			<ex	 word="降雨" pron="こうう" pa="1" pos="N" />
+			<ex	 word="雨天" pron="うてん" pa="1" pos="N" jlpt="1" ph="雨天中止・雨天順延" />
 		</r>
 		<r kun="あめ" kk="雨" pa="1" pos="N" jlpt="5" eng="rain" >
 		</r>
 		<r kun="あま～" kk="雨～" pa="1" pos="N" >
-			<ex	 word="雨戸" pron="あまど" pa="2" pos="N" jlpt="2" />
+			<ex	 word="雨戸" pron="あまど" pa="2" pos="N" jlpt="2" cn="防雨门"/>
+			<ex	 word="雨具" pron="あまぐ" pa="2" pos="N" jlpt="2" />
 			<ex	 word="雨傘" pron="あまがさ" pa="3" pos="N" eng="umbrella" />
 			<ex	 word="雨雲" pron="あまぐも" pa="2" pos="N" eng="rain cloud" />
 		</r>

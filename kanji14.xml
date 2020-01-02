@@ -80,6 +80,8 @@
 		<r kun="にく`い" kk="憎い" pa="2" pos="adj" jlpt="2"></r>
 		<r kun="にく`らしい" kk="憎らしい" pa="4" pos="adj"></r>
 		<r kun="にく`しみ" kk="憎しみ" pa="0" pos="N" jlpt="1"></r>
+		<r kun="にく`しみ" kk="憎しみ" pa="0" pos="N" jlpt="1"></r>
+		<r kun="あいにく" kk="生憎" pa="0" pos="adv/NA" jlpt="3" cn="不凑巧;不合时机" ></r>
 	</kanji>
 	
 	<kanji	id="蔵" freq="407" jlpt="2" gr="6">
@@ -325,7 +327,20 @@
 			<ex	 word="打撃" pron="だげき" pa="0" jlpt="1" pos="N" cn="" />
 			<ex	 word="打診" pron="だしん" pa="0" pos="N" cn="探口风" />
 		</r>
-		<r kun="う`つ" kk="打つ・撃つ" pa="1" jlpt="4" pos="t5"></r>
+		<r kun="う`つ" kk="打つ" pa="1" jlpt="4" pos="t5" ref="撃つ" >
+			<ex	 word="打ち上げる" pron="うちあげる" pa="4" pos="t1" cn="发射,打出; 终了闭幕" >
+				<e ph="花火を打ち上げる。公演を打ち上げる" />
+			</ex>
+			<ex	 word="打ち合わせる" pron="うちあわせる" pa="5" pos="t1" jlpt="1" cn="互相击打; 商量">
+				<e ph="石と鉄を打ち合わせる。日程を打ち合わせる。" />
+			</ex>
+			<ex	 word="打ち消す" pron="うちけす" pa="3" pos="t5" jlpt="2" cn="否定,打消">
+				<e ph="事実を打ち消す。噂を打ち消す。心配を打ち消す。" />
+			</ex>
+			<ex	 word="打ち出す" pron="うちだす" pa="3" pos="t5" jlpt="2" cn="打出,提出">
+				<e ph="弾丸を打ち出す。新しい方針を打ち出す。" />
+			</ex>
+		</r>
 	</kanji>
 	
 	<kanji	id="妥" freq="2465" jlpt="1" gr="8">
@@ -413,7 +428,9 @@
 		<r on="タイ" >
 			<ex	 word="待遇" pron="たいぐう" pa="0" jlpt="1" pos="N" />
 		</r>
-		<r kun="ま`つ" kk="待つ" pa="1" pos="jt1" jlpt="5"></r>
+		<r kun="ま`つ" kk="待つ" pa="1" pos="jt1" jlpt="5">
+			<ex	 word="待ち合わせる" pron="まちあわせる" pa="5" jlpt="2" pos="t1" cn="等候;碰头;会面" />
+		</r>
 	</kanji>
 	
 	<kanji	id="怠" freq="1767" jlpt="1" gr="8">

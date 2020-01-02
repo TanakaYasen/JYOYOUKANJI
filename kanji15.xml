@@ -564,7 +564,7 @@
 			<ex	 word="著書" pron="ちょしょ" pa="1" pos="N" jlpt="1"/>
 			<ex	 word="著名" pron="ちょめい" pa="0" pos="N/NA" jlpt="1"/>
 		</r>
-		<r kun="あらわす" kk="著す" pa="3" pos="t5" jlpt="2" />
+		<r kun="あらわ`す" kk="著す" pa="3" pos="t5" jlpt="2" cn="著书;写作" />
 		<r kun="いちじるしい" kk="著しい" pa="5" pos="adj" jlpt="1" eng="remarkable"/>
 	</kanji>
 	

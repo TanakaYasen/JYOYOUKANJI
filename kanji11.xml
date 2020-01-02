@@ -27,7 +27,8 @@
 		</r>
 		<r kun="きず" kk="傷" pa="0" pos="N" jlpt="3" eng="wound;injury" >
 		</r>
-		<r kun="いたむ" kk="傷む" pa="2" pos="j5" jlpt="1" >
+		<r kun="いたむ" kk="傷む" pa="2" pos="j5" jlpt="1" cn="腐烂; 损伤" ref="痛む">
+			<e ph="林檎が傷む。この生地は洗濯機で洗うと傷む。屋根が傷む。">
 		</r>
 		<r kun="いためる" kk="傷める" pa="3" pos="t1" jlpt="1" >
 		</r>
@@ -92,9 +93,9 @@
 	
 	<kanji	id="憧" freq="2402" jlpt="1" gr="8">
 		<r on="ショウ" >
-			<ex	 word="憧憬" pron="しょうけい" pa="0" pos="N" />
+			<ex	 word="憧憬" pron="しょうけい" pa="0" pos="N/js" />
 		</r>
-		<r kun="あこがれる" kk="憧れる" pa="0" pos="j1" jlpt="2" cn="憧憬，向往">
+		<r kun="あこがれる" kk="憧れる" pa="0" pos="j1" jlpt="2" cn="憧憬，向往" ph="都会の生活に・アイドルに憧れる。">
 		</r>
 		<r nfu="ドウ">
 		</r>
@@ -175,7 +176,8 @@
 		</r>
 		<r kun="あげる" kk="上げる" pa="0" pos="t1" jlpt="5" >
 		</r>
-		<r kun="あがる" kk="上がる" pa="2" pos="j5" jlpt="4" >
+		<r kun="あがる" kk="上がる" pa="2" pos="j5/t5" jlpt="4" cn="登;提升;怯场" >
+			<e ph="階段を上がる・能率が上がる・雨が上がる・面接では上がってしまい(怯场)・召し上がる" >
 		</r>
 		<r kun="のぼる" kk="上る" pa="0" pos="j5" jlpt="5" >
 		</r>
@@ -333,6 +335,7 @@
 			<ex	 word="蒸発" pron="じょうはつ" pa="0" pos="N" jlpt="2" eng="evaporation" />
 		</r>
 		<r kun="む`す" kk="蒸す" pa="1" pos="t5" jlpt="2" >
+			<ex	 word="茶碗蒸し" pron="ちゃわんむし" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r kun="む`れる" kk="蒸れる" pa="1" pos="j1" >
 		</r>
