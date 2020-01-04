@@ -193,7 +193,12 @@
 			<ex	 word="押韻" pron="おういん" pa="0" pos="N" />
 		</r>
 		<r kun="お`す" kk="押す" pa="0" pos="t5" jlpt="5" cn="推；按" >
-			<ex	 word="押し込む" pron="おしこむ" pa="0" pos="j5" />
+			<ex	 word="押し込む" pron="おしこむ" pa="0" pos="jt5" cn="闯入;破门抢劫" />
+			<ex	 word="押し寄せる" pron="おしよせる" pa="0" pos="jt1" cn="蜂拥而至;推而使之靠近" eng="押し=push寄せ=approch">
+				<e ph="波が押し寄せる・大勢の人が押し寄せる・玩具を片隅に押し寄せる・邪魔になる物は隅の方に押し寄せておく" />
+			</ex>
+			<ex	 word="押し付ける" pron="おしつける" pa="4" pos="t1" cn="推压,按住; 强加,硬推" >
+			</ex>
 		</r>
 		<r kun="お`さえる" kk="押さえる" pa="3" pos="t1" jlpt="2" />
 	</kanji>
@@ -579,7 +584,9 @@
 			<ex	 word="家具" pron="かぐ" pa="1" pos="N" />
 			<ex	 word="家族" pron="かぞく" pa="1" pos="N" />
 			<ex	 word="家内" pron="かない" pa="1" pos="N" />
-			<ex	 word="家計" pron="かけい" pa="0" pos="N" />
+			<ex	 word="家計" pron="かけい" pa="0" pos="N" >
+				<e ph="妻が家計を預かっている・家計を助ける・家計を支える・家計の都合で進学できない" />
+			</ex>
 			<ex	 word="家政" pron="かせい" pa="0" pos="N" />
 			<ex	 word="家庭" pron="かてい" pa="0" pos="N" />
 			<ex	 word="家柄" pron="いえがら" pa="0" pos="N" />
@@ -797,7 +804,7 @@
 	<kanji	id="画" freq="318" jlpt="4" gr="2">
 		<r on="ガ" >
 			<ex	 word="映画" pron="えいが" pa="0" pos="N" jlpt="5" />
-			<ex	 word="画家" pron="がか" pa="1" pos="N" />
+			<ex	 word="画家" pron="がか" pa="0" pos="N" ph="自画自賛（じがじさん）"/>
 			<ex	 word="絵画" pron="かいが" pa="0" pos="N" jlpt="3" />
 		</r>
 		<r on="カク" >
@@ -857,6 +864,7 @@
 			<ex	 word="回路" pron="かいこ" pa="0" pos="N" />
 			<ex	 word="回復" pron="かいこ" pa="0" pos="N" />
 			<ex	 word="回答" pron="かいこ" pa="0" pos="N" />
+			<ex	 word="回覧" pron="かいらん" pa="0" pos="N/ts" jlpt="1" cn="传阅" />
 		</r>
 		<r on="エ" >
 			<ex	 word="回向" pron="えこう" pa="0" pos="N" />

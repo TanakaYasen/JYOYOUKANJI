@@ -3,7 +3,10 @@
 	熟字訓	と	当て字
 -->
 <Dict>
-	のんびり	悠闲地
+	つい		不知不觉,无意间	（気がつかぬ間に。うっかり。思わず）。
+	却って		かえって
+	うんざり	　厌烦
+	のんびり		悠闲地
 	とりあえず
 	はからず
 	つまり
@@ -106,7 +109,7 @@
 
 <table tag="with duration / period">
 	<ex	 word="いっそ" pron="いっそ" pa="0" pos="adv" jlpt="2" cn="不如" es="彼は元カレより、" />
-	<ex	 word="帰って" pron="かえって" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲んだら、かえってひどくなった。" />
+	<ex	 word="帰って・却って" pron="かえって" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲み過ぎるとかえってひどくなった。病状は却って悪化した・かえって手間がかかる" />
 	<ex	 word="寧ろ" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
 </table>
 
@@ -119,14 +122,14 @@
 </table>
 
 <table tag="very much">
-	<ex	 word="すっかり" pron="すっかり" pa="3" pos="adv" jlpt="2" cn="不如" es="彼は元カレより、" />
+	<ex	 word="すっかり" pron="すっかり" pa="3" pos="adv" jlpt="2" cn="全部" es="すっかり忘れた" />
 	<ex	 word="全て" pron="すべて" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲んだら、かえってひどくなった。" />
 	<ex	 word="全部" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
 	<ex	 word="そっくり" pron="そっくり" pa="3" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
 	<ex	 word="残らず" pron="のこらず" pa="2" pos="adv" jlpt="2" cn="全部;一个不剩地" es="ヒット商品は残らず売れた" />
 	<ex	 word="みんな" pron="みんな" pa="0" pos="adv" jlpt="2" cn="多么地" es="試験問題はみんな難しいかった。" />
 	<ex	 word="一杯" pron="いっぱい" pa="0" pos="adv" jlpt="2" cn="多么地" es="会場には記者がいっぱいいる。" />
-	<ex	 word="うんと" pron="うんと" pa="1" pos="adv" jlpt="2" cn="很~" es="食べ放題に行ってうんと食った。" />
+	<ex	 word="うんと" pron="うんと" pa="10" pos="adv" jlpt="2" cn="很多,大量~" es="食べ放題に行ってうんと食った。" str="true" />
 	<ex	 word="十分" pron="じゅうぶん" pa="3" pos="adv" jlpt="2" cn="足够" es="今行ったら十分間に合います。" />
 	<ex	 word="沢山" pron="たくさん" pa="0" pos="adv" jlpt="2" cn="很多" es="アウトレットでたくさん買い物をした。" />
 	<ex	 word="たっぶり" pron="たっぶり" pa="3" pos="adv" jlpt="2" cn="足够" es="鍋にたっぶり水を灌ぐ。（注ぐ）" />

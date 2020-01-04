@@ -345,6 +345,13 @@
 			<ex	 word="図書館" pron="としょかん" pa="0" pos="NA" />
 		</r>
 		<r kun="かく" kk="書く" pa="1" pos="N" jlpt="5" ref="描く" >
+			<ex	 word="書き込む" pron="かきこむ" pa="3" pos="t5" cn="写入,填写">
+			</ex>
+			<ex	 word="書き留める" pron="かきとめる" pa="4" pos="t1" cn="记下来">
+				<e ph="ノートに書き留めておく・重要だと思えることは何でも書き留めるべきです" />
+			</ex>
+			<ex	 word="書き取る" pron="かきとる" pa="4" pos="t5" cn="听写">
+			</ex>
 			<ex	 word="筋書" pron="すじがき" pa="0" pos="NA" />
 		</r>
 		<r nfu="ふみ">
@@ -810,10 +817,12 @@
 			<ex	 word="名勝" pron="めいしょう" pa="0" pos="N" />
 			<ex	 word="優勝" pron="ゆうしょう" pa="0" pos="N" />
 		</r>
-		<r kun="かつ" kk="勝つ" pa="1" pos="N" jlpt="5" >
+		<r kun="かつ" kk="勝つ" pa="1" pos="j5" jlpt="4" ph="～に勝つ" ref="負ける" >
+			<e ph="戦争に勝つ・試合に勝つ" />
 			<ex	 word="勝手" pron="かって" pa="0" pos="N" />
 		</r>
-		<r kun="まさる" kk="勝る" pa="1" pos="N" jlpt="5" >
+		<r kun="まさ`る" kk="勝る" pa="2" pos="j5" jlpt="1" ph="～に勝る" cn="优;胜" ref="劣る">
+			<e ph="健康は富に勝る" />
 		</r>
 		<r nfu="勝れる(すぐれる)・勝える(たえる)">
 		</r>

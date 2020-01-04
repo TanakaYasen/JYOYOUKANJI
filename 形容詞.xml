@@ -8,7 +8,10 @@
 		<ex	 word="狡い" pron="ずるい" pa="0" pos="adj" jlpt="2" eng="sly" />
 		<ex	 word="ヤバい" pron="やばい" pa="0" pos="adj" jlpt="3" eng="terrific" />
 		<ex	 word="ダサい" pron="ださい" pa="0" pos="adj" jlpt="3" eng="uncool; unsophisticated; out of fashion" />
-		<ex	 word="ケチな" pron="けちな" pa="0" pos="adj" jlpt="3" eng="stingy" />
+		<ex	 word="ケチな" pron="けちな" pa="0" pos="NA" jlpt="3" eng="stingy" />
+		<ex	 word="大雑把" pron="おおざっぱ" pa="0" pos="NA" jlpt="3" cn="粗糙的; 粗略的, 大概的" eng="rough" >
+			<e ph="おおざっぱな計画・おおざっぱな書き方・仕事が大雑把だ・おおざっぱに読み終わる" />
+		</ex>
 		
 		<ex	 word="ややこしい" pron="ややこしい" pa="4" pos="adj" jlpt="1" eng="puzzling; complex" />
 		<ex	 word="喧しい" pron="やかましい" pa="4" pos="adj" jlpt="2" eng="noisy" />

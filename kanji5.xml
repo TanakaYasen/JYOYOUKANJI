@@ -183,6 +183,10 @@
 			<ex	 word="関係" pron="かんけい" pa="0" pos="N" jlpt="4"/>
 		</r>
 		<r kun="かかる" kk="係る" pa="2" pos="j5" ></r>
+		<r kun="かかわる" kk="係わる" pa="3" pos="j5" jlpt="2" cn="与..有关,涉及,牵连;拘泥于"  ref="関わる">
+			<e ph="命に係わる問題・私の名誉に係わる問題・つまらないことにかかわっている場合ではない" />
+			<e ph="あの事件に係わらない方がいいよ" />
+		</r>
 		<r kun="かかり" kk="係" pa="*1" pos="N" jlpt="3"></r>
 	</kanji>
 	
@@ -561,7 +565,7 @@
 			<ex	 word="意見" pron="いけｎ" pa="1" pos="N" jlpt="4" />
 		</r>
 		<r kun="み`る" kk="見る" pa="1" pos="t1" jlpt="5">
-		
+			<ex	 word="見積もる" pron="みつもる" pa="03" pos="t5"  />
 		</r>
 		<r kun="み`える" kk="見える" pa="2" pos="j1" jlpt="4"> </r>
 		<r kun="み`せる" kk="見せる" pa="2" pos="t5" jlpt="5"> </r>

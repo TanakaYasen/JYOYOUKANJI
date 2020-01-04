@@ -407,7 +407,8 @@
 		</r>
 		<r kun="かえす" kk="返す" pa="1" pos="j5" jlpt="5" >
 		</r>
-		<r kun="かえる" kk="返る" pa="1" pos="j5" jlpt="5" >
+		<r kun="かえ`る" kk="返る" pa="1" pos="*j5" jlpt="5" cn="恢复还原; 归还回来" ref="帰る" >
+			<e ph="貸した本が帰ってきた・年を取ると子供に返る・我に返る・初心に返る" />
 		</r>
 	</kanji>
 	
@@ -419,9 +420,9 @@
 			<ex	 word="変革" pron="へんかく" pa="0" pos="N/jts" jlpt="1" />
 			<ex	 word="異変" pron="へんきゃく" pa="0" pos="N" />
 		</r>
-		<r kun="かわる" kk="変わる" pa="1" pos="j5" jlpt="4" >
+		<r kun="かわる" kk="変わる" pa="0" pos="j5" jlpt="4" cn="变化,转变">
 		</r>
-		<r kun="かえる" kk="変える" pa="1" pos="t1" jlpt="4" >
+		<r kun="かえる" kk="変える" pa="*0" pos="*t1" jlpt="4" cn="改变~" >
 		</r>
 	</kanji>
 	
@@ -537,11 +538,13 @@
 	<kanji	id="補" freq="1515" jlpt="2" gr="6">
 		<r on="ホ" >
 			<ex	 word="補助" pron="ほじょ" pa="1" pos="N/js" jlpt="1" />
+			<ex	 word="補充" pron="ほじゅう" pa="0" pos="N/js" jlpt="1" />
 			<ex	 word="補償" pron="ほしょう" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="補欠" pron="ほりょ" pa="0" pos="N" />
 			<ex	 word="立候補" pron="りっこうほ" pa="3" pos="N" />
 		</r>
-		<r kun="おぎなう" kk="補う" pa="3" pos="t5" jlpt="2" cn="补充" >
+		<r kun="おぎな`う" kk="補う" pa="3" pos="t5" jlpt="2" cn="补充;弥补;赔偿" ref="償う">
+			<e ph="説明を補う・赤字を補う" />
 		</r>
 	</kanji>
 	
@@ -679,11 +682,13 @@
 			<ex	 word="抱負" pron="ほうふ" pa="0" pos="N" />
 			<ex	 word="辛抱" pron="しんぼう" pa="0" pos="N" />
 		</r>
-		<r kun="だく" kk="抱く" pa="0" pos="t5" jlpt="3" >
+		<r kun="だ`く" kk="抱く" pa="0" pos="t5" jlpt="3" cn="抱" ph="子供を抱く" >
 		</r>
-		<r kun="いだく" kk="抱く" pa="2" pos="t5" jlpt="3" cn="搂抱;(抽象的)怀有" eng="to embrace" >
+		<r kun="いだ`く" kk="抱く" pa="2" pos="t5" jlpt="3" cn="搂抱;(抽象的)怀有" eng="to embrace" >
+			<e ph="夢を／志を／憧れ胸にを抱く・自然の懐に抱かれる" />
 		</r>
-		<r kun="かかえる" kk="抱える" pa="4" pos="t1" jlpt="3" >
+		<r kun="かか`える" kk="抱える" pa="0" pos="t1" jlpt="3" ph="～に～を抱える" cn="抱着,夹在腋下;承担负担(欠)" >
+			<e ph="小脇に抱える・頭を抱える・先生は教科書を抱えながら、教室に入ってきた・借金を抱える・難問を／悩みを抱える" />
 		</r>
 	</kanji>
 	
@@ -785,9 +790,10 @@
 		<r on="ホウ" >
 			<ex	 word="訪問" pron="ほうもん" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="おとずれる" kk="訪れる" pa="4" pos="j1" jlpt="1" >
+		<r kun="おとず`れる" kk="訪れる" pa="4" pos="jt1" jlpt="1" cn="来访;来临" >
+			<e ph="先生のお宅を訪れる・絶好のチャンスが訪れる・春が訪れる・彼の待ち望んでいた日が遂に訪れた" />
 		</r>
-		<r kun="たずねる" kk="訪ねる" pa="3" pos="t1" jlpt="4" >
+		<r kun="たず`ねる" kk="訪ねる" pa="3" pos="t1" jlpt="4" cn="去拜访,访问" ref="尋ねる" >
 		</r>
 	</kanji>
 	

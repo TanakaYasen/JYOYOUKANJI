@@ -16,6 +16,7 @@
 		<ex	 word="がたがた" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="ぶるぶる" pron="ブルブル" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		
+		<ex	 word="めきめき" pron="めきめき" pa="1" pos="adv" jlpt="2" cn="迅速" />
 		<ex	 word="こそこそ" pron="コソコソ" pa="0" pos="j5" jlpt="2" cn="偷偷摸摸，鬼鬼祟祟" />
 		<ex	 word="態々" pron="*わざわざ" pa="1" pos="adv" jlpt="1" cn="特意; 专程" eng="expressly" />
 		<ex	 word="様々" pron="*さまざま" pa="23" pos="NA" jlpt="3" cn="种种，形形色色" eng="various" />

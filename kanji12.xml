@@ -335,6 +335,7 @@
 			<ex	 word="世辞" pron="せじ" pa="0" pos="N" jlpt="1" cn="巴结奉承" />
 		</r>
 		<r kun="よ" kk="世" pa="1" pos="N" jlpt="1" >
+			<ex	 word="世論" pron="よろん" pa="1" pos="N" jlpt="1" cn="舆论" ph="世論調査" />
 			<ex	 word="浮世絵" pron="うきよえ" pa="0" pos="N" />
 		</r>
 	</kanji>

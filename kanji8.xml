@@ -417,8 +417,32 @@
 			<ex	 word="相思" pron="そうし" pa="1" pos="N" />
 		</r>
 		<r kun="おもう" kk="思う" pa="2" pos="t5" jlpt="4" >
-			<ex	 word="思い付く" pron="おもいつく" pa="2" pos="t5" jlpt="2" cn="忽然想起" ref="浮かぶ" />
-			<ex	 word="思い出す" pron="おもいだす" pa="4" pos="t5" jlpt="4" />
+			<ex	 word="思い付く" pron="おもいつく" pa="2" pos="t5" jlpt="2" cn="忽然想起" ref="浮かぶ" >
+				<e ph="いいアイデアを思いつく" />
+			</ex>
+			<ex	 word="思い出す" pron="おもいだす" pa="4" pos="t5" jlpt="4" cn="回想起来" >
+				<e ph="彼の名がどうしても思い出せない" />
+			</ex>
+			<ex	 word="思い込む" pron="おもいこむ" pa="4" pos="j5" jlpt="2" cn="深信,固执认为" >
+				<e ph="真実だと思い込む・思い込んだら命がけ" />
+			</ex>
+			<ex	 word="思い切り" pron="おもいきり" pa="0" pos="adv" jlpt="2" cn="尽情地,痛快地">
+				<e ph="思い切りが悪い・彼を思い切り殴った・今夜は思い切り飲もう・思い切り泣いた・思い切り遊び" />
+			</ex>
+			<ex	 word="思い切って" pron="おもいきって" pa="4" pos="adv" jlpt="2" cn="下定决心,毅然地">
+			</ex>
+			
+			<ex	 word="思い浮かぶ" pron="おもいうかぶ" pa="4" pos="j5" >
+				<e ph="子供時代の故郷が思い浮かぶ・あの先生の顔がまざまざと思い浮かぶ" />
+			</ex>
+			<ex	 word="思い浮かべる" pron="おもいうかべる" pa="4" pos="t1" >
+				<e ph="その映画を見て少年時代を思い浮かべる" />
+			</ex>
+			<ex	 word="思いがけない" pron="おもいがけない" pa="4" pos="adj" jlpt="2" cn="意想不到的">
+				<e ph="思いがけない出会い・思いがけなく再開する・思いがけない出来事・" />
+			</ex>
+			<ex	 word="思いもよらない" pron="おもいもよらない" pa="4" pos="adj" cn="万万没想到">
+			</ex>
 		</r>
 		<r nfu="思しい(おぼしい)・こころ" >
 		</r>
@@ -639,6 +663,7 @@
 	
 	<kanji	id="示" freq="529" jlpt="3" gr="5">
 		<r on="ジ" >
+			<ex	 word="教示" pron="きょうじ" pa="1" pos="N" cn="指教，指点" jp="知識や方法などを教え示すこと" />
 			<ex	 word="暗示" pron="あんじ" pa="0" pos="N/ts" />
 			<ex	 word="掲示" pron="けいじ" pa="0" pos="N/ts" />
 			<ex	 word="告示" pron="こくじ" pa="0" pos="N" />
@@ -773,13 +798,17 @@
 			<ex	 word="治安" pron="ちあん" pa="1" jlpt="1" pos="N" />
 			<ex	 word="治水" pron="ちすい" pa="1" pos="N" />
 		</r>
-		<r kun="おさめる" kk="治める" pa="3" pos="t1" jlpt="2" >
+		<r kun="おさ`める" kk="治める" pa="3" pos="t1" jlpt="2" cn="治理; 使平息; 平定; 镇定">
+			<e ph="国を治める・黄河を治める・武力を持って治める・動乱を治める" />
+			<e ph="暴徒を治める" />
 		</r>
-		<r kun="おさまる" kk="治まる" pa="3" pos="j5" jlpt="1" >
+		<r kun="おさ`まる" kk="治まる" pa="3" pos="j5" jlpt="1" cn="安定,平息;止住" >
+			<e ph="騒ぎが治まる・天下が治まる・気持ちが治まる・痛み／咳／風が・火事は朝になってやっと治まった" />
+			<e ph="喧嘩が治まった・そうしなければ胸が治まらない" />
 		</r>
-		<r kun="なおる" kk="治る" pa="2" pos="j5" jlpt="4" >
+		<r kun="なお`る" kk="治る" pa="2" pos="j5" jlpt="4" >
 		</r>
-		<r kun="なおす" kk="治す" pa="2" pos="t5" jlpt="4" >
+		<r kun="なお`す" kk="治す" pa="2" pos="t5" jlpt="4" >
 		</r>
 	</kanji>
 	

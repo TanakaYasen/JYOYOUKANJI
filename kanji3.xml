@@ -149,8 +149,11 @@
 	<kanji	id="懐" freq="937" jlpt="1" gr="8">
 		<r on="カイ" >
 			<ex	 word="懐疑" pron="かいぎ" pa="1" pos="N" eng="doubt" />
+			<ex	 word="懐中電灯・懐中時計" pron="かいちゅうでんとう・かいちゅうとけい" pa="1" pos="N" />
 		</r>
-		<r kun="ふところ" kk="懐" pa="0" pos="N" />
+		<r kun="ふところ" kk="懐" pa="0" pos="N" >
+			<e ph="懐が寂しい／寒い／暖かい・懐を肥やす" />
+		</r>
 		<r kun="なつ`かしい" kk="懐かしい" pa="4" pos="adj" jlpt="2" />
 		<r kun="なつ`かしむ" kk="懐かしむ" pa="4" pos="t5" />
 		<r kun="なつ`く" kk="懐く" pa="2" pos="t5" jlpt="1" />
@@ -358,7 +361,9 @@
 			<ex	 word="発覚" pron="はっかく" pa="1" pos="N" />
 			<ex	 word="覚醒" pron="かくせい" pa="1" pos="N" />
 		</r>
-		<r kun="おぼ`える" kk="覚える" pa="3" pos="t1" jlpt="5" eng="to memorize" />
+		<r kun="おぼ`える" kk="覚える" pa="3" pos="t1" jlpt="5" cn="记住;感觉到" eng="to memorize" >
+			<e ph="覚えていますか・手に痛みを覚える・彼はそろそろ仕事の要領を覚え始めた" />
+		</r>
 		<r kun="さ`ます" kk="覚ます" pa="2" pos="t5" jlpt="3" ref="醒ます" eng="to awaken"/>
 		<r kun="さ`める" kk="覚める" pa="2" pos="j1" jlpt="3" ref="醒める" eng="to wake up" cn="醒，觉醒" >
 			<ex	 word="目覚める" pron="めざめる" pa="1" pos="N" />
@@ -393,6 +398,10 @@
 	<kanji	id="確" freq="560" jlpt="3" gr="5">
 		<r on="カク" >
 			<ex	 word="確信" pron="かくしん" pa="0" pos="N" />
+			<ex	 word="確立" pron="かくりつ" pa="0" pos="N/ts" jlpt="1" eng="to establish">
+				<e ph="方針を確立する・支配的地位を／威信を確立する" />
+			</ex>
+			<ex	 word="確率" pron="かけりつ" pa="0" pos="N" jlpt="2" cn="几率" eng="probility" />
 		</r>
 		<r kun="たしか" kk="確か" pa="1" pos="NA/adv" jlpt="4" />
 		<r kun="たしかめる" kk="確かめる" pa="4" pos="t1" jlpt="3" eng="to ascertain;to make sure" />
@@ -458,7 +467,7 @@
 	
 	<kanji	id="額" freq="963" jlpt="2" gr="5">
 		<r on="ガク" >
-			<ex	 word="金額" pron="きんがく" pa="0" pos="N" jlpt="3" />
+			<ex	 word="金額" pron="きんがく" pa="0" pos="N" jlpt="3" ph="膨大な額に達する" />
 		</r>
 		<r kun="ひたい" kk="額" pa="0" pos="N" jlpt="3" cn="额;天庭" />
 		<r nfu="額ずく(ぬかずく)"></r>
@@ -896,7 +905,8 @@
 			<ex	 word="関係" pron="かんけい" pa="0" pos="N" jlpt="4" eng="relation" />
 		</r>
 		<r kun="せき" kk="関" pa="1" pos="N" eng="barrier" />
-		<r kun="かか`わる" kk="関わる" pa="30" pos="j5" jlpt="2" cn="受影响" />
+		<r kun="かか`わる" kk="関わる" pa="30" pos="j5" jlpt="2" cn="受影响" >
+		</r>
 		<r nfu="かんぬき・からくり"></r>
 	</kanji>
 	

@@ -116,6 +116,10 @@
 		<r kun="かお" kk="顔" pa="0" pos="N" eng="face" >
 			<ex	 word="笑顔" pron="えがお" pa="1" pos="N" jlpt="3" />
 			<ex	 word="素顔" pron="すがお" pa="1" pos="N" />
+			<ex	 word="顔色" pron="かおいろ" pa="0" pos="N" cn="脸色" />
+			<ex	 word="顔付き" pron="かおつき" pa="0" pos="N" cn="表情" />
+			<ex	 word="顔立ち" pron="かおだち" pa="0" pos="N" cn="容貌" />
+			<ex	 word="顔向け" pron="かおむけ" pa="0" pos="N/js" cn="见面" />
 		</r>
 		<r nfu="かんばせ・（額）ひたい"></r>
 	</kanji>
@@ -313,8 +317,8 @@
 		<r on="キ" >
 			<ex	 word="帰依" pron="きえ" pa="1" pos="N" />
 		</r>
-		<r kun="かえ`る" kk="帰る" pa="1" pos="j5" jlpt="1" ></r>
-		<r kun="かえ`す" kk="帰る" pa="3" pos="j5" jlpt="1" ></r>
+		<r kun="かえ`る" kk="帰る" pa="1" pos="j5" jlpt="1" ref="返る" cn="回家" ></r>
+		<r kun="かえ`す" kk="帰す" pa="3" pos="t5" jlpt="2" ></r>
 		<r nfu="帰ぐ(とつぐ)・帰る(おくる)"></r>
 	</kanji>
 	
@@ -627,6 +631,7 @@
 			<ex	 word="忘却" pron="ぼうきゃく" pa="0" pos="N" />
 			<ex	 word="返却" pron="へんきゃく" pa="0" pos="N" />
 		</r>
+		<r kun="かえって" kk="却って" pa="1" pos="adv" cn="反而" ref="帰って"></r>
 	</kanji>
 	
 	<kanji	id="客" freq="359" jlpt="3" gr="3">
@@ -694,9 +699,11 @@
 		<r on="キュウ" >
 			<ex	 word="言及" pron="げんきゅう" pa="0" pos="N" />
 		</r>
-		<r kun="およ`ぶ" kk="及ぶ" pa="02" pos="N" jlpt="1" ></r>
+		<r kun="およ`ぶ" kk="及ぶ" pa="02" pos="j5" jlpt="1" ></r>
 		<r kun="およ`び" kk="及び" pa="01" pos="N" jlpt="1" cn="以及" ></r>
-		<r kun="およ`ぼす" kk="及ぼす" pa="03" pos="N" jlpt="1" cn="波及" ></r>
+		<r kun="およ`ぼす" kk="及ぼす" pa="03" pos="t5" jlpt="1" ph="～に～を及ぼす" cn="波及,带来,牵涉" >
+			<e ph="影響を及ぼす・利益を及ぼす・旱は農作物に被害を及ぼす・生命に危険を及ぼす" />
+		</r>
 	</kanji>
 	
 	<kanji	id="弓" freq="1523" jlpt="1" gr="2">
@@ -1047,10 +1054,29 @@
 	<kanji	id="恐" freq="320" jlpt="3" gr="8">
 		<r on="キョウ" >
 			<ex	 word="恐怖" pron="きょうふ" pa="1" pos="N" />
+			<ex	 word="恐縮" pron="きょうしゅく" pa="0" pos="N/js" jlpt="2" cn="惶恐不安;感谢;对不起">
+				<e ph="いつもご面倒をおかけして恐縮です・お待たせして恐縮です" /> 
+				<e ph="わざわざお運びをいただき恐縮です・最初に私事で恐縮ですが～" />
+			</ex>
 			<ex	 word="恐竜" pron="きょうりゅう" pa="1" pos="N" />
 		</r>
-		<r kun="おそ`れる" kk="恐れる" pa="3" pos="j1" jlpt="1" ></r>
-		<r kun="おそ`ろしい" kk="恐ろしい" pa="4" pos="adj" jlpt="1" ></r>
+		<r kun="おそ`れる" kk="恐れる" pa="3" pos="jt1" jlpt="1" >
+			<ex	 word="恐れ" pron="おそれ" pa="1" pos="N" cn="恐惧害怕;忧虑担心" ref="虞" >
+				<e ph="恐れを抱く・津波の恐れがある・この薬は副作用の恐れがあります" /> 
+				<e ph="ここは地番が柔らかいので、建物が倒壊する恐れがあります" />
+				<e ph="今対策を立てないと、大事故につながる恐れがあります" /> 
+			</ex>
+			<ex	 word="恐れ入る" pron="おそれいる" pa="1" pos="j5" cn="折服,佩服; 抱歉,实在不好意思" >
+				<e ph="彼の鋭い観察力に恐れ入る・君の腕前には恐れ入った・ご教示恐れ入ります" /> 
+				<e ph="ご迷惑をお掛けまして恐れ入ります・本日はわざわざおいでくださいました、誠に恐れ入ります。" /> 
+				<e ph="お招きいただき恐れ入ります・恐れ入りますが（すみませんが）、その窓を開けてくれませんか" />
+			</ex>
+		</r>
+		<r kun="おそ`ろしい" kk="恐ろしい" pa="4" pos="adj" jlpt="1" >
+			<ex	 word="恐らく" pron="おそらく" pa="2" pos="adv" cn="恐怕~" ref="虞" >
+				<e ph="" />
+			</ex>
+		</r>
 	</kanji>
 	
 	<kanji	id="恭" freq="1987" jlpt="1" gr="8">
@@ -1070,11 +1096,15 @@
 	
 	<kanji	id="脅" freq="1893" jlpt="1" gr="8">
 		<r on="キョウ" >
-			<ex	 word="脅迫" pron="きょうはく" pa="0" pos="教養N" />
+			<ex	 word="脅迫" pron="きょうはく" pa="0" pos="N" />
+			<ex	 word="脅威" pron="きょうい" pa="1" pos="N" />
 		</r>
-		<r kun="おびやかす" kk="脅かす" pa="2" pos="N" jlpt="1" ></r>
+		<r kun="おびやかす" kk="脅かす" pa="4" pos="t5" jlpt="1" >
+		</r>
 		<r kun="おどす" kk="脅す" pa="2" pos="N" jlpt="1" ></r>
-		<r kun="おどかす" kk="脅かす" pa="2" pos="N" jlpt="1" ></r>
+		<r kun="おどかす" kk="脅かす" pa="2" pos="t5" jlpt="2" cn="威胁" >
+			<e ph="ナイフ／武力で脅かす・人を脅かして金をとる" />
+		</r>
 		<r nfu="脅える(おびえる)"></r>
 	</kanji>
 	
@@ -1095,8 +1125,10 @@
 			<ex	 word="教授" pron="きょうじゅ" pa="01" pos="N" jlpt="3" eng="professor" />
 			<ex	 word="教養" pron="きょうよう" pa="0" pos="N" jlpt="2" eng="cultivation" />
 		</r>
-		<r kun="おしえる" kk="教える" pa="0" pos="t1" jlpt="5" ></r>
-		<r kun="おそわる" kk="教わる" pa="0" pos="j5" jlpt="2" eng="to be taught" ></r>
+		<r kun="おし`える" kk="教える" pa="0" pos="t1" jlpt="5" cn="教授; 告诉" ></r>
+		<r kun="おそ`わる" kk="教わる" pa="0" pos="j5" jlpt="2" ph="~をxに教わる" cn="受教;向..学习" eng="to be taught" >
+			<e ph="先輩に教わる・やり方を教わる・ピアノを音楽教師に教わっている。若者は経験や知識が足りないから年寄りに教わる" >
+		</r>
 	</kanji>
 	
 	<kanji	id="郷" freq="747" jlpt="1" gr="6">

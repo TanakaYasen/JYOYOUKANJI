@@ -460,6 +460,7 @@
 		</r>
 		<r kun="ひ`く" kk="引く" pa="0" pos="t5" jlpt="5" eng="to pull/to draw; to attack" >
 			<ex	 word="取引" pron="とりひき" pa="2" pos="N" cn="交易;谈判"/>
+			<ex	 word="引越し" pron="ひっこし" pa="0" pos="N/js" jlpt="2" cn="搬家" cn="changing residence"/>
 			<ex	 word="引き算" pron="ひきざん" pa="2" pos="N" eng="subtraction"/>
 			<ex	 word="引き上げる" pron="ひきあげる" pa="4" pos="t1" jlpt="1" />
 			<ex	 word="引き下げる" pron="ひきさげる" pa="4" pos="t1" jlpt="1" />
@@ -650,7 +651,8 @@
 		<r on="ウン" >
 			<ex	 word="運転" pron="うんてん" pa="0" pos="N/jts" jlpt="3" />
 			<ex	 word="運動" pron="うんどう" pa="0" pos="N/js" jlpt="3" />
-			<ex	 word="運命" pron="うんめい" pa="1" pos="N" jlpt="1" />
+			<ex	 word="運命" pron="うんめい" pa="1" pos="N" jlpt="1" eng="fate; destiny"/>
+			<ex	 word="運勢" pron="うんせい" pa="1" pos="N" eng="fortune" />
 			<ex	 word="運輸" pron="うんゆ" pa="1" pos="N" jlpt="1" />
 			<ex	 word="運営" pron="うんえい" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="運用" pron="うんよう" pa="0" pos="N/ts" jlpt="1" />

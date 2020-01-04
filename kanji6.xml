@@ -105,9 +105,12 @@
 	
 	<kanji	id="悟" freq="1124" jlpt="1" gr="8">
 		<r on="ゴ" >
-			<ex	 word="覚悟" pron="かくご" pa="2" pos="N/js" jlpt="3" />
+			<ex	 word="覚悟" pron="かくご" pa="21" pos="N/js" jlpt="3" cn="思想准备;决心">
+				<e ph="覚悟を固める・覚悟を決める・危険は覚悟の上だ・必死の覚悟" >
+			</ex>
 		</r>
-		<r kun="さと`る" kk="悟る" pa="02" pos="j5" jlpt="1" >
+		<r kun="さと`る" kk="悟る" pa="02" pos="t5" jlpt="1" cn="领悟,认识到" >
+			<e ph="道理を悟る・言外の意を悟る・人生をすっかり悟る" >
 		</r>
 	</kanji>
 	
@@ -352,7 +355,7 @@
 		</r>
 		<r kun="ゆく" kk="行く" pa="0" pos="j5" jlpt="5" cn="" ref="逝く" >
 		</r>
-		<r kun="おこなう" kk="行う" pa="0" pos="t5" jlpt="4" cn="实行;进行" >
+		<r kun="おこなう" kk="行う" pa="0" pos="t5" jlpt="4" cn="实行;进行;举行" >
 		</r>
 		<r nfu="みち・行ぬ(しぬ)・行る(やる)">
 		</r>

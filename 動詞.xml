@@ -12,5 +12,9 @@
 		<ex	 word="じわる" pron="じわる" pa="0" pos="j5" cn="真香" />
 		<ex	 word="サボる" pron="サボる" pa="2" pos="t5" jlpt="1" cn="怠工，旷课，逃学" ph="授業をさぼる" />
 	</table>
+	
+	<table tag="JLPT">
+		<ex	 word="奢る" pron="おごる" pa="0" pos="t5" cn="真香" />
+	</table>
 </Dict>
 

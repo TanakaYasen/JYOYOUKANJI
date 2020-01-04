@@ -261,7 +261,7 @@
 	<kanji	id="蛙" freq="1850" jlpt="3" gr="4">
 		<r on="ア" >
 		</r>
-		<r kun="かえる" kk="蛙" pa="0" pos="N" jlpt="1" >
+		<r kun="かえる" kk="蛙" pa="0" pos="N" jlpt="1" ph="蛙の子は蛙">
 		</r>
 	</kanji>
 	

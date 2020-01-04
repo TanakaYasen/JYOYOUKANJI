@@ -18,9 +18,12 @@
 			<ex	 word="痛惜" pron="つうせき" pa="0" pos="NA" />
 			<ex	 word="惜別" pron="せきべつ" pa="0" pos="NA" />
 		</r>
-		<r kun="おしい" kk="惜しい" pa="2" pos="adj" jlpt="2" eng="regrettable" >
+		<r kun="お`しい" kk="惜しい" pa="2" pos="adj" jlpt="2" ph="～が惜しい（情感好恶能力用が）" eng="regrettable" >
 		</r>
-		<r kun="おしむ" kk="惜しむ" pa="2" pos="t5" jlpt="1" >
+		<r kun="お`しむ" kk="惜しむ" pa="2" pos="t5" jlpt="1" cn="吝啬吝惜;爱惜珍惜;惋惜觉得可惜">
+			<e ph="別れを惜しむ・手間を惜しむ・寸暇を惜しむ・命を惜しむ・わずかの時間を惜しんで外国語の勉強をする" />
+			<e ph="英雄の死を惜しむ・彼の死は国家にとって惜しむべきである・あの先生が去る時は皆に惜しまれた" />
+			<e ph="讃頌の言葉を惜しまない" />
 		</r>
 		<r nfu="シャク">
 		</r>
@@ -123,6 +126,7 @@
 			<ex	 word="挫折" pron="ざせつ" pa="0" pos="N" />
 		</r>
 		<r kun="おる" kk="折る" pa="1" pos="t5" jlpt="4" >
+			<ex	 word="折り畳む" pron="おりたたむ" pa="0" pos="t5" cn="折叠"  />
 		</r>
 		<r kun="おり" kk="折" pa="2" pos="N" >
 		</r>
@@ -306,6 +310,7 @@
 		<r kun="しめる" kk="占める" pa="2" pos="t1" jlpt="3" cn="占领" eng="to occupy; to hold" >
 		</r>
 		<r kun="うらなう" kk="占う" pa="3" pos="t5" jlpt="2" cn="占卜" >
+			<e ph="トランプで占う・運勢を占う・吉凶を占う・身の上を占う" >
 		</r>
 	</kanji>
 	

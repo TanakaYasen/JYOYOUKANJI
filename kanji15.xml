@@ -320,7 +320,11 @@
 		</r>
 		<r kun="おくれる" kk="遅れる" pa="0" pos="j1" jlpt="4" ph="電車に遅れる"></r>
 		<r kun="おくらす" kk="遅らす" pa="0" pos="t5" jlpt="1" ph="～を遅らす"></r>
-		<r kun="おそい" kk="遅い" pa="*0" pos="adj" jlpt="5" ph="～が遅い"></r>
+		<r kun="おそい" kk="遅い" pa="*0" pos="adj" jlpt="5" ph="～が遅い">
+			<ex	 word="遅くとも" pron="おそくとも" pa="2" pos="adv" jlpt="3" cn="最晚,最迟" ref="早くとも" >
+				<e ph="遅くとも来週までには完成できるだろう・この鉄道は遅くとも五月には開通する" />
+			</ex>
+		</r>
 	</kanji>
 	
 	<kanji	id="痴" freq="1730" jlpt="2" gr="8">
