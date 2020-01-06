@@ -71,6 +71,7 @@
 	<kanji	id="圧" freq="1165" jlpt="2" gr="5">
 		<r on="アツ" >
 			<ex	 word="血圧" pron="けつあつ" pa="0" pos="N" jlpt="2" />
+			<ex	 word="気圧" pron="きあつ" pa="0" pos="N" jlpt="2" />
 			<ex	 word="圧力" pron="あつりょく" pa="0" pos="N" jlpt="1" eng="pressure" />
 			<ex	 word="圧迫" pron="あっぱく" pa="0" pos="N" jlpt="1" eng="pressure" />
 			<ex	 word="圧縮" pron="あっしゅく" pa="0" pos="N/ts" jlpt="2" cn="压缩;缩简文句;缩减(开支)"

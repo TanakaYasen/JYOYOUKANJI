@@ -179,7 +179,7 @@
 		<r on="ジキ" >
 			<ex	 word="正直" pron="しょうじき" pa="0" pos="N/NA" jlpt="0"/>
 		</r>
-		<r kun="ただちに" kk="直ちに" pa="1" pos="adv" jlpt="?"></r>
+		<r kun="ただちに" kk="直ちに" pa="1" pos="adv" jlpt="3" cn="立刻" eng="at once; immediately" ></r>
 		<r kun="なおす" kk="直す" pa="2" pos="t5" jlpt="4"></r>
 		<r kun="なおる" kk="直る" pa="2" pos="j5" jlpt="4"></r>
 	</kanji>

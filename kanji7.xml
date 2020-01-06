@@ -326,7 +326,7 @@
 			<ex	 word="鎖国" pron="さこく" pa="0" pos="N" />
 			<ex	 word="連鎖" pron="れんさ" pa="0" pos="N" />
 		</r>
-		<r kun="くさり" kk="鎖" pa="0" pos="N" jlpt="3" eng="chain">
+		<r kun="くさり" kk="鎖" pa="0" pos="N" jlpt="3" eng="chain" cn="锁链,金属链条" >
 		</r>
 		<r nfu="鎖す(とざす)">
 		</r>

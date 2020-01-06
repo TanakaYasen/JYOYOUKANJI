@@ -419,8 +419,10 @@
 			<ex	 word="扶養" pron="ふよう" pa="0" pos="N" />
 			<ex	 word="養殖" pron="ようしょく" pa="0" pos="N" />
 			<ex	 word="養育" pron="よういく" pa="0" pos="N" />
+			<ex	 word="養生" pron="ようじょう" pa="3" pos="N/js" cn="保养身体"/>
 		</r>
-		<r kun="やしな`う" kk="養う" pa="3" pos="t5" jlpt="1" cn="培养" >
+		<r kun="やしな`う" kk="養う" pa="3" pos="t5" jlpt="1" cn="培养;养成" >
+			<e ph="良い習慣を養う・子を養うのは親の義務である" />
 		</r>
 	</kanji>
 	
@@ -553,7 +555,8 @@
 			<ex	 word="雷雨" pron="らいう" pa="1" pos="N" />
 			<ex	 word="魚雷" pron="ぎょらい" pa="0" pos="N" />
 		</r>
-		<r kun="かみなり" kk="雷" pa="43" pos="N" jlpt="3" >
+		<r kun="かみなり" kk="雷" pa="43" pos="N" jlpt="3" htm="神＋鳴り">
+			<e ph="父の雷が落ちる・この世に雷を落とす・雷が鳴る・雷に打たれて死ぬ" />
 		</r>
 	</kanji>
 	

@@ -92,7 +92,9 @@
 		<r on="カイ" >
 			<ex	 word="団塊" pron="だんかい" pa="0" pos="N" />
 		</r>
-		<r kun="かたまり" kk="塊" pa="0" pos="N" jlpt="2" />
+		<r kun="かたまり" kk="塊" pa="0" pos="N" jlpt="2" cn="块,疙瘩; 群体 ;极端...的人" >
+			<e ph="鉄の塊・氷の塊・観客の塊・羊の塊・ケチの塊(小气鬼)・欲の塊（欲張りの人）" />
+		</r>
 		<r nfu="つちくれ"></r>
 	</kanji>
 	
@@ -503,6 +505,8 @@
 	
 	<kanji	id="活" freq="181" jlpt="3" gr="2">
 		<r on="カツ" >
+			<ex	 word="活気" pron="かっき" pa="0" pos="N" cn="活力生机" ph="活気に溢れる都市" />
+			<ex	 word="活発" pron="かっぱつ" pa="0" pos="NA" cn="活泼;活跃" ph="活発な" />
 			<ex	 word="生活" pron="せいかつ" pa="0" pos="N" jlpt="4" />
 			<ex	 word="快活" pron="かいかつ" pa="0" pos="N" />
 			<ex	 word="活用" pron="かつよう" pa="0" pos="N" />
@@ -737,14 +741,22 @@
 			<ex	 word="乾燥" pron="かんそう" pa="0" pos="N" jlpt="2" />
 			<ex	 word="乾杯" pron="かんぱい" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="かわく" kk="乾く" pa="2" pos="j5" jlpt="4" />
-		<r kun="かわかす" kk="乾かす" pa="3" pos="t5" jlpt="2" />
+		<r kun="かわく" kk="乾く" pa="2" pos="j5" jlpt="4" eng="to get dry" ref="渇く">
+			<e ph="洗濯物が乾いた・唇が乾いている・乾いた声の女性" />
+		</r>
+		<r kun="かわかす" kk="乾かす" pa="3" pos="t5" jlpt="2" >
+			<e ph="雨に濡れた服をストーブstoveで乾かす・日に当てて布団を乾かす・髪を乾かしてから寝る" />
+		</r>
 		<r nfu="ケン・いぬい・乾す(ほす)"></r>
 	</kanji>
 	
 	<kanji	id="勘" freq="1110" jlpt="1" gr="8">
 		<r on="カン" >
-			<ex	 word="勘違い" pron="かんちがい" pa="3" pos="N/js" cn="判断错误。误会" />
+			<ex	 word="勘定" pron="かんじょう" pa="3" pos="N" jlpt="3" cn="计算;算账" />
+			<ex	 word="勘違い" pron="かんちがい" pa="3" pos="N/js" cn="判断错误。误会 错觉" />
+			<ex	 word="勘" pron="かん" pa="3" pos="N" cn="直觉" >
+				<e ph="勘がいい・勘が働く・勘が鋭い／鈍い・勘が悪い" />
+			</ex>
 		</r>
 		<r nfu="勘える(かんがえる)"></r>
 	</kanji>

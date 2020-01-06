@@ -9,12 +9,24 @@
 	</table>
 	
 	<table tag="daily">
+		<ex	 word="" pron="じわる" pa="0" pos="j5" cn="真香" />
 		<ex	 word="じわる" pron="じわる" pa="0" pos="j5" cn="真香" />
 		<ex	 word="サボる" pron="サボる" pa="2" pos="t5" jlpt="1" cn="怠工，旷课，逃学" ph="授業をさぼる" />
 	</table>
 	
 	<table tag="JLPT">
-		<ex	 word="奢る" pron="おごる" pa="0" pos="t5" cn="真香" />
+		<ex	 word="奢る" pron="おごる" pa="0" pos="j5" cn="奢侈浪费;挑剔;请客做东" />
+		<ex	 word="齧る" pron="かじる" pa="2" pos="t5" jlpt="2" cn="啃咬;稍微懂得一点" />
+		<ex	 word="溢れる" pron="あふれる" pa="3" pos="j1" jlpt="2" ph="" cn="满,溢出;充满, 洋溢着" />
+	</table>
+	
+	<table tag="JLPT">
+		<ex	 word="彷徨う" pron="さまよう" pa="0" pos="j5" cn="" />
+		<ex	 word="愚図つく" pron="ぐずつく" pa="2" pos="j5" cn="拖沓,磨蹭;天气阴沉" >
+			<e ph="何をしてぐずつく・決心がつかないままぐずついている・ぐずついた天気が何日も続く" />
+		</ex>
+		<ex	 word="揶揄う" pron="からかう" pa="3" pos="t5" jlpt="2" cn="" />
+		<ex	 word="躊躇う" pron="ためらう" pa="3" pos="j5" jlpt="2" ph="" cn="" />
 	</table>
 </Dict>
 

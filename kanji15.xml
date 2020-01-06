@@ -87,8 +87,12 @@
 			<ex	 word="負担" pron="ふたん" pa="0" jlpt="1" pos="N" />
 			<ex	 word="担架" pron="たんか" pa="1" jlpt="5" pos="N" />
 		</r>
-		<r kun="かつぐ" kk="担ぐ" pa="2" cn="挑担"></r>
-		<r kun="になう" kk="担う" pa="2" cn="担任" ph="期待を担う"></r>
+		<r kun="かつ`ぐ" kk="担ぐ" pa="2" pos="t5" jlpt="2" cn="挑担;拥戴推崇;骗,耍弄">
+			<e ph="荷物を担ぐ・箱を肩に担ぐ・井上さんを会長に担ぐ・人を担ぐ・君は担がれたんだよ" />
+		</r>
+		<r kun="にな`う" kk="担う" pa="2" pos="t5" jlpt="1" cn="挑;担任" ph="期待を担う">
+			<e ph="重責を肩に担う・重荷を肩に担う・使命を担う" />
+		</r>
 	</kanji>
 	
 	<kanji	id="単" freq="561" jlpt="3" gr="4">
@@ -430,7 +434,11 @@
 		</r>
 		<r on="ジャク" ></r>
 		<r kun="きる" kk="着る" pa="0" pos="t5" jlpt="5">
+			<ex	 word="普段着" pron="ふだんぎ" pa="0" pos="N" />
 			<ex	 word="晴着" pron="はれぎ" pa="0" pos="N" />
+			<ex	 word="水着" pron="みずぎ" pa="0" pos="N" />
+			<ex	 word="下着" pron="したぎ" pa="0" pos="N" />
+			<ex	 word="上着" pron="うわぎ" pa="0" pos="N" />
 		</r>
 		<r kun="きせる" kk="着せる" pa="0" pos="t5" jlpt="2"></r>
 		<r kun="つく" kk="着く" pa="1" pos="t5" jlpt="5"></r>

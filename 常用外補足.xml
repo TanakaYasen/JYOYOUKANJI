@@ -18,6 +18,16 @@
 		</r>
 	</kanji>
 
+	<kanji	id="屑" freq="2131" >
+		<r kun="くず" kk="屑" pa="1" pos="N" jlpt="2" cn="碎屑,废物,糟粕">
+			<ex	 word="紙屑" pron="かみくず" pa="3" pos="N" jlpt="2" />
+			<ex	 word="星屑" pron="ほしくず" pa="3" pos="N" />
+			<ex	 word="布の屑" pron="ぬののくず" pa="0" pos="N" />
+			<ex	 word="屑拾い" pron="くずひろい" pa="0" pos="N" />
+			<ex	 word="人間の屑" pron="にんげんのくず" pa="0" pos="N" />
+		</r>
+	</kanji>
+
 	<kanji	id="佇" freq="3658" jlpt="3" gr="4">
 		<r on="チョ" >
 		</r>
@@ -368,7 +378,13 @@
 	</kanji>
 	
 	<kanji	id="唸" freq="1230" jlpt="3" gr="4">
-		<r kun="うなる" kk="唸る" pa="2" pos="j5" jlpt="1" cn="呻吟;悲鸣;轰鸣" >
+		<r kun="うな`る" kk="唸る" pa="2" pos="j5" jlpt="1" cn="呻吟;悲鸣;轰鸣" >
+			<e ph="犬が唸る・痛さに唸る。病人が一晩中唸っていた・サイレンが唸る" />
+		</r>
+	</kanji>
+	
+	<kanji	id="喋" freq="1230" jlpt="3" gr="4">
+		<r kun="お喋り" kk="唸る" pa="2" pos="j5" jlpt="1" cn="呻吟;悲鸣;轰鸣" >
 			<e ph="犬が唸る・痛さに唸る。病人が一晩中唸っていた・サイレンが唸る" />
 		</r>
 	</kanji>

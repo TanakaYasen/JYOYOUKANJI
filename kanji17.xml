@@ -351,7 +351,7 @@
 			<ex	 word="稲刈り" pron="いねかり" pa="2" pos="N" />
 		</r>
 		<r kun="いな" kk="稲" pa="1" pos="N" jlpt="3" >
-			<ex	 word="稲妻" pron="いなずま" pa="0" pos="N" />
+			<ex	 word="稲光" pron="いなびかり" pa="3" pos="N" jlpt="1" />
 			<ex	 word="稲作" pron="いなさく" pa="0" pos="N" />
 			<ex	 word="稲荷" pron="いなり" pa="1" pos="N" />
 		</r>

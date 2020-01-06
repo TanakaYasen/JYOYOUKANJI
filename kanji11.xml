@@ -26,11 +26,20 @@
 			<ex	 word="傷病" pron="しょうびょう" pa="0" pos="N" />
 		</r>
 		<r kun="きず" kk="傷" pa="0" pos="N" jlpt="3" eng="wound;injury" >
+			<ex	 word="傷口" pron="きずぐち" pa="0" pos="N" ></ex>
+			<ex	 word="傷跡" pron="きずあと" pa="0" pos="N" ></ex>
+			<ex	 word="傷つく" pron="きずつく" pa="3" pos="j5" cn="负伤;损坏;(名誉)受损" >
+				<e ph="足が傷つく・床が傷つく・名声が傷ついた" />
+			</ex>
+			<ex	 word="傷つける" pron="きずつける" pa="4" pos="t1" cn="伤害~" >
+				<e ph="自尊心を／名誉を／友情を傷つける" />
+			</ex>
 		</r>
-		<r kun="いたむ" kk="傷む" pa="2" pos="j5" jlpt="1" cn="腐烂; 损伤" ref="痛む">
+		<r kun="いたむ" kk="傷む" pa="2" pos="j5" jlpt="1" cn="腐烂; 损伤,破败" ref="痛む">
 			<e ph="林檎が傷む。この生地は洗濯機で洗うと傷む。屋根が傷む。">
 		</r>
 		<r kun="いためる" kk="傷める" pa="3" pos="t1" jlpt="1" >
+			<e ph="乱暴をして皿を傷めた" />
 		</r>
 		<r nfu="傷なう(そこなう)">
 		</r>
@@ -177,6 +186,7 @@
 			</ex>
 		</r>
 		<r kun="かみ" kk="上" pa="1" pos="N" jlpt="3" ref="下（しも）" >
+			<ex	 word="上半期" pron="かみはんき" pa="3" pos="N" cn="上半年" ref="下半期"></ex>
 		</r>
 		<r kun="あげる" kk="上げる" pa="0" pos="t1" jlpt="5" >
 		</r>

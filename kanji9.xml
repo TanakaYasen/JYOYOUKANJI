@@ -54,7 +54,6 @@
 	
 	<kanji	id="実" freq="65" jlpt="3" gr="3">
 		<r on="ジツ" >
-			<ex	 word="果実" pron="かじつ" pa="0" pos="N" jlpt="2" eng="fruit; nut" />
 			<ex	 word="実践" pron="じっけん" pa="0" pos="N" jlpt="1" />
 			<ex	 word="実施" pron="じっし" pa="0" pos="N" jlpt="3" />
 			<ex	 word="実際" pron="じっさい" pa="0" pos="N" jlpt="3" />
@@ -68,7 +67,8 @@
 		</r>
 		<r kun="み" kk="実" pa="0" pos="N" jlpt="5" >
 		</r>
-		<r kun="みのる" kk="実る" pa="20" pos="j5" jlpt="2" eng="to bear fruit; to ripen" cn="结果实" >
+		<r kun="みの`る" kk="実る" pa="20" pos="j5" jlpt="2" eng="to bear fruit; to ripen" cn="结果实;出成果" >
+			<e ph="穀物が実る・柿が実る・今年は稲がよく実った・苦心／努力が実る" />
 		</r>
 		<r nfu="もと・たち・質す(ただす)・しろ">
 		</r>
@@ -359,6 +359,7 @@
 			<ex	 word="小切手" pron="こぎって" pa="0" pos="N" />
 			<ex	 word="相手" pron="あいて" pa="3" pos="N" jlpt="3" />
 			<ex	 word="片手" pron="かたて" pa="03" pos="N" eng="one hand" />
+			<ex	 word="手数" pron="てすう" pa="2" pos="N" cn="麻烦;费事" />
 			<ex	 word="手配" pron="てはい" pa="12" pos="N/ts" jlpt="1" cn="准备;安排;通缉" eng="arrangement;preparations; search(bt police)" />
 		</r>
 		<r kun="た" kk="手" pa="3" pos="adj" jlpt="5" >
@@ -733,6 +734,13 @@
 			<ex	 word="臭気" pron="しゅうき" pa="0" pos="N" />
 		</r>
 		<r kun="くさ`い" kk="臭い" pa="2" pos="adj" jlpt="3" eng="stinking" >
+			<ex	 word="~臭い" pron="～くさい" pa="0" pos="sf" jlpt="5"  cn="有讨厌的气味, ...的样子"/>
+			<ex	 word="酒臭い" pron="さかくさい" pa="0" jlpt="5" pos="adj"/>
+			<ex	 word="素人臭い" pron="しろうとくさい" pa="0" jlpt="5" pos="adj"/>
+			<ex	 word="面倒くさい" pron="めんどうくさい" pa="0" jlpt="5" pos="adj"/>
+			<ex	 word="生ぐさい" pron="なまぐさい" pa="0" jlpt="5" pos="adj"/>
+			<ex	 word="焦げ臭い" pron="こげくさい" pa="0" jlpt="5" pos="adj"/>
+			<ex	 word="乳臭い" pron="ちちくさい" pa="0" jlpt="5" pos="adj"/>
 		</r>
 		<r kun="にお`う" kk="臭う" pa="2" pos="j5" jlpt="5" >
 		</r>
@@ -1000,9 +1008,14 @@
 		</r>
 		<r kun="おも`い" kk="重い" pa="0" pos="adj" jlpt="5" >
 		</r>
-		<r kun="かさ`ねる" kk="重ねる" pa="0" pos="t1" jlpt="2">
+		<r kun="かさ`ねる" kk="重ねる" pa="0" pos="t1" jlpt="2" cn="再次,反复,重蹈;.摞，叠起来" eng="to pile up; to stack up">
+			<e ph="セーターsweaterを重ねて着る・本を重ねておく・間違いを重ねる" />
+			<ex	 word="重ねて" pron="かさねて" pa="0" pos="adv" eng="重复地,再三" >
+				<e ph="重ねてお願いします・重ねて言うまでもない" />
+			</ex>
 		</r>
-		<r kun="かさ`なる" kk="重なる" pa="0" pos="j5" jlpt="2" >
+		<r kun="かさ`なる" kk="重なる" pa="0" pos="j5" jlpt="2" cn="重叠;重合,(几件事情)撞到一起发生" >
+			<e ph="大晦日とバレンタインデーが重なる・不幸が重なった" />
 		</r>
 		<r kun="おもんじる" kk="重んじる" pa="4" pos="t1" jlpt="2" ph="を重んじる" ref="軽んじる">
 			<e ph="伝統／健康／礼儀を重んじる" />

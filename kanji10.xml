@@ -457,7 +457,8 @@
 			<ex	 word="救助" pron="きゅうじょ" pa="0" pos="NA" />
 			<ex	 word="助力" pron="じょりょく" pa="0" pos="NA" />
 		</r>
-		<r kun="たすける" kk="助ける" pa="3" pos="t1" jlpt="3" >
+		<r kun="たすける" kk="助ける" pa="3" pos="t1" jlpt="3" cn="帮助;助益">
+			<e ph="貧しいを助ける・病人の命を助ける" />
 		</r>
 		<r kun="たすかる" kk="助かる" pa="3" pos="j5" jlpt="2" >
 		</r>
@@ -812,13 +813,13 @@
 	
 	<kanji	id="勝" freq="421" jlpt="3" gr="6">
 		<r on="ショウ" >
-			<ex	 word="勝負" pron="しょうぶ" pa="0" pos="N" />
-			<ex	 word="勝利" pron="しょうり" pa="0" pos="N" />
+			<ex	 word="勝負" pron="しょうぶ" pa="0" pos="N/js" jlpt="2" ph="～を競う／争う" ref="勝ち負け" />
+			<ex	 word="勝利" pron="しょうり" pa="1" pos="N" jlpt="1" eng="victory" />
 			<ex	 word="名勝" pron="めいしょう" pa="0" pos="N" />
 			<ex	 word="優勝" pron="ゆうしょう" pa="0" pos="N" />
 		</r>
 		<r kun="かつ" kk="勝つ" pa="1" pos="j5" jlpt="4" ph="～に勝つ" ref="負ける" >
-			<e ph="戦争に勝つ・試合に勝つ" />
+			<e ph="戦争に勝つ・試合に勝つ・勝ち犬" />
 			<ex	 word="勝手" pron="かって" pa="0" pos="N" />
 		</r>
 		<r kun="まさ`る" kk="勝る" pa="2" pos="j5" jlpt="1" ph="～に勝る" cn="优;胜" ref="劣る">

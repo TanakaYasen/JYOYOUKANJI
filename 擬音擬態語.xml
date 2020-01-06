@@ -12,9 +12,10 @@
 		<ex	 word="ぴかぴか" pron="ピカピカ" pa="0" pos="adv" jlpt="2" cn="闪耀" eng="sparking" ph="夜空に星がきらきらとまたたいている"/>
 		<ex	 word="がやがや" pron="ガヤガヤ" pa="1" pos="adv" eng="noisy" />
 		<ex	 word="めっちゃめっちゃ" pron="メッチャメッチャ" pa="0" pos="j5" jlpt="2" cn="超，非常(关西年轻人)" eng="to collide" />
-		<ex	 word="なかなか" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
-		<ex	 word="がたがた" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="なかなか" pron="ナカナカ" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="がたがた" pron="がたがた" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="ぶるぶる" pron="ブルブル" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="ぎりぎり" pron="ブルブル" pa="0" pos="j5" jlpt="2" cn="勉强;最大限度" ph="ぎりぎりまで" />
 		
 		<ex	 word="めきめき" pron="めきめき" pa="1" pos="adv" jlpt="2" cn="迅速" />
 		<ex	 word="こそこそ" pron="コソコソ" pa="0" pos="j5" jlpt="2" cn="偷偷摸摸，鬼鬼祟祟" />

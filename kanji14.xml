@@ -20,7 +20,9 @@
 	
 	<kanji	id="燥" freq="2545" jlpt="2" gr="8">
 		<r on="ソウ" >
-			<ex	 word="乾燥" pron="かんそう" pa="1" jlpt="2" pos="N" eng="dryness" />
+			<ex	 word="乾燥" pron="かんそう" pa="0" jlpt="2" pos="N/jts" eng="dryness" >
+				<e ph="空気が乾燥している・無味乾燥" />
+			</ex>
 		</r>
 	</kanji>
 	
@@ -515,7 +517,8 @@
 		<r on="タイ" >
 			<ex	 word="賃貸" pron="ちんたい" pa="0" pos="N" eng="lease; rent" />
 		</r>
-		<r kun="か`す" kk="貸す" pa="0" pos="t5" jlpt="5" eng="to lend">
+		<r kun="か`す" kk="貸す" pa="0" pos="t5" jlpt="5" cn="借出给别人" eng="to lend">
+			<ex	 word="貸家" pron="かしや" pa="0" jlpt="2" pos="N" cn="出租屋" />
 			<ex	 word="貸し切り" pron="かしきり" pa="0" jlpt="2" pos="N" />
 			<ex	 word="貸し出し" pron="かしだし" pa="0" jlpt="2" pos="N" eng="lending"/>
 		</r>

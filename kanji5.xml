@@ -318,8 +318,11 @@
 			<ex	 word="傾向" pron="けいこう" pa="0" pos="N" jlpt="3" eng="tendency; trend" />
 			<ex	 word="傾斜" pron="けいしゃ" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="かたむ`く" kk="傾く" pa="3" pos="j5" jlpt="2" eng="to incline toward; to lurch" ></r>
-		<r kun="かたむ`ける" kk="傾ける" pa="4" pos="t1" jlpt="1" cn="使倾斜">
+		<r kun="かたむ`く" kk="傾く" pa="3" pos="j5" jlpt="2" cn="倾斜;倾向于..." eng="to incline toward; to lurch" >
+			<e ph="右に傾く・日が西に傾く・賛成に傾く・運が傾く（倒霉）・柱が傾く" />
+		</r>
+		<r kun="かたむ`ける" kk="傾ける" pa="4" pos="t1" jlpt="1" cn="使...倾斜; 倾注">
+			<e ph="首を傾ける・体を前に傾ける・熱情を／力を傾ける・注意を傾く・耳を傾ける・心を傾けて勉強すれば、..." />
 		</r>
 		<r nfu="傾げる(かたげる)・傾ぐ(かしぐ)・傾る(くつがえる)" />
 	</kanji>
@@ -627,7 +630,8 @@
 		<r on="ケン" >
 			<ex	 word="兼任" pron="けんにん" pa="0" pos="js" />
 		</r>
-		<r kun="かねる" kk="兼ねる" pa="2" pos="t1" jlpt="2">
+		<r kun="か`ねる" kk="兼ねる" pa="2" pos="t1" jlpt="2" cn="兼任,兼且; 难以" >
+			<e ph="大は小を兼ねる・墓参りを兼ねて、田舎へ帰った・キッチンはダイニングルームを兼ねている・ちょっと断りかねます" />
 			<ex	 word="兼ね合い" pron="かねあい" pa="0" pos="N" cn="保持均衡。兼顾"/>
 			<ex	 word="気兼ね" pron="きがね" pa="0" pos="N/js" jlpt="1" cn="多心，拘泥" />
 		</r>
@@ -1028,7 +1032,8 @@
 			<ex	 word="固有" pron="こゆう" pa="0" pos="N/js" jlpt="1" />
 			<ex	 word="固定" pron="こてい" pa="0" pos="N/js" jlpt="1" />
 		</r>
-		<r kun="かためる" kk="固める" pa="0" pos="t1" jlpt="1" ></r>
+		<r kun="かためる" kk="固める" pa="0" pos="t1" jlpt="1" cn="使凝固;使坚硬;加强巩固" >
+		</r>
 		<r kun="かたまる" kk="固まる" pa="0" pos="j5" ></r>
 		<r kun="かたい" kk="固い" pa="*0" pos="adj" jlpt="4"></r>
 	</kanji>

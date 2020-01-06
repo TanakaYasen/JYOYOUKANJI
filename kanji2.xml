@@ -46,7 +46,6 @@
 		<r on="エン" >
 			<ex	 word="煙霧" pron="えんむ" pa="0" pos="N" />
 			<ex	 word="煙突" pron="えんとつ" pa="0" pos="N" jlpt="2" cn="烟囱" eng="chimney" />
-			<ex	 word="喫煙" pron="きつえん" pa="0" pos="N/js" eng="smoking" />
 		</r>
 		<r kun="けむる" kk="煙る" pa="0" pos="j5" jlpt="1" cn="冒烟" />
 		<r kun="けむり" kk="煙" pa="0" pos="N" jlpt="3" eng="smoke" />
@@ -441,7 +440,11 @@
 	
 	<kanji	id="加" freq="350" jlpt="3" gr="4">
 		<r on="カ" >
-			<ex	 word="加減" pron="かげん" pa="0" pos="N" />
+			<ex	 word="加減" pron="かげん" pa="0" pos="N/ts" jlpt="3" cn="调整调节;...状况; 程度">
+				<e ph="室内温度を加減する・彼の言うことは加減して聞かないといけない" />
+				<e ph="お加減はいかがですか・ちょっと加減が悪い・お風呂の加減を見てください" />
+				<e ph="手加減" />
+			</ex>
 			<ex	 word="加入" pron="かにゅう" pa="0" pos="N" />
 		</r>
 		<r kun="くわ`える" kk="加える" pa="03" pos="t1" jlpt="3" >
@@ -519,7 +522,7 @@
 			<ex	 word="効果" pron="こうか" pa="1" pos="N" />
 			<ex	 word="結果" pron="けっか" pa="0" pos="N" />
 			<ex	 word="成果" pron="せいか" pa="1" pos="N" />
-			<ex	 word="果実" pron="かじつ" pa="1" pos="N" />
+			<ex	 word="果実" pron="かじつ" pa="0" pos="N" jlpt="2" cn="果实;收益" eng="fruit; nut" />
 		</r>
 		<r kun="は`たす" kk="果たす" pa="2" pos="t5" jlpt="5" />
 		<r kun="は`てる" kk="果てる" pa="2" pos="j1" jlpt="5" />
@@ -661,7 +664,7 @@
 	
 	<kanji	id="過" freq="241" jlpt="3" gr="5">
 		<r on="カ" >
-			<ex	 word="過去" pron="かこ" pa="0" pos="N" jlpt="3" />
+			<ex	 word="過去" pron="かこ" pa="1" pos="N" jlpt="3" />
 			<ex	 word="過失" pron="かしつ" pa="0" pos="N" jlpt="2" />
 			<ex	 word="過程" pron="かてい" pa="0" pos="N" jlpt="2" />
 		</r>
@@ -798,6 +801,8 @@
 			<ex	 word="我々" pron="われわれ" pa="0" pos="N" eng="we" />
 		</r>
 		<r kun="わ" kk="我" pa="1" pos="N" >
+			<ex	 word="我が儘" pron="わがまま" pa="0" pos="N/NA" >
+			</ex>
 		</r>
 	</kanji>
 	

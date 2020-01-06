@@ -137,6 +137,7 @@
 	
 	<kanji	id="燃" freq="1047" jlpt="2" gr="5">
 		<r on="ネン" >
+			<ex	 word="可燃物" pron="かねんぶつ" pa="2" pos="N" jlpt="1" />
 			<ex	 word="燃焼" pron="ねんしょう" pa="0" pos="N/js" jlpt="1" eng="burning" />
 			<ex	 word="燃料" pron="ねんりょう" pa="3" pos="N" jlpt="1" eng="fuel"/>
 		</r>
@@ -314,7 +315,7 @@
 			<ex	 word="精一杯" pron="せいいっぱい" pa="0" pos="N/adv" />
 			<ex	 word="祝杯" pron="はいえつ" pa="0" pos="N" />
 		</r>
-		<r kun="さかずき" kk="杯・盃" pa="0" pos="t5" jlpt="1" ></r>
+		<r kun="さかずき" kk="杯・盃" pa="0" pos="t5" jlpt="1" htm="酒＋好き" ></r>
 	</kanji>
 	
 	<kanji	id="背" freq="452" jlpt="3" gr="6">
@@ -771,7 +772,9 @@
 			<ex	 word="侵犯" pron="しんぱん" pa="0" pos="N" />
 			<ex	 word="犯行" pron="はんこう" pa="0" pos="N" />
 		</r>
-		<r kun="おかす" kk="犯す" pa="2" pos="t5" jlpt="1" ></r>
+		<r kun="おかす" kk="犯す" pa="2" pos="t5" jlpt="1" >
+			<e ph="罪を犯す（犯罪）・" />
+		</r>
 	</kanji>
 	
 	<kanji	id="帆" freq="1252" jlpt="1" gr="8">

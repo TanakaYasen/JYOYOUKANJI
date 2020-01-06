@@ -126,7 +126,7 @@ r				reading					読み方
 on				OnYomi				音読み方
 kun				KunYomi				訓読み方
 ex				example words			例字
-pos				part of speech			词性		N/NA/adj/adv/p/Num		t5/t1/j5/j1/jt1/jt5/jk/	
+pos				part of speech			词性		N/NA/adj/adv/p/Num/sf/pf		t5/t1/j5/j1/jt1/jt5/jk/	
 cn				simplified Chinese		简体中文义
 tcn				traditional Chinese		傳統中文義
 eng				English					英語の意味

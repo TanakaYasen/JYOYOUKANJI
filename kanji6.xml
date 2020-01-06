@@ -424,7 +424,8 @@
 			<ex	 word="拘泥" pron="こうでい" pa="0" pos="N" />
 			<ex	 word="拘留" pron="こうりゅう" pa="0" pos="N" />
 		</r>
-		<r nfu="拘える(とらえる)・拘わる(かかわる)・拘る(こだわる)・拘める(とどめる)">
+		<r kun="こだわる" kk="拘る" pa="3" pos="j5" jlpt="1" ></r>
+		<r nfu="拘える(とらえる)・拘わる(かかわる)・拘める(とどめる)">
 		</r>
 	</kanji>
 	
@@ -768,7 +769,8 @@
 		</r>
 		<r kun="かまえる" kk="構える" pa="3" pos="jt1" >
 		</r>
-		<r kun="かまう" kk="構う" pa="2" pos="jt5" >
+		<r kun="かま`う" kk="構う" pa="2" pos="jt5" jlpt="3" cn="干预,理会; 在意,照料">
+			<e ph="忙しすぎて構ってくれない・どうぞお構いなく・余計なことを構うな・なりふり構わず" />
 		</r>
 	</kanji>
 	
@@ -954,10 +956,10 @@
 			<ex	 word="時刻" pron="じこく" pa="*1" pos="N" jlpt="3" />
 			<ex	 word="遅刻" pron="ちこく" pa="0" pos="N" jlpt="3" eng="lateness" />
 		</r>
-		<r kun="きざむ" kk="刻む" pa="0" pos="t5" jlpt="2" eng="to mince" >
+		<r kun="きざむ" kk="刻む" pa="0" pos="t5" jlpt="2" cn="切碎;刻,雕刻;铭记" eng="to mince" >
+			<e ph="葱（ネギ）を／人参を刻む・仏像を刻む・心に刻む" />
 		</r>
-		<r nfu="とき">
-		</r>
+		<r nfu="とき" />
 	</kanji>
 	
 </Dict>

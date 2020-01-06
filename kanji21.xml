@@ -414,6 +414,9 @@
 			<ex	 word="意味" pron="いみ" pa="1" pos="N" jlpt="5" />
 			<ex	 word="味方" pron="みかた" pa="0" pos="N" jlpt="3" cn="我方;伙伴盟友" eng="friend;ally" />
 			<ex	 word="味覚" pron="みかく" pa="0" pos="N" jlpt="1" eng="taste"/>
+			<ex	 word="気味" pron="きみ" pa="0" pos="N/sf" jlpt="4" cn="感受,身心的感觉; (v stem+~)稍微...有点" >
+				<e ph="気味が悪い・風邪気味・太り気味・疲れ気味" />
+			</ex>
 			<ex	 word="興味" pron="きょうみ" pa="1" pos="N" jlpt="4" eng="interest"/>
 			<ex	 word="趣味" pron="しゅみ" pa="1" pos="N" jlpt="4" eng="hobby"/>
 		</r>

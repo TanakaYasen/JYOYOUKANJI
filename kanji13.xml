@@ -52,7 +52,7 @@
 	
 	<kanji	id="跡" freq="870" jlpt="2" gr="8">
 		<r on="セキ" >
-			<ex	 word="奇跡" pron="きせき" pa="0" pos="N" eng="miracle" />
+			<ex	 word="奇跡" pron="きせき" pa="02" pos="N" eng="miracle" />
 			<ex	 word="遺跡" pron="いせき" pa="0" pos="N" jlpt="1" eng="historic" />
 			<ex	 word="痕跡" pron="こんせき" pa="0" pos="N" />
 		</r>
@@ -501,7 +501,11 @@
 		</r>
 		<r kun="ひそ`む" kk="潜む" pa="2" pos="j5" eng="to lurk" ph="どこに潜む">
 		</r>
-		<r kun="もぐ`る" kk="潜る" pa="2" pos="j5" jlpt="2" eng="to dive" ph="海に潜る">
+		<r kun="くぐ`る" kk="潜る" pa="2" pos="j5" jlpt="1" cn="从物体下或间隙通过;钻空子;渡过难关" >
+			<e ph="暖簾を潜る・ライオンが輪を潜る・法の綱を潜る・難関を潜る" />
+		</r>
+		<r kun="もぐ`る" kk="潜る" pa="2" pos="j5" jlpt="2" cn="潜水" eng="to dive" ph="海に潜る">
+			<e ph="水に潜って魚を取る・押し入れに潜る・蛙は冬になると地下に潜って冬眠をする" />
 		</r>
 	</kanji>
 	

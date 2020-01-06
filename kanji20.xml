@@ -164,9 +164,13 @@
 			<ex	 word="聴聞会" pron="ちょうもんかい" pa="3" pos="N" />
 			<ex	 word="前代未聞" pron="ぜんだいみもん" pa="1" pos="N" />
 		</r>
-		<r kun="きく" kk="聞く" pa="0" pos="t5" jlpt="5" >
+		<r kun="き`く" kk="聞く" pa="0" pos="t5" jlpt="5" >
+			<ex	 word="聞き取る" pron="ききとる" pa="3" pos="t5" cn="听懂" >
+				<e ph="聞き取れましたか・君のいうことがよく聞き取れなかった・外国語を聞き取ることは難しい" />
+			</ex>
 		</r>
-		<r kun="きこえる" kk="聞こえる" pa="0" pos="j1" jlpt="4" cn="听得见">
+		<r kun="き`こえる" kk="聞こえる" pa="0" pos="j1" jlpt="4" cn="听得见;听起来">
+			<e ph="足音が聞こえなくなった・皮肉に聞こえる・彼の言葉は嘘っぽく聞こえる" />
 		</r>
 	</kanji>
 	
@@ -236,9 +240,12 @@
 		<r on="ヘイ" >
 			<ex	 word="横柄" pron="おうへい" pa="1" pos="NA" cn="傲慢无礼的" />
 		</r>
-		<r kun="がら" kk="柄" pa="0" pos="N" jlpt="3" >
+		<r kun="がら" kk="柄" pa="0" pos="N" jlpt="3" cn="身份,性质;状态">
 			<ex	 word="人柄" pron="ひとがら" pa="0" pos="N" jlpt="1" cn="人品"/>
-			<ex	 word="小柄" pron="こがら" pa="0" pos="NA" jlpt="1" cn="小个子的"/>
+			<ex	 word="家柄" pron="いえがら" pa="4" pos="N" cn="门第，家世"/>
+			<ex	 word="国柄" pron="くにがら" pa="0" pos="N" cn="国情"/>
+			<ex	 word="小柄" pron="こがら" pa="0" pos="N" jlpt="1" cn="小个子; 小花纹"/>
+			<ex	 word="大柄" pron="おおがら" pa="0" pos="N" jlpt="1" cn="大个子; 大花纹"/>
 			<ex	 word="日柄" pron="ひがら" pa="0" pos="N" cn="日子的吉凶"/>
 			<ex	 word="手柄" pron="てがら" pa="3" pos="N" cn="功劳;勋绩"/>
 			<ex	 word="身柄" pron="みがら" pa="0" pos="N" cn="身份"/>
@@ -379,8 +386,13 @@
 			<ex	 word="破片" pron="はへん" pa="0" pos="N" jlpt="2" cn="碎片" eng="fragment"/>
 			<ex	 word="断片" pron="だんぺん" pa="0" pos="N" />
 		</r>
-		<r kun="かた" kk="片" pa="3" pos="j1" >
-			<ex	 word="片親" pron="かたおや" pa="0" pos="N" />
+		<r kun="かた" kk="片" pa="3" pos="N" ref="両" >
+			<ex	 word="片手" pron="かたて" pa="0" pos="N" cn="单手" ref="両手"/>
+			<ex	 word="片方" pron="かたほう" pa="0" pos="N" cn="一对中的其中一个; 两方中的一方面" ref="両方" >
+				<e ph="靴が片方なくなる・片方だけの言い分を聞いてはいけない" />
+			</ex>
+			<ex	 word="片親" pron="かたおや" pa="0" pos="N" cn="单亲" ref="両親"/>
+			<ex	 word="片道" pron="かたほう" pa="0" pos="N" cn="单程" ref="往復" />
 			<ex	 word="片思い" pron="かたおもい" pa="0" pos="N" jlpt="1" cn="单相思"/>
 			<ex	 word="片付く" pron="かたづく" pa="0" pos="N" jlpt="2" />
 			<ex	 word="片付ける" pron="かたづける" pa="0" pos="N" jlpt="2" />
@@ -429,10 +441,13 @@
 	<kanji	id="偏" freq="2013" jlpt="1" gr="8">
 		<r on="ヘン" >
 			<ex	 word="偏見" pron="へんけん" pa="0" pos="N" jlpt="1" />
+			<ex	 word="偏差" pron="へんさ" pa="0" pos="N" jlpt="1" />
+			<ex	 word="偏向" pron="へんこう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="偏愛" pron="へんあい" pa="0" pos="N" />
 			<ex	 word="偏食" pron="へんしょく" pa="0" pos="N" />
 		</r>
-		<r kun="かたよる" kk="偏る" pa="3" pos="j5" jlpt="2" >
+		<r kun="かたよる" kk="偏る" pa="3" pos="j5" jlpt="2" cn="偏,不均衡;偏颇偏袒" htm="方＋依る" >
+			<e ph="栄養が偏る・考えが偏る・人口が都市に偏る・どちらにも偏らない" />
 		</r>
 	</kanji>
 	
