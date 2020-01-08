@@ -178,7 +178,7 @@
 		<r on="トウ" >
 			<ex	 word="出納" pron="すいとう" pa="0" pos="" />
 		</r>
-		<r kun="おさ`める" kk="納める" pa="3" pos="t1" jlpt="1" cn="缴纳" ref"収める">
+		<r kun="おさ`める" kk="納める" pa="3" pos="t1" jlpt="1" cn="缴纳" ref="収める">
 			<e ph="税金を納める・費用を納める・胸に納める・倉庫に納める" />
 			<e ph="この素晴らしい瞬間をどうぞカメラでお納めください" />
 		</r>
@@ -293,7 +293,7 @@
 		<r on="バ" >
 			<ex	 word="罵声" pron="ばせい" pa="0" pos="N" jlpt="4" />
 		</r>
-		<r kun="ののしる" kk="罵る" pa="3" pos="t5" jlpt="1" eng="to abuse"></r>
+		<r kun="ののし`る" kk="罵る" pa="3" pos="t5" jlpt="1" eng="to abuse" cn="辱骂" ></r>
 	</kanji>
 	
 	<kanji	id="拝" freq="1103" jlpt="2" gr="6">
@@ -689,7 +689,7 @@
 		<r on="ハツ" >
 			<ex	 word="毛髪" pron="もうはつ" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="かみ" kk="髪" pa="2" pos="N" jlpt="2" >
+		<r kun="かみ" kk="髪" pa="2" pos="N" jlpt="2" ref="髭">
 		</r>
 		<r kun="しらが" kk="白髪" pa="3" pos="N" jlpt="2" />
 	</kanji>

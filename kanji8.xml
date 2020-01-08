@@ -819,6 +819,7 @@
 			<ex	 word="持続" pron="じぞく" pa="1" jlpt="5" pos="N" />
 		</r>
 		<r kun="もつ" kk="持つ" pa="1" pos="jt5" jlpt="5" >
+			<ex	 word="持ち寄る" pron="もちよる" pa="1" pos="j5" cn="各自带来凑在一起" />
 		</r>
 		<r nfu="チ" >
 		</r>
@@ -957,7 +958,7 @@
 	<kanji	id="叱" freq="1319" gr="8">
 		<r on="シツ" >
 		</r>
-		<r kun="しかる" kk="叱る" pa="0" pos="t5" jlpt="3" >
+		<r kun="しかる" kk="叱る" pa="0" pos="t5" jlpt="3" cn="批评" >
 		</r>
 		<r nfu="叱う(いさかう)・叱り(しかり)・叱する(しっする)" >
 		</r>
@@ -968,8 +969,10 @@
 			<ex	 word="失敗" pron="しっぱい" pa="0" jlpt="4" pos="N" eng="failure" />
 			<ex	 word="失望" pron="しつぼう" pa="0" jlpt="3" pos="js" eng="disappointment" />
 			<ex	 word="消失" pron="しょうしつ" pa="0" pos="N/js" eng="disappearance" />
-			<ex	 word="損失" pron="そんしつ" pa="0" jlpt="1" pos="N/jts" eng="loss" />
-			<ex	 word="失礼" pron="しつれい" pa="*2" jlpt="5" pos="N" eng="漢字" />
+			<ex	 word="損失" pron="そんしつ" pa="0" jlpt="1" pos="N/jts" eng="loss" >
+				<e ph="損失を補償する・損失を招く" />
+			</ex>
+			<ex	 word="失礼" pron="しつれい" pa="*2" jlpt="5" pos="N" />
 			<ex	 word="失業" pron="しつぎょう" pa="0" jlpt="3" pos="N/js" eng="unemployment" />
 		</r>
 		<r kun="うしなう" kk="失う" pa="0" pos="t5" jlpt="3" >

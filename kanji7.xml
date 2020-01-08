@@ -577,7 +577,7 @@
 	
 	<kanji	id="載" freq="1090" jlpt="1" gr="8">
 		<r on="サイ" >
-			<ex	 word="掲載" pron="けいさい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="掲載" pron="けいさい" pa="0" pos="N/ts" jlpt="1" cn="刊登" />
 			<ex	 word="記載" pron="きさい" pa="0" pos="N" jlpt="1" />
 			<ex	 word="積載" pron="せきさい" pa="0" pos="N" />
 			<ex	 word="連載" pron="れんさい" pa="0" pos="N" />

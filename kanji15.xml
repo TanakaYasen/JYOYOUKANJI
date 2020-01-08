@@ -213,6 +213,9 @@
 			<ex	 word="断言" pron="だんげん" pa="3" jlpt="1" pos="N/ts" eng="assertion"/>
 			<ex	 word="決断" pron="けつだん" pa="0" jlpt="1" pos="N/jts" />
 			<ex	 word="診断" pron="しんだん" pa="0" jlpt="2" pos="N/ts" />
+			<ex	 word="油断" pron="ゆだん" pa="0" pos="N/js" jlpt="2" cn="漫不经心,粗心大意,缺乏警惕" >
+				<e ph="あの人には油断をするな" />
+			</ex>
 		</r>
 		<r kun="たつ" kk="断つ" pa="1" pos="t5" jlpt="1" ph="交流を断つ" ref="絶つ"></r>
 		<r kun="ことわる" kk="断る" pa="3" jlpt="3" ph="に断る・を断る"></r>
@@ -586,6 +589,8 @@
 			<ex	 word="貯蔵" pron="ちょぞう" pa="0" pos="N/ts" jlpt="2"/>
 			<ex	 word="貯水池" pron="ちょすいち" pa="3" pos="N" />
 		</r>
+		<r kun="た`める" kk="貯める" pa="0" pos="t1" cn="积累,储蓄" />
+		<r kun="た`まる" kk="貯まる" pa="0" pos="j5" cn="积存,积攒" />
 	</kanji>
 	
 	<kanji	id="丁" freq="631" jlpt="1" gr="3">

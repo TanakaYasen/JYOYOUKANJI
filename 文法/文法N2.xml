@@ -104,4 +104,11 @@
 		
 	</ grammar>
 	
+	<grammar id="~にかけて" >
+		<point jp="" />
+		<point cn="在...方面" />
+		<point htu="ｖます形＋がたい" />
+		<point ps="" />
+	
+	</ grammar>
 </Dict>

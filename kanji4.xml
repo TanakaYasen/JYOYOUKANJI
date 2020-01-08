@@ -158,7 +158,7 @@
 		<r kun="あぶない" kk="危ない" pa="30" pos="adj" jlpt="5" eng="dangerous;risky" >
 		</r>
 		<r kun="あや`うい" kk="危うい" pa="3" pos="adj" jlpt="2" cn="危险的，危急的" >
-			<e ph="危ういところを助けられた。成功は危うい。" /＞
+			<e ph="危ういところを助けられた。成功は危うい。" />
 			<e ph="危うく大事な資料を忘れるところだった・去年の夏休み、危うくこの川で溺れるところだった" />
 		</r>
 		<r kun="あや`ぶむ" kk="危ぶむ" pa="3" pos="t5" cn="担心 怀疑" >
@@ -815,6 +815,7 @@
 	<kanji	id="急" freq="297" jlpt="4" gr="3">
 		<r on="キュウ" >
 			<ex	 word="宅急便" pron="たくきゅうびん" pa="0" pos="N" />
+			<ex	 word="急激" pron="きゅうげき" pa="0" pos="NA" jlpt="3" eng="sudden; rapid; sharp" cn="激烈的" />
 		</r>
 		<r kun="いそ`ぐ" kk="急ぐ" pa="2" pos="j5" jlpt="4" ></r>
 		<r kun="いそが`しい" kk="忙しい" pa="4" pos="adj" jlpt="5" ></r>
@@ -1013,7 +1014,9 @@
 		<r on="キョウ" >
 			<ex	 word="熱狂" pron="ねっきょう" pa="0" pos="N" />
 		</r>
-		<r kun="くる`う" kk="狂う" pa="2" pos="N" jlpt="1" ></r>
+		<r kun="くる`う" kk="狂う" pa="2" pos="j5" jlpt="1" cn="精神失常;弄乱,打乱(计划);出故障; 痴迷于" >
+			<e ph="気が狂う・暴雨でスケジュールが狂った・時計が狂っている・テレビゲームに狂う" />
+		</r>
 		<r kun="くる`おしい" kk="狂おしい" pa="4" pos="N" jlpt="1" ></r>
 		<r kun="くる`い" kk="狂い" pa="2" pos="N" jlpt="1" ></r>
 	</kanji>
@@ -1042,7 +1045,7 @@
 			<ex	 word="供物" pron="くもつ" pa="0" pos="N" />
 			<ex	 word="供養" pron="くよう" pa="0" pos="N" />
 		</r>
-		<r kun="そなえる" kk="備える" pa="2" pos="N" jlpt="1" ref="備える"></r>
+		<r kun="そなえる" kk="供える" pa="2" pos="N" jlpt="1" ref="備える"></r>
 		<r kun="とも" kk="供" pa="2" pos="N" jlpt="1" >
 			<ex	 word="子供" pron="こども" pa="0" pos="N" />
 		</r>
@@ -1162,7 +1165,7 @@
 		</r>
 		<r kun="おし`える" kk="教える" pa="0" pos="t1" jlpt="5" cn="教授; 告诉" ></r>
 		<r kun="おそ`わる" kk="教わる" pa="0" pos="j5" jlpt="2" ph="~をxに教わる" cn="受教;向..学习" eng="to be taught" >
-			<e ph="先輩に教わる・やり方を教わる・ピアノを音楽教師に教わっている。若者は経験や知識が足りないから年寄りに教わる" >
+			<e ph="先輩に教わる・やり方を教わる・ピアノを音楽教師に教わっている。若者は経験や知識が足りないから年寄りに教わる" />
 		</r>
 	</kanji>
 	
@@ -1208,6 +1211,11 @@
 	<kanji	id="競" freq="1471" jlpt="2" gr="4">
 		<r on="キョウ" >
 			<ex	 word="競争" pron="きょうそう" pa="0" pos="N" />
+			<ex	 word="競走" pron="きょうそう" pa="0" pos="N" />
+		</r>
+		<r on="ケイ" >
+			<ex	 word="競馬" pron="けいば" pa="0" pos="N" jlpt="2" cn="赛马" />
+			<ex	 word="競輪" pron="けいりん" pa="0" pos="N" cn="自行车竞赛" />
 		</r>
 		<r kun="きそ`う" kk="競う" pa="2" pos="N" jlpt="1" ></r>
 	</kanji>
@@ -1485,8 +1493,12 @@
 			<ex	 word="苦情" pron="くじょう" pa="0" pos="N" jlpt="2" cn="请求;抱怨"/>
 		</r>
 		<r kun="くる`しい" kk="苦しい" pa="3" pos="adj" jlpt="3" cn="痛苦;艰苦;困难"> </r>
-		<r kun="くる`しむ" kk="苦しむ" pa="3" pos="j5" jlpt="3" cn="受苦"> </r>
-		<r kun="くる`しめる" kk="苦しめる" pa="4" pos="t1" jlpt="1" cn="使痛苦"> </r>
+		<r kun="くる`しむ" kk="苦しむ" pa="3" pos="j5" jlpt="3" cn="受苦">
+			<e ph="恋に苦しむ・頭痛に苦しむ" />
+		</r>
+		<r kun="くる`しめる" kk="苦しめる" pa="4" pos="t1" jlpt="1" cn="使痛苦,为难; 欺负">
+			<e ph="人を苦しめる・住宅ローンに苦しめられる" />
+		</r>
 		<r kun="にが`い" kk="苦い" pa="2" pos="adj" jlpt="4">
 			<ex	 word="苦手" pron="にがて" pa="03" pos="N" jlpt="3" />
 		</r>

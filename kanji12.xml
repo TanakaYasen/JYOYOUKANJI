@@ -250,10 +250,14 @@
 	<kanji	id="数" freq="225" jlpt="3" gr="2">
 		<r on="スウ" >
 			<ex	 word="数学" pron="すうがく" pa="0" pos="N" />
+			<ex	 word="人数" pron="*にんずう" pa="0" pos="N" />
 		</r>
 		<r on="ス" >
 		</r>
 		<r kun="かず" kk="数" pa="2" pos="N" jlpt="3" >
+			<ex	 word="口数" pron="くちかず" pa="0" pos="N" cn="话语数数;人口,吃饭人数" >
+				<e ph="口数が少ない／多い・家族の口数が多いので家計が苦しい・" />
+			</ex>
 		</r>
 		<r kun="かぞえる" kk="数える" pa="2" pos="t1" jlpt="3" eng="to count" >
 		</r>
@@ -329,6 +333,8 @@
 		<r on="セイ" >
 			<ex	 word="世紀" pron="せいき" pa="0" pos="N" jlpt="3" />
 			<ex	 word="時世" pron="じせい" pa="0" pos="N" />
+			<ex	 word="世代" pron="せだい" pa="0" pos="N" cn="一代人" />
+			<ex	 word="世帯" pron="せたい" pa="1" pos="N" jlpt="1" cn="一户 家庭" />
 		</r>
 		<r on="セ" >
 			<ex	 word="世話" pron="せわ" pa="0" pos="N" jlpt="3" eng="looking after" />
@@ -372,7 +378,7 @@
 			<ex	 word="殺生" pron="せっしょう" pa="0" pos="NA" />
 		</r>
 		<r kun="いきる" kk="生きる" pa="2" pos="j1" jlpt="4" >
-			<ex	 word="生きがい" pron="いきがい" pa="30" pos="N" cn="人生意义/价值" ref="甲斐（かい）"　>
+			<ex	 word="生きがい" pron="いきがい" pa="30" pos="N" cn="人生意义/价值" ref="甲斐（かい）" >
 				<e ph="生きがいのある人生。	仕事を通じて生きがいを見つけた。" />
 			</ex>
 		</r>
@@ -383,7 +389,7 @@
 		<r kun="うまれる" kk="生まれる" pa="0" pos="j1" jlpt="5" >
 		</r>
 		<r kun="うむ" kk="生む" pa="0" pos="t5" jlpt="1" >
-			<ex	 word="生み出す" pron="うみだす" pa="3" pos="t5" cn="生出;生产出创造出"　>
+			<ex	 word="生み出す" pron="うみだす" pa="3" pos="t5" cn="生出;生产出创造出" >
 				<e ph="胎児を生み出す。利益を生み出す。名作を生み出す。優れた作品を生み出す。" />
 			</ex>
 		</r>

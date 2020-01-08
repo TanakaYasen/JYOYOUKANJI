@@ -18,10 +18,10 @@
 			<ex	 word="張力" pron="ちょうりょく" pa="1" pos="N" jlpt="0"/>
 		</r>
 		<r kun="はる" kk="張る・貼る" pa="0" pos="jt5" jlpt="5" ph="池に氷が張る">
-			<ex	 word="威張る" pron="いばる" pa="2" pos="j5" jlpt="2" cn="嚣张;摆架子" ＞
-			＜/ex>
-			<ex	 word="頑張る" pron="がんばる" pa="3" pos="j5" jlpt="2" cn="勉励;加油" ＞
-			＜/ex>
+			<ex	 word="威張る" pron="いばる" pa="2" pos="j5" jlpt="2" cn="嚣张;摆架子" >
+			</ex>
+			<ex	 word="頑張る" pron="がんばる" pa="3" pos="j5" jlpt="2" cn="勉励;加油" >
+			</ex>
 		</r>
 	</kanji>
 	
@@ -182,6 +182,7 @@
 		<r kun="ただちに" kk="直ちに" pa="1" pos="adv" jlpt="3" cn="立刻" eng="at once; immediately" ></r>
 		<r kun="なおす" kk="直す" pa="2" pos="t5" jlpt="4"></r>
 		<r kun="なおる" kk="直る" pa="2" pos="j5" jlpt="4"></r>
+		<r kun="じき" kk="直" pa="1" pos="N/NA" cn="直接 # 就在眼前; 立刻马上; 很容易" eng="soon; in a moment" ></r>
 	</kanji>
 	
 	<kanji	id="勅" freq="2459" jlpt="1" gr="8">
@@ -228,6 +229,7 @@
 	<kanji	id="賃" freq="1647" jlpt="1" gr="6">
 		<r on="チン" >
 			<ex	 word="賃貸" pron="ちんたい" pa="1" pos="N" />
+			<ex	 word="運賃" pron="うんちん" pa="1" pos="N" jlpt="1" cn="运费" />
 		</r>
 	</kanji>
 	
@@ -299,10 +301,10 @@
 		</r>
 		<r kun="いたい" kk="痛い" pa="2" pos="adj" jlpt="5" ></r>
 		<r kun="いたむ" kk="痛む" pa="2" pos="j5" jlpt="1" cn="痛苦;苦恼" ref="傷む">
-			<e ph="虫歯が痛む。傷が痛むので眠れなかった。" >
+			<e ph="虫歯が痛む。傷が痛むので眠れなかった。" />
 		</r>
 		<r kun="いためる" kk="痛める" pa="3" pos="t1" jlpt="1" cn="弄痛" ref="炒める">
-			<e ph="腰を痛めてよく歩けない。借金で頭を痛める。懐を痛める(破费)。" >
+			<e ph="腰を痛めてよく歩けない。借金で頭を痛める。懐を痛める(破费)。" />
 		</r>
 	</kanji>
 	

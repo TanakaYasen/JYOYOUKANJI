@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
-	熟字訓	と	当て字
+	形容詞
 -->
 <Dict>
 	
 	<table tag="frequence">
-		<ex	 word="狡い" pron="ずるい" pa="0" pos="adj" jlpt="2" eng="sly" />
+		<ex	 word="狡い" pron="ずるい" pa="0" pos="adj" jlpt="2" cn="狡滑 奸诈的; 不讲理, 不要脸 " jp="横着" eng="sly" />
 		<ex	 word="ヤバい" pron="やばい" pa="0" pos="adj" jlpt="3" eng="terrific" />
 		<ex	 word="ダサい" pron="ださい" pa="0" pos="adj" jlpt="3" eng="uncool; unsophisticated; out of fashion" />
 		<ex	 word="ケチな" pron="けちな" pa="0" pos="NA" jlpt="3" eng="stingy" />
+		<ex	 word="くたくた" pron="くたくた" pa="0" pos="NA" cn="疲惫不堪,筋疲力尽" eng="exhausted; tired" >
+			<e ph="くたくたに疲れる・一日歩き続けてもうくたくただ・足がくたくただ・くたくたになるまで働く" />
+		</ex>
 		<ex	 word="大雑把" pron="おおざっぱ" pa="0" pos="NA" jlpt="3" cn="粗糙的; 粗略的, 大概的" eng="rough" >
 			<e ph="おおざっぱな計画・おおざっぱな書き方・仕事が大雑把だ・おおざっぱに読み終わる" />
 		</ex>
 		
+		<ex	 word="執拗い" pron="*しつこい" pa="3" pos="adj" jlpt="2" cn="纠缠的;执拗的" />
 		<ex	 word="ややこしい" pron="ややこしい" pa="4" pos="adj" jlpt="1" eng="puzzling; complex" />
+		<ex	 word="そそっかしい" pron="そそっかしい" pa="5" pos="adj" jlpt="2" htm="草々＋かしい" cn="举止慌张,粗心大意,冒失,轻率,马虎,马大哈" eng="careless; thoughtless; hasty; rash" />
 		<ex	 word="喧しい" pron="やかましい" pa="4" pos="adj" jlpt="2" eng="noisy" />
 		<ex	 word="カッコいい" pron="かっこいい" pa="4" pos="adj" jlpt="1" eng="puzzling; complex" ref="格好いい" />
 	</table>

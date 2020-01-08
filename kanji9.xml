@@ -40,7 +40,9 @@
 		<r on="シツ" >
 			<ex	 word="質問" pron="しつもん" pa="0" pos="N/js" jlpt="5" eng="question;inquiry" />
 			<ex	 word="物質" pron="ぶっしつ" pa="0" pos="N" jlpt="3" eng="mass" />
+			<ex	 word="質量" pron="しつりょう" pa="2" pos="N" eng="mass" />
 			<ex	 word="本質" pron="ほんしつ" pa="0" pos="N" jlpt="1" eng="essence" />
+			<ex	 word="質素" pron="しっそ" pa="0" pos="N/NA" jlpt="1" cn="简单,简朴,朴素" eng="simple,plain; modest" />
 		</r>
 		<r on="シチ" >
 			<ex	 word="質屋" pron="しちや" pa="2" pos="N" cn="当铺" eng="pawnshop" />
@@ -356,7 +358,7 @@
 			<ex	 word="手紙" pron="てがみ" pa="0" pos="N" jlpt="5" cn="信函" eng="letter" />
 			<ex	 word="手伝う" pron="てつだう" pa="3" pos="t5/j5" jlpt="4" eng="to help; to assist" />
 			<ex	 word="手品" pron="てじな" pa="1" pos="N" jlpt="3" cn="魔术;戏法" eng="magic" />
-			<ex	 word="小切手" pron="こぎって" pa="0" pos="N" />
+			<ex	 word="小切手" pron="こぎって" pa="0" pos="N" jlpt="1" cn="支票" eng="cheque" />
 			<ex	 word="相手" pron="あいて" pa="3" pos="N" jlpt="3" />
 			<ex	 word="片手" pron="かたて" pa="03" pos="N" eng="one hand" />
 			<ex	 word="手数" pron="てすう" pa="2" pos="N" cn="麻烦;费事" />
@@ -432,6 +434,7 @@
 		</r>
 		<r kun="とる" kk="取る" pa="1" pos="N" jlpt="5" >
 			<ex	 word="取引" pron="とりひき" pa="0" pos="N" />
+			<ex	 word="取り付ける" pron="とりつける" pa="0" pos="N" cn="安装(空调); 取得(抽象)" ph="了解・注文・合意" />
 		</r>
 	</kanji>
 	

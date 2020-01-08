@@ -114,6 +114,9 @@
 			</ex>
 		</r>
 		<r kun="きる" kk="切る" pa="1" pos="*jt5" jlpt="5" ref="斬る" >
+			<ex	 word="~切り" pron="~きり" pa="0" pos="sf" cn="尽,完,光; 到此为止"  >
+				<e ph="寝たきり高齢者・出た切り、帰って来ない" />
+			</ex>
 		</r>
 		<r kun="きれる" kk="切れる" pa="2" pos="j1" jlpt="3" >
 		</r>
@@ -307,10 +310,10 @@
 			<ex	 word="占領" pron="せんりょう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="独占" pron="どくせん" pa="0" pos="N" />
 		</r>
-		<r kun="しめる" kk="占める" pa="2" pos="t1" jlpt="3" cn="占领" eng="to occupy; to hold" >
+		<r kun="し`める" kk="占める" pa="2" pos="t1" jlpt="3" cn="占领" eng="to occupy; to hold" >
 		</r>
-		<r kun="うらなう" kk="占う" pa="3" pos="t5" jlpt="2" cn="占卜" >
-			<e ph="トランプで占う・運勢を占う・吉凶を占う・身の上を占う" >
+		<r kun="うらな`う" kk="占う" pa="3" pos="t5" jlpt="2" cn="占卜" >
+			<e ph="トランプで占う・運勢を占う・吉凶を占う・身の上を占う" />
 		</r>
 	</kanji>
 	
@@ -340,7 +343,9 @@
 			</ex>
 			<ex	 word="専門家" pron="せんもんか"	pa="0" pos="N"	eng="expert" />
 			<ex	 word="専攻" pron="せんこう"	pa="0" pos="N"	jlpt="3" eng="major subject" />
-			<ex	 word="専用" pron="せんよう"	pa="0" pos="N"	jlpt="1" eng="exclusive use" />
+			<ex	 word="専用" pron="せんよう"	pa="0" pos="N"	jlpt="1" cn="~专用;仅供使用" eng="exclusive use" >
+				<e ph="バス専用道路・会員専用のプール・女性専用車両" />
+			</ex>
 		</r>
 		<r kun="もっぱ`ら"	kk="専ら" pa="01" pos="adv" jlpt="1" cn="专门/主要/净" >
 			<ex word="もっぱ`ら" pron ="もっぱ`ら">
@@ -370,6 +375,7 @@
 	
 	<kanji	id="洗" freq="944" jlpt="3" gr="6">
 		<r on="セン" >
+			<ex	 word="洗面" pron="せんめん" pa="0" pos="N" />
 			<ex	 word="洗濯" pron="せんたく" pa="0" pos="N/ts" jlpt="5" />
 			<ex	 word="洗剤" pron="せんざい" pa="0" pos="N/ts" jlpt="2" cn="洗涤剂，洗衣粉" />
 		</r>
@@ -384,8 +390,10 @@
 			<ex	 word="伝染" pron="でんせん" pa="0" pos="js" jlpt="2" eng="contagion" />
 		</r>
 		<r kun="そ`める" kk="染める" pa="0" pos="t1" jlpt="1" ph="おしゃれ染め・白髪染め" >
+			<e ph="髪を／頬を染める・手を染める" />
 		</r>
-		<r kun="そ`まる" kk="染まる" pa="0" pos="j5" jlpt="1" eng="to be dyed" ph="悪に染まる">
+		<r kun="そ`まる" kk="染まる" pa="0" pos="j5" jlpt="1" eng="to be dyed" cn="染上...; 沾染..." >
+			<e ph="髪の毛が綺麗な栗色に染まる・悪に染まる" />
 		</r>
 		<r kun="し`みる" kk="染みる" pa="0" jlpt="1" cn="渗入,沾染/痛感铭刻在心" ref="浸みる・沁みる・滲みる" >
 		</r>
@@ -668,7 +676,10 @@
 	
 	<kanji	id="素" freq="429" jlpt="1" gr="5">
 		<r on="ソ" >
-			<ex	 word="素質" pron="すしつ" pa="0" pos="N" jlpt="2"/>
+			<ex	 word="素質" pron="すしつ" pa="0" pos="N" jlpt="2" cn="素质;资质,天分" >
+				<e ph="作家としての素質" />
+			</ex>
+			<ex	 word="素朴" pron="そぼく" pa="0" pos="N/NA" jlpt="1" />
 			<ex	 word="素材" pron="そざい" pa="0" pos="N" jlpt="1" eng="ingredient" />
 		</r>
 		<r on="ス" >
@@ -694,8 +705,8 @@
 	
 	<kanji	id="粗" freq="1556" jlpt="1" gr="8">
 		<r on="ソ" >
-			<ex	 word="粗末" pron="そまつ" pa="1" pos="N/NA" jlpt="3">
-				<sentence> お粗末様でした</sentence>
+			<ex	 word="粗末" pron="そまつ" pa="1" pos="N/NA" jlpt="3" ph="～に粗末にする（糟蹋）">
+				<e ph="粗末な服・食べ物を粗末にする・お粗末様でした" />
 			</ex>
 		</r>
 		<r kun="あら`い" kk="粗い・荒い" pa="0" pos="adj" jlpt="3" eng="rough" >
@@ -840,8 +851,11 @@
 	<kanji	id="送" freq="487" jlpt="4" gr="3">
 		<r on="ソウ" >
 			<ex	 word="送別" pron="そうべつ" pa="0" pos="N/ts" jlpt="2" eng="farewell"/>
-			<ex	 word="送料" pron="そうりょう" pa="31" pos="N" jlpt="2" cn="配送费"/>
+			<ex	 word="送料" pron="そうりょう" pa="31" pos="N" jlpt="2" cn="配送费" ph="送料別" />
 			<ex	 word="送信" pron="そうしん" pa="0" pos="N" />
+			<ex	 word="送金" pron="そうきん" pa="0" pos="N/js" jlpt="1" cn="汇款,寄钱" >
+				<e ph="両親に送金する・送金小切手" />
+			</ex>
 		</r>
 		<r kun="おく`る" kk="送る" pa="0" jlpt="4" pos="t5" cn="注音/传送/汇寄/贈る"/>
 	</kanji>
@@ -968,7 +982,9 @@
 	
 	<kanji	id="想" freq="210" jlpt="3" gr="3">
 		<r on="ソウ" >
-			<ex	 word="想像" pron="そうぞう" pa="0" pos="N" jlpt="2" />
+			<ex	 word="想像" pron="そうぞう" pa="0" jlpt="3" pos="N/ts" eng="imagination" >
+				<e ph="想像力を伸ばす" />
+			</ex>
 		</r>
 		<r on="ソ" >
 			<ex	 word="愛想" pron="あいそう" pa="1" pos="N" jlpt="2" />

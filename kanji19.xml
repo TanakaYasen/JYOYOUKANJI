@@ -216,10 +216,13 @@
 			<ex	 word="予備" pron="よび" pa="1" pos="N" jlpt="2" />
 			<ex	 word="整備" pron="せいび" pa="1" pos="N/ts" jlpt="2" />
 			<ex	 word="守備" pron="しゅび" pa="1" pos="N/ts" jlpt="1" />
+			<ex	 word="備考" pron="びこう" pa="0" pos="N/ts" cn="备注" />
 		</r>
-		<r kun="そなえる" kk="備える" pa="3" pos="t1" jlpt="3">
+		<r kun="そな`える" kk="備える" pa="3" pos="t1" jlpt="3" cn="准备;设置,备齐;天生具备,与生俱来" ga="に備えて">
+			<e ph="万が一の時に備える・条件を備える・資質を備える・教室にエアコンを備える" />
 		</r>
-		<r kun="そなわる" kk="備わる" pa="3" pos="j5" jlpt="1" cn="具备">
+		<r kun="そな`わる" kk="備わる" pa="3" pos="j5" jlpt="1" cn="具备">
+			<e ph="必要な資料が全部備わっている" />
 		</r>
 	</kanji>
 	

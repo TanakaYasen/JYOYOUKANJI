@@ -36,7 +36,7 @@
 			</ex>
 		</r>
 		<r kun="いたむ" kk="傷む" pa="2" pos="j5" jlpt="1" cn="腐烂; 损伤,破败" ref="痛む">
-			<e ph="林檎が傷む。この生地は洗濯機で洗うと傷む。屋根が傷む。">
+			<e ph="林檎が傷む。この生地は洗濯機で洗うと傷む。屋根が傷む。" />
 		</r>
 		<r kun="いためる" kk="傷める" pa="3" pos="t1" jlpt="1" >
 			<e ph="乱暴をして皿を傷めた" />
@@ -191,7 +191,7 @@
 		<r kun="あげる" kk="上げる" pa="0" pos="t1" jlpt="5" >
 		</r>
 		<r kun="あがる" kk="上がる" pa="2" pos="j5/t5" jlpt="4" cn="登;提升;怯场" >
-			<e ph="階段を上がる・能率が上がる・雨が上がる・面接では上がってしまい(怯场)・召し上がる" >
+			<e ph="階段を上がる・能率が上がる・雨が上がる・面接では上がってしまい(怯场)・召し上がる" />
 		</r>
 		<r kun="のぼる" kk="上る" pa="0" pos="j5" jlpt="5" >
 		</r>
@@ -207,7 +207,7 @@
 		<r on="ショウ" >
 			<ex	 word="丈夫" pron="じょうぶ" pa="0" pos="NA" />
 			<ex	 word="大丈夫" pron="だいじょうぶ" pa="0" pos="NA" />
-			<ex	 word="頑丈" pron="がんじょう" pa="0" pos="NA" />
+			<ex	 word="頑丈" pron="がんじょう" pa="0" pos="NA" cn="坚固" />
 		</r>
 		<r kun="たけ" kk="丈" pa="2" pos="N" jlpt="5" >
 		</r>
@@ -494,11 +494,14 @@
 	<kanji	id="飾" freq="1085" jlpt="1" gr="8">
 		<r on="ショク" >
 			<ex	 word="修飾" pron="しゅうしょく" pa="0" pos="N" jlpt="1" eng="decoration" />
-			<ex	 word="装飾" pron="そうしょく" pa="0" pos="N/ts" />
+			<ex	 word="装飾" pron="そうしょく" pa="0" pos="N/ts" jlpt="1" >
+				<e ph="室内装飾・" />
+			</ex>
 			<ex	 word="服飾" pron="ふくしょく" pa="0" pos="N" />
 			<ex	 word="粉飾" pron="ふんしょく" pa="0" pos="N" />
 		</r>
-		<r kun="かざる" kk="飾る" pa="0" pos="t5" jlpt="4" >
+		<r kun="かざる" kk="飾る" pa="0" pos="t5" jlpt="4" cn="装饰, 打扮, 粉饰, 润色">
+			<e ph="部屋を飾る・飾り物" />
 		</r>
 		<r nfu="飾り(かざり)">
 		</r>
@@ -513,9 +516,9 @@
 			<ex	 word="触覚" pron="しょっかく" pa="0" pos="N" />
 			<ex	 word="触手" pron="しょくしゅ" pa="0" pos="N" />
 		</r>
-		<r kun="ふれる" kk="触れる" pa="0" pos="j1" jlpt="3" eng="to touch" >
+		<r kun="ふれる" kk="触れる" pa="0" pos="j1" jlpt="3" eng="to touch" cn="无意识的轻触" >
 		</r>
-		<r kun="さわる" kk="触る" pa="0" pos="j1" jlpt="4" eng="to touch" >
+		<r kun="さわる" kk="触る" pa="0" pos="j5" jlpt="4" eng="to touch" cn="有意识的碰触" >
 		</r>
 		<r nfu="ソク">
 		</r>
@@ -613,8 +616,10 @@
 			<ex	 word="伸縮" pron="しんしゅく" pa="0" pos="N" />
 		</r>
 		<r kun="のびる" kk="伸びる" pa="2" pos="j1" jlpt="3" ref="延びる">
+			<e ph="背が伸びました" />
 		</r>
 		<r kun="のばす" kk="伸ばす" pa="2" pos="t5" jlpt="3" ref="延ばす">
+			<e ph="腰を伸ばす" />
 		</r>
 		<r kun="のべる" kk="伸べる" pa="2" pos="t1" ref="延べる">
 		</r>

@@ -37,9 +37,13 @@
 	
 	<kanji	id="騒" freq="821" jlpt="1" gr="8">
 		<r on="ソウ" >
+			<r kun="そうぞうしい" kk="騒々しい" pa="2" pos="adj" jlpt="2" cn="吵闹的,喧嚣的;国家不安定" />
 			<ex	 word="騒動" pron="そうどう" pa="1" pos="N" jlpt="1" eng="strife" />
 		</r>
-		<r kun="さわぐ" kk="騒ぐ" pa="2" pos="j5" jlpt="4" cn="吵闹" />
+		<r kun="さわぐ" kk="騒ぐ" pa="2" pos="j5" jlpt="4" cn="吵闹" >
+			<e ph="図書館で騒ぐな" />
+		</r>
+		<r kun="さわがしい" kk="騒がしい" pa="4" pos="adj" jlpt="2" cn="吵闹" eng="noisy" />
 	</kanji>
 	
 	<kanji	id="藻" freq="1962" jlpt="1" gr="8">
@@ -60,7 +64,6 @@
 	
 	<kanji	id="像" freq="479" jlpt="2" gr="5">
 		<r on="ゾウ" >
-			<ex	 word="想像" pron="そうぞう" pa="0" jlpt="3" pos="N" eng="imagination" />
 			<ex	 word="肖像" pron="しょうぞう" pa="0" pos="N" eng="portrait" />
 		</r>
 	</kanji>
@@ -69,7 +72,7 @@
 		<r on="ゾウ" >
 			<ex	 word="増加" pron="ぞうか" pa="0" jlpt="3" pos="N" cn="" />
 		</r>
-		<r kun="ま`す" kk="増す" pa="0" pos="j5" jlpt="3">	</r>
+		<r kun="ま`す" kk="増す" pa="0" pos="jt5" jlpt="3" ></r>
 		<r kun="ふ`える" kk="増える" pa="2" pos="j1" jlpt="4"></r>
 		<r kun="ふ`やす" kk="増やす" pa="2" pos="t5" jlpt="2"></r>
 	</kanji>
@@ -226,7 +229,10 @@
 	
 	<kanji	id="続" freq="454" jlpt="3" gr="4">
 		<r on="ゾク" >
-			<ex	 word="継続" pron="けいぞく" pa="0" jlpt="2" pos="N" eng="continuation" />
+			<ex	 word="継続" pron="けいぞく" pa="0" pos="N" jlpt="2" eng="continuation" />
+			<ex	 word="続々" pron="ぞくぞく" pa="0" pos="adv" jlpt="2" cn="接连不断地" >
+				<e ph="観客が続々とやって来る・新製品が続々と登場する" />	
+			</ex>
 		</r>
 		<r kun="つづ`く" kk="続く" pa="0" pos="j5" ph="試合が続く"></r>
 		<r kun="つづ`ける" kk="続ける" pa="0" pos="t1" ph="ゲームを続ける"></r>
@@ -243,6 +249,9 @@
 		<r on="ソツ" >
 			<ex	 word="引率" pron="いんそつ" pa="0" jlpt="5" pos="N" cn="" />
 			<ex	 word="率先" pron="そっせん" pa="0" jlpt="5" pos="N" cn="" />
+			<ex	 word="率直" pron="そっちょく" pa="0" jlpt="2" pos="NA" cn="直率;坦率" >
+				<e ph="率直に意見を述べる・率直な意見を聞かせてください" />
+			</ex>
 		</r>
 		<r kun="リツ" kk="率" pa="0" pos="N" ph="試合が続く"></r>
 		<r kun="ひきいる" kk="率いる" pa="3" pos="t5" ph="を率いる"></r>
@@ -287,9 +296,10 @@
 	
 	<kanji	id="損" freq="1364" jlpt="2" gr="5">
 		<r on="ソン" >
-			<ex	 word="損得" pron="そんとく" pa="1" jlpt="5" pos="N" cn="" />
+			<ex	 word="損得" pron="そんとく" pa="1" jlpt="2" pos="N" cn="" />
 		</r>
-		<r kun="そこ`なう" kk="損なう" pa="3" pos="t5" ph="機嫌を損なう"></r>
+		<r kun="そこ`なう" kk="損なう" pa="3" pos="t5" jlpt="1" cn="损失; 伤害" ph="機嫌を損なう">
+		</r>
 		<r kun="そこ`ねる" kk="損ねる" pa="3" pos="t5"></r>
 	</kanji>
 	
@@ -393,6 +403,7 @@
 	
 	<kanji	id="対" freq="149" jlpt="3" gr="3">
 		<r on="タイ" >
+			<ex	 word="対処" pron="たいしょ" pa="1" pos="N/js" jlpt="3" cn="应付,对付" />
 			<ex	 word="対象" pron="たいしょう" pa="0" pos="N" jlpt="3" cn="" />
 			<ex	 word="対応" pron="たいおう" pa="0" pos="N/js" jlpt="1" cn="" />
 			<ex	 word="対策" pron="たいさく" pa="0" pos="N" jlpt="2" cn="" />

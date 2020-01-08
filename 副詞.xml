@@ -3,6 +3,17 @@
 	副詞
 -->
 <Dict>
+	くよくよ			郁郁寡欢
+	そもそも	抑々	原本，从一开始,最初		そもそもは僕が悪いんだ・そもそもおかしい	
+	それきり/それっきり	仅有一次; 自此以后再也; 到此为止	それきり会っていない・それきりになる
+	それだから	因此	彼はいい先生だ。それだから、生徒に好かれている
+	それだけに	正因为如此	優勝を目指して頑張った。それだけに今回の失敗は悔しくてたまらない　貯まらない
+	それどころか		不仅而且, 岂止...
+	それとなく		委婉地		それとなく忠告する
+	
+	
+	ぞくぞく			源源不断地
+	そうっと*		「悄悄,轻轻地」	そうっと歩く		そうっと事を運ぶ		そうっと触れる・
 	きちっと		整齐的;准确地;正巧	きちっとした挨拶・きちっとした生活・きちっと片付ける・体にきちっと合った上着・蓋をきちっと締める
 	つい		不知不觉,无意间	（気がつかぬ間に。うっかり。思わず）。
 	却って		かえって
@@ -16,317 +27,324 @@
 	こっそり	愉愉		こそこそ
 	ぴったり	严丝合缝	丝毫不差
 	わざわざ1	特意
+	
+	くれぐれも		一定一定要		くれぐれもご自愛ください
+	
+	
+	大して	＋否定		并不是太...			大して気にしない
+	せめて①			最低程度, 至少
+
+	<table tag="with 習慣custom#habit / 頻度frequence">
+		<ex	 word="何時も" pron="*いつも" pa="13" pos="adv" jlpt="2" cn="总是" es="私はいつも7時に起きます" />
+		<ex	 word="始終" pron="しじゅう" pa="1" pos="adv" jlpt="2" cn="一直" es="あのカップルは始終喧嘩している。" />
+		<ex	 word="しょっちゅう" pron="しょっちゅう" pa="1" pos="adv" jlpt="2" cn="一直" es="しょっちゅうタバコを吸っている。" />
+		<ex	 word="絶えず" pron="たえず" pa="1" pos="adv" jlpt="2" cn="不断；无休止" es="教室の前は絶えずトラックが通っているからうるさい。" />
+		<ex	 word="常に" pron="つねに" pa="1" pos="adv" jlpt="2" cn="不断地" es="常に健康に気をつけてください。" />
+		<ex	 word="年中" pron="ねんじゅう" pa="1" pos="adv" jlpt="2" cn="不断地" es="台湾では年中美味しい果物がある" />
+		<ex	 word="頻りに" pron="しきりに" pa="0" pos="adv" jlpt="2" cn="频繁地;不断地" es="彼から頻りにラインがくる。" />
+		<ex	 word="屡々" pron="しばしば" pa="1" pos="adv" jlpt="2" cn="屡屡" es="若い頃、しばしばこの本屋に立ち寄っていた。" />
+		<ex	 word="度々" pron="たびたび" pa="0" pos="adv" jlpt="2" cn="不断地" es="度々失敗したので、会社を首になった。" />
+		<ex	 word="偶に" pron="たまに" pa="0" pos="adv" jlpt="2" cn="偶尔" es="社長は偶にくることがある" />
+		<ex	 word="時々" pron="ときどき" pa="0" pos="adv" jlpt="2" cn="有时" es="時々映画を見に行く" />
+		<ex	 word="よく" pron="よく" pa="1" pos="adv" jlpt="2" cn="常常" es="" />
+	</table>
+
+	<table tag="with duration / period">
+		<ex	 word="暫く" pron="*しばらく" pa="2" pos="adv" jlpt="2" cn="暂时/久未" es="しばらくお待ちください。" />
+		<ex	 word="終始" pron="しゅうし" pa="1" pos="adv" jlpt="2" cn="总是" es="花婿は結婚式の間、終始微笑んでいた。" />
+		<ex	 word="ずっと" pron="ずっと" pa="0" pos="adv" jlpt="2" cn="一直" es="学生時代はずっと家庭教師をしていた。" />
+		<ex	 word="早速" pron="さっそく" pa="0" pos="adv/N/NA" jlpt="2" cn="马上;火速" es="早速のご返答ありがとうございます" />
+		<ex	 word="直ぐ" pron="すぐ" pa="1" pos="adv/NA" jlpt="2" cn="马上/快，近" es="すぐ車を回してきます。" />
+		<ex	 word="直ちに" pron="ただちに" pa="1" pos="adv" jlpt="2" cn="立马" es="ただちに救急車を呼んで下さい。" />
+		<ex	 word="忽ち" pron="たちまち" pa="0" pos="adv" jlpt="2" cn="忽然；转眼间" es="忽ち売り切れた。" />
+		<ex	 word="今に" pron="いまに" pa="1" pos="adv" jlpt="2" cn="快要" es="私はいつも7時に起きます" />
+		<ex	 word="直" pron="じき" pa="1" pos="adv" jlpt="2" cn="马上" es="先生はじきもどるとおもいます。" />
+		<ex	 word="そのうち" pron="そのうち" pa="0" pos="adv" jlpt="2" cn="不久" es="そのうち、風も止むでしょう" />
+		<ex	 word="間もなく" pron="まもなく" pa="2" pos="adv" jlpt="2" cn="不久" es="まもなく電車が参ります。" />
+		<ex	 word="もう" pron="もう" pa="1" pos="adv" jlpt="2" cn="马上" es="" />
+		<ex	 word="もうすぐ" pron="もうすぐ" pa="3" pos="adv" jlpt="2" cn="马上" es="もうすぐお正月ですね。" />
+		<ex	 word="軈て" pron="*やがて" pa="0" pos="adv" jlpt="2" cn="不久；大约" es="やがて夜になった。私もやがて３０になる。" />
+	</table>
+
+	<table tag="with duration / period">
+		<ex	 word="嘗て" pron="かつて" pa="1" pos="adv" jlpt="2" cn="曾经；前所未有(+neg)" es="かつてこの近くは僻地だった。" />
+		<ex	 word="予ねて" pron="かねて" pa="1" pos="adv" jlpt="2" cn="一直" es="かねてからの懸案" />
+		<ex	 word="さっき" pron="さっき" pa="1" pos="adv" jlpt="1" cn="刚刚" es="私はいつも7時に起きます" />
+		<ex	 word="既に" pron="すでに" pa="1" pos="adv" jlpt="2" cn="已经" es="既に春だね。" />
+		<ex	 word="たった今" pron="たったいま" pa="0" pos="adv" jlpt="2" cn="刚刚" es="たったいま、子供が生まれました。" />
+	</table>
+
+	<table tag="with pre/post period">
+		<ex	 word="予め" pron="あらかじめ" pa="0" pos="adv" jlpt="2" cn="事先" es="出席できない場合は、予めお知らせください。" />
+		<ex	 word="先に" pron="さきに" pa="0" pos="adv" jlpt="2" cn="总是" es="おさきにどうぞ。" />
+		<ex	 word="前以て" pron="まえもって" pa="3" pos="adv" jlpt="1" cn="事先" es="この案については前以て検討します。" />
+		<ex	 word="後で" pron="すでに" pa="1" pos="adv" jlpt="2" cn="之后" es="後でまた来ます。" />
+		<ex	 word="後程" pron="のちほど" pa="0" pos="adv" jlpt="2" cn="之后" es="後程お知らせいたします。" />
+	</table>
+
+	<table tag="with duration / period">
+		<ex	 word="一旦" pron="いったん" pa="0" pos="adv" jlpt="2" cn="一旦" es="" />
+		<ex	 word="今更" pron="いまさら" pa="0" pos="adv" jlpt="2" cn="事到如今" es="今更後悔しても何もできない" />
+		<ex	 word="偶然" pron="ぐうぜん" pa="0" pos="adv" jlpt="1" cn="偶然" es="元カレと偶然新幹線で出会った。" />
+		<ex	 word="早々" pron="そうそう" pa="1" pos="adv" jlpt="2" cn="马上" es="帰宅早々、また会社に呼び出された。" />
+		<ex	 word="そろそろ" pron="そろそろ" pa="1" pos="adv" jlpt="2" cn="即将" es="そろそろ起床の時間ですね" />
+		<ex	 word="偶々" pron="たまたま" pa="0" pos="adv" jlpt="2" cn="刚好" es="偶々事故現場に居合わせた。" />
+		<ex	 word="初めて" pron="はじめて" pa="0" pos="adv" jlpt="2" cn="已经" es="初めてお目にかかります。" />
+		<ex	 word="また" pron="また" pa="2" pos="adv" jlpt="2" cn="又" es="また来ちゃいました" />
+	</table>
+
+	<table tag="程度　degree">
+		<ex	 word="大いに" pron="おおいに" pa="1" pos="adv" jlpt="2" cn="暂时/久未" es="しばらくお待ちください。" />
+		<ex	 word="極めて" pron="きわめて" pa="2" pos="adv" jlpt="2" cn="极端" es="極めて難しい問題です。" />
+		<ex	 word="極" pron="ごく" pa="3" pos="adv" jlpt="1" cn="刚刚" es="ごく" />
+		<ex	 word="実に" pron="じつに" pa="1" pos="adv" jlpt="2" cn="已经" es="実に素晴らしい。" />
+		<ex	 word="そろそろ" pron="そろそろ" pa="1" pos="adv" jlpt="2" cn="已经" es="早速のご返答ありがとうございます" />
+		<ex	 word="大変" pron="たまたま" pa="0" pos="adv" jlpt="2" cn="已经" es="早速のご返答ありがとうございます" />
+		<ex	 word="とても" pron="たまたま" pa="0" pos="adv" jlpt="2" cn="已经" es="早速のご返答ありがとうございます" />
+		<ex	 word="非常に" pron="ひじょうに" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
+		<ex	 word="ずっと" pron="ずっと" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
+		<ex	 word="ぐっと" pron="ぐっと" pa="1" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
+		<ex	 word="散々" pron="さんざん" pa="3" pos="adv" jlpt="2" cn="已经" es="上司に散々叱られた。" />
+		<ex	 word="甚だ" pron="はなはだ" pa="0" pos="adv" jlpt="2" cn="已经" es="上司に散々叱られた。" />
+		<ex	 word="やたらに" pron="やたらに" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
+		<ex	 word="かなり" pron="かなり" pa="1" pos="adv" jlpt="2" cn="非常" es="また来ちゃいました" />
+		<ex	 word="相当" pron="そうとう" pa="0" pos="adv" jlpt="2" cn="そうとう" es="また来ちゃいました" />
+		<ex	 word="大分" pron="だいぶ" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
+		<ex	 word="中々" pron="*なかなか" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
+		<ex	 word="余程" pron="よほど" pa="0" pos="adv" jlpt="2" cn="已经" es="彼は元カレより、" />
+	</table>
+
+	<table tag="with comparison">
+		<ex	 word="一層" pron="いっそう" pa="3" pos="adv" jlpt="2" cn="更" es="彼は元カレより、" />
+		<ex	 word="更に" pron="さらに" pa="1" pos="adv" jlpt="2" cn="已经" es="彼は元カレより、" />
+		<ex	 word="尚" pron="なお" pa="1" pos="adv" jlpt="2" cn="已经" es="彼は元カレより、" />
+		<ex	 word="尚更" pron="なおさら" pa="0" pos="adv" jlpt="2" cn="已经" es="そんなことをしたらなおさら悪くなる" />
+		<ex	 word="益々" pron="ますます" pa="2" pos="adv" jlpt="2" cn="更" es="土地の値段は益々上昇している。" />
+		<ex	 word="もっと" pron="よほど" pa="1" pos="adv" jlpt="2" cn="更" es="もっと成績を上げたい" />
+		<ex	 word="余計に" pron="よけいに" pa="0" pos="adv" jlpt="2" cn="更~" es="人より余計に働く。" />
+	</table>
+
+	<table tag="with duration / period">
+		<ex	 word="いっそ" pron="いっそ" pa="0" pos="adv" jlpt="2" cn="不如" es="彼は元カレより、" />
+		<ex	 word="帰って・却って" pron="かえって" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲み過ぎるとかえってひどくなった。病状は却って悪化した・かえって手間がかかる" />
+		<ex	 word="寧ろ" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+	</table>
+
+	<table tag="degree">
+		<ex	 word="こんなに・そんなに" pron="いっそ" pa="0" pos="adv" jlpt="2" cn="不如" es="彼は元カレより、" />
+		<ex	 word="どんなに" pron="どんなに" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲んだら、かえってひどくなった。" />
+		<ex	 word="こう・そう・ああ" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="どのくらい" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="如何に" pron="いかに" pa="2" pos="adv" jlpt="2" cn="多么地" es="会えないくらいなら寧ろ死にたい" />
+	</table>
+
+	<table tag="very much">
+		<ex	 word="すっかり" pron="すっかり" pa="3" pos="adv" jlpt="2" cn="全部" es="すっかり忘れた" />
+		<ex	 word="全て" pron="すべて" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲んだら、かえってひどくなった。" />
+		<ex	 word="全部" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="そっくり" pron="そっくり" pa="3" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="残らず" pron="のこらず" pa="2" pos="adv" jlpt="2" cn="全部;一个不剩地" es="ヒット商品は残らず売れた" />
+		<ex	 word="みんな" pron="みんな" pa="0" pos="adv" jlpt="2" cn="多么地" es="試験問題はみんな難しいかった。" />
+		<ex	 word="一杯" pron="いっぱい" pa="0" pos="adv" jlpt="2" cn="多么地" es="会場には記者がいっぱいいる。" />
+		<ex	 word="うんと" pron="うんと" pa="10" pos="adv" jlpt="2" cn="很多,大量~" es="食べ放題に行ってうんと食った。" str="true" />
+		<ex	 word="十分" pron="じゅうぶん" pa="3" pos="adv" jlpt="2" cn="足够" es="今行ったら十分間に合います。" />
+		<ex	 word="沢山" pron="たくさん" pa="0" pos="adv" jlpt="2" cn="很多" es="アウトレットでたくさん買い物をした。" />
+		<ex	 word="たっぶり" pron="たっぶり" pa="3" pos="adv" jlpt="2" cn="足够" es="鍋にたっぶり水を灌ぐ。（注ぐ）" />
+		<ex	 word="みっちり" pron="みっちり" pa="3" pos="adv" jlpt="2" cn="充分地；好好地；严格地" es="文法についてみっちり研究して行くつもりだ。" />
+		<ex	 word="良く" pron="よく" pa="1" pos="adv" jlpt="2" cn="饱满" es="" />
+		<ex	 word="少なからず" pron="すくなからず" pa="4" pos="adv" jlpt="2" cn="很多，不少" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="殆ど" pron="ほとんど" pa="2" pos="adv" jlpt="2" cn="几乎" es="ほとんど出来上がっている。" />
+	</table>
+
+	<table tag="very little">
+		<ex	 word="一寸" pron="ちょっと" pa="1" pos="adv" jlpt="2" cn="" es="すぐ終わりだから、ちょっと待っててね。" />
+		<ex	 word="つい" pron="つい" pa="1" pos="adv" jlpt="2" cn="稍微" es="ついさっきまであんなに元気だったのに、とつぜんの脳卒中なんて信じられない。。" />
+		<ex	 word="僅か" pron="わずか" pa="1" pos="adv" jlpt="2" cn="仅仅" es="時給がほんの僅か増えたけど、全然足りないね。" />
+		<ex	 word="少し" pron="すこし" pa="2" pos="adv" jlpt="2" cn="一点" es="もうすこし時間をくれる" />
+	</table>
+
+	<table tag="only">
+		<ex	 word="精々" pron="せいぜい" pa="1" pos="adv" jlpt="2" cn="不如" es="長くてもせいぜい手術は5時間ぐらいだろう。" />
+		<ex	 word="只" pron="ただ" pa="1" pos="adv" jlpt="2" cn="只是" es="彼女はただ怒ってばかりいて、全然話を聞いてくれない。" />
+		<ex	 word="たった" pron="たった" pa="0" pos="adv" jlpt="2" cn="只有" es="たった3年間で大学を卒業した" />
+		<ex	 word="単に" pron="たんに" pa="1" pos="adv" jlpt="2" cn="仅;单单" es="単に個人の考えですが" />
+	</table>
+
+	<table tag="potential">
+		<ex	 word="凡そ" pron="およそ" pa="0" pos="adv" jlpt="2" cn="不如" es="彼は元カレより、" />
+		<ex	 word="ざっと" pron="ざっと" pa="1" pos="adv" jlpt="2" cn="稍微" es="頭痛薬を飲んだら、かえってひどくなった。" />
+		<ex	 word="約" pron="たった" pa="0" pos="adv" jlpt="2" cn="稍微" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="大概" pron="たいがい" pa="0" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="大体" pron="だいたい" pa="0" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="大抵" pron="たいてい" pa="0" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+		<ex	 word="ほぼ" pron="ほぼ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
+	</table>
+
+	<table tag="with negative">
+		<ex	 word="さっぱり" pron="サッパリ" pa="3" pos="adv" jlpt="2" cn="完全不~" es="さっぱりわからない" />
+		<ex	 word="絶対に" pron="ぜったいに" pa="0" pos="adv" jlpt="2" cn="绝对不~" es="絶対に許されない" />
+		<ex	 word="遂に" pron="ついに" pa="1" pos="adv" jlpt="2" cn="最终还是没~" es="彼女はついに結婚しなかった" />
+		<ex	 word="どう" pron="ドウ" pa="1" pos="adv" jlpt="2" cn="也没特别~" es="壁にぶつかったが、どうということもなくて安心した。" />
+		<ex	 word="なかなか" pron="ナカナカ" pa="0" pos="adv" jlpt="2" cn="很=很难~" es="寒くて布団からなかなか出られない。" />
+		<ex	 word="はっきり" pron="ハッキリ" pa="0" pos="adv" jlpt="2" cn="清楚的;明确的=难以预测~" es="原因がはっきりしない病気は心配だ" />
+		<ex	 word="強いて" pron="しいて" pa="1" pos="adv" jlpt="2" cn="硬要~的话" es="強いて勧めてもしょうがない" />
+		<ex	 word="ちっとも" pron="ちっとも" pa="3" pos="adv" jlpt="2" cn="一点也不" es="ダイエット(diet)ているのに、ちっとも痩せてくれない。" />
+		<ex	 word="とても" pron="とても" pa="0" pos="adv" jlpt="2" cn="难以" es="私にはとてもできない神技です" />
+		<ex	 word="別に" pron="べつに" pa="0" pos="adv" jlpt="2" cn="没特别" es="別に嫌いなわけではないが、付き合いたいとも思わない" />
+		<ex	 word="ろくに" pron="ろくに" pa="2" pos="adv" jlpt="2" cn="没能好好地 平凡地" es="ろくに勉強もしないで遊んでばかりいる。＝一方だ" />
+		<ex	 word="余り" pron="*あまり" pa="0" pos="adv" jlpt="2" cn="不太~" es="引き篭もりはあまり好きではない。" />
+		<ex	 word="一概に" pron="いちがいに" pa="2" pos="adv" jlpt="1" cn="无法一致地；一概；无区别地" es="スマホは一概に悪いとは言えない" />
+		<ex	 word="決して" pron="けっして" pa="0" pos="adv" jlpt="2" cn="绝对(不) 断然(不)" es="あの地震の恐ろしさは決して忘れられない" />
+		<ex	 word="まさか" pron="まさか" pa="1" pos="adv" jlpt="2" cn="没想到" es="まさかあの大学に受かるとは思わなかった" />
+		<ex	 word="もう" pron="もう" pa="1" pos="adv" jlpt="2" cn="今后再也不" es="もう二度と行きたくない" />
+		<ex	 word="敢えて" pron="あえて" pa="1" pos="adv" jlpt="2" cn="不至于;不必" es="あなたがそこまで言うのなら、敢えて反対はしない" />
+		<ex	 word="嘗て" pron="かつて" pa="1" pos="adv" jlpt="2" cn="未尝有的" es="かつてなかった大事故です" />
+		<ex	 word="必ずしも" pron="かならずしも" pa="1" pos="adv" jlpt="2" cn="不一定" es="お金持ちは必ずしも幸せとは限らない／とは言えない" />
+		<ex	 word="未だ" pron="まだ" pa="1" pos="adv" jlpt="2" cn="尚未" es="まだ食べていません" />
+		<ex	 word="夢にも" pron="ゆめにも" pa="2" pos="adv" jlpt="2" cn="做梦都没" es="こちらでお会いできるとは夢にも思いませんでした／のを楽しみにしております。" />
+		<ex	 word="少しも" pron="すこしも" pa="2" pos="adv" jlpt="2" cn="一点也不" es="中古車にはすこしも興味がない" />
+		<ex	 word="そう" pron="そう" pa="1" pos="adv" jlpt="2" cn="没那么" es="郵便局はそう遠くないよ" />
+		<ex	 word="全然" pron="ぜんぜん" pa="0" pos="adv" jlpt="2" cn="完全不" es="英語は全然だめだ" />
+		<ex	 word="大して" pron="たいして" pa="0" pos="adv" jlpt="2" cn="也没" es="たいして働いてないのに、もう疲れたと言い出した" />
+		<ex	 word="滅多に" pron="めったに" pa="1" pos="adv" jlpt="2" cn="很少" es="タバコは滅多にすいません" />
+		<ex	 word="一向" pron="いっこうに" pa="3" pos="adv/NA" jlpt="2" cn="完全不" es="そのことについては一向に存じません。彼は一向関心を示さない。" />
+		<ex	 word="どうも" pron="どうも" pa="1" pos="adv" jlpt="2" cn="强调" es="" />
+	</table>
+
+	<table tag="with question">
+		<ex	 word="一体" pron="いったい" pa="0" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
+		<ex	 word="どう" pron="どう" pa="1" pos="adv" jlpt="2" cn="如何" es="どうしよう！" />
+		<ex	 word="どれほど" pron="どれほど" pa="0" pos="adv" jlpt="2" cn="多么地" es="" />
+		<ex	 word="何故" pron="なぜ" pa="1" pos="adv" jlpt="2" cn="为何" es="何故こんな結果になったの？" />
+		<ex	 word="果たして" pron="はたして" pa="2" pos="adv" jlpt="2" cn="到底~" es="はたして彼は来るのだろうか" />
+	</table>
+
+	<table tag="with condition">
+		<ex	 word="万一" pron="まんいち" pa="0" pos="adv" jlpt="2" cn="万一" es="万一失敗しても挫けるな。" />
+		<ex	 word="たとえ" pron="たとえ" pa="0" pos="adv" jlpt="2" cn="就算也" es="あなたのためなら、たとえ死んでもかまわない。" />
+		<ex	 word="もし" pron="もし" pa="1" pos="adv" jlpt="2" cn="最终还是没~" es="" />
+		<ex	 word="もしかすると" pron="もしかすると" pa="1" pos="adv" jlpt="2" cn="为何" es="もしかすると行かないかもしれない" />
+		<ex	 word="一旦" pron="いったん" pa="2" pos="adv" jlpt="2" cn="一旦~" es="一旦決心したら、必ず実行すべきだ" />
+	</table>
+
+	<table tag="with らしい　よう">
+		<ex	 word="いまにも" pron="いまにも" pa="1" pos="adv" jlpt="2" cn="到底~" es="雨が今にも降りそうだ。" />
+		<ex	 word="いかにも" pron="いかにも" pa="2" pos="adv" jlpt="2" cn="简直就像" es="あの俳優はいかにも大病の後らしい。" />
+		<ex	 word="さも" pron="さも" pa="1" pos="adv" jlpt="2" cn="就好像~似的" es="知らないのに、さも知っているように述べている" />
+		<ex	 word="ちょうど" pron="ちょうど" pa="0" pos="adv" jlpt="2" cn="好似" es="この翡翠の形" />
+		<ex	 word="丸で" pron="まるで" pa="0" pos="adv" jlpt="2" cn="完全好像" es="まるで見てきたかのように述べている" />
+	</table>
+
+	<table tag="with desire">
+		<ex	 word="是非" pron="ぜひ" pa="1" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
+		<ex	 word="どうか" pron="いかにも" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
+		<ex	 word="どうぞ" pron="どうぞ" pa="1" pos="adv" jlpt="2" cn="请" es="どうぞよろしくお願いいたします。" />
+		<ex	 word="何とか" pron="なんとか" pa="1" pos="adv" jlpt="2" cn="无论如何都要~" es="" />
+	</table>
+
+	<table tag="with end">
+		<ex	 word="とっくに" pron="とっくに" pa="1" pos="adv" jlpt="2" cn="到底~" es="" />
+		<ex	 word="もう" pron="もう" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
+	</table>
+
+	<table tag="with end">
+		<ex	 word="あいにく" pron="とっくに" pa="1" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
+		<ex	 word="あんまり・あまり" pron="もう" pa="2" pos="adv" jlpt="2" cn="不太" es="どうかゆるしを下さい" />
+		<ex	 word="居ながらにして" pron="もう" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
+		<ex	 word="流石" pron="さすが" pa="0" pos="adv" jlpt="2" cn="真不愧" es="どうかゆるしを下さい" />
+		<ex	 word="初めて" pron="はじめて" pa="2" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
+	</table>
+
+	<table tag="with mood">
+		<ex	 word="どうも" pron="どうも" pa="1" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
+		<ex	 word="本当に" pron="ほんとうに" pa="2" pos="adv" jlpt="2" cn="不太" es="" />
+		<ex	 word="誠に" pron="まことに" pa="0" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
+		<ex	 word="正に" pron="まさに" pa="0" pos="adv" jlpt="2" cn="真不愧" es="どうかゆるしを下さい" />
+		<ex	 word="まったく" pron="まったく" pa="2" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
+		<ex	 word="殊に" pron="ことに" pa="2" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
+		<ex	 word="特に" pron="とくに" pa="1" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
+		<ex	 word="特別" pron="とくべつ" pa="0" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
+		<ex	 word="一番" pron="いちばん" pa="0" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
+		<ex	 word="最も" pron="もっとも" pa="3" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
+	</table>
+
+	<table tag="with mood">
+		<ex	 word="どうも" pron="どうも" pa="1" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
+		<ex	 word="本当に" pron="ほんとうに" pa="2" pos="adv" jlpt="2" cn="不太" es="" />
+		<ex	 word="決まって" pron="まことに" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
+		<ex	 word="絶対" pron="ぜったい" pa="0" pos="adv" jlpt="2" cn="真不愧" es="どうかゆるしを下さい" />
+		<ex	 word="勿論" pron="もちろん" pa="2" pos="adv" jlpt="2" cn="不用说" es="どうかゆるしを下さい" />
+	</table>
+
+	<table tag="with assumption">
+		<ex	 word="恐らく" pron="おそらく" pa="2" pos="adv" jlpt="2" cn="恐怕~" es="彼女は恐らく断るだろう" />
+		<ex	 word="確か" pron="ほんとうに" pa="2" pos="adv" jlpt="2" cn="不太" es="" />
+		<ex	 word="多分" pron="まことに" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
+		<ex	 word="どうやら" pron="どうやら" pa="1" pos="adv" jlpt="2" cn="总感觉" es="どうやら雨が降る" />
+	</table>
+
+	<table tag="with result">
+		<ex	 word="何れ" pron="*いずれ" pa="0" pos="adv" jlpt="2" cn="反正~" es="内閣はいずれ改造されるはずだ。" />
+		<ex	 word="遅かれ早かれ" pron="おそかれはやかれ" pa="5" pos="adv" jlpt="2" cn="迟早" es="無理しすぎて、遅かれ早かれ病気になる。" />
+		<ex	 word="どうせ" pron="どうせ" pa="0" pos="adv" jlpt="2" cn="反正" es="どうかゆるしを下さい" />
+		<ex	 word="どっちみち" pron="どっちみち" pa="0" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
+	</table>
+
+	<table tag="with result">
+		<ex	 word="いよいよ" pron="いよいよ" pa="2" pos="adv" jlpt="2" cn="期待~" es="内閣はいずれ改造されるはずだ。" />
+		<ex	 word="結局" pron="けっきょく" pa="5" pos="adv" jlpt="2" cn="终究;归根到底" es="無理しすぎて、遅かれ早かれ病気になる。" />
+		<ex	 word="遂に" pron="ついに" pa="1" pos="adv" jlpt="2" cn="反正" es="どうかゆるしを下さい" />
+		<ex	 word="とうとう" pron="とうとう" pa="1" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
+		<ex	 word="どうにか" pron="どうにか" pa="1" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
+		<ex	 word="やっと" pron="やっと" pa="0" pos="adv" jlpt="2" cn="终于" es="やっと正社員になれた" />
+		<ex	 word="やはり" pron="やはり" pa="2" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
+		<ex	 word="ようやく" pron="ようやく" pa="0" pos="adv" jlpt="2" cn="反正" es="ようやく五時の電車に間に合った。" />
+	</table>
+
+	<table tag="with order/ordinary">
+		<ex	 word="代わる代わる" pron="かわるがわる" pa="4" pos="adv" jlpt="2" cn="轮流~" es="" />
+		<ex	 word="順に" pron="じゅんに" pa="1" pos="adv" jlpt="2" cn="逐渐。依次" es="無理しすぎて、遅かれ早かれ病気になる。" />
+		<ex	 word="第一に" pron="だいいちに" pa="1" pos="adv" jlpt="2" cn="反正" es="どうかゆるしを下さい" />
+		<ex	 word="まず" pron="まず" pa="1" pos="adv" jlpt="2" cn="首先" es="この手抜き工事はどっちみちいつかばれるよ。" />
+		<ex	 word="又" pron="また" pa="0" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
+	</table>
+
+	<table tag="with order/ordinary">
+		<ex	 word="まだ" pron="かわるがわる" pa="4" pos="adv" jlpt="2" cn="仍然" es="内閣はいずれ改造されるはずだ。" />
+		<ex	 word="相変わらず" pron="あいかわらず" pa="1" pos="adv" jlpt="2" cn="仍然" es="無理しすぎて、遅かれ早かれ病気になる。" />
+		<ex	 word="依然として" pron="いぜんとして" pa="0" pos="adv" jlpt="2" cn="依然" es="どうかゆるしを下さい" />
+		<ex	 word="やはり" pron="やはり" pa="2" pos="adv" jlpt="2" cn="依然" es="この手抜き工事はどっちみちいつかばれるよ。" />
+	</table>
+
+	<table tag="with direction or distance">
+		<ex	 word="直ぐ" pron="すぐ" pa="1" pos="adv" jlpt="2" cn="仍然" es="内閣はいずれ改造されるはずだ。" />
+		<ex	 word="ずっと" pron="ずっと" pa="0" pos="adv" jlpt="2" cn="持续/一直" es="この道をずっと行くと、駅にぶつかります。" />
+		<ex	 word="遥々" pron="はるばる" pa="0" pos="adv" jlpt="2" cn="远远" es="一人ではるばる東京まで訪ねた。" />
+		<ex	 word="真っ直ぐ" pron="まっすぐ" pa="3" pos="adv" jlpt="2" cn="一直" es="この手抜き工事はどっちみちいつかばれるよ。" />
+	</table>
+
+	<table tag="with 	in other words/ namely">
+		<ex	 word="結局" pron="けっきょく" pa="1" pos="adv" jlpt="2" cn="仍然" es="内閣はいずれ改造されるはずだ。" />
+		<ex	 word="詰まり" pron="つまり" pa="1" pos="adv" jlpt="2" cn="总而言之" es="この道をずっと行くと、駅にぶつかります。" />
+		<ex	 word="要するに" pron="ようするに" pa="3" pos="adv" jlpt="2" cn="总而言之" es="一人ではるばる東京まで訪ねた。" />
+		<ex	 word="例えば" pron="たとえば" pa="2" pos="adv" jlpt="2" cn="例如" es="この手抜き工事はどっちみちいつかばれるよ。" />
+	</table>
+
+	<table tag="with 	in other words/ namely">
+		<ex	 word="生憎" pron="*あいにく" pa="0" pos="adv" jlpt="2" cn="不巧" es="内閣はいずれ改造されるはずだ。" />
+		<ex	 word="如何" pron="*いかが" pa="2" pos="adv" jlpt="2" cn="如何" es="この道をずっと行くと、駅にぶつかります。" />
+		<ex	 word="お陰様で" pron="おかげさまで" pa="3" pos="adv" jlpt="2" cn="托您的福" es="お陰様で、勉強も順調に進んでいます。" />
+		<ex	 word="くれぐれも" pron="くれぐれも" pa="2" pos="adv" jlpt="2" cn="好好地" es="くれぐれもお体を大切に・お体ご自愛下さい。" />
+		<ex	 word="よく" pron="よく" pa="1" pos="adv" jlpt="2" cn="太好了" es="よくいらしてくださいました。" />
+		<ex	 word="宜しく" pron="*よろしく" pa="0" pos="adv" jlpt="2" cn="问候" es="奥様によろしく（お伝えください）。" />
+	</table>
+
+	<table tag="with 	in other words/ namely">
+		<ex	 word="一応" pron="いちおう" pa="1" pos="adv" jlpt="2" cn="大致，大体" es="一応最初から最後まで目を通して見ました。" />
+		<ex	 word="色々" pron="いろいろ" pa="0" pos="adv" jlpt="2" cn="方方面面" es="色々お世話になりました。" />
+		<ex	 word="主に" pron="おもに" pa="1" pos="adv" jlpt="2" cn="主要;多半" es="主に男性だが、女性客も年々増えている。" />
+		<ex	 word="概して" pron="がいして" pa="1" pos="adv" jlpt="2" cn="一般，大体" es="" />
+		<ex	 word="実は" pron="じつは" pa="2" pos="adv" jlpt="2" cn="老实说，其实" es="この手抜き工事はどっちみちいつかばれるよ。" />
+	</table>
+
 </Dict>
-
-<table tag="with 習慣custom#habit / 頻度frequence">
-	<ex	 word="何時も" pron="*いつも" pa="13" pos="adv" jlpt="2" cn="总是" es="私はいつも7時に起きます" />
-	<ex	 word="始終" pron="しじゅう" pa="1" pos="adv" jlpt="2" cn="一直" es="あのカップルは始終喧嘩している。" />
-	<ex	 word="しょっちゅう" pron="しょっちゅう" pa="1" pos="adv" jlpt="2" cn="一直" es="しょっちゅうタバコを吸っている。" />
-	<ex	 word="絶えず" pron="たえず" pa="1" pos="adv" jlpt="2" cn="不断；无休止" es="教室の前は絶えずトラックが通っているからうるさい。" />
-	<ex	 word="常に" pron="つねに" pa="1" pos="adv" jlpt="2" cn="不断地" es="常に健康に気をつけてください。" />
-	<ex	 word="年中" pron="ねんじゅう" pa="1" pos="adv" jlpt="2" cn="不断地" es="台湾では年中美味しい果物がある" />
-	<ex	 word="頻りに" pron="しきりに" pa="0" pos="adv" jlpt="2" cn="频繁地;不断地" es="彼から頻りにラインがくる。" />
-	<ex	 word="屡々" pron="しばしば" pa="1" pos="adv" jlpt="2" cn="屡屡" es="若い頃、しばしばこの本屋に立ち寄っていた。" />
-	<ex	 word="度々" pron="たびたび" pa="0" pos="adv" jlpt="2" cn="不断地" es="度々失敗したので、会社を首になった。" />
-	<ex	 word="偶に" pron="たまに" pa="0" pos="adv" jlpt="2" cn="偶尔" es="社長は偶にくることがある" />
-	<ex	 word="時々" pron="ときどき" pa="0" pos="adv" jlpt="2" cn="有时" es="時々映画を見に行く" />
-	<ex	 word="よく" pron="よく" pa="1" pos="adv" jlpt="2" cn="常常" es="" />
-</table>
-
-<table tag="with duration / period">
-	<ex	 word="暫く" pron="*しばらく" pa="2" pos="adv" jlpt="2" cn="暂时/久未" es="しばらくお待ちください。" />
-	<ex	 word="終始" pron="しゅうし" pa="1" pos="adv" jlpt="2" cn="总是" es="花婿は結婚式の間、終始微笑んでいた。" />
-	<ex	 word="ずっと" pron="ずっと" pa="0" pos="adv" jlpt="2" cn="一直" es="学生時代はずっと家庭教師をしていた。" />
-	<ex	 word="早速" pron="さっそく" pa="0" pos="adv/N/NA" jlpt="2" cn="马上;火速" es="早速のご返答ありがとうございます" />
-	<ex	 word="直ぐ" pron="すぐ" pa="1" pos="adv/NA" jlpt="2" cn="马上/快，近" es="すぐ車を回してきます。" />
-	<ex	 word="直ちに" pron="ただちに" pa="1" pos="adv" jlpt="2" cn="立马" es="ただちに救急車を呼んで下さい。" />
-	<ex	 word="忽ち" pron="たちまち" pa="0" pos="adv" jlpt="2" cn="忽然；转眼间" es="忽ち売り切れた。" />
-	<ex	 word="今に" pron="いまに" pa="1" pos="adv" jlpt="2" cn="快要" es="私はいつも7時に起きます" />
-	<ex	 word="直" pron="じき" pa="1" pos="adv" jlpt="2" cn="马上" es="先生はじきもどるとおもいます。" />
-	<ex	 word="そのうち" pron="そのうち" pa="0" pos="adv" jlpt="2" cn="不久" es="そのうち、風も止むでしょう" />
-	<ex	 word="間もなく" pron="まもなく" pa="2" pos="adv" jlpt="2" cn="不久" es="まもなく電車が参ります。" />
-	<ex	 word="もう" pron="もう" pa="1" pos="adv" jlpt="2" cn="马上" es="" />
-	<ex	 word="もうすぐ" pron="もうすぐ" pa="3" pos="adv" jlpt="2" cn="马上" es="もうすぐお正月ですね。" />
-	<ex	 word="軈て" pron="*やがて" pa="0" pos="adv" jlpt="2" cn="不久；大约" es="やがて夜になった。私もやがて３０になる。" />
-</table>
-
-<table tag="with duration / period">
-	<ex	 word="嘗て" pron="かつて" pa="1" pos="adv" jlpt="2" cn="曾经；前所未有(+neg)" es="かつてこの近くは僻地だった。" />
-	<ex	 word="予ねて" pron="かねて" pa="1" pos="adv" jlpt="2" cn="一直" es="かねてからの懸案" />
-	<ex	 word="さっき" pron="さっき" pa="1" pos="adv" jlpt="1" cn="刚刚" es="私はいつも7時に起きます" />
-	<ex	 word="既に" pron="すでに" pa="1" pos="adv" jlpt="2" cn="已经" es="既に春だね。" />
-	<ex	 word="たった今" pron="たったいま" pa="0" pos="adv" jlpt="2" cn="刚刚" es="たったいま、子供が生まれました。" />
-</table>
-
-<table tag="with pre/post period">
-	<ex	 word="予め" pron="あらかじめ" pa="0" pos="adv" jlpt="2" cn="事先" es="出席できない場合は、予めお知らせください。" />
-	<ex	 word="先に" pron="さきに" pa="0" pos="adv" jlpt="2" cn="总是" es="おさきにどうぞ。" />
-	<ex	 word="前以て" pron="まえもって" pa="3" pos="adv" jlpt="1" cn="事先" es="この案については前以て検討します。" />
-	<ex	 word="後で" pron="すでに" pa="1" pos="adv" jlpt="2" cn="之后" es="後でまた来ます。" />
-	<ex	 word="後程" pron="のちほど" pa="0" pos="adv" jlpt="2" cn="之后" es="後程お知らせいたします。" />
-</table>
-
-<table tag="with duration / period">
-	<ex	 word="一旦" pron="いったん" pa="0" pos="adv" jlpt="2" cn="一旦" es="" />
-	<ex	 word="今更" pron="いまさら" pa="0" pos="adv" jlpt="2" cn="事到如今" es="今更後悔しても何もできない" />
-	<ex	 word="偶然" pron="ぐうぜん" pa="0" pos="adv" jlpt="1" cn="偶然" es="元カレと偶然新幹線で出会った。" />
-	<ex	 word="早々" pron="そうそう" pa="1" pos="adv" jlpt="2" cn="马上" es="帰宅早々、また会社に呼び出された。" />
-	<ex	 word="そろそろ" pron="そろそろ" pa="1" pos="adv" jlpt="2" cn="即将" es="そろそろ起床の時間ですね" />
-	<ex	 word="偶々" pron="たまたま" pa="0" pos="adv" jlpt="2" cn="刚好" es="偶々事故現場に居合わせた。" />
-	<ex	 word="初めて" pron="はじめて" pa="0" pos="adv" jlpt="2" cn="已经" es="初めてお目にかかります。" />
-	<ex	 word="また" pron="また" pa="2" pos="adv" jlpt="2" cn="又" es="また来ちゃいました" />
-</table>
-
-<table tag="程度　degree">
-	<ex	 word="大いに" pron="おおいに" pa="1" pos="adv" jlpt="2" cn="暂时/久未" es="しばらくお待ちください。" />
-	<ex	 word="極めて" pron="きわめて" pa="2" pos="adv" jlpt="2" cn="极端" es="極めて難しい問題です。" />
-	<ex	 word="極" pron="ごく" pa="3" pos="adv" jlpt="1" cn="刚刚" es="ごく" />
-	<ex	 word="実に" pron="じつに" pa="1" pos="adv" jlpt="2" cn="已经" es="実に素晴らしい。" />
-	<ex	 word="そろそろ" pron="そろそろ" pa="1" pos="adv" jlpt="2" cn="已经" es="早速のご返答ありがとうございます" />
-	<ex	 word="大変" pron="たまたま" pa="0" pos="adv" jlpt="2" cn="已经" es="早速のご返答ありがとうございます" />
-	<ex	 word="とても" pron="たまたま" pa="0" pos="adv" jlpt="2" cn="已经" es="早速のご返答ありがとうございます" />
-	<ex	 word="非常に" pron="ひじょうに" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
-	<ex	 word="ずっと" pron="ずっと" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
-	<ex	 word="ぐっと" pron="ぐっと" pa="1" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
-	<ex	 word="散々" pron="さんざん" pa="3" pos="adv" jlpt="2" cn="已经" es="上司に散々叱られた。" />
-	<ex	 word="甚だ" pron="はなはだ" pa="0" pos="adv" jlpt="2" cn="已经" es="上司に散々叱られた。" />
-	<ex	 word="やたらに" pron="やたらに" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
-	<ex	 word="かなり" pron="かなり" pa="1" pos="adv" jlpt="2" cn="非常" es="また来ちゃいました" />
-	<ex	 word="相当" pron="そうとう" pa="0" pos="adv" jlpt="2" cn="そうとう" es="また来ちゃいました" />
-	<ex	 word="大分" pron="だいぶ" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
-	<ex	 word="中々" pron="*なかなか" pa="0" pos="adv" jlpt="2" cn="已经" es="また来ちゃいました" />
-	<ex	 word="余程" pron="よほど" pa="0" pos="adv" jlpt="2" cn="已经" es="彼は元カレより、" />
-</table>
-
-<table tag="with comparison">
-	<ex	 word="一層" pron="いっそう" pa="3" pos="adv" jlpt="2" cn="更" es="彼は元カレより、" />
-	<ex	 word="更に" pron="さらに" pa="1" pos="adv" jlpt="2" cn="已经" es="彼は元カレより、" />
-	<ex	 word="尚" pron="なお" pa="1" pos="adv" jlpt="2" cn="已经" es="彼は元カレより、" />
-	<ex	 word="尚更" pron="なおさら" pa="0" pos="adv" jlpt="2" cn="已经" es="そんなことをしたらなおさら悪くなる" />
-	<ex	 word="益々" pron="ますます" pa="2" pos="adv" jlpt="2" cn="更" es="土地の値段は益々上昇している。" />
-	<ex	 word="もっと" pron="よほど" pa="1" pos="adv" jlpt="2" cn="更" es="もっと成績を上げたい" />
-	<ex	 word="余計に" pron="よけいに" pa="0" pos="adv" jlpt="2" cn="更~" es="人より余計に働く。" />
-</table>
-
-<table tag="with duration / period">
-	<ex	 word="いっそ" pron="いっそ" pa="0" pos="adv" jlpt="2" cn="不如" es="彼は元カレより、" />
-	<ex	 word="帰って・却って" pron="かえって" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲み過ぎるとかえってひどくなった。病状は却って悪化した・かえって手間がかかる" />
-	<ex	 word="寧ろ" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-</table>
-
-<table tag="degree">
-	<ex	 word="こんなに・そんなに" pron="いっそ" pa="0" pos="adv" jlpt="2" cn="不如" es="彼は元カレより、" />
-	<ex	 word="どんなに" pron="どんなに" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲んだら、かえってひどくなった。" />
-	<ex	 word="こう・そう・ああ" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="どのくらい" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="如何に" pron="いかに" pa="2" pos="adv" jlpt="2" cn="多么地" es="会えないくらいなら寧ろ死にたい" />
-</table>
-
-<table tag="very much">
-	<ex	 word="すっかり" pron="すっかり" pa="3" pos="adv" jlpt="2" cn="全部" es="すっかり忘れた" />
-	<ex	 word="全て" pron="すべて" pa="1" pos="adv" jlpt="2" cn="反而" es="頭痛薬を飲んだら、かえってひどくなった。" />
-	<ex	 word="全部" pron="むしろ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="そっくり" pron="そっくり" pa="3" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="残らず" pron="のこらず" pa="2" pos="adv" jlpt="2" cn="全部;一个不剩地" es="ヒット商品は残らず売れた" />
-	<ex	 word="みんな" pron="みんな" pa="0" pos="adv" jlpt="2" cn="多么地" es="試験問題はみんな難しいかった。" />
-	<ex	 word="一杯" pron="いっぱい" pa="0" pos="adv" jlpt="2" cn="多么地" es="会場には記者がいっぱいいる。" />
-	<ex	 word="うんと" pron="うんと" pa="10" pos="adv" jlpt="2" cn="很多,大量~" es="食べ放題に行ってうんと食った。" str="true" />
-	<ex	 word="十分" pron="じゅうぶん" pa="3" pos="adv" jlpt="2" cn="足够" es="今行ったら十分間に合います。" />
-	<ex	 word="沢山" pron="たくさん" pa="0" pos="adv" jlpt="2" cn="很多" es="アウトレットでたくさん買い物をした。" />
-	<ex	 word="たっぶり" pron="たっぶり" pa="3" pos="adv" jlpt="2" cn="足够" es="鍋にたっぶり水を灌ぐ。（注ぐ）" />
-	<ex	 word="みっちり" pron="みっちり" pa="3" pos="adv" jlpt="2" cn="充分地；好好地；严格地" es="文法についてみっちり研究して行くつもりだ。" />
-	<ex	 word="良く" pron="よく" pa="1" pos="adv" jlpt="2" cn="饱满" es="" />
-	<ex	 word="少なからず" pron="すくなからず" pa="4" pos="adv" jlpt="2" cn="很多，不少" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="殆ど" pron="ほとんど" pa="2" pos="adv" jlpt="2" cn="几乎" es="ほとんど出来上がっている。" />
-</table>
-
-<table tag="very little">
-	<ex	 word="一寸" pron="ちょっと" pa="1" pos="adv" jlpt="2" cn="" es="すぐ終わりだから、ちょっと待っててね。" />
-	<ex	 word="つい" pron="つい" pa="1" pos="adv" jlpt="2" cn="稍微" es="ついさっきまであんなに元気だったのに、とつぜんの脳卒中なんて信じられない。。" />
-	<ex	 word="僅か" pron="わずか" pa="1" pos="adv" jlpt="2" cn="仅仅" es="時給がほんの僅か増えたけど、全然足りないね。" />
-	<ex	 word="少し" pron="すこし" pa="2" pos="adv" jlpt="2" cn="一点" es="もうすこし時間をくれる" />
-</table>
-
-<table tag="only">
-	<ex	 word="精々" pron="せいぜい" pa="1" pos="adv" jlpt="2" cn="不如" es="長くてもせいぜい手術は5時間ぐらいだろう。" />
-	<ex	 word="只" pron="ただ" pa="1" pos="adv" jlpt="2" cn="只是" es="彼女はただ怒ってばかりいて、全然話を聞いてくれない。" />
-	<ex	 word="たった" pron="たった" pa="0" pos="adv" jlpt="2" cn="只有" es="たった3年間で大学を卒業した" />
-	<ex	 word="単に" pron="たんに" pa="1" pos="adv" jlpt="2" cn="仅;单单" es="単に個人の考えですが" />
-</table>
-
-<table tag="potential">
-	<ex	 word="凡そ" pron="およそ" pa="0" pos="adv" jlpt="2" cn="不如" es="彼は元カレより、" />
-	<ex	 word="ざっと" pron="ざっと" pa="1" pos="adv" jlpt="2" cn="稍微" es="頭痛薬を飲んだら、かえってひどくなった。" />
-	<ex	 word="約" pron="たった" pa="0" pos="adv" jlpt="2" cn="稍微" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="大概" pron="たいがい" pa="0" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="大体" pron="だいたい" pa="0" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="大抵" pron="たいてい" pa="0" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-	<ex	 word="ほぼ" pron="ほぼ" pa="1" pos="adv" jlpt="2" cn="宁可" es="会えないくらいなら寧ろ死にたい" />
-</table>
-
-<table tag="with negative">
-	<ex	 word="さっぱり" pron="サッパリ" pa="3" pos="adv" jlpt="2" cn="完全不~" es="さっぱりわからない" />
-	<ex	 word="絶対に" pron="ぜったいに" pa="0" pos="adv" jlpt="2" cn="绝对不~" es="絶対に許されない" />
-	<ex	 word="遂に" pron="ついに" pa="1" pos="adv" jlpt="2" cn="最终还是没~" es="彼女はついに結婚しなかった" />
-	<ex	 word="どう" pron="ドウ" pa="1" pos="adv" jlpt="2" cn="也没特别~" es="壁にぶつかったが、どうということもなくて安心した。" />
-	<ex	 word="なかなか" pron="ナカナカ" pa="0" pos="adv" jlpt="2" cn="很=很难~" es="寒くて布団からなかなか出られない。" />
-	<ex	 word="はっきり" pron="ハッキリ" pa="0" pos="adv" jlpt="2" cn="清楚的;明确的=难以预测~" es="原因がはっきりしない病気は心配だ" />
-	<ex	 word="強いて" pron="しいて" pa="1" pos="adv" jlpt="2" cn="硬要~的话" es="強いて勧めてもしょうがない" />
-	<ex	 word="ちっとも" pron="ちっとも" pa="3" pos="adv" jlpt="2" cn="一点也不" es="ダイエット(diet)ているのに、ちっとも痩せてくれない。" />
-	<ex	 word="とても" pron="とても" pa="0" pos="adv" jlpt="2" cn="难以" es="私にはとてもできない神技です" />
-	<ex	 word="別に" pron="べつに" pa="0" pos="adv" jlpt="2" cn="没特别" es="別に嫌いなわけではないが、付き合いたいとも思わない" />
-	<ex	 word="ろくに" pron="ろくに" pa="2" pos="adv" jlpt="2" cn="没能好好地 平凡地" es="ろくに勉強もしないで遊んでばかりいる。＝一方だ" />
-	<ex	 word="余り" pron="*あまり" pa="0" pos="adv" jlpt="2" cn="不太~" es="引き篭もりはあまり好きではない。" />
-	<ex	 word="一概に" pron="いちがいに" pa="2" pos="adv" jlpt="1" cn="无法一致地；一概；无区别地" es="スマホは一概に悪いとは言えない" />
-	<ex	 word="決して" pron="けっして" pa="0" pos="adv" jlpt="2" cn="绝对(不) 断然(不)" es="あの地震の恐ろしさは決して忘れられない" />
-	<ex	 word="まさか" pron="まさか" pa="1" pos="adv" jlpt="2" cn="没想到" es="まさかあの大学に受かるとは思わなかった" />
-	<ex	 word="もう" pron="もう" pa="1" pos="adv" jlpt="2" cn="今后再也不" es="もう二度と行きたくない" />
-	<ex	 word="敢えて" pron="あえて" pa="1" pos="adv" jlpt="2" cn="不至于;不必" es="あなたがそこまで言うのなら、敢えて反対はしない" />
-	<ex	 word="嘗て" pron="かつて" pa="1" pos="adv" jlpt="2" cn="未尝有的" es="かつてなかった大事故です" />
-	<ex	 word="必ずしも" pron="かならずしも" pa="1" pos="adv" jlpt="2" cn="不一定" es="お金持ちは必ずしも幸せとは限らない／とは言えない" />
-	<ex	 word="未だ" pron="まだ" pa="1" pos="adv" jlpt="2" cn="尚未" es="まだ食べていません" />
-	<ex	 word="夢にも" pron="ゆめにも" pa="2" pos="adv" jlpt="2" cn="做梦都没" es="こちらでお会いできるとは夢にも思いませんでした／のを楽しみにしております。" />
-	<ex	 word="少しも" pron="すこしも" pa="2" pos="adv" jlpt="2" cn="一点也不" es="中古車にはすこしも興味がない" />
-	<ex	 word="そう" pron="そう" pa="1" pos="adv" jlpt="2" cn="没那么" es="郵便局はそう遠くないよ" />
-	<ex	 word="全然" pron="ぜんぜん" pa="0" pos="adv" jlpt="2" cn="完全不" es="英語は全然だめだ" />
-	<ex	 word="大して" pron="たいして" pa="0" pos="adv" jlpt="2" cn="也没" es="たいして働いてないのに、もう疲れたと言い出した" />
-	<ex	 word="滅多に" pron="めったに" pa="1" pos="adv" jlpt="2" cn="很少" es="タバコは滅多にすいません" />
-	<ex	 word="一向" pron="いっこうに" pa="3" pos="adv/NA" jlpt="2" cn="完全不" es="そのことについては一向に存じません。彼は一向関心を示さない。" />
-	<ex	 word="どうも" pron="どうも" pa="1" pos="adv" jlpt="2" cn="强调" es="" />
-</table>
-
-<table tag="with question">
-	<ex	 word="一体" pron="いったい" pa="0" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
-	<ex	 word="どう" pron="どう" pa="1" pos="adv" jlpt="2" cn="如何" es="どうしよう！" />
-	<ex	 word="どれほど" pron="どれほど" pa="0" pos="adv" jlpt="2" cn="多么地" es="" />
-	<ex	 word="何故" pron="なぜ" pa="1" pos="adv" jlpt="2" cn="为何" es="何故こんな結果になったの？" />
-	<ex	 word="果たして" pron="はたして" pa="2" pos="adv" jlpt="2" cn="到底~" es="はたして彼は来るのだろうか" />
-</table>
-
-<table tag="with condition">
-	<ex	 word="万一" pron="まんいち" pa="0" pos="adv" jlpt="2" cn="万一" es="万一失敗しても挫けるな。" />
-	<ex	 word="たとえ" pron="たとえ" pa="0" pos="adv" jlpt="2" cn="就算也" es="あなたのためなら、たとえ死んでもかまわない。" />
-	<ex	 word="もし" pron="もし" pa="1" pos="adv" jlpt="2" cn="最终还是没~" es="" />
-	<ex	 word="もしかすると" pron="もしかすると" pa="1" pos="adv" jlpt="2" cn="为何" es="もしかすると行かないかもしれない" />
-	<ex	 word="一旦" pron="いったん" pa="2" pos="adv" jlpt="2" cn="一旦~" es="一旦決心したら、必ず実行すべきだ" />
-</table>
-
-<table tag="with らしい　よう">
-	<ex	 word="いまにも" pron="いまにも" pa="1" pos="adv" jlpt="2" cn="到底~" es="雨が今にも降りそうだ。" />
-	<ex	 word="いかにも" pron="いかにも" pa="2" pos="adv" jlpt="2" cn="简直就像" es="あの俳優はいかにも大病の後らしい。" />
-	<ex	 word="さも" pron="さも" pa="1" pos="adv" jlpt="2" cn="就好像~似的" es="知らないのに、さも知っているように述べている" />
-	<ex	 word="ちょうど" pron="ちょうど" pa="0" pos="adv" jlpt="2" cn="好似" es="この翡翠の形" />
-	<ex	 word="丸で" pron="まるで" pa="0" pos="adv" jlpt="2" cn="完全好像" es="まるで見てきたかのように述べている" />
-</table>
-
-<table tag="with desire">
-	<ex	 word="是非" pron="ぜひ" pa="1" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
-	<ex	 word="どうか" pron="いかにも" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
-	<ex	 word="どうぞ" pron="どうぞ" pa="1" pos="adv" jlpt="2" cn="请" es="どうぞよろしくお願いいたします。" />
-	<ex	 word="何とか" pron="なんとか" pa="1" pos="adv" jlpt="2" cn="无论如何都要~" es="" />
-</table>
-
-<table tag="with end">
-	<ex	 word="とっくに" pron="とっくに" pa="1" pos="adv" jlpt="2" cn="到底~" es="" />
-	<ex	 word="もう" pron="もう" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
-</table>
-
-<table tag="with end">
-	<ex	 word="あいにく" pron="とっくに" pa="1" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
-	<ex	 word="あんまり・あまり" pron="もう" pa="2" pos="adv" jlpt="2" cn="不太" es="どうかゆるしを下さい" />
-	<ex	 word="居ながらにして" pron="もう" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
-	<ex	 word="流石" pron="さすが" pa="0" pos="adv" jlpt="2" cn="真不愧" es="どうかゆるしを下さい" />
-	<ex	 word="初めて" pron="はじめて" pa="2" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
-</table>
-
-<table tag="with mood">
-	<ex	 word="どうも" pron="どうも" pa="1" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
-	<ex	 word="本当に" pron="ほんとうに" pa="2" pos="adv" jlpt="2" cn="不太" es="" />
-	<ex	 word="誠に" pron="まことに" pa="0" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
-	<ex	 word="正に" pron="まさに" pa="0" pos="adv" jlpt="2" cn="真不愧" es="どうかゆるしを下さい" />
-	<ex	 word="まったく" pron="まったく" pa="2" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
-	<ex	 word="殊に" pron="ことに" pa="2" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
-	<ex	 word="特に" pron="とくに" pa="1" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
-	<ex	 word="特別" pron="とくべつ" pa="0" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
-	<ex	 word="一番" pron="いちばん" pa="0" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
-	<ex	 word="最も" pron="もっとも" pa="3" pos="adv" jlpt="2" cn="首次" es="どうかゆるしを下さい" />
-</table>
-
-<table tag="with mood">
-	<ex	 word="どうも" pron="どうも" pa="1" pos="adv" jlpt="2" cn="到底~" es="お前は一体どんなつもりなの？" />
-	<ex	 word="本当に" pron="ほんとうに" pa="2" pos="adv" jlpt="2" cn="不太" es="" />
-	<ex	 word="決まって" pron="まことに" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
-	<ex	 word="絶対" pron="ぜったい" pa="0" pos="adv" jlpt="2" cn="真不愧" es="どうかゆるしを下さい" />
-	<ex	 word="勿論" pron="もちろん" pa="2" pos="adv" jlpt="2" cn="不用说" es="どうかゆるしを下さい" />
-</table>
-
-<table tag="with assumption">
-	<ex	 word="恐らく" pron="おそらく" pa="2" pos="adv" jlpt="2" cn="恐怕~" es="彼女は恐らく断るだろう" />
-	<ex	 word="確か" pron="ほんとうに" pa="2" pos="adv" jlpt="2" cn="不太" es="" />
-	<ex	 word="多分" pron="まことに" pa="2" pos="adv" jlpt="2" cn="无论如何" es="どうかゆるしを下さい" />
-	<ex	 word="どうやら" pron="どうやら" pa="1" pos="adv" jlpt="2" cn="总感觉" es="どうやら雨が降る" />
-</table>
-
-<table tag="with result">
-	<ex	 word="何れ" pron="*いずれ" pa="0" pos="adv" jlpt="2" cn="反正~" es="内閣はいずれ改造されるはずだ。" />
-	<ex	 word="遅かれ早かれ" pron="おそかれはやかれ" pa="5" pos="adv" jlpt="2" cn="迟早" es="無理しすぎて、遅かれ早かれ病気になる。" />
-	<ex	 word="どうせ" pron="どうせ" pa="0" pos="adv" jlpt="2" cn="反正" es="どうかゆるしを下さい" />
-	<ex	 word="どっちみち" pron="どっちみち" pa="0" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
-</table>
-
-<table tag="with result">
-	<ex	 word="いよいよ" pron="いよいよ" pa="2" pos="adv" jlpt="2" cn="期待~" es="内閣はいずれ改造されるはずだ。" />
-	<ex	 word="結局" pron="けっきょく" pa="5" pos="adv" jlpt="2" cn="终究;归根到底" es="無理しすぎて、遅かれ早かれ病気になる。" />
-	<ex	 word="遂に" pron="ついに" pa="1" pos="adv" jlpt="2" cn="反正" es="どうかゆるしを下さい" />
-	<ex	 word="とうとう" pron="とうとう" pa="1" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
-	<ex	 word="どうにか" pron="どうにか" pa="1" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
-	<ex	 word="やっと" pron="やっと" pa="0" pos="adv" jlpt="2" cn="终于" es="やっと正社員になれた" />
-	<ex	 word="やはり" pron="やはり" pa="2" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
-	<ex	 word="ようやく" pron="ようやく" pa="0" pos="adv" jlpt="2" cn="反正" es="ようやく五時の電車に間に合った。" />
-</table>
-
-<table tag="with order/ordinary">
-	<ex	 word="代わる代わる" pron="かわるがわる" pa="4" pos="adv" jlpt="2" cn="轮流~" es="" />
-	<ex	 word="順に" pron="じゅんに" pa="1" pos="adv" jlpt="2" cn="逐渐。依次" es="無理しすぎて、遅かれ早かれ病気になる。" />
-	<ex	 word="第一に" pron="だいいちに" pa="1" pos="adv" jlpt="2" cn="反正" es="どうかゆるしを下さい" />
-	<ex	 word="まず" pron="まず" pa="1" pos="adv" jlpt="2" cn="首先" es="この手抜き工事はどっちみちいつかばれるよ。" />
-	<ex	 word="又" pron="また" pa="0" pos="adv" jlpt="2" cn="反正" es="この手抜き工事はどっちみちいつかばれるよ。" />
-</table>
-
-<table tag="with order/ordinary">
-	<ex	 word="まだ" pron="かわるがわる" pa="4" pos="adv" jlpt="2" cn="仍然" es="内閣はいずれ改造されるはずだ。" />
-	<ex	 word="相変わらず" pron="あいかわらず" pa="1" pos="adv" jlpt="2" cn="仍然" es="無理しすぎて、遅かれ早かれ病気になる。" />
-	<ex	 word="依然として" pron="いぜんとして" pa="0" pos="adv" jlpt="2" cn="依然" es="どうかゆるしを下さい" />
-	<ex	 word="やはり" pron="やはり" pa="2" pos="adv" jlpt="2" cn="依然" es="この手抜き工事はどっちみちいつかばれるよ。" />
-</table>
-
-<table tag="with direction or distance">
-	<ex	 word="直ぐ" pron="すぐ" pa="1" pos="adv" jlpt="2" cn="仍然" es="内閣はいずれ改造されるはずだ。" />
-	<ex	 word="ずっと" pron="ずっと" pa="0" pos="adv" jlpt="2" cn="持续/一直" es="この道をずっと行くと、駅にぶつかります。" />
-	<ex	 word="遥々" pron="はるばる" pa="0" pos="adv" jlpt="2" cn="远远" es="一人ではるばる東京まで訪ねた。" />
-	<ex	 word="真っ直ぐ" pron="まっすぐ" pa="3" pos="adv" jlpt="2" cn="一直" es="この手抜き工事はどっちみちいつかばれるよ。" />
-</table>
-
-<table tag="with 	in other words/ namely">
-	<ex	 word="結局" pron="けっきょく" pa="1" pos="adv" jlpt="2" cn="仍然" es="内閣はいずれ改造されるはずだ。" />
-	<ex	 word="詰まり" pron="つまり" pa="1" pos="adv" jlpt="2" cn="总而言之" es="この道をずっと行くと、駅にぶつかります。" />
-	<ex	 word="要するに" pron="ようするに" pa="3" pos="adv" jlpt="2" cn="总而言之" es="一人ではるばる東京まで訪ねた。" />
-	<ex	 word="例えば" pron="たとえば" pa="2" pos="adv" jlpt="2" cn="例如" es="この手抜き工事はどっちみちいつかばれるよ。" />
-</table>
-
-<table tag="with 	in other words/ namely">
-	<ex	 word="生憎" pron="*あいにく" pa="0" pos="adv" jlpt="2" cn="不巧" es="内閣はいずれ改造されるはずだ。" />
-	<ex	 word="如何" pron="*いかが" pa="2" pos="adv" jlpt="2" cn="如何" es="この道をずっと行くと、駅にぶつかります。" />
-	<ex	 word="お陰様で" pron="おかげさまで" pa="3" pos="adv" jlpt="2" cn="托您的福" es="お陰様で、勉強も順調に進んでいます。" />
-	<ex	 word="くれぐれも" pron="くれぐれも" pa="2" pos="adv" jlpt="2" cn="好好地" es="くれぐれもお体を大切に・お体ご自愛下さい。" />
-	<ex	 word="よく" pron="よく" pa="1" pos="adv" jlpt="2" cn="太好了" es="よくいらしてくださいました。" />
-	<ex	 word="宜しく" pron="*よろしく" pa="0" pos="adv" jlpt="2" cn="问候" es="奥様によろしく（お伝えください）。" />
-</table>
-
-<table tag="with 	in other words/ namely">
-	<ex	 word="一応" pron="いちおう" pa="1" pos="adv" jlpt="2" cn="大致，大体" es="一応最初から最後まで目を通して見ました。" />
-	<ex	 word="色々" pron="いろいろ" pa="0" pos="adv" jlpt="2" cn="方方面面" es="色々お世話になりました。" />
-	<ex	 word="主に" pron="おもに" pa="1" pos="adv" jlpt="2" cn="主要;多半" es="主に男性だが、女性客も年々増えている。" />
-	<ex	 word="概して" pron="がいして" pa="1" pos="adv" jlpt="2" cn="一般，大体" es="" />
-	<ex	 word="実は" pron="じつは" pa="2" pos="adv" jlpt="2" cn="老实说，其实" es="この手抜き工事はどっちみちいつかばれるよ。" />
-</table>

@@ -235,14 +235,18 @@
 	
 	<kanji	id="用" freq="136" jlpt="4" gr="2">
 		<r on="ヨウ" >
-			<ex	 word="用事" pron="ようじ" pa="0" pos="N" jlpt="4" />
+			<ex	 word="用事" pron="ようじ" pa="0" pos="N" jlpt="4" cn="应该做的事"/>
+			<ex	 word="急用" pron="きゅうよう" pa="0" pos="N" cn="急事;要紧事"/>
 			<ex	 word="利用" pron="りよう" pa="0" pos="N" />
 			<ex	 word="使用" pron="しよう" pa="0" pos="N" />
 			<ex	 word="採用" pron="さいよう" pa="0" pos="N" />
 			<ex	 word="用語" pron="ようご" pa="0" pos="N" jlpt="2" />
 			<ex	 word="用途" pron="ようと" pa="0" pos="N" jlpt="2" />
+			
+			<ex	 word="用意" pron="ようい" pa="0" pos="N" jlpt="2" cn="准备，预备"/>
+			<ex	 word="用心" pron="ようじん" pa="0" pos="N" jlpt="2" cn="注意，小心，提防，留神，留意，留心，警惕，警戒" />
 		</r>
-		<r kun="もちいる" kk="用いる" pa="3" pos="t1" jlpt="3" >
+		<r kun="もちいる" kk="用いる" pa="3" pos="t1" jlpt="3"  >
 		</r>
 	</kanji>
 	

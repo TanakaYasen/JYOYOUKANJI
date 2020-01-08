@@ -405,10 +405,22 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="咥" freq="4290" >
+		<r kun="咥える" kk="くわえる" pa="2" pos="t1" jlpt="2" cn="衔, 叼" >
+			<e ph="タバコを咥える・指を咥える" />
+		</r>
+	</kanji>
+	
 	<kanji	id="喉" freq="1049" jlpt="3" gr="4">
 		<r on="コウ" >
 		</r>
 		<r kun="のど" kk="喉" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="嘴" freq="2743" >
+		<r kun="くちばし" kk="嘴" pa="0" pos="N" cn="喙" eng="beak" >
+			<e ph="嘴が黄色い・まだまだ嘴が黄色くて頼りにならない・嘴を挟む(插嘴)" />
 		</r>
 	</kanji>
 	
@@ -432,6 +444,16 @@
 		<r kun="かむ" kk="噛む" pa="0" pos="N" jlpt="1" ref="咬む" >
 		</r>
 	</kanji>
+	
+	<kanji	id="揃" freq="1454" jlpt="3" gr="4">
+		<r kun="そろえる" kk="揃える" pa="3" pos="t1" jlpt="2" cn="备齐 凑齐; 使一致使整齐" >
+			<e ph="条件を揃える・顔を揃える・声を揃える・靴を揃える" />
+		</r>
+		<r kun="そろう" kk="揃う" pa="2" pos="j5" jlpt="2" cn="齐全齐备;聚齐到齐;(步调)整齐;成对" >
+			<e ph="" />
+		</r>
+	</kanji>
+	
 	
 	<kanji	id="渚" freq="2988" jlpt="3" gr="4">
 		<r on="ルイ" >

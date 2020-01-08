@@ -70,10 +70,10 @@
 			<ex	 word="当該" pron="とうがい" pa="0" pos="" jlpt=""/>
 		</r>
 		<r kun="あたる" kk="当たる" pa="0" pos="j5" jlpt="3" cn="碰上; 猜中">
-			<e ph="雨が窓に当たる。この頃は天気予報があまり当たらない。当たりました。" >
+			<e ph="雨が窓に当たる。この頃は天気予報があまり当たらない。当たりました。" />
 		</r>
 		<r kun="あ`てる" kk="当てる" pa="0" pos="t1" jlpt="3" cn="砸, 打中; 使接触; 晒; 中奖; 猜测" >
-			<e ph="ボウルを壁に当てる。受話器を耳に当てる。日光に当てて乾かす。一等賞を当てる。当ててみてください" >
+			<e ph="ボウルを壁に当てる。受話器を耳に当てる。日光に当てて乾かす。一等賞を当てる。当ててみてください" />
 		</r>
 	</kanji>
 	
@@ -390,10 +390,10 @@
 		<r on="ト" >
 			<ex	 word="音頭" pron="おんど" pa="1" pos="" />
 		</r>
-		<r kun="あたま" kk="頭" pa="3" pos="" jlpt="4" >
+		<r kun="あたま" kk="頭" pa="32" pos="N" jlpt="5" >
 			<ex	 word="頭打ち" pron="あたまうち" pa="0" pos="N" cn="达到顶点" />
 		</r>
-		<r kun="かしら" kk="頭" pa="3" pos="" jlpt="4" >
+		<r kun="かしら" kk="頭" pa="3" pos="N" jlpt="5" >
 			<ex	 word="頭文字" pron="かしらもじ" pa="0" pos="N" cn="首字母"/>
 			<ex	 word="出会い頭" pron="であいがしら" pa="4" pos="N" cn="迎头碰上"/>
 		</r>
@@ -571,7 +571,7 @@
 	<kanji	id="得" freq="139" jlpt="3" gr="4">
 		<r on="トク" >
 			<ex	 word="所得" pron="しょとく" pa="0" pos="N" jlpt="1" cn="收入"/>
-			<ex	 word="説得" pron="せっとく" pa="0" pos="N/ts" jlpt="1" cn="说服"/>
+			<ex	 word="説得" pron="せっとく" pa="0" pos="N/ts" jlpt="1" cn="说服" ph="説得力"/>
 			<ex	 word="お買い得" pron="とくめい" pa="0" pos="N" cn="值得买"/>
 			<ex	 word="得意" pron="とくい" pa="1" pos="N" jlpt="3"/>
 		</r>
@@ -775,6 +775,7 @@
 		<r on="ナン" >
 			<ex	 word="柔軟" pron="じゅうなん" pa="0" pos="NA" jlpt="1" />
 			<ex	 word="軟化" pron="なんか" pa="0" pos="N/jts" />
+			<ex	 word="軟派" pron="なんぱ" pa="01" pos="N/jts" cn="搭讪;调情" />
 		</r>
 		<r kun="やわらか" kk="柔らか" pa="3" pos="NA" ></r>
 		<r kun="やわらかい" kk="柔らかい" pa="4" pos="adj" jlpt="4" ></r>

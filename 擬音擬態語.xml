@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
-	熟字訓	と	当て字
+	擬声語・擬態語
 -->
 <Dict>
 	
 	<table tag="frequence">
 		<ex	 word="からから" pron="カラカラ" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="ぐるぐる" pron="グルグル" pa="1" pos="adv" jlpt="2" cn="一圈一圈不停旋转的样子" />
 		<ex	 word="ぺらぺら" pron="ペラペラ" pa="10" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="すらすら" pron="スラスラ" pa="1" pos="adv" jlpt="2" cn="流利;顺利" eng="smoothly; easily" ph="すらすらと答える" />
 		<ex	 word="きらきら" pron="キラキラ" pa="1" pos="adv" jlpt="2" cn="闪耀" eng="sparking" ph="夜空に星がきらきらとまたたいている"/>

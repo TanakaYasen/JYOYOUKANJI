@@ -37,7 +37,7 @@
 		<r sp="きのう" word="昨日" pa="2" pos="N" />
 		<r sp="きょう" word="今日" pa="1" pos="N" />
 		<r sp="くだもの" word="果物" pa="2" pos="N" />
-		<r sp="くろうと" word="玄人" pa="1" pos="N" cn="经验丰富的内行人" />
+		<r sp="くろうと" word="玄人" pa="1" pos="N" cn="经验丰富的内行人" jlpt="1" ref="プロ(profession)・ベテラン(veteran)"/>
 		<r sp="けさ" word="今朝" pa="1" pos="N" />
 		<r sp="けしき" word="景色" pa="1" pos="N" />
 		<r sp="ここち" word="心地" pa="0" pos="N" cn="感觉" />
@@ -58,7 +58,7 @@
 		<r sp="じゅず" word="数珠" pa="0" pos="N" />
 		<r sp="じょうず" word="上手" pa="3" pos="NA" />
 		<r sp="しらが" word="白髪" pa="3" pos="N" />
-		<r sp="しろうと" word="素人" pa="1" pos="N" cn="没经验的外行人" />
+		<r sp="しろうと" word="素人" pa="1" pos="N" cn="没经验的外行人" ref="アマチュア(amateur)" />
 		<r sp="しわす" word="師走" pa="0" pos="N" cn="年底" />
 		<r sp="すきや" word="数奇屋・数寄屋" pa="0" pos="N" cn="茶室" />
 		<r sp="すもう" word="相撲" pa="0" pos="N" />

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- 
-	熟字訓	と	当て字
+	動詞
 -->
 <Dict>
 	
@@ -9,7 +9,6 @@
 	</table>
 	
 	<table tag="daily">
-		<ex	 word="" pron="じわる" pa="0" pos="j5" cn="真香" />
 		<ex	 word="じわる" pron="じわる" pa="0" pos="j5" cn="真香" />
 		<ex	 word="サボる" pron="サボる" pa="2" pos="t5" jlpt="1" cn="怠工，旷课，逃学" ph="授業をさぼる" />
 	</table>
@@ -18,6 +17,13 @@
 		<ex	 word="奢る" pron="おごる" pa="0" pos="j5" cn="奢侈浪费;挑剔;请客做东" />
 		<ex	 word="齧る" pron="かじる" pa="2" pos="t5" jlpt="2" cn="啃咬;稍微懂得一点" />
 		<ex	 word="溢れる" pron="あふれる" pa="3" pos="j1" jlpt="2" ph="" cn="满,溢出;充满, 洋溢着" />
+		<ex	 word="くっ付く" pron="くっつく" pa="3" pos="j5" cn="" >
+			<e ph="ガムが服にくっつく・ぴったりくっついて座る" />
+		</ex>
+		<ex	 word="くっ付ける" pron="くっつける" pa="4" pos="t1" cn="把...黏上; 拉拢,撮合" >
+			<e ph="割れた花瓶を接着剤でくっ付ける・胸に名札（なふだ）をくっつける・味方にくっつける" />
+		</ex>
+		<ex	 word="貶す" pron="けな`す" pa="0" pos="t5" jlpt="1" cn="贬损,诋毁,挖苦" eng="to disparage" ph="~を貶す" ref="褒める" />
 	</table>
 	
 	<table tag="JLPT">

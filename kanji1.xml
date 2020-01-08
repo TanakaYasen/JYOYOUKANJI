@@ -74,8 +74,8 @@
 			<ex	 word="気圧" pron="きあつ" pa="0" pos="N" jlpt="2" />
 			<ex	 word="圧力" pron="あつりょく" pa="0" pos="N" jlpt="1" eng="pressure" />
 			<ex	 word="圧迫" pron="あっぱく" pa="0" pos="N" jlpt="1" eng="pressure" />
-			<ex	 word="圧縮" pron="あっしゅく" pa="0" pos="N/ts" jlpt="2" cn="压缩;缩简文句;缩减(开支)"
-				<e ph="気体を圧縮する・原稿を圧縮する・予算を圧縮する">
+			<ex	 word="圧縮" pron="あっしゅく" pa="0" pos="N/ts" jlpt="2" cn="压缩;缩简文句;缩减(开支)" >
+				<e ph="気体を圧縮する・原稿を圧縮する・予算を圧縮する" />
 			</ex>
 		</r>
 		<r nfu="オウ・圧す(おす)・圧さえる(おさえる)・圧す(へす)"></r>
@@ -340,11 +340,13 @@
 	<kanji	id="違" freq="220" jlpt="3" gr="8">
 		<r on="イ" >
 			<ex	 word="違反" pron="いはん" pa="0" pos="N/ts" jlpt="3" eng="violation; offense" />
-			<ex	 word="相違" pron="そうい" pa="0" pos="N/ts" jlpt="2" cn="不同差异" />
+			<ex	 word="相違" pron="そうい" pa="0" pos="N/ts" jlpt="2" cn="不同,差异,分歧" ga="に相違ない">
+				<e ph="二つの報告書には大きな相違がある／相違ない・犯人はあの人に相違ない" />
+			</ex>
 			<ex	 word="違法" pron="いほう" pa="0" pos="N/js" />
 			<ex	 word="違和感" pron="いわかん" pa="0" pos="N" eng="uncomfortable feeling" />
 		</r>
-		<r kun="ちがう" kk="違う" pa="0" pos="j5" jlpt="5" eng="不同差别;/错误;/对不上有出入" >
+		<r kun="ちがう" kk="違う" pa="0" pos="j5" jlpt="5" eng="不同差别;/错误;/对不上有出入" ga="に違いない">
 			<ex	 word="間違い" pron="まちがい" pa="3" pos="N" jlpt="3" cn="错误/过失" eng="error;mistake" />
 		</r>
 	</kanji>
@@ -461,7 +463,7 @@
 		</r>
 		<r kun="ひ`く" kk="引く" pa="0" pos="t5" jlpt="5" eng="to pull/to draw; to attack" >
 			<ex	 word="取引" pron="とりひき" pa="2" pos="N" cn="交易;谈判"/>
-			<ex	 word="引越し" pron="ひっこし" pa="0" pos="N/js" jlpt="2" cn="搬家" cn="changing residence"/>
+			<ex	 word="引越し" pron="ひっこし" pa="0" pos="N/js" jlpt="2" cn="搬家" eng="changing residence"/>
 			<ex	 word="引き算" pron="ひきざん" pa="2" pos="N" eng="subtraction"/>
 			<ex	 word="引き上げる" pron="ひきあげる" pa="4" pos="t1" jlpt="1" />
 			<ex	 word="引き下げる" pron="ひきさげる" pa="4" pos="t1" jlpt="1" />
@@ -900,7 +902,10 @@
 			<ex	 word="沿線" pron="えんせん" pa="0" pos="N" jlpt="1" />
 			<ex	 word="沿海" pron="えんかい" pa="0" pos="N" />
 		</r>
-		<r kun="そ`う" kk="沿う" pa="0" pos="j5" jlpt="1" >
+		<r kun="そ`う" kk="沿う" pa="0" pos="j5" jlpt="1" ga="に沿って">
+			<ex	 word="～沿い" pron="～ぞい" pa="0" pos="sf" cn="接尾 沿着" >
+				<e ph="川沿い・山沿い" />
+			</ex>
 		</r>
 		<r nfu="ふち"></r>
 	</kanji>

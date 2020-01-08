@@ -203,7 +203,9 @@
 	<kanji	id="契" freq="2096" jlpt="1" gr="8">
 		<r on="ケイ" >
 			<ex	 word="契約" pron="けいやく" pa="0" pos="N" jlpt="3" eng="contract" />
-			<ex	 word="契機" pron="けいき" pa="1" pos="N" jlpt="1" eng="opportunity;chance"/>
+			<ex	 word="契機" pron="けいき" pa="1" pos="N" jlpt="1" jp="きっかけ" cn="契机;转机" eng="opportunity;chance" ga="～を契機に" >
+				<e ph="病気を契機にタバコを止めた・明治維新を契機にして、日本は近代国家への道を歩み始めた" />
+			</ex>
 		</r>
 		<r kun="ちぎる" kk="契る" pa="2" pos="*t5" jlpt="1" cn="约定;结为夫妇"></r>
 	</kanji>
@@ -248,7 +250,9 @@
 		<r on="ケイ" >
 			<ex	 word="掲示" pron="けいじ" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="かか`げる" kk="掲げる" pa="0" pos="t1" jlpt="1"></r>
+		<r kun="かか`げる" kk="掲げる" pa="0" pos="t1" jlpt="1" ph="～に～を掲げる" >
+			<e ph="看板を掲げる・新聞に広告を掲げる" />
+		</r>
 	</kanji>
 	
 	<kanji	id="渓" freq="2124" jlpt="1" gr="8">
@@ -387,7 +391,7 @@
 			<ex	 word="警官" pron="けいかん" pa="0" pos="N" jlpt="5" />
 			<ex	 word="警察" pron="けいさつ" pa="0" pos="N" jlpt="4" />
 			<ex	 word="警告" pron="けいこく" pa="0" pos="N/ts" jlpt="3" />
-			<ex	 word="警備" pron="けいび" pa="1" pos="N/ts" jlpt="2" />
+			<ex	 word="警備" pron="けいび" pa="1" pos="N/ts" jlpt="2" cn="警戒" />
 			<ex	 word="警戒" pron="けいかい" pa="0" pos="N/ts" jlpt="1" />
 		</r>
 		<r kun="いまし`める" kk="警める" pa="4" pos="t1" ref="戒"></r>
@@ -445,7 +449,9 @@
 	<kanji	id="劇" freq="558" jlpt="2" gr="6">
 		<r on="ゲキ" >
 			<ex	 word="劇場" pron="げきじょう" pa="0" pos="N" jlpt="3" eng="theatre"/>
-			<ex	 word="劇団" pron="げきだん" pa="0" pos="N" jlpt="1" eng="troupe" />
+			<ex	 word="劇団" pron="げきだん" pa="0" pos="N" jlpt="1" eng="troupe" cn="剧团,戏班">
+				<e ph="劇団を組む" />
+			</ex>
 			<ex	 word="悲劇" pron="ひげき" pa="1" pos="N" jlpt="3" eng="tragedy"/>
 			<ex	 word="劇化" pron="げきか" pa="0" pos="N/ts" cn="戏剧化" />
 		</r>
@@ -466,8 +472,9 @@
 	<kanji	id="激" freq="850" jlpt="1" gr="6">
 		<r on="ゲキ" >
 			<ex	 word="刺激" pron="しげき" pa="0" pos="ts" jlpt="3" />
-			<ex	 word="激増" pron="げきぞう" pa="0" pos="js" jlpt="2" />
-			<ex	 word="激辛" pron="げきから" pa="0" pos="N" />
+			<ex	 word="激増" pron="げきぞう" pa="0" pos="js" jlpt="2" jp="激しく増える" />
+			<ex	 word="激辛" pron="げきから" pa="0" pos="N" cn="超辣" />
+			<ex	 word="激安" pron="げきやす" pa="0" pos="N" cn="超便宜" jp="驚安" />
 		</r>
 		<r kun="はげ`しい" kk="激しい" pa="3" pos="adj" jlpt="3" ref="劇/烈"> </r>
 	</kanji>
@@ -480,7 +487,6 @@
 	
 	<kanji	id="欠" freq="1012" jlpt="3" gr="4">
 		<r on="ケツ" >
-			<ex	 word="欠陥" pron="けっせき" pa="3" pos="N" jlpt="3" eng="defect"/>
 			<ex	 word="欠席" pron="けっせき" pa="3" pos="N/js" jlpt="3" eng="absence"/>
 		</r>
 		<r kun="かける" kk="欠ける" pa="0" pos="j1" jlpt="3"></r>
@@ -507,9 +513,11 @@
 		<r on="ケツ" >
 			<ex	 word="決議" pron="けつぎ" pa="1" pos="N/ts" jlpt="1" />
 			<ex	 word="決定" pron="けってい" pa="0" pos="N/ts" jlpt="3" />
+			<ex	 word="決算" pron="けっさん" pa="1" pos="N/ts" jlpt="1" cn="结算;清账" />
+			<ex	 word="決行" pron="けっこう" pa="0" pos="N/ts" jlpt="3" />
 		</r>
-		<r kun="きめる" kk="決める" pa="0" pos="t1" jlpt="4"> </r>
-		<r kun="きまる" kk="決まる" pa="0" pos="j5" jlpt="4"> </r>
+		<r kun="き`める" kk="決める" pa="0" pos="t1" jlpt="4"> </r>
+		<r kun="き`まる" kk="決まる" pa="0" pos="j5" jlpt="4" ga="に決まっている"> </r>
 	</kanji>
 	
 	<kanji	id="結" freq="199" jlpt="1" gr="4">
@@ -524,7 +532,7 @@
 	
 	<kanji	id="傑" freq="1818" jlpt="1" gr="8">
 		<r on="ケツ" >
-			<ex	 word="傑作" pron="けっさく" pa="0" pos="N"  jlpt="2" />
+			<ex	 word="傑作" pron="けっさく" pa="0" pos="N" jlpt="2" jp="名作" />
 		</r>
 	</kanji>
 	
@@ -844,6 +852,8 @@
 		</r>
 		<r kun="もと" kk="元" pa="1" pos="N" jlpt="3" ref="本/素/基">
 			<ex	 word="地元" pron="じもと" pa="0" pos="N" jlpt="1" />
+			<ex	 word="足元" pron="あしもと" pa="34" pos="N" />
+			<ex	 word="口元" pron="くちもと" pa="0" pos="N" cn="嘴边嘴角" />
 		</r>
 	</kanji>
 	
@@ -874,8 +884,9 @@
 			<ex	 word="言語" pron="げんご" pa="1" pos="N" />
 		</r>
 		<r on="ゴン" >
-			<ex	 word="過言" pron="かごん" pa="0" pos="N" jlpt="5" cn="夸张，说得过火; 言过其实" />
-			<ex	 word="伝言" pron="でんごん" pa="0" pos="N" jlpt="5" />
+			<ex	 word="過言" pron="かごん" pa="0" pos="N" cn="夸张，说得过火; 言过其实" />
+			<ex	 word="伝言" pron="でんごん" pa="0" pos="N" jlpt="1" cn="带口信" />
+			<ex	 word="無言" pron="むごん" pa="0" pos="N" jlpt="1" cn="无言，不说话，沉默" />
 		</r>
 		<r kun="いう" kk="言う" pa="0" pos="jt5" jlpt="5" >
 			<ex	 word="言わば" pron="*いわば" pa="2" pos="adv" cn="说起来,好比是,可以说是,可谓是,从某种意义上说" ref="いわゆる">
@@ -958,6 +969,9 @@
 			<ex	 word="削減" pron="さくげん" pa="0" pos="N" jlpt="1" eng="cut; reduction" />
 			<ex	 word="減速" pron="げんそく" pa="1" pos="N" />
 			<ex	 word="減益" pron="げんえき" pa="0" pos="N" />
+			<ex	 word="増減" pron="ぞうげん" pa="0" pos="N/jts" jlpt="2" >
+				<e ph="増減の幅・旅行者の人数は季節によって増減する" />
+			</ex>
 		</r>
 		<r kun="へ`る" kk="減る" pa="0" pos="j5" jlpt="3">	</r>
 		<r kun="へ`らす" kk="減らす" pa="0" pos="t5" jlpt="3" >	</r>

@@ -559,7 +559,7 @@
 			<ex	 word="立候補" pron="りっこうほ" pa="3" pos="N" />
 		</r>
 		<r kun="おぎな`う" kk="補う" pa="3" pos="t5" jlpt="2" cn="补充;弥补;赔偿" ref="償う">
-			<e ph="説明を補う・赤字を補う" />
+			<e ph="説明を補う・赤字を補う・欠陥／短所を補う" />
 		</r>
 	</kanji>
 	
@@ -612,7 +612,7 @@
 			<ex	 word="暮色" pron="ぼしょく" pa="0" pos="N" jlpt="3" />
 			<ex	 word="歳暮" pron="せいぼ" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="くれる" kk="暮れる" pa="0" pos="t1" jlpt="4" >
+		<r kun="くれる" kk="暮れる" pa="0" pos="j1" jlpt="4" cn="天黑,入夜; 即将过去; 长时间处于..中; 不知如何是好" >
 		</r>
 		<r kun="くらす" kk="暮らす" pa="0" pos="j5" jlpt="5" cn="生活">
 		</r>
@@ -855,7 +855,7 @@
 		<r on="ホウ" >
 			<ex	 word="褒美" pron="ほうび" pa="0" pos="N" jlpt="1" eng="reward" />
 		</r>
-		<r kun="ほめる" kk="褒める" pa="2" pos="t1" jlpt="4" eng="to praise">
+		<r kun="ほ`める" kk="褒める" pa="2" pos="t1" jlpt="4" cn="称赞,表扬,夸奖" eng="to praise" ref="貶す">
 		</r>
 	</kanji>
 	
