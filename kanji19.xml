@@ -360,8 +360,8 @@
 	
 	<kanji	id="評" freq="580" jlpt="1" gr="5">
 		<r on="ヒョウ" >
-			<ex	 word="評価" pron="ひょうか" pa="1" pos="N" jlpt="3" />
-			<ex	 word="評判" pron="ひょうばん" pa="0" pos="N" jlpt="3" />
+			<ex	 word="評価" pron="ひょうか" pa="1" pos="N" jlpt="3" ph="評価が高い／低い" />
+			<ex	 word="評判" pron="ひょうばん" pa="0" pos="N" jlpt="3" cn="口碑"/>
 			<ex	 word="批評" pron="ひひょう" pa="0" pos="N" />
 		</r>
 	</kanji>
@@ -434,7 +434,6 @@
 		<r on="ヒン" >
 			<ex	 word="作品" pron="さくひん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="食品" pron="しょくひん" pa="0" pos="N" jlpt="3" />
-			<ex	 word="上品" pron="じょうひん" pa="3" pos="N" />
 		</r>
 		<r kun="しな" kk="品" pa="0" pos="N" jlpt="1">
 			<ex	 word="品物" pron="しなもの" pa="0" pos="N" />

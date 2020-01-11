@@ -39,9 +39,11 @@
 			<ex	 word="片栗粉" pron="かたくりこ" pa="3" pos="N" />
 			<ex	 word="小麦粉" pron="こむぎこ" pa="3" pos="N" />
 		</r>
-		<r kun="こな" kk="粉" pa="2" pos="N" jlpt="3" >
+		<r kun="こな" kk="粉" pa="2" pos="N" jlpt="3" cn="粉末" >
 			<ex	 word="粉雪" pron="こなゆき" pa="2" pos="N" />
-			<ex	 word="粉々" pron="こなごな" pa="0" pos="NA" jlpt="1" />
+			<ex	 word="粉々" pron="こなごな" pa="2" pos="NA" jlpt="1" >
+				<e ph="ガラスが粉々に砕ける" />
+			</ex>
 		</r>
 	</kanji>
 	
@@ -249,6 +251,8 @@
 			<ex	 word="日柄" pron="ひがら" pa="0" pos="N" cn="日子的吉凶"/>
 			<ex	 word="手柄" pron="てがら" pa="3" pos="N" cn="功劳;勋绩"/>
 			<ex	 word="身柄" pron="みがら" pa="0" pos="N" cn="身份"/>
+			<ex	 word="間柄" pron="あいだがら" pa="0" pos="N" cn="(人际)交际"/>
+			<ex	 word="事柄" pron="ことがら" pa="0" pos="N" cn="事态"/>
 		</r>
 		<r kun="え" kk="柄" pa="0" pos="N" jlpt="3" >
 			<ex	 word="傘の柄" pron="かさのえ" pa="0" pos="N" />
@@ -311,6 +315,7 @@
 			<ex	 word="煎餅" pron="せんべい" pa="0" pos="N" />
 		</r>
 		<r kun="もち" kk="餅" pa="0" pos="N" jlpt="2" >
+			<e ph="さすが餅は餅屋だ" />
 		</r>
 	</kanji>
 	

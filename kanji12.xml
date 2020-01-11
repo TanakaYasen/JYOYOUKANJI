@@ -63,7 +63,9 @@
 	
 	<kanji	id="図" freq="315" jlpt="4" gr="2">
 		<r on="ズ" >
-			<ex	 word="合図" pron="あいず" pa="1" pos="N/js" jlpt="2" cn="暗号" ph="目で合図する" />
+			<ex	 word="合図" pron="あいず" pa="1" pos="N/jts" jlpt="2" cn="暗号" >
+				<e ph="合図を送る・手まねで合図する・目で合図する">
+			</ex>
 			<ex	 word="地図" pron="ちず" pa="0" pos="N" jlpt="5" eng="map" />
 			<ex	 word="絵図" pron="えず" pa="0" pos="N" />
 			<ex	 word="指図" pron="さしず" pa="0" pos="N" jlpt="1" />
@@ -616,16 +618,22 @@
 	
 	<kanji	id="盛" freq="737" jlpt="1" gr="6">
 		<r on="セイ" >
-			<ex	 word="旺盛" pron="せいけつ" pa="0" pos="N" />
+			<ex	 word="旺盛" pron="おうせい" pa="0" pos="N"  />
 			<ex	 word="盛夏" pron="せいか" pa="0" pos="N" />
 			<ex	 word="盛大" pron="せいだい" pa="0" pos="N" />
 		</r>
 		<r on="ジョウ" >
-			<ex	 word="繁盛" pron="はんじょう" pa="0" pos="N" />
+			<ex	 word="繁盛" pron="はんじょう" pa="0" pos="N/js"  />
 		</r>
 		<r kun="もる" kk="盛る" pa="0" pos="t5" jlpt="2" >
 		</r>
 		<r kun="さかる" kk="盛る" pa="0" pos="j5" jlpt="1" >
+		</r>
+		<r kun="さかり" kk="盛り" pa="0" pos="N" jlpt="1" cn="全盛期;壮年">
+			<e ph="暑さのさかりももう過ぎた・夏の／花の盛り・人生の盛り・今は西瓜の盛りだ" />
+		</r>
+		<r kun="～ざかり" kk="～盛り" pa="0" pos="sf" jlpt="1" cn="连用 +~ 最...">
+			<e ph="花盛り・働き盛り・食べ盛り・育ち盛り・若盛り" />
 		</r>
 		<r kun="さかん" kk="盛ん" pa="0" pos="NA" jlpt="4" >
 		</r>

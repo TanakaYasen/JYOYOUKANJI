@@ -146,6 +146,11 @@
 	<kanji	id="調" freq="284" jlpt="3" gr="3">
 		<r on="チョウ" >
 			<ex	 word="強調" pron="きょうちょう" pa="0" pos="N/js" jlpt="3" />
+			<ex	 word="好調" pron="こうちょう" pa="0" pos="N/NA" jlpt="1" cn="顺利,情况良好" >
+				<e ph="売れ行きが絶好調だ・好調な時に油断するな" />
+			</ex>
+			<ex	 word="不調" pron="ふちょう" pa="0" pos="N/NA" jlpt="1" cn="不适,情况不佳" >
+			</ex>
 			<ex	 word="調子" pron="ちょうし" pa="0" pos="N" jlpt="3" ph="その調子その調子" />
 		</r>
 		<r kun="しらべる" kk="調べる" pa="3" pos="t1" jlpt="4" ></r>
@@ -445,7 +450,7 @@
 		<r on="テイ" >
 			<ex	 word="家庭" pron="かてい" pa="0" pos="N" jlpt="5" />
 			<ex	 word="庭園" pron="ていえん" pa="0" pos="N" />
-			<ex	 word="校庭" pron="こうてい" pa="0" pos="N" jlpt="2" />
+			<ex	 word="校庭" pron="こうてい" pa="0" pos="N" jlpt="2" ref="キャンパス(campus)"/>
 		</r>
 		<r kun="にわ" kk="庭" pa="0" pos="N" jlpt="5" >
 			<ex	 word="中庭" pron="なかにわ" pa="0" pos="N" />
@@ -704,9 +709,13 @@
 				<e ph="回転資金・回転寿司・車輪が速く回転する・地球は太陽の周囲を回転する・頭の回転が速い・180度の回転をする" />
 			</ex>
 		</r>
-		<r kun="ころがる" kk="転がる" pa="0" pos="j5" jlpt="2" ></r>
+		<r kun="ころ`がる" kk="転がる" pa="0" pos="j5" jlpt="2" cn="滚动转动;跌倒摔跤">
+			<e ph="石につまずいて転がる" />
+		</r>
+		<r kun="ころ`がす" kk="転がす" pa="0" pos="t5" jlpt="2" cn="使滚动">
+			<e ph="ボールを転がす・箸を転がす・車を転がす" />
+		</r>
 		<r kun="ころげる" kk="転げる" pa="0" pos="j1" ></r>
-		<r kun="ころがす" kk="転がす" pa="0" pos="t5" jlpt="2" ></r>
 		<r kun="ころぶ" kk="転ぶ" pa="0" pos="j5" jlpt="3" cn="跌倒"></r>
 	</kanji>
 	

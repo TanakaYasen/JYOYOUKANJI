@@ -754,7 +754,9 @@
 		<r on="ソ" >
 			<ex	 word="遡源" pron="そげん" pa="0" pos="N" />
 		</r>
-		<r kun="さかのぼる" kk="遡る" pa="3" pos="j5" jlpt="2" />
+		<r kun="さかのぼ`る" kk="遡る" pa="3" pos="j5" jlpt="2" cn="逆流而上;追溯">
+			<e ph="船で川を遡る・中古時代に遡る・遡って責任を追究する">
+		</r>
 	</kanji>
 	
 	<kanji	id="礎" freq="1836" jlpt="1" gr="8">

@@ -24,6 +24,9 @@
 			<e ph="割れた花瓶を接着剤でくっ付ける・胸に名札（なふだ）をくっつける・味方にくっつける" />
 		</ex>
 		<ex	 word="貶す" pron="けな`す" pa="0" pos="t5" jlpt="1" cn="贬损,诋毁,挖苦" eng="to disparage" ph="~を貶す" ref="褒める" />
+		<ex	 word="拵える" pron="こしらえる" pa="0" pos="t1" jlpt="2" cn="制作;置办;筹措;化妆" str="true" >
+			<e ph="服をこしらえる・料理をこしらえる・金をこしらえる・顔を拵える" />
+		</ex>
 	</table>
 	
 	<table tag="JLPT">

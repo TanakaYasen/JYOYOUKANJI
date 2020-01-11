@@ -189,7 +189,7 @@
 		<r kun="そと" kk="外" pa="1" pos="N" jlpt="5" />
 		<r kun="ほか" kk="外" pa="0" pos="N" jlpt="5" ref="他"/>
 		<r kun="はずす" kk="外す" pa="0" pos="t5" jlpt="3" />
-		<r kun="はずれる" kk="外れる" pa="0" pos="j1" jlpt="2" />
+		<r kun="はず`れる" kk="外れる" pa="0" pos="j1" jlpt="2" cn="错开;偏离" />
 		<r nfu="ウイ・と"></r>
 	</kanji>
 	
@@ -541,7 +541,9 @@
 			<ex	 word="割引" pron="わりびき" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r kun="われる" kk="割れる" pa="0" pos="j1" jlpt="4" />
-		<r kun="さく" kk="割く" pa="1" pos="t5" jlpt="2" />
+		<r kun="さ`く" kk="割く" pa="1" pos="t5" jlpt="2" cn="分出,腾出" >
+			<e ph="お忙しいところ、時間を割いて頂きまして、ありがとうございます・賞金の一部を割いて施設に寄付する" />
+		</r>
 		<r nfu="割やす(はやす)"></r>
 	</kanji>
 	
@@ -567,7 +569,8 @@
 		</r>
 		<r kun="すべる" kk="滑る" pa="2" pos="*j5" jlpt="4" cn="滑动;打滑;落第">
 		</r>
-		<r kun="なめらか" kk="滑らか" pa="2" pos="NA" jlpt="1" cn="光滑;流利" eng="smooth" >
+		<r kun="なめ`らか" kk="滑らか" pa="2" pos="NA" jlpt="1" cn="光滑;流利" eng="smooth" >
+			<e ph="滑らかな肌・滑らかな声・滑らかな絹のスカーフ・事が滑らかに運ぶ" />
 		</r>
 		<r nfu="滑る(ぬめる)"></r>
 	</kanji>
@@ -798,7 +801,13 @@
 		<r on="カン" >
 			<ex	 word="堪忍" pron="かんにん" pa="0" pos="N" />
 		</r>
-		<r kun="たえる" kk="堪える" pa="2" pos="j1" jlpt="1" />
+		<r on="タン" >
+			<ex	 word="堪能" pron="たんのう" pa="0" pos="NA" cn="熟练的;擅长于" ph="に堪能な" />
+		</r>
+		<r kun="た`える" kk="堪える" pa="2" pos="j1" jlpt="1" cn="耐,抗,经受;值得;胜任" />
+		<r kun="こら`える" kk="堪える" pa="3" pos="t1" jlpt="2" cn="容忍,宽恕;忍耐,坚持住" >
+			<e ph="涙／笑いを堪える・痛みを堪える" />
+		</r>
 		<r nfu="タン・堪える(こらえる)・堪える(こたえる)・堪る(たまる)"></r>
 	</kanji>
 	

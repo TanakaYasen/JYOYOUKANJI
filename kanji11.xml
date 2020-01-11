@@ -112,7 +112,7 @@
 	
 	<kanji	id="衝" freq="1358" jlpt="1" gr="8">
 		<r on="ショウ" >
-			<ex	 word="衝動" pron="しょうどう" pa="0" pos="N" />
+			<ex	 word="衝動" pron="しょうどう" pa="0" pos="N" ph="衝動買い" />
 			<ex	 word="衝突" pron="しょうとつ" pa="0" pos="N" jlpt="3" eng="collision;conflict" />
 			<ex	 word="衝撃" pron="しょうげき" pa="0" pos="N" jlpt="1" eng="shock" />
 		</r>
@@ -171,7 +171,7 @@
 			<ex	 word="机上" pron="きじょう" pa="0" pos="N" />
 			<ex	 word="極上" pron="ごくじょう" pa="0" pos="NA" />
 			<ex	 word="頂上" pron="ちょうじょう" pa="3" pos="N" eng="peak" />
-			<ex	 word="上品" pron="じょうひん" pa="0" pos="N" />
+			<ex	 word="上品" pron="じょうひん" pa="0" pos="N" cn="高雅" ></ex>
 			<ex	 word="上下" pron="じょうげ" pa="0" pos="NA" />
 		</r>
 		<r on="ショウ" >
@@ -594,6 +594,18 @@
 			<ex	 word="心配" pron="しんぱい" pa="0" pos="N" jlpt="3" eng="worry" />
 		</r>
 		<r kun="こころ" kk="心" pa="23" pos="N" jlpt="5" >
+			<ex	 word="心当たり" pron="こころあたり" pa="4" pos="N" jlpt="2" cn="线索,头绪;估计猜想" >
+				<e ph="心当たりを探してみる・少しも心当たりがない" />
+			</ex>
+			<ex	 word="心得る" pron="こころえる" pa="4" pos="t1" jlpt="2" cn="明白体会理解,熟悉精通" >
+				<e ph="事情を心得る・機械の癖を心得る・礼儀作法を心得る" />
+			</ex>
+			<ex	 word="心掛ける" pron="こころがける" pa="4" pos="t1" jlpt="1" cn="留心,注意,挂在心上而努力做到" >
+				<e ph="規律正しい性格を心掛ける・倹約を心掛ける・このことは君も心掛けておいてくれ・人の悪口を言わないように心掛ける" />
+			</ex>
+		</r>
+		<r sp="ここち" word="心地" pron="0" pos="N/sf" jlpt="5" cn="心情,感觉; ...的感觉,x后感">
+			<e ph="夢心地・住み心地・座り心地・乗り心地・" />
 		</r>
 		<r nfu="うら">
 		</r>

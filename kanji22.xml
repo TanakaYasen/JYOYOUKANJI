@@ -194,6 +194,7 @@
 			<ex	 word="余地" pron="よち" pa="1" pos="N" />
 			<ex	 word="残余" pron="ざんよ" pa="1" pos="N" />
 			<ex	 word="余暇" pron="よか" pa="1" pos="N" jlpt="1" eng="leisure" />
+			<ex	 word="余計" pron="よけい" pa="0" pos="NA" jlpt="2" cn="多余的; 多而无益的" />
 		</r>
 		<r kun="あまる" kk="余る" pa="2" pos="j5" jlpt="2" >
 		</r>
@@ -376,6 +377,7 @@
 		</r>
 		<r kun="こし" kk="腰" pa="0" pos="N" jlpt="3" >
 			<ex	 word="物腰" pron="ものごし" pa="0" pos="N" eng="manner" cn="言谈；举止" />
+			<ex	 word="腰掛け" pron="こしかけ" pa="0" pos="N" cn="椅凳;临时栖身处" />
 			<ex	 word="ぎっくり腰" pron="ぎっくりごし" pa="4" pos="N" />
 		</r>
 	</kanji>
@@ -906,9 +908,13 @@
 	
 	<kanji	id="慮" freq="1005" jlpt="1" gr="8">
 		<r on="リョ" >
-			<ex	 word="考慮" pron="こうりょ" pa="1" pos="N" jlpt="3" />
 			<ex	 word="思慮" pron="しりょ" pa="1" pos="N" />
-			<ex	 word="遠慮" pron="えんりょ" pa="0" pos="N" />
+			<ex	 word="遠慮" pron="えんりょ" pa="0" pos="N/ts" jlpt="4" cn="顾忌">
+				<e ph="ご遠慮お願いします・遠慮しないで" />
+			</ex>
+		</r>
+		<r kun="おもんぱかる" kk="慮る" pa="5" pos="t5" >
+			<e ph="相手の立場を慮る" />
 		</r>
 	</kanji>
 	

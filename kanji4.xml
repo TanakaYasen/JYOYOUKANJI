@@ -188,7 +188,9 @@
 			</ex>
 		</r>
 		<r on="ケ" >
-			<ex	 word="気配" pron="けはい" pa="1" pos="N" jlpt="2" />
+			<ex	 word="気配" pron="けはい" pa="1" pos="N" jlpt="2" cn="情形,苗头" >
+				<e ph="秋の気配が深まる・人の気配がする・外に人のいる気配がする・結婚する気配など少しもなかった" />
+			</ex>
 		</r>
 		<r nfu="いき"></r>
 	</kanji>
@@ -676,11 +678,13 @@
 			<ex	 word="逆鱗" pron="げきりん" pa="0" pos="N" ph="逆鱗に触れる" cn="天子之怒" />
 		</r>
 		<r kun="さか" kk="逆" pa="2" pos="N" jlpt="1" >
-			<ex	 word="逆様" pron="さかさま" pa="0" pos="N" />
-			<ex	 word="逆立ち" pron="さかだち" pa="0" pos="N" jlpt="1" cn="倒立; 竭力" />
+			<ex	 word="逆様" pron="さかさま" pa="0" pos="N" jlpt="N" cn="颠倒,反了"/>
+			<ex	 word="逆立ち" pron="さかだち" pa="0" pos="N" jlpt="1" cn="倒立; 竭力" >
+				<e ph="逆立ちして歩く・鉄棒の上で逆立ちをする・逆立ちしても追いつかない" />
+			</ex>
 		</r>
-		<r kun="さか`らう" kk="逆らう" pa="3" pos="j5" jlpt="1" cn="逆反；违背" ref="従う">
-			<e ph="風に逆らって進・忠言耳に逆らう" />
+		<r kun="さか`らう" kk="逆らう" pa="3" pos="j5" jlpt="1" cn="逆反;违背" ref="従う">
+			<e ph="流れに逆らう・風に逆らって進む・忠言耳に逆らう・上司に逆らってクビになった" />
 		</r>
 	</kanji>
 	
@@ -1061,6 +1065,8 @@
 		<r on="キョウ" >
 			<ex	 word="状況" pron="じょうきょう" pa="0" pos="N" />
 			<ex	 word="実況" pron="じっきょう" pa="0" pos="N" />
+			<ex	 word="好況" pron="こうきょう" pa="0" pos="N" cn="繁荣,景气"/>
+			<ex	 word="不況" pron="ふきょう" pa="0" pos="N" />
 		</r>
 	</kanji>
 	
@@ -1148,7 +1154,13 @@
 	<kanji	id="強" freq="260" jlpt="4" gr="2">
 		<r on="キョウ" >
 			<ex	 word="強大" pron="きょうだい" pa="0" pos="N" />
+			<ex	 word="強行" pron="きょうこう" pa="0" pos="N" />
 			<ex	 word="~強" pron="～きょう" pa="0" pos="sf" jlpt="5"  cn="接数词后表示超过,大于并舍去尾数" ref="～弱(じゃく)" />
+		</r>
+		<r on="ゴウ" >
+			<ex	 word="強引" pron="ごういん" pa="0" pos="NA" cn="强迫; 强行">
+				<e ph="強引なやり方・強引に推し進める・強引でも彼女を病院に連れて往く">
+			</ex>
 		</r>
 		<r kun="つよ`い" kk="強い" pa="2" pos="adj" jlpt="1" ></r>
 		<r kun="つよ`まる" kk="強まる" pa="3" pos="j5" jlpt="1" eng="to get strong" ></r>

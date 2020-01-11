@@ -297,7 +297,9 @@
 		<r on="ケイ" >
 			<ex	 word="景気" pron="けいき" pa="0" pos="N" jlpt="3" />
 			<ex	 word="風景" pron="ふうけい" pa="0" pos="N" jlpt="3" />
-			<ex	 word="光景" pron="こうけい" pa="0" pos="N" jlpt="3" />
+			<ex	 word="光景" pron="こうけい" pa="0" pos="N" jlpt="3" >
+				<e ph="この悲惨な光景は一生忘れられない・恐ろしい光景" />
+			</ex>
 			<ex	 word="背景" pron="はいけい" pa="0" pos="N" jlpt="1" />
 			<ex	 word="景観" pron="けいかん" pa="0" pos="N" />
 		</r>
@@ -441,7 +443,7 @@
 			<ex	 word="暇隙" pron="かげき" pa="0" pos="N" />
 		</r>
 		<r kun="すき" kk="隙" pa="0" pos="N" >
-			<ex	 word="隙間" pron="すきま" pa="0" pos="N" jlpt="2" />
+			<ex	 word="隙間" pron="すきま" pa="0" pos="N" jlpt="2" cn="短暂空隙,碎片时间"/>
 		</r>
 		<r nfu="ケキ・キャク・ひま"></r>
 	</kanji>
@@ -460,7 +462,9 @@
 	
 	<kanji	id="撃" freq="930" jlpt="1" gr="8">
 		<r on="ゲキ" >
-			<ex	 word="攻撃" pron="こうげき" pa="0" pos="N/ts" jlpt="3" />
+			<ex	 word="攻撃" pron="こうげき" pa="0" pos="N/ts" jlpt="3">
+				<e ph="全面攻撃をかける・人身攻撃" />
+			</ex>
 			<ex	 word="打撃" pron="だげき" pa="0" pos="N" jlpt="1" />
 			<ex	 word="撃破" pron="げきは" pa="1" pos="N/ts" />
 			<ex	 word="狙撃" pron="そげき" pa="0" pos="N/ts" />
@@ -573,7 +577,10 @@
 	
 	<kanji	id="見" freq="3" jlpt="5" gr="1" lv="10">
 		<r on="ケン" >
-			<ex	 word="意見" pron="いけｎ" pa="1" pos="N" jlpt="4" />
+			<ex	 word="意見" pron="いけん" pa="1" pos="N" jlpt="4" />
+			<ex	 word="見当" pron="けんとう" pa="3" pos="N" jlpt="3" cn="估计,预想,推测" >
+				<e ph="それはざっとしか見当がつかない・会費は五万円くらいと見当をつける・見当が外れる" />
+			</ex>
 		</r>
 		<r kun="み`る" kk="見る" pa="1" pos="t1" jlpt="5">
 			<ex	 word="見積もる" pron="みつもる" pa="03" pos="t5"  />
@@ -675,8 +682,13 @@
 	<kanji	id="健" freq="948" jlpt="1" gr="4">
 		<r on="ケン" >
 			<ex	 word="健康" pron="けんこう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="健全" pron="けんぜん" pa="0" pos="NA" jlpt="3" >
+				<e ph="健全な肉体・健全な財政" />
+			</ex>
 		</r>
-		<r kun="すこやか" kk="健やか" pa="2" pos="NA" jlpt="1"> </r>
+		<r kun="すこや`か" kk="健やか" pa="2" pos="NA" jlpt="1" cn="健壮的" >
+			<e ph="健やかな体・子供が健やかに育つ" />
+		</r>
 		<r nfu="健し(たけし)・健か(したたか)"></r>
 	</kanji>
 	
@@ -686,7 +698,7 @@
 			<ex	 word="冒険" pron="ぼうけん" pa="0" pos="N/js" jlpt="3" />
 			<ex	 word="保険" pron="ほけん" pa="0" pos="N/js" jlpt="1" eng="insurance; guarantee" ph="保険を掛ける" />
 		</r>
-		<r kun="けわ`しい" kk="険しい" pa="3" pos="adj" jlpt="2"> </r>
+		<r kun="けわ`しい" kk="険しい" pa="3" pos="adj" jlpt="2" cn="险峻，陡峭;险恶，艰险" > </r>
 	</kanji>
 	
 	<kanji	id="圏" freq="1698" jlpt="1" gr="8">
@@ -706,7 +718,7 @@
 	
 	<kanji	id="検" freq="1029" jlpt="1" gr="5">
 		<r on="ケン" >
-			<ex	 word="検討*" pron="けんとう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="検討" pron="けんとう" pa="0" pos="N" jlpt="3" cn="*研究探讨" />
 			<ex	 word="検査" pron="けんさ" pa="0" pos="N" jlpt="3" />
 			<ex	 word="検察" pron="けんさつ" pa="0" pos="N" />
 		</r>
@@ -729,7 +741,7 @@
 			<ex	 word="献納" pron="けんのう" pa="0" pos="N/ts" jlpt="3"/>
 			<ex	 word="貢献" pron="こうけん" pa="0" pos="N/js" jlpt="3"/>
 			<ex	 word="文献" pron="ぶんけん" pa="0" pos="N" jlpt="2"/>
-			<ex	 word="献金" pron="けんきん" pa="0" pos="N/js" eng="donation" />
+			<ex	 word="献金" pron="けんきん" pa="0" pos="N/js" eng="donation" jp="寄付金"/>
 		</r>
 		<r on="コン" >
 			<ex	 word="献立" pron="こんだて" pa="0" pos="N" jlpt="2"/>
@@ -756,9 +768,11 @@
 	<kanji	id="権" freq="700" jlpt="3" gr="6">
 		<r on="ケン" >
 			<ex	 word="権勢" pron="けんせい" pa="1" pos="N" jlpt="3"/>
-			<ex	 word="権利" pron="けんり" pa="1" pos="N" jlpt="3"/>
+			<ex	 word="権利" pron="けんり" pa="1" pos="N" jlpt="3" >
+				<e ph="生きる権利・権利を行使す" >
+			</ex>
 			<ex	 word="政権" pron="せいけん" pa="0" pos="N" jlpt="1"/>
-			<ex	 word="権力" pron="けんりょく" pa="1" pos="N" jlpt="1"/>
+			<ex	 word="権力" pron="けんりょく" pa="1" pos="N" jlpt="1" ph="権力争い"/>
 			<ex	 word="権威" pron="けんい" pa="1" pos="N" jlpt="1" eng="authority"/>
 		</r>
 		<r on="ゴン" >
@@ -948,6 +962,9 @@
 			<ex	 word="現金" pron="げんきん" pa="3" pos="N" jlpt="3" />
 			<ex	 word="表現" pron="ひょうげん" pa="30" pos="N" jlpt="3" />
 			<ex	 word="現地" pron="げんち" pa="1" pos="N" jlpt="1" />
+			<ex	 word="現に" pron="げんに" pa="1" pos="adv" jlpt="2" eng="actually; really">
+				<e ph="げんに目撃者が一人いた・現に起こったこと" />
+			</ex>
 		</r>
 		<r kun="あらわ`れる" kk="現れる" pa="4" pos="j1"  jlpt="3" ref="表れる"></r>
 		<r kun="あらわ`す" kk="現す" pa="3" pos="t5" jlpt="3" cn="出现,显露" ref="表す">
@@ -973,8 +990,11 @@
 				<e ph="増減の幅・旅行者の人数は季節によって増減する" />
 			</ex>
 		</r>
-		<r kun="へ`る" kk="減る" pa="0" pos="j5" jlpt="3">	</r>
-		<r kun="へ`らす" kk="減らす" pa="0" pos="t5" jlpt="3" >	</r>
+		<r kun="へ`る" kk="減る" pa="0" pos="*j5" jlpt="3" ref="増える">
+			<e ph="腹が減った・体重が３キロ減った" />
+		</r>
+		<r kun="へ`らす" kk="減らす" pa="0" pos="t5" jlpt="3"  ref="増やす" >
+		</r>
 	</kanji>
 	
 	<kanji	id="源" freq="632" jlpt="1" gr="6">
@@ -990,13 +1010,17 @@
 	
 	<kanji	id="厳" freq="958" jlpt="1" gr="6">
 		<r on="ゲン" >
-			<ex	 word="厳重" pron="げんじゅう" pa="0" pos="NA" jlpt="2" />
+			<ex	 word="厳重" pron="げんじゅう" pa="0" pos="NA" jlpt="2" cn="*严肃地;严厉地" >
+				<e ph="厳重注意・厳重に警備する・交通違反を厳重に取り締まる" />
+			</ex>
 			<ex	 word="厳密" pron="げんみつ" pa="0" pos="NA" jlpt="1" />
 			<ex	 word="厳冬" pron="げんとう" pa="0" pos="N" />
 			<ex	 word="尊厳" pron="そんげん" pa="03" pos="N" />
 			<ex	 word="厳格" pron="げんかく" pa="0" pos="NA" />
 		</r>
-		<r kun="おごそ`か" kk="厳か" pa="2" pos="N" jlpt="1" >	</r>
+		<r kun="おごそ`か" kk="厳か" pa="2" pos="N" jlpt="1" cn="庄严的,肃穆的,郑重的">
+			<e ph="厳かな儀式・追悼会は昨日厳かに行われた" />
+		</r>
 		<r kun="きび`しい" kk="厳しい" pa="3" pos="N" jlpt="4" eng="severe; strict"></r>
 	</kanji>
 	

@@ -17,7 +17,12 @@
 		<ex	 word="がたがた" pron="がたがた" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="ぶるぶる" pron="ブルブル" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="ぎりぎり" pron="ブルブル" pa="0" pos="j5" jlpt="2" cn="勉强;最大限度" ph="ぎりぎりまで" />
+		<ex	 word="こつこつ" pron="こつこつ" pa="1" pos="adv" jlpt="2" cn="孜孜不倦地" />
+		<ex	 word="ごろごろ" pron="ごろごろ" pa="1" pos="adv" jlpt="2" cn="咕噜噜" />
 		
+		<ex	 word="ごちゃごちゃ" pron="ごちゃごちゃ" pa="1" pos="adv" jlpt="2" cn="乱糟糟地" />
+		<ex	 word="にこにこ" pron="にこにこ" pa="1" pos="adv" jlpt="2" cn="笑嘻嘻地" />
+		<ex	 word="にやにや" pron="にやにや" pa="1" pos="adv" jlpt="2" cn="嗤笑。冷笑" />
 		<ex	 word="めきめき" pron="めきめき" pa="1" pos="adv" jlpt="2" cn="迅速" />
 		<ex	 word="こそこそ" pron="コソコソ" pa="0" pos="j5" jlpt="2" cn="偷偷摸摸，鬼鬼祟祟" />
 		<ex	 word="態々" pron="*わざわざ" pa="1" pos="adv" jlpt="1" cn="特意; 专程" eng="expressly" />

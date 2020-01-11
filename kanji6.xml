@@ -4,10 +4,12 @@
 	
 	<kanji	id="雇" freq="1862" jlpt="2" gr="8">
 		<r on="コ" >
-			<ex	 word="雇用" pron="こよう" pa="0" pos="N/ts" jlpt="1" />
-			<ex	 word="解雇" pron="かいこ" pa="1" pos="N/ts" />
+			<ex	 word="雇用" pron="こよう" pa="0" pos="N/ts" jlpt="1" >
+				<e ph="終身雇用制・高い報酬で雇用する" />
+			</ex>
+			<ex	 word="解雇" pron="かいこ" pa="1" pos="N/ts" ></ex>
 		</r>
-		<r kun="やと`う" kk="雇う" pa="2" pos="t5" jlpt="3" >
+		<r kun="やと`う" kk="雇う" pa="2" pos="t5" jlpt="3" ph="~を雇う" cn="雇用" >
 			<ex	 word="雇い主" pron="やといぬし" pa="32" pos="N" />
 		</r>
 	</kanji>
@@ -85,7 +87,8 @@
 			<ex	 word="後日" pron="ごじつ" pa="1" pos="N/js" jlpt="5" />
 		</r>
 		<r on="コウ" >
-			<ex	 word="後方" pron="こうほう" pa="0" pos="N/js" jlpt="5" />
+			<ex	 word="後方" pron="こうほう" pa="0" pos="N" />
+			<ex	 word="後者" pron="こうしゃ" pa="0" pos="N" jlpt="3" />
 		</r>
 		<r kun="のち" kk="後" pa="02" pos="N" >
 			<ex	 word="後程" pron="のちほど" pa="0" pos="adv" />
@@ -152,7 +155,9 @@
 	<kanji	id="口" freq="89" jlpt="4" gr="1">
 		<r on="コウ" >
 			<ex	 word="人口" pron="じんこう" pa="0" pos="N" jlpt="4" eng="population" />
-			<ex	 word="口実" pron="こうじつ" pa="0" pos="N" jlpt="2" eng="excuse" />
+			<ex	 word="口実" pron="こうじつ" pa="0" pos="N" jlpt="2" cn="*借口" eng="excuse" ><
+				<e ph="口実を設ける" />
+			</ex>
 		</r>
 		<r on="ク" >
 			<ex	 word="口説く" pron="くどく" pa="2" pos="N/js" jlpt="5" />
@@ -251,11 +256,14 @@
 	
 	<kanji	id="交" freq="481" jlpt="3" gr="2">
 		<r on="コウ" >
-			<ex	 word="交渉" pron="こうしょう" pa="0" pos="N" jlpt="5" />
-			<ex	 word="交流" pron="こうりゅう" pa="0" pos="N" jlpt="5" />
-			<ex	 word="外交" pron="がいこう" pa="0" pos="N" jlpt="5" />
-			<ex	 word="交通" pron="こうつう" pa="0" pos="N" jlpt="5" />
-			<ex	 word="交換" pron="こうかん" pa="0" pos="N" jlpt="5" />
+			<ex	 word="交渉" pron="こうしょう" pa="0" pos="N" jlpt="5" >
+				<e ph="交渉が行き詰まる・交渉を絶つ">
+			</ex>
+			<ex	 word="交付" pron="こうふ" pa="01" pos="N/ts" jlpt="1" />
+			<ex	 word="交流" pron="こうりゅう" pa="0" pos="N" jlpt="2" />
+			<ex	 word="外交" pron="がいこう" pa="0" pos="N" jlpt="3" eng="diplomacy" />
+			<ex	 word="交通" pron="こうつう" pa="0" pos="N" jlpt="4" eng="traffic" />
+			<ex	 word="交換" pron="こうかん" pa="0" pos="N" jlpt="3" />
 		</r>
 		<r kun="まじ`わる" kk="交わる" pa="3" pos="j5" jlpt="1" >
 		</r>
@@ -314,9 +322,13 @@
 	<kanji	id="好" freq="192" jlpt="3" gr="4">
 		<r on="コウ" >
 			<ex	 word="友好" pron="ゆうこう" pa="0" pos="N" jlpt="2" />
+			<ex	 word="好奇心" pron="こうきしん" pa="3" pos="N" jlpt="2" eng="curiosity" >
+				<e ph="好奇心旺盛・好奇心を満たす" />
+			</ex>
 			<ex	 word="好悪" pron="こうお" pa="1" pos="N" />
 		</r>
-		<r kun="このむ" kk="好む" pa="2" pos="t5" jlpt="3" cn="喜欢，热爱;希望，欲望" >
+		<r kun="このむ" kk="好む" pa="2" pos="t5" jlpt="3" ph="~を好む" cn="喜欢热爱;希望企盼" >
+			<e ph="映画を好む・立身出世を好む・幼い頃から学問を好んだ・好むと好まざるとにかかわらず・人によって好みがそれぞれ違う" />
 		</r>
 		<r kun="すく" kk="好く" pa="1" pos="t5" cn="喜好" >
 		</r>
@@ -337,9 +349,11 @@
 		<r on="コウ" >
 			<ex	 word="参考" pron="さんこう" pa="0" pos="N/ts" jlpt="3" />
 			<ex	 word="思考" pron="しこう" pa="0" pos="N" jlpt="1" />
-			<ex	 word="考慮" pron="こうりょ" pa="1" pos="N" jlpt="3" />
+			<ex	 word="考慮" pron="こうりょ" pa="1" pos="N/ts" jlpt="3" >
+				<e ph="考慮に入れる・相手の立場を考慮する" />
+			</ex>
 		</r>
-		<r kun="かんがえる" kk="考える" pa="4" pos="t1" jlpt="4" cn="想;思索" >
+		<r kun="かんが`える" kk="考える" pa="4" pos="t1" jlpt="4" cn="想;思索" >
 		</r>
 	</kanji>
 	
@@ -389,6 +403,7 @@
 		<r on="コウ" >
 			<ex	 word="広大" pron="こうだい" pa="0" pos="N" jlpt="5" />
 		</r>
+		<r kun="せめる" kk="攻める" pa="2" pos="t1" jlpt="2" ></r>
 	</kanji>
 	
 	<kanji	id="更" freq="537" jlpt="3" gr="3">
@@ -411,7 +426,9 @@
 	<kanji	id="幸" freq="393" jlpt="3" gr="3">
 		<r on="コウ" >
 			<ex	 word="幸福" pron="こうふく" pa="0" pos="N/NA" jlpt="3" eng="happiness" />
-			<ex	 word="幸運" pron="こううん" pa="0" pos="N/NA" jlpt="3" eng="lucky" />
+			<ex	 word="幸運" pron="こううん" pa="0" pos="N/NA" jlpt="3" eng="lucky" ref="不運">
+				<e ph="幸運を祈る・幸運が向いてくる・彼女は幸運にも助かった・幸運児" />
+			</ex>
 		</r>
 		<r kun="さいわい" kk="幸い" pa="0" pos="NA/adv" jlpt="3" cn="幸福;幸运" >
 		</r>
@@ -430,7 +447,9 @@
 			<ex	 word="拘泥" pron="こうでい" pa="0" pos="N" />
 			<ex	 word="拘留" pron="こうりゅう" pa="0" pos="N" />
 		</r>
-		<r kun="こだわる" kk="拘る" pa="3" pos="j5" jlpt="1" ></r>
+		<r kun="こだわ`る" kk="拘る" pa="3" pos="j5" jlpt="1" cn="拘泥,为细节而牵绊; 特別在意,要求严格" jp="些細なことを気にして" >
+			<e ph="目先の利益に拘る・食材の新鮮度に拘る・このことには拘らないことにしよう" />
+		</r>
 		<r nfu="拘える(とらえる)・拘わる(かかわる)・拘める(とどめる)">
 		</r>
 	</kanji>
@@ -570,9 +589,9 @@
 	<kanji	id="耕" freq="1843" jlpt="2" gr="5">
 		<r on="コウ" >
 			<ex	 word="農耕" pron="こうさく" pa="0" pos="N" jlpt="1" />
-			<ex	 word="耕地" pron="こうち" pa="0" pos="N" jlpt="2" />
+			<ex	 word="耕地" pron="こうち" pa="1" pos="N" jlpt="2" />
 		</r>
-		<r kun="たがやす" kk="耕す" pa="3" pos="t5" jlpt="2"></r>
+		<r kun="たがや`す" kk="耕す" pa="3" pos="t5" jlpt="2" cn="耕作,翻种土地" ></r>
 	</kanji>
 	
 	<kanji	id="航" freq="1752" jlpt="2" gr="4">
@@ -812,11 +831,13 @@
 	
 	<kanji	id="興" freq="544" jlpt="1" gr="5">
 		<r on="コウ" >
-			<ex	 word="興奮" pron="こうふん" pa="0" pos="N/js" jlpt="1" />
+			<ex	 word="興奮" pron="こうふん" pa="0" pos="N/js" jlpt="1" cn="兴奋" >
+				<e ph="興奮を静める・興奮して眠れない" />
+			</ex>
 			<ex	 word="振興" pron="しんこう" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r on="キョウ" >
-			<ex	 word="興味" pron="きょうみ" pa="1" pos="N" jlpt="4" />
+			<ex	 word="興味" pron="きょうみ" pa="1" pos="N" jlpt="4" cn="兴趣" ph="～に興味がある／ない" ref="趣味"/>
 		</r>
 		<r kun="おこる" kk="興る" pa="2" pos="j5" >
 		</r>
@@ -881,6 +902,7 @@
 		<r on="ゴウ" >
 			<ex	 word="癒合" pron="こうだい" pa="0" pos="N" jlpt="5" />
 			<ex	 word="総合" pron="こうだい" pa="0" pos="N" jlpt="5" />
+			<ex	 word="合意" pron="ごうい" pa="1" pos="js" jlpt="1" cn="同意,意见一致" />
 		</r>
 		<r on="ガツ" >
 			<ex	 word="合唱" pron="こうだい" pa="0" pos="N" jlpt="5" />

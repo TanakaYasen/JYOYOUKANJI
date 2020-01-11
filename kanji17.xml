@@ -434,6 +434,7 @@
 	<kanji	id="同" freq="63" jlpt="4" gr="2">
 		<r on="ドウ" >
 			<ex	 word="共同" pron="きょうどう" pa="0" pos="" jlpt="3" />
+			<ex	 word="合同" pron="ごうどう" pa="0" pos="N/jts" jlpt="2" cn="*联合;合并" />
 			<ex	 word="同時" pron="どうじ" pa="0" pos="N" jlpt="3" eng="simultaneous" />
 			<ex	 word="同僚" pron="どうりょう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="同様" pron="どうよう" pa="0" pos="NA" jlpt="3" />

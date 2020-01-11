@@ -496,13 +496,16 @@
 	<kanji	id="除" freq="1068" jlpt="3" gr="6">
 		<r on="ジョ" >
 			<ex	 word="解除" pron="かいじょ" pa="0" pos="NA" />
-			<ex	 word="削除" pron="さくじょ" pa="0" pos="NA" />
+			<ex	 word="削除" pron="さくじょ" pa="0" pos="NA" >
+				<e ph="最後の一行を" />
+			</ex>
 			<ex	 word="排除" pron="はいじょ" pa="0" pos="NA" />
 		</r>
 		<r on="ジ" >
 			<ex	 word="掃除" pron="そうじ" pa="0" pos="NA" />
 		</r>
-		<r kun="のぞく" kk="除く" pa="1" pos="N" jlpt="5" >
+		<r kun="のぞ`く" kk="除く" pa="0" pos="t5" jlpt="3" ga="～を除いて" cn="除掉铲除;不算在内,除了...;杀死">
+			<e ph="邪魔者を除く・彼女を除いてこれという人がない" />
 		</r>
 		<r nfu="除う(はらう)・除きる(つきる)・除ける(のける)・除ける(よける)">
 		</r>
@@ -868,9 +871,11 @@
 			<ex	 word="焦慮" pron="しょうりょ" pa="0" pos="N" />
 			<ex	 word="焦点" pron="しょうてん" pa="0" pos="N" />
 		</r>
-		<r kun="こげる" kk="焦げる" pa="1" pos="N" jlpt="5" >
+		<r kun="こげる" kk="焦げる" pa="2" pos="j1" jlpt="2" cn="焦，煳" >
+			<e ph="なにか焦げる匂いがする" />
 		</r>
-		<r kun="こがす" kk="焦がす" pa="1" pos="N" jlpt="5" >
+		<r kun="こがす" kk="焦がす" pa="2" pos="t5" jlpt="2" cn="烧糊,烤焦; 使心情焦急" >
+			<e ph="おかずを焦がす・アイロンでシャツを焦がす・身を焦がす" />
 		</r>
 		<r kun="こがれる" kk="焦がれる" pa="1" pos="N" jlpt="5" >
 		</r>

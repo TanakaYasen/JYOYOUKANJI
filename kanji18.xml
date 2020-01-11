@@ -13,13 +13,13 @@
 			<ex	 word="立ち入る" pron="たちいる" pa="0" pos="j5" />
 			<ex	 word="入口" pron="いりぐち" pa="0" pos="N" jlpt="5" />
 		</r>
-		<r kun="い`れる" kk="入れる" pa="0" pos="t1" jlpt="5" cn="装入" jp="収納する">
+		<r kun="い`れる" kk="入れる" pa="*0" pos="t1" jlpt="5" cn="装入" jp="収納する">
 			<ex	 word="入れ物" pron="いれもの" pa="0" pos="N" jlpt="2" cn="容器;钱包" />
 			<ex	 word="入れ替える" pron="いれかえる" pa="34" pos="t1" cn="改换,更换" >
 				<e ph="空気を入れ替える・心を入れ替える・担当者を入れ替える・体の弱い人を入れ替える・AとBを入れ替える" />
 			</ex>
 		</r>
-		<r kun="はいる" kk="入る" pa="1" pos="*j5" jlpt="5"> </r>
+		<r kun="はい`る" kk="入る" pa="1" pos="*j5" jlpt="5"> </r>
 	</kanji>
 	
 	<kanji	id="乳" freq="1147" jlpt="2" gr="6">
@@ -402,14 +402,15 @@
 			<ex	 word="販売機" pron="はんばいき" pa="3" pos="N" jlpt="3" />
 			<ex	 word="売却" pron="ばいきゃく" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="うる" kk="売る" pa="0" pos="t5" jlpt="5" >
+		<r kun="う`る" kk="売る" pa="*0" pos="t5" jlpt="5" >
 			<ex	 word="売り場" pron="うりば" pa="0" pos="N" jlpt="4" />
 			<ex	 word="売り上げ" pron="うりあげ" pa="0" pos="N" jlpt="2" cn="销售额" />
 			<ex	 word="売り出す" pron="うりだす" pa="0" pos="t1" jlpt="2" cn="上市;推销;以...出名">
 				<e ph="新薬を売り出す・彼女はこの歌で売り出した・～は最近めきめきと売り出した歌手" />
 			</ex>
+			<ex	 word="小売り" pron="こうり" pa="0" pos="N/ts" jlpt="1" cn="零售;小卖" />
 		</r>
-		<r kun="うれる" kk="売れる" pa="0" pos="j1" jlpt="3" cn="走红;畅销"></r>
+		<r kun="う`れる" kk="売れる" pa="0" pos="j1" jlpt="3" cn="走红;畅销"></r>
 	</kanji>
 	
 	<kanji	id="倍" freq="1426" jlpt="2" gr="3">
@@ -948,6 +949,7 @@
 		<r on="ハン" >
 			<ex	 word="繁栄" pron="はんえい" pa="0" pos="N" jlpt="1" />
 			<ex	 word="繁茂" pron="はんも" pa="1" pos="N" />
+			<ex	 word="繁盛" pron="はんじょう" pa="1" pos="N" />
 		</r>
 	</kanji>
 	
@@ -1022,6 +1024,8 @@
 			<ex	 word="否定" pron="ひてい" pa="0" pos="N" jlpt="3"/>
 			<ex	 word="否決" pron="ひけつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="拒否" pron="きょひ" pa="1" pos="N" jlpt="1" />
+			<ex	 word="賛否" pron="さんぴ" pa="1" pos="N" cn="赞成与否" eng="yes and no" />
+			<ex	 word="合否" pron="ごうひ" pa="1" pos="N" cn="合格与否" />
 			<ex	 word="安否" pron="あんぴ" pa="1" pos="N" />
 		</r>
 		<r kun="いや" kk="否" pa="1" pos="N" jlpt="1" ></r>

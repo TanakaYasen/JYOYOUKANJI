@@ -34,7 +34,7 @@
 	
 	<kanji	id="穀" freq="1978" jlpt="1" gr="6">
 		<r on="コク" >
-			<ex	 word="穀物" pron="かんげい" pa="0" pos="N" jlpt="3" eng="grain" />
+			<ex	 word="穀物" pron="こくもつ" pa="2" pos="N" jlpt="3" eng="grain" ref="作物" />
 			<ex	 word="米穀" pron="げいひん" pa="0" pos="N" />
 		</r>
 		<r nfu="穀くする(よくする)・穀い(よい)・穀う(やしなう)・穀きる(いきる)">
@@ -82,11 +82,21 @@
 	</kanji>
 	
 	<kanji	id="込" freq="182" jlpt="3" gr="8">
-		<r kun="こむ" kk="込む" pa="1" pos="j5" jlpt="4" >
+		<r kun="こむ" kk="込む" pa="1" pos="j5" jlpt="4" cn="进入...内部,彻底充分,程度深">
 			<ex	 word="申し込み" pron="もうしこみ" pa="2" pos="N" jlpt="1" />
 			<ex	 word="追い込む" pron="おいこみ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="飛び込む" pron="とびこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="走り込む" pron="はしりこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="押し込む" pron="おしこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="詰め込む" pron="つめこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="乗り込む" pron="のりこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="煮込む" pron="にこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="考え込む" pron="かんがえこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="黙り込む" pron="だまりこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="思い込む" pron="おもいこむ" pa="2" pos="N" jlpt="1" />
 		</r>
-		<r kun="こめる" kk="込める" pa="2" pos="t1" jlpt="1" >
+		<r kun="こめる" kk="込める" pa="2" pos="t1" jlpt="1" cn="包含,集中,倾注" >
+			<e ph="特別な意味を込める・愛情を込める" />
 		</r>
 	</kanji>
 	
@@ -302,10 +312,19 @@
 			<ex	 word="誤差" pron="ごさ" pa="1" pos="N" />
 		</r>
 		<r kun="さす" kk="差す" pa="1" pos="j5" jlpt="5" >
-			<ex	 word="差し支え" pron="さしつかえ" pa="0" pos="N" jlpt="2" />
+			<ex	 word="差し支え" pron="さしつかえ" pa="0" pos="N" jlpt="2" cn="妨碍;不方便">
+				<e ph="差支えがなければ、…" />
+			</ex>
+			<ex	 word="差し掛かる" pron="さしかかる" pa="04" pos="j5" jlpt="1" cn="临近">
+				<e ph="" />
+			</ex>
+			<ex	 word="差し伸べる" pron="さしのべる" pa="0" pos="t1" jlpt="1" cn="伸出(援助之手)" />
 			<ex	 word="差し上げる" pron="さしあげる" pa="0" pos="t1" jlpt="4" />
 			<ex	 word="差し出す" pron="さしだす" pa="0" pos="t5" jlpt="1" />
-			<ex	 word="差し引く" pron="さしひく" pa="0" pos="t5" jlpt="1" />
+			<ex	 word="差し引く" pron="さしひく" pa="0" pos="t5" jlpt="1" cn="扣除,减去" >
+				<e ph="手数料を差し引く・手数料として2割差し引く・給料から税金を差し引く" />
+				<e ph="借りた金来月の給料から差し引く・支払いを差し引くと2000円残る" />
+			</ex>
 		</r>
 		<r nfu="シ・差う(たがう)・差う(たがう)">
 		</r>
@@ -335,6 +354,7 @@
 	<kanji	id="座" freq="306" jlpt="3" gr="6">
 		<r on="ザ" >
 			<ex	 word="座右" pron="ざゆう" pa="0" pos="N" />
+			<ex	 word="口座" pron="こうざ" pa="0" pos="N" cn="银行账户" />
 			<ex	 word="銀座" pron="ぎんざ" pa="0" pos="N" cn="东京一商业街" />
 		</r>
 		<r kun="すわる" kk="座る" pa="0" pos="j5" jlpt="5" eng="to sit" >
@@ -452,6 +472,7 @@
 		<r on="サイ" >
 			<ex	 word="経済" pron="けいざい" pa="0" pos="N" jlpt="3" eng="economics"/>
 			<ex	 word="救済" pron="きゅうさい" pa="0" pos="N" jlpt="1" eng="relief"/>
+			<ex	 word="返済" pron="へんさい" pa="0" pos="N/ts" jlpt="1" cn="偿还,还债" eng="repayment"/>
 		</r>
 		<r kun="すむ" kk="済む" pa="1" pos="j5" jlpt="4" cn="完结/还清/满足" >
 		</r>
@@ -481,15 +502,18 @@
 			<ex	 word="細菌" pron="さいきん" pa="0" pos="N" jlpt="1" eng="bacterium"/>
 			<ex	 word="細胞" pron="さいぼう" pa="0" pos="N" jlpt="1" eng="cell"/>
 			<ex	 word="詳細" pron="しょうさい" pa="0" pos="N" jlpt="1" eng="details"/>
+			<ex	 word="細工" pron="さいく" pa="1" pos="N" jlpt="1" cn="手工艺" eng="man craft" >
+				<e ph="細かい細工・細工が悪い・細工を施す・竹細工・不細工" />
+			</ex>
 		</r>
-		<r kun="ほそい" kk="細い" pa="2" pos="adj" jlpt="5" >
+		<r kun="ほそ`い" kk="細い" pa="2" pos="adj" jlpt="5" >
 			<ex	 word="細腕" pron="ほそうで" pa="0" pos="N" jlpt="3" />
 		</r>
 		<r kun="ほそる" kk="細る" pa="2" pos="j5" >
 		</r>
 		<r kun="こまか" kk="細か" pa="2" pos="NA" jlpt="4" >
 		</r>
-		<r kun="こまかい" kk="細かい" pa="3" pos="adj" jlpt="4" >
+		<r kun="こま`かい" kk="細かい" pa="3" pos="adj" jlpt="4" cn="详细; 细致的; 精密" >
 		</r>
 		<r nfu="細やか(ささやか)・細しい(くわしい)" ></r>
 	</kanji>
@@ -697,9 +721,12 @@
 	<kanji	id="削" freq="2065" jlpt="1" gr="8">
 		<r on="サク" >
 			<ex	 word="掘削" pron="くっさく" pa="0" pos="N" jlpt="3" eng="digging out"/>
-			<ex	 word="削減" pron="さくげん" pa="0" pos="N" jlpt="1" eng="reduction"/>
+			<ex	 word="削減" pron="さくげん" pa="0" pos="N" jlpt="1" eng="reduction" >
+				<e ph="軍備削減・経費を削減する" >
+			</ex>
 		</r>
-		<r kun="けずる" kk="削る" pa="2" pos="t5" jlpt="2" >
+		<r kun="けず`る" kk="削る" pa="2" pos="t5" jlpt="2" cn="削,剥,刨; 消减,删去" >
+			<e ph="鉛筆を削る・予算を削る・支出を削る・余計な文字を削る" >
 		</r>
 		<r nfu="削ぐ(そぐ)・削る(はつる)・削り(はつり)">
 		</r>

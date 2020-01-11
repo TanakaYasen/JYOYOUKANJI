@@ -199,6 +199,7 @@
 			<ex	 word="本音" pron="ほんね" pa="0" pos="N" jlpt="1" />
 			<ex	 word="本質" pron="ほんしつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="本田" pron="ほんだ" pa="*0" pos="N" />
+			<ex	 word="本場" pron="ほんば" pa="0" pos="N" cn="原产地;当地;正宗" />
 		</r>
 		<r kun="もと" kk="本" pa="2" pos="N" jlpt="3" > 
 			<ex	 word="旗本" pron="はたもと" pa="0" pos="N" />

@@ -7,7 +7,7 @@
 -->
 
 <Dict>
-
+	
 	<kanji	id="頷" freq="2131" >
 		<r on="ガン" ></r>
 		<r on="かん" ></r>
@@ -17,7 +17,17 @@
 			<e ph="頷きながらメモを取る・頷けることではない。（不敢苟同）・人の話にうなずく" />
 		</r>
 	</kanji>
-
+	
+	<kanji	id="顎" freq="1919" jlpt="3" gr="6">
+		<r on="キ" >
+		</r>
+		<r kun="あご" kk="顎" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="覗" freq="1150" >
+		<r kun="のぞ`く" kk="覗く" pa="3" pos="t5" jlpt="2" cn="偷窥" ></r>
+	</kanji>
+	
 	<kanji	id="屑" freq="2131" >
 		<r kun="くず" kk="屑" pa="1" pos="N" jlpt="2" cn="碎屑,废物,糟粕">
 			<ex	 word="紙屑" pron="かみくず" pa="3" pos="N" jlpt="2" />
@@ -86,6 +96,12 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="倭" freq="2675" jlpt="3" gr="6">
+		<r on="ワ" >
+		</r>
+		<r kun="やまと" kk="倭" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
 	<kanji	id="祇" freq="2521" jlpt="3" gr="4">
 		<r on="ギ" >
 		</r>
@@ -105,7 +121,7 @@
 		<r kun="あおい" kk="葵" pa="0" pos="N" jlpt="1" >
 		</r>
 		<r sp="ひまわり" word="向日葵" pa="0" pos="N" jlpt="2" />
-		<r sp="わさび" word="わさび" pa="0" pos="N" jlpt="2" />
+		<r sp="わさび" word="山葵" pa="0" pos="N" jlpt="2" />
 	</kanji>
 	
 	<kanji	id="蕾" freq="3658" jlpt="3" gr="4">
@@ -186,6 +202,14 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="瑕" freq="3891" >
+		<r on="カ" >
+		</r>
+		<r kun="きず" kk="瑕" pa="0" pos="N" jlpt="1" >
+			<e ph="玉に瑕" />
+		</r>
+	</kanji>
+	
 	<kanji	id="瓜" freq="1714" jlpt="3" gr="4">
 		<r on="カ" >
 		</r>
@@ -219,6 +243,15 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="錆" freq="2752" >
+		<r on="セイ" >
+			<ex	 word="不錆鋼" pron="ふせいこう" pa="0" pos="N" />
+		</r>
+		<r kun="さ`びる" kk="錆びる" pa="2" pos="j1" jlpt="2" cn="生锈" eng="to become rusty" >
+			<e ph="庖丁が錆びる・釘が錆びる" />
+		</r>
+	</kanji>
+	
 	<kanji	id="癌" freq="3703" jlpt="3" gr="4">
 		<r on="ガン" >
 		</r>
@@ -230,10 +263,17 @@
 		<r kun="とび" kk="鳶" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="燕" freq="2452" jlpt="3" gr="4">
+	<kanji	id="燕" freq="2071" >
 		<r on="エン" >
 		</r>
-		<r kun="つばめ" kk="燕" pa="0" pos="N" jlpt="1" />
+		<r kun="つばめ" kk="燕" pa="0" pos="N" />
+	</kanji>
+	
+	<kanji	id="雀" freq="1392" >
+		<r on="ジャン" >
+			<ex	 word="麻雀" pron="マージャン" pa="0" pos="N" />
+		</r>
+		<r kun="すずめ" kk="雀" pa="0" pos="N" />
 	</kanji>
 	
 	<kanji	id="鵺" freq="2452" jlpt="3" gr="4">
@@ -261,8 +301,8 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="蠍" freq="3723" jlpt="3" gr="4">
-		<r on="ボウ" >
+	<kanji	id="蠍" freq="4423" jlpt="3" gr="4">
+		<r on="カツ" >
 		</r>
 		<r kun="さそり" kk="蠍" pa="0" pos="N" jlpt="1" >
 		</r>
@@ -363,13 +403,6 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="雫" freq="2780" jlpt="3" gr="4">
-		<r on="ダ" >
-		</r>
-		<r kun="しずく" kk="雫" pa="0" pos="N" jlpt="1" >
-		</r>
-	</kanji>
-	
 	<kanji	id="嘘" freq="1230" jlpt="3" gr="4">
 		<r on="キョ" >
 		</r>
@@ -424,17 +457,22 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="咳" freq="1049" jlpt="3" gr="4">
+	<kanji	id="咳" freq="2114" jlpt="3" gr="4">
 		<r on="ガイ" >
 		</r>
 		<r kun="せき" kk="喉" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="囁" freq="1049" jlpt="3" gr="4">
-		<r on="ガイ" >
+	<kanji	id="囁" freq="2002" >
+		<r kun="ささや`く" kk="囁く" pa="0" pos="t5" jlpt="1" cn="低声私语;咬耳朵;私下讨论">
+			<e ph="耳元でこっそり囁く・不倫の恋が囁かれている" />
 		</r>
-		<r kun="ささやく" kk="囁く" pa="0" pos="N" jlpt="1" >
+	</kanji>
+	
+	<kanji	id="囀" freq="3289" >
+		<r kun="さえずる" kk="囀る" pa="3" pos="j5" jlpt="1" cn="(鸟儿)唧唧喳喳叫">
+			<e ph="雀がさえずる・よくさえずる女の子" />
 		</r>
 	</kanji>
 	
@@ -454,11 +492,23 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="雫" freq="2780" jlpt="3" gr="4">
+		<r on="ダ" >
+		</r>
+		<r kun="しずく" kk="雫" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
 	
 	<kanji	id="渚" freq="2988" jlpt="3" gr="4">
-		<r on="ルイ" >
+		<r on="ショ" >
 		</r>
 		<r kun="なぎさ" kk="渚" pa="0" pos="N" jlpt="1" eng="shore" >
+		</r>
+	</kanji>
+	
+	<kanji	id="溜" freq="1416" >
+		<r kun="溜める" kk="た`める" pa="0" pos="t1" jlpt="1" cn="积蓄,储存" >
+			<ex	 word="ため息" pron="ためいき" pa="0" pos="N" cn="叹息"/>
 		</r>
 	</kanji>
 	
@@ -538,10 +588,13 @@
 		<r kun="さや" kk="鞘" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="倭" freq="2675" jlpt="3" gr="6">
-		<r on="ワ" >
+	<kanji	id="輿" freq="2296" >
+		<r on="ヨ" >
+			<ex	 word="輿論" pron="よろん" pa="0" pos="N" jlpt="1" ref="世論"/>
 		</r>
-		<r kun="やまと" kk="倭" pa="1" pos="N" jlpt="1" />
+		<r kun="こし" kk="輿" pa="1" pos="N" jlpt="1" >
+			<e ph="玉の輿に乗る" />
+		</r>
 	</kanji>
 	
 	<kanji	id="妾" freq="1087" jlpt="3" gr="6">
@@ -560,12 +613,6 @@
 		<r on="キ" >
 		</r>
 		<r kun="あや" kk="綺" pa="1" pos="N" jlpt="1" />
-	</kanji>
-	
-	<kanji	id="顎" freq="1919" jlpt="3" gr="6">
-		<r on="キ" >
-		</r>
-		<r kun="あご" kk="顎" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
 	<kanji	id="捧" freq="2074" gr="8">

@@ -207,7 +207,11 @@
 			<ex	 word="零細企業" pron="れいさいきぎょう" pa="5" pos="N" />
 			<ex	 word="零落" pron="れいらく" pa="0" pos="N" />
 		</r>
-		<r kun="こぼれる" kk="零れる" pa="3" pos="j1" jlpt="2" eng="to overflow" cn="洒落;溢出;凋谢" ref="溢れる" >
+		<r kun="こぼれる" kk="零れる" pa="3" pos="j1" jlpt="2" eng="to overflow" cn="洒落,溢出;表露流露;凋谢" ref="溢れる" >
+			<e ph="涙が零れる・水が零れる・ご飯が零れる・笑みが零れた・笑みの中に刃を隠す・笑うと白い歯が零れる" />
+		</r>
+		<r kun="こぼす" kk="零す" pa="3" pos="j1" jlpt="2" eng="to overflow" cn="洒落;溢出;凋谢" ref="溢れる" >
+			<e ph="涙を零す・手が滑ってお茶を零してしまった・愚痴を零す" />
 		</r>
 	</kanji>
 	
@@ -303,9 +307,10 @@
 			<ex	 word="破裂" pron="はれつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="分裂" pron="ぶんれつ" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="さく" kk="裂く" pa="1" pos="t5" jlpt="2" ref="割く" >
+		<r kun="さ`く" kk="裂く" pa="1" pos="t5" jlpt="2" cn="撕裂;切开,剖开;分裂离间" ref="割く">	
+			<e ph="魚の腹を裂く・仲間を裂く" />
 		</r>
-		<r kun="さける" kk="裂ける" pa="2" pos="j1" jlpt="1" >
+		<r kun="さ`ける" kk="裂ける" pa="2" pos="j1" jlpt="1" >
 		</r>
 	</kanji>
 	
@@ -321,7 +326,8 @@
 			<ex	 word="初恋" pron="はつこい" pa="3" pos="N" />
 			<ex	 word="恋人" pron="こいびと" pa="0" pos="N" jlpt="3" eng="lover" />
 		</r>
-		<r kun="こいしい" kk="恋しい" pa="3" pos="adj" jlpt="2" >
+		<r kun="こい`しい" kk="恋しい" pa="3" pos="adj" jlpt="2" cn="爱慕的 眷恋的,怀念的" >
+			<e ph="故郷が恋しい・火が恋しくなってきた" />
 		</r>
 	</kanji>
 	
@@ -512,7 +518,8 @@
 		</r>
 		<r kun="かご" kk="籠" pa="0" pos="N" jlpt="3" >
 		</r>
-		<r kun="こもる" kk="籠る" pa="2" pos="j5" jlpt="3" >
+		<r kun="こも`る" kk="籠る" pa="2" pos="j5" jlpt="3" >
+			<e ph="家に籠る・タバコの煙が部屋に籠る・気合がこもる・思いやりのこもった手紙" >
 		</r>
 		<r sp="つづら" word="葛籠" pa="0" pos="N" />
 	</kanji>

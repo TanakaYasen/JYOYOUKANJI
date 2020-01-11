@@ -152,9 +152,13 @@
 	
 	<kanji	id="促" freq="1688" jlpt="1" gr="8">
 		<r on="ソク" >
-			<ex	 word="催促" pron="さいそく" pa="1" jlpt="2" pos="N" cn="" />
+			<ex	 word="催促" pron="さいそく" pa="1" pos="N/ts" jlpt="2" cn="" >
+				<e ph="原稿を催促する・借金の返済を催促する" />
+			</ex>
 		</r>
-		<r kun="うなが`す" kk="促す" pa="03" pos="t5" jlpt="1"></r>
+		<r kun="うなが`す" kk="促す" pa="03" pos="t5" jlpt="1" cn="催促;促使;促进" >
+			<e ph="子供はすくすくと成長を促す・彼は頷いて、話の先を促した" />
+		</r>
 	</kanji>
 	
 	<kanji	id="則" freq="1145" jlpt="2" gr="5">

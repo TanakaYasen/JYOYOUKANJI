@@ -206,7 +206,8 @@
 		<r on="シャ" >
 			<ex	 word="遮断" pron="しゃだん" pa="0" pos="N" />
 		</r>
-		<r kun="さえぎる" kk="遮る" pa="3" pos="t5" jlpt="1" >
+		<r kun="さえぎ`る" kk="遮る" pa="3" pos="t5" jlpt="1" cn="遮挡.遮掩;干扰打断;挡住">
+			<e ph="手で遮る・カーテンで遮る・話を遮る・道を遮る・風を遮る" />
 		</r>
 	</kanji>
 	
@@ -1036,9 +1037,9 @@
 		</r>
 		<r on="ジュ" >
 		</r>
-		<r kun="したがう" kk="従う" pa="1" pos="NA" jlpt="5" >
+		<r kun="したが`う" kk="従う" pa="03" pos="j5" jlpt="3" ga="～に従って">
 		</r>
-		<r kun="したがえる" kk="従える" pa="1" pos="adj" jlpt="5" >
+		<r kun="したが`える" kk="従える" pa="04" pos="t1" cn="率领;征服" >
 		</r>
 	</kanji>
 	
