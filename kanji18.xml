@@ -72,11 +72,13 @@
 	
 	<kanji	id="認" freq="602" jlpt="3" gr="6">
 		<r on="ニン" >
-			<ex	 word="承認" pron="しょうにん" pa="0" pos="N/ts" jlpt="3" />
+			<ex	 word="承認" pron="しょうにん" pa="0" pos="N/ts" jlpt="3" cn="承认;答应,允诺;批准,同意" >
+				<e ph="承認を得る・双方とも承認する" />
+			</ex>
 			<ex	 word="認識" pron="にんしき" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="認定" pron="にんてい" pa="0" pos="N/ts" />
 		</r>
-		<r kun="みとめる" kk="認める" pa="0" pos="t1" jlpt="3" cn="看到;认识;赏识;承认;断定" > </r>
+		<r kun="みと`める" kk="認める" pa="0" pos="t1" jlpt="3" cn="看到;认识;赏识;承认;断定" > </r>
 		<r kun="したためる" kk="認める" pa="0" pos="t1" jlpt="1" > </r>
 	</kanji>
 	
@@ -351,11 +353,15 @@
 	
 	<kanji	id="配" freq="391" jlpt="3" gr="3">
 		<r on="ハイ" >
-			<ex	 word="支配" pron="しはい" pa="12" pos="N/ts" jlpt="3" />
+			<ex	 word="支配" pron="しはい" pa="12" pos="N/ts" jlpt="3" >
+				<e ph="支配階級・支配権を握る・感情に支配される" />
+			</ex>
 			<ex	 word="心配" pron="しんぱい" pa="0" pos="N/jts" jlpt="3" />
 			<ex	 word="配送" pron="はいそう" pa="0" pos="N/ts" />
 		</r>
-		<r kun="くばる" kk="配る" pa="2" pos="t5" jlpt="2" ph="～を配る" cn="分配"></r>
+		<r kun="くば`る" kk="配る" pa="2" pos="t5" jlpt="2" ph="～を配る" cn="分配;分发">
+			<e ph="お菓子を配る・試験ペーパーを配る" />
+		</r>
 	</kanji>
 	
 	<kanji	id="排" freq="1895" jlpt="1" gr="8">

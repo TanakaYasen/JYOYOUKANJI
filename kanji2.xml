@@ -392,19 +392,25 @@
 		<r on="カ" >
 			<ex	 word="下流" pron="かりゅう" pa="0" pos="N" />
 			<ex	 word="以下" pron="いか" pa="1" pos="N" />
+			<ex	 word="下半身" pron="かはんしん" pa="2" pos="N" jp="腰から下の部分" />
 		</r>
 		<r on="ゲ" >
-			<ex	 word="上下" pron="じょうげ" pa="1" pos="N" />
+			<ex	 word="上下" pron="じょうげ" pa="1" pos="N" cn="上和下; 尊卑; 上下移动" >
+				<e ph="上下関係・株価が上下する" />
+			</ex>
 			<ex	 word="下品" pron="げひん" pa="0" pos="NA" cn="低劣,庸俗,猥琐" >
 				<e ph="下品な言行・下品な言葉遣い・食べ方が下品だ" />
 			</ex>
 		</r>
 		<r kun="した" kk="下" pa="0" pos="N" jlpt="5" />
-		<r kun="しも" kk="下" pa="2" pos="N" jlpt="5" />
+		<r kun="しも" kk="下" pa="2" pos="N" jlpt="5" >
+			<ex	 word="下半期" pron="しもはんき" pa="3" pos="N" cn="下半年" ref="上半期" />
+		</r>
 		<r kun="もと" kk="下" pa="2" pos="N" jlpt="5" />
 		<r kun="さげる" kk="下" pa="2" pos="N" jlpt="5" />
-		<r kun="さがる" kk="下" pa="2" pos="N" jlpt="5" />
-		<r kun="さがる" kk="下" pa="2" pos="N" jlpt="5" />
+		<r kun="さがる" kk="下がる" pa="2" pos="j5" jlpt="5" >
+			<e ph="物価が／気温が／評判が下がりました" />
+		</r>
 		<r kun="くだる" kk="下" pa="0" pos="N" jlpt="5" />
 		<r kun="くだす" kk="下" pa="0" pos="N" jlpt="5" />
 		<r kun="くださる" kk="下" pa="3" pos="N" jlpt="5" />
@@ -451,6 +457,7 @@
 				<e ph="室内温度を加減する・彼の言うことは加減して聞かないといけない" />
 				<e ph="お加減はいかがですか・ちょっと加減が悪い・お風呂の加減を見てください" />
 				<e ph="手加減" />
+				<e ph="いい加減に(适可而止,不过分; 适当适度)" />
 			</ex>
 			<ex	 word="加入" pron="かにゅう" pa="0" pos="N" />
 		</r>
@@ -624,7 +631,7 @@
 			<ex	 word="薄荷" pron="はっか" pa="0" pos="N" />
 		</r>
 		<r kun="に" kk="荷" pa="1" pos="N" jlpt="1" >
-			<ex	 word="荷物" pron="にもつ" pa="1" pos="N" jlpt="5" eng="luggage" />
+			<ex	 word="荷物" pron="にもつ" pa="1" pos="N" jlpt="5" cn="行李" eng="luggage" />
 			<ex	 word="荷造り" pron="にづくり" pa="2" pos="N/jts" jlpt="1" />
 			<ex	 word="重荷" pron="おもに" pa="0" pos="N" cn="重担"/>
 			<ex	 word="初荷" pron="はつに" pa="0" pos="N" cn="年初第一次送货"/>

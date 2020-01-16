@@ -320,8 +320,11 @@
 			<ex	 word="対等" pron="かいとう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="平等" pron="びょうどう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="等級" pron="とうきゅう" pa="0" pos="N" jlpt="1" />
+			<ex	 word="上等" pron="じょうとう" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="ひとしい" kk="等しい" pa="3" pos="adj" jlpt="3" ph="~に等しい" ></r>
+		<r kun="ひと`しい" kk="等しい" pa="3" pos="adj" jlpt="3" ph="~に等しい" >
+			<e ph="泥棒に等しい行い・鬼にも等しい心" />
+		</r>
 	</kanji>
 	
 	<kanji	id="筒" freq="1621" jlpt="2" gr="8">
@@ -471,7 +474,9 @@
 			<ex	 word="動機" pron="どうき" pa="0" pos="N" jlpt="1" />
 			<ex	 word="騒動" pron="そうどう" pa="1" pos="N" jlpt="1"/>
 		</r>
-		<r kun="うご`く" kk="動く" pa="2" pos="j5" jlpt="4" ></r>
+		<r kun="うご`く" kk="動く" pa="2" pos="j5" jlpt="4" cn="变动;摇动;改变;行动;动摇" >
+			<e ph="時代が動いている・動かないで、ここで待ちなさい・この話を聞いて、心が動いた" />
+		</r>
 		<r kun="うご`かす" kk="動かす" pa="3" pos="t5" jlpt="3" ></r>
 	</kanji>
 	
@@ -502,6 +507,8 @@
 			<ex	 word="鉄道" pron="てつどう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="道徳" pron="どうとく" pa="0" pos="N" jlpt="3"/>
 			<ex	 word="報道" pron="ほうどう" pa="0" pos="N" jlpt="1"/>
+			<ex	 word="茶道" pron="さどう" pa="1" pos="N" />
+			<ex	 word="書道" pron="しょどう" pa="1" pos="N" jlpt="2"/>
 		</r>
 		<r on="トウ" >
 			<ex	 word="神道" pron="しんとう" pa="1" pos="N" />
@@ -545,7 +552,7 @@
 	</kanji>
 	
 	<kanji	id="峠" freq="1681" jlpt="1" gr="8">
-		<r kun="とうげ" kk="峠" pa="3" pos="N" jlpt="2" cn="山角"> </r>
+		<r kun="とうげ" kk="峠" pa="3" pos="N" jlpt="2" cn="山顶;全盛期"> </r>
 	</kanji>
 	
 	<kanji	id="匿" freq="2693" jlpt="1" gr="8">

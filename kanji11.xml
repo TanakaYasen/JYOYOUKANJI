@@ -6,7 +6,9 @@
 		<r on="ショウ" >
 			<ex	 word="印象" pron="しゅくだい" pa="0" pos="N" jlpt="3" eng="impression" />
 			<ex	 word="現象" pron="しゅくめい" pa="0" pos="N" jlpt="3" eng="phenomenon" />
-			<ex	 word="象徴" pron="しょうちょう" pa="0" pos="N" jlpt="1" eng="symbol" />
+			<ex	 word="象徴" pron="しょうちょう" pa="0" pos="N/ts" jlpt="1" eng="symbol" ref="シンボル">
+				<e ph="刀は武力の象徴だ・鳩は平和を象徴する" />
+			</ex>
 			<ex	 word="対象" pron="たいしょう" pa="0" pos="N" jlpt="3" eng="target; object" />
 			<ex	 word="抽象" pron="ちゅうしょう" pa="0" pos="N" eng="abstraction" />
 		</r>
@@ -47,7 +49,7 @@
 	
 	<kanji	id="奨" freq="2580" jlpt="1" gr="8">
 		<r on="ショウ" >
-			<ex	 word="奨励" pron="しょうれい" pa="0" pos="N" jlpt="1" eng="encouragement" />
+			<ex	 word="奨励" pron="しょうれい" pa="0" pos="N/ts" jlpt="1" eng="encouragement" />
 			<ex	 word="推奨" pron="すいしょう" pa="0" pos="N" eng="recommendation" />
 		</r>
 		<r nfu="ソウ・奨める(すすめる)・奨ける(たすける)">
@@ -61,9 +63,10 @@
 		</r>
 		<r kun="てる" kk="照る" pa="1" pos="*j5" jlpt="2" eng="to shine" >
 		</r>
-		<r kun="てらす" kk="照らす" pa="20" pos="t5" jlpt="2" eng="to shine on" >
+		<r kun="て`らす" kk="照らす" pa="20" pos="t5" jlpt="2" cn="照耀" eng="to shine on" >
+			<e ph="太陽が地球を照らす・法律に照らして処分" />
 		</r>
-		<r kun="てれる" kk="照れる" pa="2" pos="j1" >
+		<r kun="て`れる" kk="照れる" pa="2" pos="j1" cn="害羞, 羞怯" eng="to be shy" >
 		</r>
 	</kanji>
 	
@@ -172,7 +175,6 @@
 			<ex	 word="極上" pron="ごくじょう" pa="0" pos="NA" />
 			<ex	 word="頂上" pron="ちょうじょう" pa="3" pos="N" eng="peak" />
 			<ex	 word="上品" pron="じょうひん" pa="0" pos="N" cn="高雅" ></ex>
-			<ex	 word="上下" pron="じょうげ" pa="0" pos="NA" />
 		</r>
 		<r on="ショウ" >
 		</r>
@@ -516,9 +518,11 @@
 			<ex	 word="触覚" pron="しょっかく" pa="0" pos="N" />
 			<ex	 word="触手" pron="しょくしゅ" pa="0" pos="N" />
 		</r>
-		<r kun="ふれる" kk="触れる" pa="0" pos="j1" jlpt="3" eng="to touch" cn="无意识的轻触" >
+		<r kun="ふ`れる" kk="触れる" pa="0" pos="j1" jlpt="3" eng="to touch" cn="无意识的轻触;提及;接触到;触犯" >
+			<e ph="うっかりして隣の人の手に触れた・その事件に触れたくないです・異文化に触れました・法律に触れる" />
 		</r>
-		<r kun="さわる" kk="触る" pa="0" pos="j5" jlpt="4" eng="to touch" cn="有意识的碰触" >
+		<r kun="さわ`る" kk="触る" pa="0" pos="j5" jlpt="4" eng="to touch" cn="有意识的碰触" >
+			<e ph="濡れた手で電灯に触ると危ない・あんな奴に触らない方がいい" />
 		</r>
 		<r nfu="ソク">
 		</r>
@@ -652,6 +656,7 @@
 	
 	<kanji	id="芯" freq="3402" gr="8">
 		<r on="シン" >
+			<e ph="鉛筆の芯・芯まで凍える寒さ・芯が強い" >
 		</r>
 	</kanji>
 	
@@ -685,12 +690,15 @@
 	
 	<kanji	id="侵" freq="2021" jlpt="3" gr="6">
 		<r on="シン" >
-			<ex	 word="侵害" pron="しんがい" pa="0" pos="N/ts" />
+			<ex	 word="侵害" pron="しんがい" pa="0" pos="N/ts" >
+				<e ph="プライバシー(privacy)の侵害・人権を侵害する" />
+			</ex>
 			<ex	 word="侵入" pron="しんにゅう" pa="0" pos="N" jlpt="2" />
 			<ex	 word="侵犯" pron="しんぱん" pa="0" pos="N" />
 			<ex	 word="侵略" pron="しんりゃく" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="おかす" kk="侵す" pa="20" pos="t5" jlpt="1" >
+		<r kun="おか`す" kk="侵す" pa="20" pos="t5" jlpt="1" ref="犯す" >
+			<e ph="国境を侵す" />
 		</r>
 		<r nfu="侵い(みにくい)">
 		</r>
@@ -704,6 +712,7 @@
 			<ex	 word="信用" pron="しんよう" pa="0" pos="N" />
 			<ex	 word="信頼" pron="しんらい" pa="0" pos="N" />
 			<ex	 word="通信" pron="つうしん" pa="0" pos="N" />
+			<ex	 word="信じる" pron="しんじる" pa="30" pos="t1" jlpt="3" cn="相信;信赖" />
 		</r>
 		<r nfu="まこと・信り(たより)・信せる(まかせる)">
 		</r>
@@ -794,7 +803,9 @@
 			<ex	 word="真珠" pron="しんじゅ" pa="0" pos="N" jlpt="1" eng="pearl"/>
 			<ex	 word="真実" pron="しんじつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="真偽" pron="しんぎ" pa="0" pos="N" />
-			<ex	 word="真剣" pron="しんけん" pa="0" pos="NA/N" jlpt="3" />
+			<ex	 word="真剣" pron="しんけん" pa="0" pos="NA/N" jlpt="3" cn="认真;一丝不苟" >
+				<e ph="真剣な顔をしている・真剣になって怒る・真剣勝負" />
+			</ex>
 			<ex	 word="真空" pron="しんくう" pa="0" pos="NA/N" jlpt="2" eng="vacuum" />
 		</r>
 		<r kun="ま" kk="真" pa="0" pos="N" >
@@ -922,9 +933,13 @@
 	<kanji	id="審" freq="1485" jlpt="1" gr="8">
 		<r on="シン" >
 			<ex	 word="審議" pron="しんぎ" pa="0" pos="N" jlpt="1" eng="deliberation" />
-			<ex	 word="審査" pron="しんさ" pa="0" pos="N/ts" jlpt="1" eng="judging" />
+			<ex	 word="審査" pron="しんさ" pa="1" pos="N/ts" jlpt="1" eng="judging" >
+				<e ph="審査員・入国審査・論文を審査する" />
+			</ex>
 			<ex	 word="審問" pron="しんもん" pa="0" pos="N" />
-			<ex	 word="審判" pron="しんぱん" pa="0" pos="N/ts" jlpt="3" eng="judgement" />
+			<ex	 word="審判" pron="しんぱん" pa="0" pos="N/ts" jlpt="3" eng="judgement" >
+				<e ph="審判を待つ・最後の審判" />
+			</ex>
 		</r>
 		<r nfu="審らか(つまびらか)・審らかにする(つまびらかにする)・審に(まことに)">
 		</r>
@@ -932,12 +947,13 @@
 	
 	<kanji	id="震" freq="1058" jlpt="2" gr="8">
 		<r on="シン" >
-			<ex	 word="震動" pron="しんどう" pa="0" pos="N" />
-			<ex	 word="地震" pron="じしん" pa="0" pos="N" />
+			<ex	 word="震動" pron="しんどう" pa="0" pos="N/js"  />
+			<ex	 word="地震" pron="じしん" pa="0" pos="N" jlpt="4" eng="earthquake" ref="マグニチュード(magnitude)" />
 		</r>
 		<r kun="ふるう" kk="震う" pa="0" pos="j5" >
 		</r>
-		<r kun="ふるえる" kk="震える" pa="3" pos="j1" jlpt="3" eng="to shake" >
+		<r kun="ふる`える" kk="震える" pa="3" pos="j1" jlpt="3" eng="to shake" >
+			<e ph="彼女は恐怖で唇が震えていた" />
 		</r>
 	</kanji>
 	

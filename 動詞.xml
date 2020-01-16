@@ -6,6 +6,9 @@
 	
 	<table tag="no kanji">
 		<ex	 word="ぶつかる" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="しゃぶる" pron="しゃぶる" pa="0" pos="t5" jlpt="2" cn="吮吸;含;嘬" >
+			<e ph="乳を／指をしゃぶる・飴玉をしゃぶる" />
+		</ex>
 	</table>
 	
 	<table tag="daily">
@@ -23,6 +26,9 @@
 		<ex	 word="くっ付ける" pron="くっつける" pa="4" pos="t1" cn="把...黏上; 拉拢,撮合" >
 			<e ph="割れた花瓶を接着剤でくっ付ける・胸に名札（なふだ）をくっつける・味方にくっつける" />
 		</ex>
+		<ex	 word="痺れる" pron="しびれる" pa="3" pos="j1" cn="麻木,麻痹,失去知觉" >
+			<e ph="長い間座っていたので足がしびれる・あまりにも辛くて舌がしびれる・寒さで痺れる" />
+		</ex>
 		<ex	 word="貶す" pron="けな`す" pa="0" pos="t5" jlpt="1" cn="贬损,诋毁,挖苦" eng="to disparage" ph="~を貶す" ref="褒める" />
 		<ex	 word="拵える" pron="こしらえる" pa="0" pos="t1" jlpt="2" cn="制作;置办;筹措;化妆" str="true" >
 			<e ph="服をこしらえる・料理をこしらえる・金をこしらえる・顔を拵える" />
@@ -36,6 +42,9 @@
 		</ex>
 		<ex	 word="揶揄う" pron="からかう" pa="3" pos="t5" jlpt="2" cn="" />
 		<ex	 word="躊躇う" pron="ためらう" pa="3" pos="j5" jlpt="2" ph="" cn="" />
+		<ex	 word="洒落る" pron="しゃれる" pa="0" pos="j1" jlpt="1" cn="打扮得装扮得(漂亮);言行文雅大方;说俏皮话" >
+			<e ph="この店は洋風でなかなか洒落ている・しゃれたデザイン・お洒落" />
+		</ex>
 	</table>
 </Dict>
 

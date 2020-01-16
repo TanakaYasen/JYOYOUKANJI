@@ -52,6 +52,7 @@
 	<kanji	id="頂" freq="857" jlpt="3" gr="6">
 		<r on="チョウ" >
 			<ex	 word="頂上" pron="ちょうじょう" pa="0" pos="N" jlpt="3"/>
+			<ex	 word="山頂" pron="さんちょう" pa="0" pos="N" jlpt="3"/>
 			<ex	 word="頂点" pron="ちょうてん" pa="1" pos="N" jlpt="2"/>
 		</r>
 		<r kun="いただく" kk="頂く" pa="0" pos="t5" jlpt="3"></r>
@@ -182,12 +183,16 @@
 			<ex	 word="直前" pron="ちょくぜん" pa="0" pos="N/adv" jlpt="2" cn="即将…之前" eng="just before"/>
 		</r>
 		<r on="ジキ" >
-			<ex	 word="正直" pron="しょうじき" pa="0" pos="N/NA" jlpt="0"/>
-		</r>
+			<ex	 word="正直" pron="しょうじき" pa="34" pos="N/NA" jlpt="3" cn="老实的;坦白的" eng="honest; frank" >
+				<e ph="正直な男・正直に話す・馬鹿正直・正直者が馬鹿を見る・口が嫌だと言っても 体は正直なものだ" />
+			</ex>
+			<ex	 word="直" pron="じき" pa="1" pos="N/NA" cn="直接 # 就在眼前; 立刻马上; 很容易" eng="soon; in a moment" ph="直に" />
+			<ex	 word="直に" pron="じきに" pa="0" pos="adv" cn="立刻马上; 很容易" eng="soon; in a moment" ph="直に" />
+			<ex	 word="直に" pron="じかに" pa="1" pos="adv" cn="直接" eng="directly" ph="直に手渡せ" />
+	</r>
 		<r kun="ただちに" kk="直ちに" pa="1" pos="adv" jlpt="3" cn="立刻" eng="at once; immediately" ></r>
 		<r kun="なおす" kk="直す" pa="2" pos="t5" jlpt="4"></r>
 		<r kun="なおる" kk="直る" pa="2" pos="j5" jlpt="4"></r>
-		<r kun="じき" kk="直" pa="1" pos="N/NA" cn="直接 # 就在眼前; 立刻马上; 很容易" eng="soon; in a moment" ></r>
 	</kanji>
 	
 	<kanji	id="勅" freq="2459" jlpt="1" gr="8">
@@ -206,10 +211,17 @@
 	
 	<kanji	id="沈" freq="942" jlpt="2" gr="8">
 		<r on="チン" >
-			<ex	 word="沈黙" pron="ちんもく" pa="0" pos="N" jlpt="1"/>
+			<ex	 word="沈黙" pron="ちんもく" pa="0" pos="N/js" jlpt="1" >
+				<e ph="沈黙は金雄弁は銀" />
+			</ex>
+			<ex	 word="沈没" pron="ちんぼつ" pa="0" pos="N/js" jlpt="1"/>
 		</r>
-		<r kun="しずむ" kk="沈む" pa="0" pos="j5" jlpt="3"></r>
-		<r kun="しずめる" kk="沈める" pa="0" pos="t1" jlpt="1" ph="ベッドに身を沈める"></r>
+		<r kun="しず`む" kk="沈む" pa="0" pos="j5" jlpt="3">
+			<e ph="人が船と一緒に水中に沈む・日が西に沈む・沈んた顔" />
+		</r>
+		<r kun="しず`める" kk="沈める" pa="0" pos="t1" jlpt="1" cn="使下沉;使沦落" ph="ベッドに身を沈める">
+			<e ph="船を沈める・ソファーに身を沈める・苦界に身を沈める・海に身を沈める" />
+		</r>
 	</kanji>
 	
 	<kanji	id="珍" freq="942" jlpt="2" gr="8">
@@ -233,6 +245,7 @@
 	
 	<kanji	id="賃" freq="1647" jlpt="1" gr="6">
 		<r on="チン" >
+			<ex	 word="家賃" pron="やちん" pa="1" pos="N" jlpt="3" />
 			<ex	 word="賃貸" pron="ちんたい" pa="1" pos="N" />
 			<ex	 word="運賃" pron="うんちん" pa="1" pos="N" jlpt="1" cn="运费" />
 		</r>
@@ -521,8 +534,10 @@
 		<r on="テイ" >
 			<ex	 word="締結" pron="ていけつ" pa="0" pos="N" />
 		</r>
-		<r kun="しまる" kk="締まる" pa="2" pos="j5" jlpt="5" ></r>
-		<r kun="しめる" kk="締める" pa="2" pos="t1" jlpt="5" cn="系 绑" ></r>
+		<r kun="し`まる" kk="締まる" pa="2" pos="j5" jlpt="5" ></r>
+		<r kun="し`める" kk="締める" pa="2" pos="t1" jlpt="5" cn="系 绑" >
+			<e ph="ネクタイを締める・シートベルトを締める" />
+		</r>
 	</kanji>
 	
 	<kanji	id="諦" freq="1872" gr="8">

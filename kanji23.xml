@@ -148,20 +148,23 @@
 		</r>
 		<r kun="ひやかす" kk="冷やかす" pa="3" pos="t5" jlpt="1" >
 		</r>
-		<r kun="さめる" kk="冷める" pa="2" pos="j1" jlpt="2" >
+		<r kun="さ`める" kk="冷める" pa="2" pos="*j1" jlpt="2" cn="变冷" >
+			<e ph="湯が冷めた・冷めないうちにどうぞお召し上がり下さい" />
 		</r>
-		<r kun="さます" kk="冷ます" pa="2" pos="t5" jlpt="2" >
+		<r kun="さ`ます" kk="冷ます" pa="2" pos="t5" jlpt="2" cn="弄凉,使冷却; 降低,使平静">
+			<e ph="熱を冷ます・お湯を拭いて冷ます・熱ければ冷まして飲みなさい・興奮を冷ます" />
 		</r>
 	</kanji>
 	
 	<kanji	id="励" freq="1831" jlpt="1" gr="8">
 		<r on="レイ" >
-			<ex	 word="奨励" pron="しょうれい" pa="0" pos="N" jlpt="1" />
 			<ex	 word="激励" pron="げきれい" pa="0" pos="N" jlpt="1" eng="encouragement" />
 		</r>
-		<r kun="はげむ" kk="励む" pa="2" pos="j5" jlpt="1" >
+		<r kun="はげ`む" kk="励む" pa="2" pos="j5" jlpt="1" cn="努力,刻苦,勤勉">
+			<e ph="仕事に／勉強に励む・学問に／研究に励む" />
 		</r>
-		<r kun="はげます" kk="励ます" pa="3" pos="t5" jlpt="1" eng="to encourage" >
+		<r kun="はげ`ます" kk="励ます" pa="3" pos="t5" jlpt="1" cn="鼓励,激励,勉励; 厉声;提高嗓门" eng="to encourage" >
+			<e ph="がっかりしている友達を励ます・友達に励まされる" />
 		</r>
 	</kanji>
 	
@@ -471,7 +474,7 @@
 			<ex	 word="波浪" pron="はろう" pa="0" pos="N" />
 			<ex	 word="流浪" pron="るろう" pa="0" pos="N" />
 			<ex	 word="浪費" pron="ろうひ" pa="0" pos="N" jlpt="1" />
-			<ex	 word="浪人" pron="ろうにん" pa="0" pos="N" />
+			<ex	 word="浪人" pron="ろうにん" pa="0" pos="N" cn="无业游民;落第复读的学生" />
 		</r>
 		<r nfu="ラン・なみ・みだりに">
 		</r>

@@ -351,7 +351,10 @@
 		<r on="バツ" >
 			<ex	 word="末子" pron="まつご" pa="1" pos="N" />
 		</r>
-		<r kun="すえ" kk="末" pa="2" pos="N" jlpt="3" > 
+		<r kun="すえ" kk="末" pa="2" pos="N" jlpt="3" ga="～末に"> 
+			<ex	 word="末長く" pron="すえながく" pa="0" pos="adj" cn="永远,生生世世" eng="permanently;forever" >
+				<e ph="末長くお幸せでありますように" />
+			</ex>
 			<ex	 word="末っ子" pron="すえっこ" pa="0" pos="N" />
 			<ex	 word="末頼もしい" pron="すえたのもしい" pa="6" pos="N" />
 		</r>
@@ -413,6 +416,12 @@
 	<kanji	id="味" freq="119" jlpt="4" gr="3">
 		<r on="ミ" >
 			<ex	 word="意味" pron="いみ" pa="1" pos="N" jlpt="5" />
+			<ex	 word="正味" pron="しょうみ" pa="1" pos="N" jlpt="2" cn="实质内容;净重;真货" >
+				<e ph="正味八時間働いた・正味１キログラム・正味２万円儲けた" />
+			</ex>
+			<ex	 word="賞味" pron="しょうみ" pa="1" pos="N/ts" jlpt="2" cn="品尝" >
+				<e ph="賞味期限が切れた" />
+			</ex>
 			<ex	 word="味方" pron="みかた" pa="0" pos="N" jlpt="3" cn="我方;伙伴盟友" eng="friend;ally" />
 			<ex	 word="味覚" pron="みかく" pa="0" pos="N" jlpt="1" eng="taste"/>
 			<ex	 word="気味" pron="きみ" pa="0" pos="N/sf" jlpt="4" cn="感受,身心的感觉; (v stem+~)稍微...有点" >
@@ -613,7 +622,8 @@
 		</r>
 		<r kun="あからむ" kk="明らむ" pa="3" pos="j5" jp="≒明るむ">
 		</r>
-		<r kun="あきらか" kk="明らか" pa="2" pos="NA" jlpt="3" >
+		<r kun="あき`らか" kk="明らか" pa="2" pos="NA" jlpt="3" cn="明亮; 显然; 精通(学问)" >
+			<e ph="是非を明らかにする" />
 		</r>
 		<r kun="あける" kk="明ける" pa="0" pos="j1" jlpt="3" cn="某种状态结束开始新状态">
 		</r>
@@ -790,7 +800,9 @@
 	
 	<kanji	id="耗" freq="3344" jlpt="1" gr="8">
 		<r on="モウ" >
-			<ex	 word="消耗" pron="しょうもう" pa="0" pos="N" jlpt="2" />
+			<ex	 word="消耗" pron="しょうもう" pa="0" pos="N/jts" jlpt="2" >
+				<e ph="エネルギーを消耗する・闘志を消耗する・神経を消耗する仕事" />
+			</ex>
 			<ex	 word="摩耗" pron="まもう" pa="0" pos="N" />
 		</r>
 		<r on="コウ" >

@@ -40,6 +40,7 @@
 			<ex	 word="相宿" pron="あいやど" pa="0" pos="N" />
 		</r>
 		<r kun="やどる" kk="宿る" pa="2" pos="j5" cn="投宿;寄居">
+			<e ph="鳥は木に宿る・人体に回虫が宿る" >
 		</r>
 		<r kun="やどす" kk="宿す" pa="1" pos="t5" cn="留宿;怀孕">
 		</r>
@@ -68,16 +69,21 @@
 	<kanji	id="縮" freq="1356" jlpt="1" gr="6">
 		<r on="シュク" >
 			<ex	 word="萎縮" pron="いしゅく" pa="0" pos="N" />
-			<ex	 word="縮小" pron="しゅくしょう" pa="0" pos="N" jlpt="2" eng="reduction" />
+			<ex	 word="縮小" pron="しゅくしょう" pa="0" pos="N" jlpt="2" eng="reduction" ref="拡大" >
+				<e ph="生産を縮小する・軍備縮小" />
+			</ex>
 			<ex	 word="圧縮" pron="あっしゅく" pa="0" pos="N" jlpt="2" eng="compression" />
 		</r>
-		<r kun="ちぢむ" kk="縮む" pa="0" pos="j5" jlpt="2" >
+		<r kun="ちぢ`む" kk="縮む" pa="0" pos="j5" jlpt="2" >
 		</r>
-		<r kun="ちぢまる" kk="縮まる" pa="0" pos="j5" jlpt="1" >
+		<r kun="ちぢ`まる" kk="縮まる" pa="0" pos="j5" jlpt="1" >
+			<e ph="距離が縮まる・木材は乾燥するにつれて縮まる・寿命が縮まる" />
 		</r>
-		<r kun="ちぢめる" kk="縮める" pa="0" pos="t1" jlpt="2" >
+		<r kun="ちぢ`める" kk="縮める" pa="0" pos="t1" jlpt="2" >
+			<e ph="期限を縮める・足を縮めて寝る" />
 		</r>
-		<r kun="ちぢれる" kk="縮れる" pa="0" pos="j1" jlpt="2" >
+		<r kun="ちぢ`れる" kk="縮れる" pa="0" pos="j1" jlpt="2" cn="卷曲" >
+			<e ph="赤ちゃんが髪の毛が縮れていて可愛い" />
 		</r>
 		<r kun="ちぢらす" kk="縮らす" pa="0" pos="t5" >
 		</r>
@@ -109,6 +115,12 @@
 			<ex	 word="出現" pron="しゅつげん" pa="0" pos="NA" />
 			<ex	 word="外出" pron="がいしゅつ" pa="0" pos="NA" />
 			<ex	 word="出身" pron="しゅっしん" pa="0" pos="N" jlpt="N3" />
+			<ex	 word="出生" pron="しゅっしょう" pa="0" pos="N" />
+			<ex	 word="出荷" pron="しゅっか" pa="0" pos="N" cn="发货; 面市, 出货" eng="shipping" />
+			<ex	 word="出世" pron="しゅっせ" pa="0" pos="N" cn="出人头地; 出息" ref="立身出世" >
+				<e ph="出世頭・出世が早い・夫の出世を願う" />
+			</ex>
+			
 		</r>
 		<r on="スイ" >
 		</r>
@@ -164,10 +176,13 @@
 	
 	<kanji	id="瞬" freq="969" jlpt="3" gr="6">
 		<r on="シュン" >
-			<ex	 word="瞬間" pron="しゅんえい" pa="0" pos="NA" />
+			<ex	 word="瞬間" pron="しゅんかん" pa="0" pos="N" jlpt="3" >
+				<e ph="決定的な瞬間・瞬間的に決める">
+			</ex>
 			<ex	 word="一瞬" pron="いっしゅん" pa="0" pos="NA" />
 		</r>
-		<r kun="またたく" kk="瞬く" pa="1" pos="N" jlpt="5" >
+		<r kun="またた`く" kk="瞬く" pa="3" pos="j5" cn="眨眼; 闪烁,明灭" ref="まばたく" >
+			<ex	 word="瞬く間に" pron="またたくまに" pa="0" pos="adv" >
 		</r>
 		<r nfu="瞬く(しばたく)・瞬く(しばたく)・瞬ぐ(まじろぐ)・瞬く(しばたたく)">
 		</r>
@@ -287,9 +302,13 @@
 			<ex	 word="処刑" pron="しょけい" pa="0" pos="NA" />
 			<ex	 word="処女" pron="しょじょ" pa="0" pos="NA" />
 			<ex	 word="処世" pron="しょせい" pa="0" pos="NA" />
-			<ex	 word="処置" pron="しょち" pa="0" pos="NA" />
+			<ex	 word="処置" pron="しょち" pa="1" pos="N/ts" cn="措施;医疗处理" str="true" >
+				<e ph="適切な処置を取る・応急処置" />
+			</ex>
 			<ex	 word="処罰" pron="しょばつ" pa="0" pos="NA" />
-			<ex	 word="処分" pron="しょぶん" pa="0" pos="NA" />
+			<ex	 word="処分" pron="しょぶん" pa="1" pos="N/ts" cn="处分;处理; 扔掉" jlpt="1" >
+				<e ph="退学処分・在庫処分・要らないものを処分する" />
+			</ex>
 		</r>
 		<r nfu="ソ・ところ・処る(おる)・処く(おく)">
 		</r>
@@ -345,6 +364,13 @@
 			<ex	 word="図書館" pron="としょかん" pa="0" pos="NA" />
 		</r>
 		<r kun="かく" kk="書く" pa="1" pos="N" jlpt="5" ref="描く" >
+			<ex	 word="下書き" pron="したがき" pa="0" pos="N" jlpt="2" cn="草稿;草案">
+			</ex>
+			<ex	 word="上書き" pron="うわがき" pa="0" pos="N" jlpt="2" >
+			</ex>
+			<ex	 word="前書き" pron="まえがき" pa="04" pos="N" cn="序言,引言">
+			</ex>
+			
 			<ex	 word="書き込む" pron="かきこむ" pa="3" pos="t5" cn="写入,填写">
 			</ex>
 			<ex	 word="書き留める" pron="かきとめる" pa="4" pos="t1" cn="记下来">
@@ -402,8 +428,9 @@
 	
 	<kanji	id="諸" freq="497" jlpt="3" gr="6">
 		<r on="ショ" >
-			<ex	 word="諸君" pron="いっしょ" pa="0" pos="NA" />
-			<ex	 word="諸侯" pron="ないしょ" pa="0" pos="NA" />
+			<ex	 word="諸~" pron="しよ~" pa="0" pos="N" cn="各~" />
+			<ex	 word="諸君" pron="しょくん" pa="1" pos="N" cn="各位(男性用语)" />
+			<ex	 word="諸侯" pron="しょこう" pa="1" pos="N" />
 		</r>
 		<r nfu="もろ・（諸々）もろもろ">
 		</r>
@@ -488,6 +515,7 @@
 	<kanji	id="徐" freq="1806" jlpt="3" gr="6">
 		<r on="ジョ" >
 			<ex	 word="徐行" pron="じょこう" pa="0" pos="NA" />
+			<ex	 word="徐々に" pron="じょじょに" pa="1" pos="adv" />
 		</r>
 		<r nfu="おもむろ">
 		</r>
@@ -699,11 +727,13 @@
 			<ex	 word="消息" pron="しょうそく" pa="0" pos="N" />
 			<ex	 word="消費" pron="しょうひ" pa="0" pos="N" />
 			<ex	 word="消滅" pron="しょうめつ" pa="0" pos="N" />
-			<ex	 word="消防" pron="しょうぼう" pa="0" pos="N" />
+			<ex	 word="消防" pron="しょうぼう" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="きえる" kk="消える" pa="1" pos="N" jlpt="5" >
+		<r kun="き`える" kk="消える" pa="0" pos="j1" jlpt="5" cn="消失,熄灭;隐没" >
+			<e ph="痛みが消えた・人影が闇に消えた" />
 		</r>
-		<r kun="けす" kk="消す" pa="1" pos="N" jlpt="5" >
+		<r kun="け`す" kk="消す" pa="0" pos="t5" jlpt="5" >
+			<e ph="電気を消す・この人を消す" />
 		</r>
 	</kanji>
 	
@@ -730,6 +760,10 @@
 		<r on="ショウ" >
 			<ex	 word="称賛" pron="しょうさん" pa="0" pos="N" />
 			<ex	 word="名称" pron="めいしょう" pa="0" pos="N" />
+			<ex	 word="対象" pron="たいしょう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="称する" pron="しょうする" pa="0" pos="N/ts" cn="称,名叫; 称赞; 诈称" >
+				<e ph="太郎と称する男の子・名人と称される" />
+			</ex>
 		</r>
 		<r nfu="称る(はかる)・称える(となえる)・称え(となえ)・称める(ほめる)・称える(たたえる)">
 		</r>
@@ -869,17 +903,19 @@
 			<ex	 word="焦燥" pron="しょうそう" pa="0" pos="N" />
 			<ex	 word="焦土" pron="しょうど" pa="0" pos="N" />
 			<ex	 word="焦慮" pron="しょうりょ" pa="0" pos="N" />
-			<ex	 word="焦点" pron="しょうてん" pa="0" pos="N" />
+			<ex	 word="焦点" pron="しょうてん" pa="0" pos="N" jlpt="2" >
+				<e ph="焦点を合わせる・焦点を絞る" />
+			</ex>
 		</r>
-		<r kun="こげる" kk="焦げる" pa="2" pos="j1" jlpt="2" cn="焦，煳" >
+		<r kun="こ`げる" kk="焦げる" pa="2" pos="j1" jlpt="2" cn="焦，煳" >
 			<e ph="なにか焦げる匂いがする" />
 		</r>
-		<r kun="こがす" kk="焦がす" pa="2" pos="t5" jlpt="2" cn="烧糊,烤焦; 使心情焦急" >
+		<r kun="こ`がす" kk="焦がす" pa="2" pos="t5" jlpt="2" cn="烧糊,烤焦; 使心情焦急" >
 			<e ph="おかずを焦がす・アイロンでシャツを焦がす・身を焦がす" />
 		</r>
-		<r kun="こがれる" kk="焦がれる" pa="1" pos="N" jlpt="5" >
+		<r kun="こ`がれる" kk="焦がれる" pa="1" pos="N" jlpt="5" >
 		</r>
-		<r kun="あせる" kk="焦る" pa="1" pos="N" jlpt="5" >
+		<r kun="あせ`る" kk="焦る" pa="2" pos="*j5" jlpt="1" htm="汗+る" cn="焦躁,着急">
 		</r>
 		<r nfu="焦れる(じれる)・焦らす(じらす)・焦く(やく)">
 		</r>
@@ -913,12 +949,13 @@
 	
 	<kanji	id="証" freq="651" jlpt="1" gr="5">
 		<r on="ショウ" >
-			<ex	 word="証拠" pron="しょうこ" pa="0" pos="N" />
 			<ex	 word="証明" pron="しょうめい" pa="0" pos="N" />
 			<ex	 word="証券" pron="しょうけん" pa="0" pos="N" />
 			<ex	 word="論証" pron="ろんしょう" pa="0" pos="N" />
 			<ex	 word="保証" pron="ほしょう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="査証" pron="さしょう" pa="0" pos="N" />
+		</r>
+		<r kun="あかし" kk="証" pa="0" pos="N" jlpt="1" ph="愛の証">
 		</r>
 		<r nfu="証す(あかす)・あかし">
 		</r>

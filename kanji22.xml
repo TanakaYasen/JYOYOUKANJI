@@ -807,7 +807,9 @@
 		<r on="リャク" >
 			<ex	 word="戦略" pron="せんりゃく" pa="0" pos="N" />
 			<ex	 word="侵略" pron="しんりゃく" pa="0" pos="N" jlpt="1" eng="invasion" />
-			<ex	 word="省略" pron="しょうりゃく" pa="0" pos="N/ts" jlpt="1" eng="omission" />
+			<ex	 word="省略" pron="しょうりゃく" pa="0" pos="N/ts" jlpt="1" eng="omission" >
+				<e ph="前文省略・詳しい説明を省略する">
+			</ex>
 		</r>
 	</kanji>
 	

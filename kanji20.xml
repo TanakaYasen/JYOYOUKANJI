@@ -16,6 +16,7 @@
 		</r>
 		<r on="モツ" >
 			<ex	 word="貨物" pron="かもつ" pa="1" pos="N" />
+			<ex	 word="書物" pron="しょもつ" pa="1" pos="N" />
 			<ex	 word="作物" pron="さくもつ" pa="0" pos="N" />
 			<ex	 word="禁物" pron="きんもつ" pa="0" pos="N" />
 		</r>
@@ -274,7 +275,7 @@
 		</r>
 		<r kun="とざす" kk="閉ざす" pa="2" pos="t5" ph="心を閉ざす">
 		</r>
-		<r kun="しめる" kk="閉める" pa="2" pos="t1" jlpt="5" >
+		<r kun="し`める" kk="閉める" pa="2" pos="t1" jlpt="5" cn="关闭门窗; 关门打烊歇业" >
 		</r>
 		<r kun="しまる" kk="閉まる" pa="2" pos="j5" jlpt="5" >
 		</r>
@@ -714,7 +715,9 @@
 	
 	<kanji	id="放" freq="444" jlpt="3" gr="3">
 		<r on="ホウ" >
-			<ex	 word="放送" pron="ほうそう" pa="0" pos="N/ts" jlpt="3" />
+			<ex	 word="放送" pron="ほうそう" pa="0" pos="N/ts" jlpt="3" >
+				<e ph="生放送" />
+			</ex>
 			<ex	 word="解放" pron="かいほう" pa="0" pos="N" />
 			<ex	 word="開放" pron="かいほう" pa="0" pos="N/ts" />
 			<ex	 word="放棄" pron="ほうき" pa="0" pos="N" jlpt="1" />
@@ -919,7 +922,8 @@
 		<r on="ボウ" >
 			<ex	 word="妨害" pron="ぼうがい" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="さまたげる" kk="妨げる" pa="4" pos="t1" jlpt="2" cn="妨碍;阻挠" eng="to disturb;to obstruct" ph="交通を妨げる">
+		<r kun="さまた`げる" kk="妨げる" pa="4" pos="t1" jlpt="2" cn="妨碍;阻挠" eng="to disturb;to obstruct" jp="妨害する">
+			<e ph="交通を妨げる・昇進を妨げる・人の睡眠を妨げる・人の話を妨げる" />
 		</r>
 		<r nfu="ホウ" />
 	</kanji>
@@ -939,7 +943,8 @@
 			<ex	 word="防衛" pron="ぼうえい" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="防止" pron="ぼうし" pa="0" pos="N/ts" jlpt="2" />
 		</r>
-		<r kun="ふせぐ" kk="防ぐ" pa="2" pos="t5" jlpt="3" eng="to defend against; to prevent/avoid" >
+		<r kun="ふせ`ぐ" kk="防ぐ" pa="2" pos="t5" jlpt="3" eng="to defend against; to prevent/avoid" >
+			<e ph="火を防ぐ・疫病を防ぐ" />
 		</r>
 		<r nfu="ホウ・防る(まもる)" />
 	</kanji>

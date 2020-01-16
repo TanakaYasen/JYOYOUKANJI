@@ -16,12 +16,23 @@
 		<ex	 word="なかなか" pron="ナカナカ" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="がたがた" pron="がたがた" pa="0" pos="j5" jlpt="2" eng="to collide" />
 		<ex	 word="ぶるぶる" pron="ブルブル" pa="0" pos="j5" jlpt="2" eng="to collide" />
-		<ex	 word="ぎりぎり" pron="ブルブル" pa="0" pos="j5" jlpt="2" cn="勉强;最大限度" ph="ぎりぎりまで" />
+		<ex	 word="ぎりぎり" pron="ブルブル" pa="0" pos="adv" jlpt="2" cn="勉强够得上;没有余地" ph="ぎりぎりセーフ・ギリギリ間に合った・ぎりぎりまで" />
 		<ex	 word="こつこつ" pron="こつこつ" pa="1" pos="adv" jlpt="2" cn="孜孜不倦地" />
 		<ex	 word="ごろごろ" pron="ごろごろ" pa="1" pos="adv" jlpt="2" cn="咕噜噜" />
 		
+		<ex	 word="かさかさ" pron="カサカサ" pa="1" pos="adv/NA" jlpt="2" cn="粗糙的" ph="手がかさかさになる・かさかさした世の中" />
+		<ex	 word="つるつる" pron="つるつる" pa="1" pos="adv/NA" jlpt="2" cn="水润的" ph="蕎麦をつるつると食べる・つるつるした肌・すべすべな窓ガラス" />
+		<ex	 word="ざらざら" pron="ザラザラ" pa="1" pos="adv/NA" jlpt="2" cn="粗糙的" ph="手がざらざらに荒れる・ざらざらした感触・舌がざらざらする" />
+		<ex	 word="すべすべ" pron="すべすべ" pa="1" pos="adv/NA" jlpt="2" cn="滑滑的" ph="すべすべした肌・すべすべな窓ガラス" />
+		
 		<ex	 word="ごちゃごちゃ" pron="ごちゃごちゃ" pa="1" pos="adv" jlpt="2" cn="乱糟糟地" />
 		<ex	 word="にこにこ" pron="にこにこ" pa="1" pos="adv" jlpt="2" cn="笑嘻嘻地" />
+		<ex	 word="しとしと" pron="しとしと" pa="1" pos="adv" jlpt="2" cn="雨淅淅沥沥地" >
+			<e ph="雨がしとしと降っている" />
+		</ex>
+		<ex	 word="じとじと" pron="じとじと" pa="1" pos="adv" jlpt="2" cn="湿漉漉地" >
+			<e ph="汗じとじとなシャツ・上着が雨に濡れてじとじとしている" >
+		</ex>
 		<ex	 word="にやにや" pron="にやにや" pa="1" pos="adv" jlpt="2" cn="嗤笑。冷笑" />
 		<ex	 word="めきめき" pron="めきめき" pa="1" pos="adv" jlpt="2" cn="迅速" />
 		<ex	 word="こそこそ" pron="コソコソ" pa="0" pos="j5" jlpt="2" cn="偷偷摸摸，鬼鬼祟祟" />

@@ -95,11 +95,12 @@
 		<r on="ザン" >
 			<ex	 word="残念" pron="ざんねん" pa="0" pos="N" jlpt="4" />
 			<ex	 word="残忍" pron="ざんにん" pa="0" pos="N" />
-			<ex	 word="残業" pron="ざんぎょう" pa="0" pos="N" />
+			<ex	 word="残業" pron="ざんぎょう" pa="0" pos="N" cn="加班" />
+			<ex	 word="残高" pron="ざんだか" pa="0" pos="N" jlpt="1" cn="余额" jp="残額" />
 		</r>
-		<r kun="のこる" kk="残る" pa="1" pos="j5" jlpt="4" >
+		<r kun="のこ`る" kk="残る" pa="1" pos="j5" jlpt="4" >
 		</r>
-		<r kun="のこす" kk="残す" pa="1" pos="t5" jlpt="3" >
+		<r kun="のこ`す" kk="残す" pa="1" pos="t5" jlpt="3" >
 		</r>
 		<r nfu="残なう(そこなう)">
 		</r>
@@ -155,7 +156,8 @@
 			<ex	 word="支援" pron="しえん" pa="0" pos="N/ts" />
 			<ex	 word="支柱" pron="しちゅう" pa="0" pos="N" />
 		</r>
-		<r kun="ささえる" kk="支える" pa="03" pos="t1" jlpt="3" >
+		<r kun="ささ`える" kk="支える" pa="03" pos="t1" jlpt="3" cn="支撑;支持;阻止" >
+			<e ph="生活を支える・命を支える・倒れそうな老人を支える" />
 		</r>
 		<r nfu="支える(つかえる)・支う(かう)">
 		</r>
@@ -194,8 +196,14 @@
 			<ex	 word="仕事" pron="しごと" pa="0" pos="N" jlpt="5" />
 			<ex	 word="仕置き" pron="しおき" pa="0" pos="N" cn="处决;惩罚" eng="execution;punishment" />
 			<ex	 word="仕業" pron="しわざ" pa="0" pos="N" eng="deed,action" />
-			<ex	 word="仕組み" pron="しくみ" pa="0" pos="N" cn="剧情;结构" eng="structure;plan" />
-			<ex	 word="仕方" pron="しかた" pa="0" pos="N" cn="做法" />
+			<ex	 word="仕組み" pron="しくみ" pa="0" pos="N" jlpt="1" cn="结构,构造;剧情" eng="structure;plan" />
+			<ex	 word="仕掛け" pron="しかけ" pa="0" pos="N" jlpt="1" cn="装置,机关" />
+			<ex	 word="仕方" pron="しかた" pa="0" pos="N" jlpt="4" cn="方法办法; 行为举止"  ga="～てしようがない#~てもしようがない" />
+			<ex	 word="仕様" pron="しよう" pa="0" pos="N" jlpt="1" cn="方法,做法,手段" ga="～てしかたがない" />
+			
+			<ex	 word="仕上がり" pron="しあがり" pa="0" pos="N" jlpt="1" cn="做完，完成" />
+			<ex	 word="仕上げ" pron="しあげ" pa="0" pos="N" jlpt="1" cn="最后一道工序" />
+			<ex	 word="仕入れ" pron="しいれ" pa="0" pos="N" cn="买进; 采购采办" />
 		</r>
 		<r on="ジ" >
 		</r>
@@ -306,6 +314,7 @@
 	<kanji	id="志" freq="467" jlpt="1" gr="5">
 		<r on="シ" >
 			<ex	 word="志願" pron="しがん" pa="1" pos="N" eng="aspiration" />
+			<ex	 word="志望" pron="しぼう" pa="0" pos="N" jlpt="1" cn="志愿" />
 			<ex	 word="志向" pron="しこう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="意志" pron="いし" pa="0" pos="N" jlpt="3" />
 		</r>
@@ -702,7 +711,15 @@
 			<ex	 word="次元" pron="じげん" pa="1"	cn="文字/文章" />
 		</r>
 		<r on="シ" >
-			<ex	 word="次第" pron="しだい" pa="0" pos="N" />
+			<ex	 word="次第" pron="しだい" pa="0" pos="N" jlpt="3" cn="顺序,程序; 情况,缘由,原委 来龙去脉;一...就...; 由...决定,全看..." ga="連用～次第#次第だ"  str="true" >
+				<e ph="事の次第を話す・このような次第で、誠に申し訳ございません" />
+				<e ph="着き次第連絡する" />
+				<e ph="明日の運動会を中止するかどうかは天気次第だ・N2能力試験にパスできるかどうかは努力次第です・何事も人次第です" />
+				<e ph="地獄の沙汰も金次第" />
+			</ex>
+			<ex	 word="次第に" pron="しだいに" pa="0" pos="N" cn="渐渐地,一步步地" >
+				<e ph="次第に冬が近づく、次第に人が集まってくる・天気が次第に熱くなて来た" />
+			</ex>
 		</r>
 		<r kun="つぐ" kk="次ぐ" pa="0" pos="j5" jlpt="2" >
 		</r>
@@ -1009,6 +1026,7 @@
 			<ex	 word="確執" pron="かくしつ" pa="1" pos="js" jlpt="5" />
 			<ex	 word="執事" pron="しつじ" pa="12" pos="N" />
 			<ex	 word="執務" pron="しつむ" pa="1" pos="N" />
+			<ex	 word="執筆" pron="しっぴつ" pa="0" pos="N" />
 		</r>
 		<r on="シュウ" >
 			<ex	 word="執念" pron="しゅうねん" pa="1" pos="N" />

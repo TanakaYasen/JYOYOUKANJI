@@ -292,7 +292,7 @@
 			<ex	 word="移植" pron="いしょく" pa="0" pos="N" eng="transplanting; porting" />
 		</r>
 		<r kun="うつ`る" kk="移る" pa="2" pos="j5"  jlpt="4" cn="移动;变心;感染;时光流逝" ref="遷る" />
-		<r kun="うつ`す" kk="移す" pa="2" pos="t5" jlpt="3" cn=""  ref="遷す"/>
+		<r kun="うつ`す" kk="移す" pa="2" pos="t5" jlpt="3" cn="开始,着手;.挪移,搬迁"  ref="遷す"/>
 	</kanji>
 	
 	<kanji	id="萎" freq="2444" gr="8">
@@ -300,7 +300,10 @@
 			<ex	 word="萎縮" pron="いしゅく" pa="0" pos="N" />
 		</r>
 		<r kun="な`える" kk="萎える" pa="2" pos="j1" />
-		<r nfu="萎む(しぼむ)・萎り(しおり)・萎れる(しおれる)"></r>
+		<r kun="しぼ`む" kk="萎む" pa="0" pos="j5" jlpt="2" cn="枯萎凋谢" >
+			<e ph="夢が萎む・花が萎む" />
+		</r>
+		<r nfu="萎り(しおり)・萎れる(しおれる)"></r>
 	</kanji>
 	
 	<kanji	id="偉" freq="1296" jlpt="3" gr="8">
@@ -707,6 +710,7 @@
 		<r on="エイ" >
 			<ex	 word="映画" pron="えいが" pa="0" pos="N" jlpt="5" eng="movie;film" />
 			<ex	 word="映像" pron="えいぞう" pa="0" pos="N" jlpt="1" />
+			<ex	 word="上映" pron="じょうえい" pa="0" pos="N/ts" eng="to screen a movie" ref="放送" />
 		</r>
 		<r kun="うつる" kk="映る" pa="2" pos="j5" jlpt="2" >
 		</r>

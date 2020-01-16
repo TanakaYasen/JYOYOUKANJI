@@ -355,7 +355,9 @@
 			<ex	 word="参詣" pron="さんけい" pa="0" pos="N/js" cn="朝山，参拜" />
 			<ex	 word="造詣" pron="ぞうけい" pa="0" pos="N" eng="deep knowledge"/>
 		</r>
-		<r kun="もう`でる" kk="詣でる" pa="3" pos="j1" cn="参拜，礼拜"></r>
+		<r kun="もう`でる" kk="詣でる" pa="3" pos="j1" cn="参拜，礼拜">
+			<ex	 word="初詣" pron="はつもうで" pa="3" pos="N" cn="新年首次参拜" />
+		</r>
 		<r nfu="ゲイ・詣る(いたる)"></r>
 	</kanji>
 	
@@ -1123,7 +1125,9 @@
 		<r on="コ" >
 			<ex	 word="栄枯盛衰" pron="えいこせいすい" pa="1" pos="N" />
 		</r>
-		<r kun="かれる" kk="枯れる" pa="0" pos="j1" jlpt="2" ></r>
+		<r kun="か`れる" kk="枯れる" pa="0" pos="j1" jlpt="2" >
+			<e ph="春に茂って秋に枯れる・花は水をやらないと枯れる" />
+		</r>
 		<r kun="からす" kk="枯らす" pa="0" pos="t5" ></r>
 	</kanji>
 	

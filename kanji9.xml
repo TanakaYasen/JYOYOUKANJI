@@ -8,9 +8,9 @@
 			<ex	 word="湿地" pron="しっち" pa="0" pos="N" />
 			<ex	 word="湿度" pron="しつど" pa="0" pos="N" />
 		</r>
-		<r kun="しめる" kk="湿る" pa="0" pos="*j5" jlpt="2" >
+		<r kun="しめ`る" kk="湿る" pa="0" pos="*j5" jlpt="2" cn="潮湿;心情郁闷" >
 		</r>
-		<r kun="しめす" kk="湿す" pa="0" pos="t5" >
+		<r kun="しめ`す" kk="湿す" pa="0" pos="t5" >
 		</r>
 		<r nfu="湿い(うるおい)・湿す(うるおす)">
 		</r>
@@ -89,12 +89,13 @@
 	<kanji	id="写" freq="681" jlpt="4" gr="3">
 		<r on="シャ" >
 			<ex	 word="写真" pron="しゃしん" pa="0" pos="N" jlpt="5" />
+			<ex	 word="写生" pron="しゃせい" pa="0" pos="N" jlpt="2" />
 			<ex	 word="描写" pron="びょうしゃ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="複写" pron="ふくしゃ" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="うつす" kk="写す" pa="2" pos="t5" jlpt="4" >
+		<r kun="うつ`す" kk="写す" pa="2" pos="t5" jlpt="4" cn="临摹" >
 		</r>
-		<r kun="うつる" kk="写る" pa="2" pos="j5" jlpt="2" >
+		<r kun="うつ`る" kk="写る" pa="2" pos="j5" jlpt="2" >
 		</r>
 	</kanji>
 	
@@ -128,7 +129,7 @@
 	<kanji	id="舎" freq="834" jlpt="1" gr="5">
 		<r on="シャ" >
 			<ex	 word="校舎" pron="かいしゃ" pa="0" pos="N" jlpt="2" />
-			<ex	 word="宿舎" pron="しゅくしゃ" pa="0" pos="N" />
+			<ex	 word="宿舎" pron="しゅくしゃ" pa="0" pos="N" ref="寮" />
 		</r>
 		<r nfu="セキ・いえ・やど・宿る≒舎る(やどる)・置く≒舎く(おく)">
 		</r>
@@ -296,9 +297,12 @@
 	<kanji	id="若" freq="196" jlpt="3" gr="6">
 		<r on="ジャク" >
 			<ex	 word="自若" pron="じじゃく" pa="0" pos="N" />
-			<ex	 word="若干" pron="じゃっかん" pa="0" pos="N" />
+			<ex	 word="若干" pron="じゃっかん" pa="0" pos="N/adv" jlpt="1" >
+				<e ph="若干の意見がある・若干足りないところがある" />
+			</ex>
 		</r>
 		<r on="ニャク" >
+			<ex	 word="老若男女" pron="ろうにゃくなんにょ" pa="0" pos="N" ph="老若男女問わず" />
 		</r>
 		<r kun="わかい" kk="若い" pa="2" pos="adj" jlpt="5" >
 			<ex	 word="若者" pron="わかもの" pa="0" pos="N" />
@@ -314,6 +318,9 @@
 	
 	<kanji	id="弱" freq="663" jlpt="2" gr="2">
 		<r on="ジャク" >
+			<ex	 word="～弱" pron="じゃくしゃ" pa="0" pos="sf" cn="(数量)不到,不足" ref="~強" >
+				<e ph="千円弱・1000メートル弱飛んだ" />
+			</ex>
 			<ex	 word="弱点" pron="じゃくてん" pa="0" pos="N" jlpt="2" eng="weak point" />
 			<ex	 word="弱者" pron="じゃくしゃ" pa="0" pos="N" />
 		</r>
@@ -825,13 +832,15 @@
 	
 	<kanji	id="就" freq="838" jlpt="1" gr="6">
 		<r on="シユウ" >
-			<ex	 word="就職" pron="しゅうしょく" pa="0" pos="N" jlpt="3" />
+			<ex	 word="就学" pron="しゅうがく" pa="0" pos="N" />
+			<ex	 word="就職" pron="しゅうしょく" pa="0" pos="N" jlpt="3" cn="就业,找到工作" />
 			<ex	 word="就寝" pron="しゅうしん" pa="0" pos="N" />
 			<ex	 word="就任" pron="しゅうにん" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r on="ジュ" >
 		</r>
-		<r kun="つ`く" kk="就く" pa="12" pos="j5" jlpt="3" >
+		<r kun="つ`く" kk="就く" pa="12" pos="j5" jlpt="3" cn="从事;接近" jp="身を置く" ga="につき#について" >
+			<e ph="職に就く・任務に就く・病の床に就く" />
 		</r>
 		<r kun="つ`ける" kk="就ける" pa="1" pos="N" >
 		</r>
@@ -1002,8 +1011,10 @@
 	<kanji	id="重" freq="195" jlpt="3" gr="6">
 		<r on="ジュウ" >
 			<ex	 word="重要" pron="じゅうよう" pa="0" pos="NA" jlpt="3" eng="important" />
+			<ex	 word="重体・重態" pron="じゅうたい" pa="0" pos="NA" jlpt="3" cn="病危,垂危;性命攸关" />
 			<ex	 word="重大" pron="じゅうだい" pa="0" pos="NA" jlpt="3" eng="serious" />
 			<ex	 word="重量" pron="じゅうりょう" pa="3" pos="N" jlpt="2" eng="weight" />
+			<ex	 word="～重" pron="～じゅう" pa="3" pos="sf" jlpt="2" cn="重" ph="二重・多重影分身" />
 		</r>
 		<r on="チョウ" >
 			<ex	 word="重複" pron="じゅうふく" pa="0" pos="N" />
@@ -1011,6 +1022,9 @@
 		<r kun="え" kk="重" pa="1" pos="NA" jlpt="5" >
 		</r>
 		<r kun="おも`い" kk="重い" pa="0" pos="adj" jlpt="5" >
+			<ex	 word="重たい" pron="おもたい" pa="0" pos="adj" jlpt="2" cn="沉重的;(心情)沉重" >
+				<e ph="重たい荷物・瞼が重たい・気分が重たい" />
+			</ex>
 		</r>
 		<r kun="かさ`ねる" kk="重ねる" pa="0" pos="t1" jlpt="2" cn="再次,反复,重蹈;.摞，叠起来" eng="to pile up; to stack up">
 			<e ph="セーターsweaterを重ねて着る・本を重ねておく・間違いを重ねる" />
@@ -1031,6 +1045,7 @@
 			<ex	 word="侍従" pron="じじゅう" pa="0" pos="NA" />
 			<ex	 word="従属" pron="じゅうぞく" pa="0" pos="NA" />
 			<ex	 word="主従" pron="しゅじゅう" pa="0" pos="NA" />
+			<ex	 word="従業員" pron="じゅうぎょういん" pa="0" pos="N" jlpt="1" eng="employee; worker" />
 		</r>
 		<r on="ショウ" >
 			<ex	 word="従容" pron="しょうよう" pa="0" pos="N" />
@@ -1046,13 +1061,14 @@
 	<kanji	id="渋" freq="1709" jlpt="3" gr="6">
 		<r on="ジュウ" >
 			<ex	 word="苦渋" pron="じじゅう" pa="0" pos="NA" />
-			<ex	 word="渋滞" pron="じゅうぞく" pa="0" pos="NA" />
+			<ex	 word="渋滞" pron="じゅうたい" pa="0" pos="N/js" jlpt="3" cn="堵车,拥堵; 进展不顺利"  />
 		</r>
-		<r kun="しぶ" kk="渋" pa="1" pos="N" jlpt="5" >
+		<r kun="しぶ" kk="渋" pa="1" pos="N" >
 		</r>
-		<r kun="しぶい" kk="渋い" pa="1" pos="adj" jlpt="5" >
+		<r kun="しぶ`い" kk="渋い" pa="1" pos="adj" jlpt="1" cn="涩味的;古朴的;阴沉的;吝啬的">
+			<e ph="この柿は渋い・渋い柄の着物・渋い家具・渋い顔をしている・彼は金に渋い・払いが渋い" />
 		</r>
-		<r kun="しぶる" kk="渋る" pa="1" pos="adj" jlpt="5" >
+		<r kun="しぶ`る" kk="渋る" pa="1" pos="adj" jlpt="5" >
 		</r>
 		<r nfu="シュウ">
 		</r>

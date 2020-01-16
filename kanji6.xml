@@ -591,7 +591,7 @@
 			<ex	 word="農耕" pron="こうさく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="耕地" pron="こうち" pa="1" pos="N" jlpt="2" />
 		</r>
-		<r kun="たがや`す" kk="耕す" pa="3" pos="t5" jlpt="2" cn="耕作,翻种土地" ></r>
+		<r kun="たがや`す" kk="耕す" pa="3" pos="t5" jlpt="2" htm="田が安" cn="耕作,翻种土地" ></r>
 	</kanji>
 	
 	<kanji	id="航" freq="1752" jlpt="2" gr="4">
@@ -743,9 +743,11 @@
 		<r on="コウ" >
 			<ex	 word="絞殺" pron="こうさつ" pa="0" pos="N/ts" />
 		</r>
-		<r kun="しぼる" kk="絞る" pa="2" pos="t5" jlpt="2" >
+		<r kun="しぼ`る" kk="絞る" pa="2" pos="t5" jlpt="2" cn="挤拧;绞尽;缩小范围" >
+			<e ph="タオルを絞る・知恵を／頭を絞る・テーマを小さく絞る・ボリュームを絞る" />
 		</r>
-		<r kun="しめる" kk="絞める" pa="2" pos="t1" >
+		<r kun="しめ`る" kk="絞める" pa="2" pos="t1" cn="绞死">
+			<e ph="首を絞める" />
 		</r>
 		<r kun="しまる" kk="絞まる" pa="2" pos="j5" >
 		</r>

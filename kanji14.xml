@@ -549,7 +549,6 @@
 	<kanji	id="滞" freq="1976" jlpt="1" gr="8">
 		<r on="タイ" >
 			<ex	 word="滞在" pron="たいざい" pa="0" jlpt="3" pos="N/js" cn="停留。逗留。"/>
-			<ex	 word="渋滞" pron="じゅうたい" pa="0" pos="N" eng="lease; rent" />
 		</r>
 		<r kun="とどこお`る" kk="滞る" pa="03" pos="j5" jlpt="1"></r>
 	</kanji>

@@ -8,6 +8,12 @@
 
 <Dict>
 	
+	<kanji	id="躾" freq="3408" >
+		<r kun="しつけ" kk="躾" pa="0" pos="N" cn="教养;管教;训练">
+			<e ph="家庭での躾・躾が厳しい" />	
+		</r>
+	</kanji>
+	
 	<kanji	id="頷" freq="2131" >
 		<r on="ガン" ></r>
 		<r on="かん" ></r>
@@ -28,6 +34,12 @@
 		<r kun="のぞ`く" kk="覗く" pa="3" pos="t5" jlpt="2" cn="偷窥" ></r>
 	</kanji>
 	
+	<kanji	id="皺" freq="1150" >
+		<r kun="しわ" kk="皺" pa="0" pos="N" jlpt="1" cn="皱纹;负债" >
+			<e ph="皺だらけの顔・皺が寄る" />
+		</r>
+	</kanji>
+	
 	<kanji	id="屑" freq="2131" >
 		<r kun="くず" kk="屑" pa="1" pos="N" jlpt="2" cn="碎屑,废物,糟粕">
 			<ex	 word="紙屑" pron="かみくず" pa="3" pos="N" jlpt="2" />
@@ -37,7 +49,7 @@
 			<ex	 word="人間の屑" pron="にんげんのくず" pa="0" pos="N" />
 		</r>
 	</kanji>
-
+	
 	<kanji	id="佇" freq="3658" jlpt="3" gr="4">
 		<r on="チョ" >
 		</r>
@@ -229,6 +241,13 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="嵩" freq="2891" >
+		<r on="ソウ" >
+		</r>
+		<r kun="かさ`む" kk="嵩む" pa="02" pos="j5" jlpt="1" cn="增大;增多" >
+		</r>
+	</kanji>
+	
 	<kanji	id="鎧" freq="2348" jlpt="3" gr="4">
 		<r on="ガイ" >
 		</r>
@@ -280,8 +299,8 @@
 		<r kun="ぬえ" kk="鵺" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
-	<kanji	id="鳩" freq="2052" jlpt="3" gr="4">
-		<r on="エン" >
+	<kanji	id="鳩" freq="2052" >
+		<r on="キュウ" >
 		</r>
 		<r kun="はと" kk="鳩" pa="1" pos="N" jlpt="1" />
 	</kanji>
@@ -438,6 +457,17 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="吃" freq="2240" >
+		<r on="キツ" >
+		</r>
+		<r sp="しゃっくり" word="吃逆" pa="1" pos="js" jlpt="2" ph="しゃっくりが出る" cn="打嗝" jp="げっぷ"/></r>
+	</kanji>
+	
+	<kanji	id="嚏" freq="4505" >
+		<r kun="くしゃみ" kk="嚏" pa="0" pos="N" jlpt="2" cn="打喷嚏" ph="たてつづけに嚏をする" />
+		</r>
+	</kanji>
+	
 	<kanji	id="咥" freq="4290" >
 		<r kun="咥える" kk="くわえる" pa="2" pos="t1" jlpt="2" cn="衔, 叼" >
 			<e ph="タバコを咥える・指を咥える" />
@@ -480,15 +510,6 @@
 		<r on="コウ" >
 		</r>
 		<r kun="かむ" kk="噛む" pa="0" pos="N" jlpt="1" ref="咬む" >
-		</r>
-	</kanji>
-	
-	<kanji	id="揃" freq="1454" jlpt="3" gr="4">
-		<r kun="そろえる" kk="揃える" pa="3" pos="t1" jlpt="2" cn="备齐 凑齐; 使一致使整齐" >
-			<e ph="条件を揃える・顔を揃える・声を揃える・靴を揃える" />
-		</r>
-		<r kun="そろう" kk="揃う" pa="2" pos="j5" jlpt="2" cn="齐全齐备;聚齐到齐;(步调)整齐;成对" >
-			<e ph="" />
 		</r>
 	</kanji>
 	
@@ -621,6 +642,15 @@
 			<ex	 word="蔑視" pron="べっし" pa="1" pos="N" />
 		</r>
 		<r kun="ささげる" kk="捧げる" pa="30" pos="t5" eng="to scorn" />
+	</kanji>
+	
+	<kanji	id="揃" freq="1454" jlpt="3" gr="4">
+		<r kun="そろえる" kk="揃える" pa="3" pos="t1" jlpt="2" cn="备齐 凑齐; 使一致使整齐" >
+			<e ph="条件を揃える・顔を揃える・声を揃える・靴を揃える" />
+		</r>
+		<r kun="そろう" kk="揃う" pa="2" pos="j5" jlpt="2" cn="齐全齐备;聚齐到齐;(步调)整齐;成对" >
+			<e ph="" />
+		</r>
 	</kanji>
 	
 </Dict>

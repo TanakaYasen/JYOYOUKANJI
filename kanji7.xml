@@ -44,10 +44,12 @@
 	<kanji	id="酷" freq="1463" jlpt="1" gr="8">
 		<r on="コク" >
 			<ex	 word="過酷" pron="かこく" pa="0" pos="NA" eng="sereve"/>
-			<ex	 word="残酷" pron="ざんこく" pa="0" pos="NA" jlpt="1" eng="cruel"/>
+			<ex	 word="残酷" pron="ざんこく" pa="0" pos="NA" jlpt="1" eng="cruel" >
+				<e ph="残酷な刑罰・残酷を極める・残酷な罪を犯す" />
+			</ex>
 			<ex	 word="酷似" pron="こくじ" pa="0" pos="N" />
 		</r>
-		<r kun="ひどい" kk="酷い" pa="2" pos="adj" jlpt="4" >
+		<r kun="ひど`い" kk="酷い" pa="2" pos="adj" jlpt="4" >
 		</r>
 		<r nfu="酷しい(きびしい)・酷だしい(はなはだしい)・酷い(むごい)">
 		</r>
@@ -275,7 +277,6 @@
 			<ex	 word="検査" pron="けんさ" pa="0" pos="N" jlpt="3" eng="inspection"/>
 			<ex	 word="調査" pron="ちょうさ" pa="0" pos="N" jlpt="3" eng="investigation"/>
 			<ex	 word="捜査" pron="そうさ" pa="0" pos="N" jlpt="1" eng="search"/>
-			<ex	 word="審査" pron="しんさ" pa="1" pos="N/ts" jlpt="1" eng="judging"/>
 		</r>
 		<r nfu="査べる(しらべる)">
 		</r>
@@ -564,10 +565,11 @@
 		<r on="サイ" >
 			<ex	 word="開催" pron="かいさい" pa="0" pos="N" jlpt="1" eng="holding; opening" />
 			<ex	 word="催促" pron="さいそく" pa="0" pos="N" jlpt="2" />
-			<ex	 word="主催" pron="しゅさい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="主催" pron="しゅさい" pa="0" pos="N/ts" jlpt="1" cn="主办" />
 			<ex	 word="催眠" pron="さいみん" pa="0" pos="N" />
 		</r>
-		<r kun="もよおす" kk="催す" pa="03" pos="jt5" jlpt="1" ph="会を催す" >
+		<r kun="もよお`す" kk="催す" pa="03" pos="jt5" jlpt="1" cn="举办; 感觉,泛起(睡意,呕吐);有征兆" ph="～を催す" >
+			<e ph="歓迎会を／送別会を催す・吐き気を催す・食事が済んだら、急に眠気が催した" />
 			<ex	 word="催し" pron="もよおし" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r nfu="催す(うながす)・催い(もよい)">
@@ -710,7 +712,11 @@
 		</r>
 		<r on="サ" >
 			<ex	 word="作用" pron="さよう" pa="0" pos="N" jlpt="3" eng="effect"/>
-			<ex	 word="作業" pron="さぎょう" pa="0" pos="N" jlpt="3" eng="work; operation"/>
+			<ex	 word="作動" pron="さどう" pa="0" pos="N" cn="(机器)工作,运作"/>
+			<ex	 word="作法" pron="さほう" pa="1" pos="N" jlpt="3" cn="礼节" eng="manner" >
+				<e ph="礼儀作法・文章の作法" />
+			</ex>
+			<ex	 word="作業" pron="さぎょう" pa="1" pos="N" jlpt="3" eng="work; operation"/>
 		</r>
 		<r kun="つくる" kk="作る" pa="2" pos="t5" jlpt="5" >
 		</r>

@@ -137,7 +137,9 @@
 	
 	<kanji	id="粋" freq="1563" jlpt="1" gr="8">
 		<r on="スイ" >
-			<ex	 word="純粋" pron="じゅんすい" pa="0" pos="NA" jlpt="2" eng="pure" />
+			<ex	 word="純粋" pron="じゅんすい" pa="0" pos="N/NA" jlpt="2" eng="pure" cn="纯净;完全" >
+				<e ph="純粋な水・純粋な若者・彼の動機は純粋ではない・純粋に真理を追究する" />
+			</ex>
 			<ex	 word="精粋" pron="せいすい" pa="0" pos="N" />
 			<ex	 word="抜粋" pron="ばっすい" pa="0" pos="N" eng="extract" />
 		</r>
@@ -353,6 +355,7 @@
 			<ex	 word="矯正" pron="きょうせい" pa="0" pos="N" />
 			<ex	 word="正確" pron="せいかく" pa="0" pos="NA" jlpt="3" eng="correct" />
 			<ex	 word="正義" pron="せいぎ" pa="0" pos="N" />
+			<ex	 word="正反対" pron="せいはんたい" pa="3" pos="N" eng="exactly opposite" />
 		</r>
 		<r on="ショウ" >
 			<ex	 word="正面" pron="しょうめん" pa="0" pos="N" jlpt="2" eng="front" />
@@ -378,6 +381,7 @@
 		<r on="ショウ" >
 			<ex	 word="一生" pron="いっしょう" pa="0" pos="NA" />
 			<ex	 word="殺生" pron="せっしょう" pa="0" pos="NA" />
+			<ex	 word="生じる" pron="しょうじる" pa="0" pos="jts" />
 		</r>
 		<r kun="いきる" kk="生きる" pa="2" pos="j1" jlpt="4" >
 			<ex	 word="生きがい" pron="いきがい" pa="30" pos="N" cn="人生意义/价值" ref="甲斐（かい）" >
@@ -395,7 +399,7 @@
 				<e ph="胎児を生み出す。利益を生み出す。名作を生み出す。優れた作品を生み出す。" />
 			</ex>
 		</r>
-		<r kun="はえる" kk="生える" pa="2" pos="j1" jlpt="2" >
+		<r kun="はえる" kk="生える" pa="2" pos="j1" jlpt="2" cn="(牙,须,苗)生出" >
 		</r>
 		<r kun="はやす" kk="生やす" pa="2" pos="t5" jlpt="1" >
 		</r>
@@ -567,12 +571,12 @@
 			<ex	 word="内省" pron="ないせい" pa="0" pos="N" />
 		</r>
 		<r on="ショウ" >
-			<ex	 word="省略" pron="しょうりゃく" pa="0" pos="N" jlpt="2" />
 			<ex	 word="労働省" pron="ろうどうしょう" pa="0" pos="N" />
 		</r>
 		<r kun="かえりみる" kk="省みる" pa="2" pos="N" jlpt="1" ref="顧みる" >
 		</r>
-		<r kun="はぶく" kk="省く" pa="2" pos="t5" jlpt="3" >
+		<r kun="はぶ`く" kk="省く" pa="2" pos="t5" jlpt="3" cn="节省;省略" >
+			<e ph="手間を省く・費用を省く・これらの手続きは省けない" />
 		</r>
 	</kanji>
 	
@@ -744,11 +748,13 @@
 		<r kun="しず" kk="静" pa="1" pos="N" jlpt="5" >
 			<ex	 word="静岡" pron="しずおか" pa="2" pos="N" cn="日本一处地名" />
 		</r>
-		<r kun="しずか" kk="静か" pa="1" pos="NA" jlpt="5" eng="quiet, silent" >
+		<r kun="しず`か" kk="静か" pa="1" pos="NA" jlpt="5" eng="quiet, silent" >
 		</r>
-		<r kun="しずまる" kk="静まる" pa="3" pos="j5" jlpt="2" ref="鎮まる" >
+		<r kun="しず`まる" kk="静まる" pa="3" pos="j5" jlpt="2" cn="平静,安静下来" ref="鎮まる" >
+			<e ph="風／嵐が静まる・騒音が静まる・気が静まる・動乱が静まる" />
 		</r>
-		<r kun="しずめる" kk="静める" pa="3" pos="t1" ref="鎮める" >
+		<r kun="しず`める" kk="静める" pa="3" pos="t1" ref="鎮める" >
+			<e ph="動乱を静める・火事を静める・心を静める・怒りを静める" />
 		</r>
 	</kanji>
 	
@@ -897,10 +903,10 @@
 	<kanji	id="席" freq="824" jlpt="3" gr="4">
 		<r on="セキ" >
 			<ex	 word="宴席" pron="えんせき" pa="0" pos="N" />
-			<ex	 word="欠席" pron="けっせき" pa="0" pos="N" />
+			<ex	 word="欠席" pron="けっせき" pa="0" pos="N" jlpt="3" />
+			<ex	 word="出席" pron="しゅっせき" pa="0" pos="N" jlpt="3" />
 			<ex	 word="座席" pron="ざせき" pa="0" pos="N" />
 			<ex	 word="首席" pron="しゅせき" pa="0" pos="N" />
-			<ex	 word="出席" pron="しゅっせき" pa="0" pos="N" />
 			<ex	 word="即席" pron="そくせき" pa="0" pos="N" />
 			<ex	 word="席次" pron="せきじ" pa="0" pos="N" />
 			<ex	 word="席巻" pron="せっけん" pa="0" pos="N" />

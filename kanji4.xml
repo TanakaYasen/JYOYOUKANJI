@@ -176,13 +176,13 @@
 	
 	<kanji	id="気" freq="28" jlpt="5" gr="1" lv="10">
 		<r on="キ" >
-			<ex	 word="気持ち" pron="きもち" pa="0" pos="N" jlpt="4" eng="feeling; mood"/>
 			<ex	 word="人気" pron="にんき" pa="0" pos="N" jlpt="3" eng="popularity"/>
-			<ex	 word="気づく" pron="きづく" pa="2" pos="j5" jlpt="3" eng="to notice; to recognize"/>
 			<ex	 word="気候" pron="きこう" pa="0" pos="N" jlpt="3" eng="climate"/>
 			<ex	 word="気体" pron="きたい" pa="0" pos="N" jlpt="2" eng="gas"/>
+			<ex	 word="気づく" pron="きづく" pa="2" pos="j5" jlpt="3" eng="to notice; to recognize"/>
+			<ex	 word="気持ち" pron="きもち" pa="0" pos="N" jlpt="4" eng="feeling; mood"/>
 			<ex	 word="気に入る" pron="きにいる" pa="2" pos="*j5" jlpt="3" cn="称心,如意"/>
-			<ex	 word="気がする" pron="きにいる" pa="2" pos="*j5" jlpt="3" cn="感到, 总觉得, 有心思"/>
+			<ex	 word="気がする" pron="きがする" pa="2" pos="*j5" jlpt="3" cn="感到, 总觉得, 有心思"/>
 			<ex	 word="気まま" pron="きまま" pa="0" pos="N/NA" jlpt="3" cn="任性,随意">
 				<e ph="勝手気まま・気ままな暮らし・気ままに暮らす・気ままにさせておく" />
 			</ex>
@@ -190,6 +190,8 @@
 		<r on="ケ" >
 			<ex	 word="気配" pron="けはい" pa="1" pos="N" jlpt="2" cn="情形,苗头" >
 				<e ph="秋の気配が深まる・人の気配がする・外に人のいる気配がする・結婚する気配など少しもなかった" />
+			</ex>
+			<ex	 word="眠気" pron="ねむけ" pa="0" pos="N" ph="眠気に注意・眠気に襲られた">
 			</ex>
 		</r>
 		<r nfu="いき"></r>
@@ -353,6 +355,7 @@
 			<ex	 word="規格" pron="きかく" pa="1" pos="N" />
 			<ex	 word="規則" pron="きそく" pa="1" pos="N" />
 			<ex	 word="規律" pron="きりつ" pa="1" pos="N" />
+			<ex	 word="定規" pron="じょうぎ" pa="1" pos="N" jlpt="2" cn="尺子" />
 		</r>
 		<r nfu="のり・規す(ただす)"></r>
 	</kanji>
@@ -931,7 +934,9 @@
 			<ex	 word="根拠" pron="こんきょ" pa="1" pos="N" />
 		</r>
 		<r on="コ" >
-			<ex	 word="証拠" pron="しょうこ" pa="0" pos="N" />
+			<ex	 word="証拠" pron="しょうこ" pa="0" pos="N" >
+				<e ph="確かな証拠・証拠を隠滅する・証拠を握る" />
+			</ex>
 		</r>
 	</kanji>
 	
@@ -1253,9 +1258,13 @@
 			<ex	 word="仰天" pron="ぎょうてん" pa="0" pos="N" />
 		</r>
 		<r on="コウ" >
-			<ex	 word="信仰" pron="しんこう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="信仰" pron="しんこう" pa="0" pos="N/ts" jlpt="3" >
+				<e ph="神を／仏を信仰する" />
+			</ex>
 		</r>
-		<r kun="あお`ぐ" kk="仰ぐ" pa="2" pos="t5" jlpt="1"> </r>
+		<r kun="あお`ぐ" kk="仰ぐ" pa="2" pos="t5" jlpt="1" cn="瞻仰;尊为,推举为;仰赖仰仗" >
+			<e ph="高層ビルを仰ぎ見る" />
+		</r>
 		<r kun="おお`せ" kk="仰せ" pa="0" pos="N" cn="上司的训示"> </r>
 	</kanji>
 	

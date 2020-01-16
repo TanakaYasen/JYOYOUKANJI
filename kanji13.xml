@@ -92,7 +92,7 @@
 	<kanji	id="籍" freq="1740" jlpt="2" gr="8">
 		<r on="セキ" >
 			<ex	 word="戸籍" pron="ぎょうせき" pa="0" pos="N" jlpt="1" />
-			<ex	 word="書籍" pron="こうせき" pa="0" pos="N" jlpt="2" />
+			<ex	 word="書籍" pron="しょせき" pa="0" pos="N" jlpt="2" />
 			<ex	 word="本籍" pron="せいせき" pa="0" pos="N" />
 			<ex	 word="国籍" pron="こくせき" pa="0" pos="N" jlpt="2" />
 		</r>
@@ -113,12 +113,13 @@
 				<e ph="無断欠勤は一切許さない。主人は家で仕事の話は一切しない。" />
 			</ex>
 		</r>
-		<r kun="きる" kk="切る" pa="1" pos="*jt5" jlpt="5" ref="斬る" >
+		<r kun="き`る" kk="切る" pa="1" pos="*jt5" jlpt="5" ref="斬る" >
 			<ex	 word="~切り" pron="~きり" pa="0" pos="sf" cn="尽,完,光; 到此为止"  >
 				<e ph="寝たきり高齢者・出た切り、帰って来ない" />
 			</ex>
 		</r>
-		<r kun="きれる" kk="切れる" pa="2" pos="j1" jlpt="3" >
+		<r kun="き`れる" kk="切れる" pa="2" pos="j1" jlpt="3" cn="中断;用尽,告罄;到期; 脑子好使" >
+			<e ph="電話が切れる・縁が切れる・ガソリンが切れる・品物が切れている・頭が切れる" />
 		</r>
 	</kanji>
 	
@@ -310,7 +311,8 @@
 			<ex	 word="占領" pron="せんりょう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="独占" pron="どくせん" pa="0" pos="N" />
 		</r>
-		<r kun="し`める" kk="占める" pa="2" pos="t1" jlpt="3" cn="占领" eng="to occupy; to hold" >
+		<r kun="し`める" kk="占める" pa="2" pos="t1" jlpt="3" cn="占据占领;占...比例" eng="to occupy; to hold" >
+			<e ph="座を占める・過半数を占める" />
 		</r>
 		<r kun="うらな`う" kk="占う" pa="3" pos="t5" jlpt="2" cn="占卜" >
 			<e ph="トランプで占う・運勢を占う・吉凶を占う・身の上を占う" />
@@ -635,9 +637,12 @@
 	
 	<kanji	id="繕" freq="2611" jlpt="1" gr="8">
 		<r on="ゼン" >
-			<ex	 word="修繕" pron="シュウゼン" pa="0" jlpt="2" pos="N"/>
+			<ex	 word="修繕" pron="しゅうぜん" pa="0" jlpt="2" pos="N/ts" eng="repair; mending" >
+				<e ph="屋根を修繕" />
+			</ex>
 		</r>
-		<r kun="つくろ`う" kk="繕う" pa="3" pos="t5" jlpt="1" >
+		<r kun="つくろ`う" kk="繕う" pa="3" pos="t5" jlpt="1" cn="修补;修饰;.敷衍" >
+			<e ph="垣根を繕う・身なりを繕う・その場を繕う" />
 		</r>
 	</kanji>
 	

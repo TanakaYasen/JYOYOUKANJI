@@ -366,8 +366,10 @@
 		<r kun="おぼ`える" kk="覚える" pa="3" pos="t1" jlpt="5" cn="记住;感觉到" eng="to memorize" >
 			<e ph="覚えていますか・手に痛みを覚える・彼はそろそろ仕事の要領を覚え始めた" />
 		</r>
-		<r kun="さ`ます" kk="覚ます" pa="2" pos="t5" jlpt="3" ref="醒ます" eng="to awaken"/>
-		<r kun="さ`める" kk="覚める" pa="2" pos="j1" jlpt="3" ref="醒める" eng="to wake up" cn="醒，觉醒" >
+		<r kun="さ`ます" kk="覚ます" pa="2" pos="t5" jlpt="3" ref="醒ます" cn="唤醒;扫兴" eng="to awaken" >
+			<e ph="眠りを覚ます・目を覚ます・酔いを覚ます・いい加減に目を覚ませ" />
+		</r>
+		<r kun="さ`める" kk="覚める" pa="2" pos="j1" jlpt="3" ref="醒める" cn="自醒" eng="to wake up" cn="醒，觉醒" >
 			<ex	 word="目覚める" pron="めざめる" pa="1" pos="N" />
 		</r>
 		<r nfu="覚る≒悟る(さとる)・覚り(さとり)・覚す(さとす)・覚え(おぼえ)"></r>
@@ -568,6 +570,7 @@
 			<ex	 word="滑稽" pron="こっけい" pa="0" pos="NA" jlpt="1" />
 		</r>
 		<r kun="すべる" kk="滑る" pa="2" pos="*j5" jlpt="4" cn="滑动;打滑;落第">
+			<e ph="氷の上を滑る・手が滑って、持っていたコップを落とした・大学に滑った" />
 		</r>
 		<r kun="なめ`らか" kk="滑らか" pa="2" pos="NA" jlpt="1" cn="光滑;流利" eng="smooth" >
 			<e ph="滑らかな肌・滑らかな声・滑らかな絹のスカーフ・事が滑らかに運ぶ" />
@@ -625,7 +628,6 @@
 	
 	<kanji	id="干" freq="1176" jlpt="2" gr="6">
 		<r on="カン" >
-			<ex	 word="若干" pron="かんかつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="干渉" pron="かんしょう" pa="0" pos="N" />
 		</r>
 		<r kun="ほす" kk="干す" pa="1" pos="t5" jlpt="3" cn="弄干" eng="to dry" >
