@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!--
+	送り仮名 中没有える　いる 的都是五段, 
+	因为eru iru的e和i是属于汉字的不属于送假名的。
+	不然变形后汉字直接接ます　接て看着肯定不对劲。
+-->
 <Dict>
 	
 	<table tag="-iru">
@@ -52,7 +56,7 @@
 		<ex	 word="照る" pron="てる" pa="1" pos="j5" />
 		<ex	 word="練る" pron="ねる" pa="1" pos="j5" />
 		<ex	 word="捻る" pron="ひねる" pa="2" pos="t5" />
-		<ex	 word="耽る" pron="ふける" pa="2" pos="j5" />
+		<ex	 word="耽る" pron="ふける" pa="2" pos="j5" cn="沉溺于" ph="飲酒に耽る" />
 		<ex	 word="減る" pron="へる" pa="0" pos="j5" />
 		<ex	 word="蘇る" pron="よみがえる" pa="30" pos="j5" />
 	</table>

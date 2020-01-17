@@ -869,7 +869,9 @@
 			<ex	 word="勧誘" pron="かんゆう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="勧告" pron="かんこく" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="すすめる" kk="勧める" pa="0" pos="t1" jlpt="3" />
+		<r kun="すす`める" kk="勧める" pa="0" pos="t1" jlpt="3" cn="建议,劝告;鼓励" >
+			<e ph="医者の勧めに従う・学問を勧める・酒を進める">
+		</>
 		<r nfu="ケン"></r>
 	</kanji>
 	

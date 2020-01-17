@@ -106,6 +106,7 @@
 	<kanji	id="炭" freq="1491" jlpt="2" gr="3">
 		<r on="タン" >
 			<ex	 word="練炭" pron="れんたん" pa="0" jlpt="5" pos="N" />
+			<ex	 word="石炭" pron="せきたん" pa="3" pos="N" jlpt="3" />
 		</r>
 		<r kun="すみ" kk="炭" pa="2"></r>
 	</kanji>

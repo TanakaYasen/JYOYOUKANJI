@@ -308,7 +308,11 @@
 		<r on="ツ" >
 			<ex	 word="通夜" pron="つや" pa="1" pos="N" />
 		</r>
-		<r kun="とおる" kk="通る" pa="1" pos="j5" jlpt="4" ></r>
+		<r kun="とお`る" kk="通る" pa="1" pos="j5" jlpt="4" >
+			<ex	 word="透き通る" pron="すきとおる" pa="3" pos="j5" jlpt="2" cn="透明;清澈" str="true" >
+				<e ph="透き通るような空・透き通った声" />
+			</ex>
+		</r>
 		<r kun="とおす" kk="通す" pa="1" pos="t5" jlpt="3" ></r>
 		<r kun="かよ`う" kk="通う" pa="0" pos="j5" jlpt="4" ></r>
 	</kanji>

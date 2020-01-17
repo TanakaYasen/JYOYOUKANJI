@@ -538,7 +538,6 @@
 	
 	<kanji	id="裁" freq="1321" jlpt="1" gr="6">
 		<r on="サイ" >
-			<ex	 word="裁判" pron="さいばん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="裁縫" pron="さいほう" pa="0" pos="N" jlpt="2" />
 			<ex	 word="体裁" pron="ていさい" pa="0" pos="N" jlpt="1" />
 			<ex	 word="制裁" pron="せいさい" pa="0" pos="N" jlpt="1" />

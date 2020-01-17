@@ -154,7 +154,7 @@
 			<ex	 word="墨守" pron="ぼくしゅ" pa="1" pos="N" />
 		</r>
 		<r kun="すみ" kk="墨" pa="2" pos="N" jlpt="2" > 
-			<ex	 word="墨と雪" pron="すみとゆき" pa="0" pos="N" />
+			<e ph="鍋の墨・章魚が墨を吐く・墨と雪" />
 			<ex	 word="入墨・刺青" pron="いれずみ" pa="0" pos="N" />
 		</r>
 	</kanji>
@@ -678,9 +678,11 @@
 		</r>
 		<r kun="なく" kk="鳴く" pa="0" pos="j5" jlpt="5" cn="啼，鸣叫(鸟虫等)">
 		</r>
-		<r kun="なる" kk="鳴る" pa="0" pos="j5" jlpt="4" cn="鸣;响（雷声机器汽笛等）">
+		<r kun="な`る" kk="鳴る" pa="0" pos="j5" jlpt="4" cn="鸣;响（雷声机器汽笛等）">
+			<e ph="耳が鳴る・鐘が鳴る" />
 		</r>
-		<r kun="ならす" kk="鳴らす" pa="0" pos="t5" jlpt="2" cn="鸣（鸣钟鸣铃）">
+		<r kun="な`らす" kk="鳴らす" pa="0" pos="t5" jlpt="2" cn="鸣（鸣钟鸣铃）">
+			<e ph="ベルを鳴らす・喉を鳴らす・不平を鳴らす" />
 		</r>
 	</kanji>
 	
@@ -918,9 +920,12 @@
 			<ex	 word="昼夜" pron="ちゅうや" pa="1" pos="N" />
 		</r>
 		<r kun="よ" kk="夜" pa="1" pos="N" jlpt="5" >
-			<ex	 word="夜中" pron="よなか" pa="3" pos="N" jlpt="3" />
+			<ex	 word="夜中" pron="よなか" pa="3" pos="N" jlpt="3" >
+				<e ph="真夜中(まよなか)" />
+			</ex>
 			<ex	 word="夜風" pron="よかぜ" pa="1" pos="N" />
-			<ex	 word="夜明け" pron="よあけ" pa="3" pos="N" jlpt="3" />
+			<ex	 word="夜明け" pron="よあけ" pa="3" pos="N" jlpt="3" cn="拂晓;天明" eng="dawn" jp="あけぼの"/>
+			<ex	 word="夜更け" pron="よふけ" pa="3" pos="N" jlpt="1" jp="=深夜"/>
 		</r>
 		<r kun="よる" kk="夜" pa="1" pos="N" jlpt="5" eng="evening;night">
 		</r>

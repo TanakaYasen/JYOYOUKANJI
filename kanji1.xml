@@ -291,7 +291,9 @@
 			<ex	 word="移民" pron="いみん" pa="0" pos="N" jlpt="1" eng="emigration" />
 			<ex	 word="移植" pron="いしょく" pa="0" pos="N" eng="transplanting; porting" />
 		</r>
-		<r kun="うつ`る" kk="移る" pa="2" pos="j5"  jlpt="4" cn="移动;变心;感染;时光流逝" ref="遷る" />
+		<r kun="うつ`る" kk="移る" pa="2" pos="j5"  jlpt="4" cn="移动;变心;感染;时光流逝" ref="遷る" >
+			<ex	 word="移り住む" pron="うつりすむ" pa="4" pos="j5" jlpt="1" cn="海外へ移り住む" />
+		</r>
 		<r kun="うつ`す" kk="移す" pa="2" pos="t5" jlpt="3" cn="开始,着手;.挪移,搬迁"  ref="遷す"/>
 	</kanji>
 	
@@ -480,8 +482,11 @@
 			<ex	 word="印鑑" pron="いんかん" pa="0" pos="N" jlpt="1" eng="stamp" jp="判子" />
 			<ex	 word="印刷" pron="いんさつ" pa="0" pos="N" jlpt="3" eng="printing" />
 		</r>
-		<r kun="しるし" kk="印" pa="0" pos="N" jlpt="3" eng="mark;sign/symbol" >
+		<r kun="しるし" kk="印" pa="0" pos="N" jlpt="3" cn="记号,象征" eng="mark;sign/symbol" >
 			<ex	 word="目印" pron="めじるし" pa="2" pos="N" jlpt="2" />
+			<ex	 word="矢印" pron="やじるし" pa="2" pos="N" jlpt="2" cn="箭头" eng="arrow (mark or symbol)" >
+				<e ph="この矢印の方向にお進みください" />
+			</ex>
 		</r>
 	</kanji>
 	

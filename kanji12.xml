@@ -66,6 +66,9 @@
 			<ex	 word="合図" pron="あいず" pa="1" pos="N/jts" jlpt="2" cn="暗号" >
 				<e ph="合図を送る・手まねで合図する・目で合図する">
 			</ex>
+			<ex	 word="図々しい" pron="ずうずうしい" pa="5" pos="adj" jlpt="2" cn="厚颜无耻" jp="厚かましい" >
+				<e ph="本当に図々しい奴だと">
+			</ex>
 			<ex	 word="地図" pron="ちず" pa="0" pos="N" jlpt="5" eng="map" />
 			<ex	 word="絵図" pron="えず" pa="0" pos="N" />
 			<ex	 word="指図" pron="さしず" pa="0" pos="N" jlpt="1" />
@@ -104,11 +107,13 @@
 	<kanji	id="垂" freq="1178" jlpt="1" gr="6">
 		<r on="スイ" >
 			<ex	 word="懸垂" pron="けんすい" pa="0" pos="N" />
-			<ex	 word="垂直" pron="すいちょく" pa="0" pos="N" jlpt="2" />
+			<ex	 word="垂直" pron="すいちょく" pa="0" pos="N/NA" jlpt="2" />
 		</r>
-		<r kun="たれる" kk="垂れる" pa="2" pos="j1" jlpt="1" eng="to hang;to droop" >
+		<r kun="た`れる" kk="垂れる" pa="2" pos="j1" jlpt="1" eng="to hang;to droop" >
+			<e ph="枝が垂れている・雫が垂れる・鼻水が垂れる・涎が垂れる" />
 		</r>
-		<r kun="たらす" kk="垂らす" pa="2" pos="t5" >
+		<r kun="た`らす" kk="垂らす" pa="2" pos="t5" >
+			<e ph="目薬を垂らす・紅茶にレモンを垂らす・汗を垂らして働く・髪の毛を後ろに垂らす" />
 		</r>
 		<r nfu="垂とする(なんなんとする)・しで・垂れる(しだれる)">
 		</r>
@@ -163,7 +168,6 @@
 		<r on="スイ" >
 			<ex	 word="邪推" pron="じゃすい" pa="0" pos="N" />
 			<ex	 word="推移" pron="すいい" pa="0" pos="N" />
-			<ex	 word="推薦" pron="すいせん" pa="0" pos="N" jlpt="3" eng="recommendation" />
 			<ex	 word="推理" pron="すいり" pa="0" pos="N" jlpt="1" eng="reasoning" />
 			<ex	 word="推測" pron="すいそく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="推挙" pron="すいきょ" pa="0" pos="N" />
@@ -217,6 +221,7 @@
 	<kanji	id="随" freq="883" jlpt="1" gr="8">
 		<r on="ズイ" >
 			<ex	 word="随行" pron="ずいこう" pa="0" pos="N" />
+			<ex	 word="随分" pron="ずいぶん" pa="1" pos="adv" jlpt="3" cn="相当地; 超越一般程度的样子" />
 			<ex	 word="随意" pron="ずいい" pa="0" pos="N" />
 			<ex	 word="追随" pron="ついずい" pa="0" pos="N" />
 		</r>
@@ -270,7 +275,10 @@
 	</kanji>
 	
 	<kanji	id="据" freq="1452" jlpt="1" gr="8">
-		<r kun="すえる" kk="据える" pa="2" pos="t1" jlpt="1" cn="安设; 摆列; 就职" >
+		<r kun="す`える" kk="据える" pa="2" pos="t1" jlpt="1" cn="安设; 摆列; 就职" >
+			<ex	 word="据え付ける" pron="すえつける" pa="4" pos="t1" cn="安装,配置" str="true" ref="取り付ける" >
+				<e ph="台所に電気冷蔵庫を据え付ける" />
+			</ex>
 		</r>
 		<r kun="すわる" kk="据わる" pa="2" pos="j5" jlpt="5" eng="to sit" ref="座る">
 		</r>
@@ -281,15 +289,14 @@
 	<kanji	id="杉" freq="1050" jlpt="1" gr="8">
 		<r kun="すぎ" kk="杉" pa="0" pos="N" jlpt="2" >
 		</r>
-		<r nfu="サン">
-		</r>
+		<r nfu="サン" />
 	</kanji>
 	
 	<kanji	id="裾" freq="1545" gr="8">
-		<r kun="すそ" kk="裾" pa="2" pos="N" jlpt="1" >
+		<r kun="すそ" kk="裾" pa="2" pos="N" jlpt="1" cn="衣服的下摆;山麓;河川下游" >
+			<e ph="着物の裾を裁く・山の裾" />
 		</r>
-		<r nfu="キョ">
-		</r>
+		<r nfu="キョ" />
 	</kanji>
 	
 	<kanji	id="寸" freq="727" jlpt="1" gr="6">

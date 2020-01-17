@@ -159,11 +159,12 @@
 	<kanji	id="優" freq="648" jlpt="3" gr="6">
 		<r on="ユウ" >
 			<ex	 word="優秀" pron="ゆうしゅう" pa="0" pos="NA" jlpt="3" />
+			<ex	 word="優等生" pron="ゆうとうせい" pa="3" pos="N" jlpt="3" />
 		</r>
-		<r kun="やさしい" kk="優しい" pa="*0" pos="adj" jlpt="4" >
+		<r kun="やさ`しい" kk="優しい" pa="*0" pos="adj" jlpt="4" >
 		</r>
-		<r kun="すぐれる" kk="優れる" pa="3" pos="j1" jlpt="3" >
-			<e ph="優れた成績。" />
+		<r kun="すぐ`れる" kk="優れる" pa="3" pos="j1" jlpt="3" cn="优秀;(健康,心情,天气)好">
+			<e ph="優れた成績・優れた技能・天気が優れない・顔色が優れない" />
 		</r>
 	</kanji>
 	

@@ -386,12 +386,17 @@
 			<ex	 word="頭取" pron="とうどり" pa="0" pos="N" cn="银行头目" eng="(bank) president"/>
 		</r>
 		<r on="ズ" >
-			<ex	 word="頭脳" pron="ずのう" pa="1" pos="N" jlpt="2" eng="brains"/>
-			<ex	 word="頭上" pron="ずじょう" pa="0" pos="" />
-			<ex	 word="頭痛" pron="ずつう" pa="0" pos="" eng="headache"/>
+			<e ph="頭が高い" />
+			<ex	 word="頭脳" pron="ずのう" pa="1" pos="N" jlpt="2" eng="brains" >
+				<e ph="頭脳明晰・我がチームの頭脳・頭脳流出" />
+			</ex>
+			<ex	 word="頭上" pron="ずじょう" pa="0" pos="N" />
+			<ex	 word="頭痛" pron="ずつう" pa="0" pos="N" jlpt="3" eng="headache" >
+				<e ph="この薬は頭痛に良く効く・頭痛が種" />
+			</ex>
 		</r>
 		<r on="ト" >
-			<ex	 word="音頭" pron="おんど" pa="1" pos="" />
+			<ex	 word="音頭" pron="おんど" pa="1" pos="N" />
 		</r>
 		<r kun="あたま" kk="頭" pa="32" pos="N" jlpt="5" >
 			<ex	 word="頭打ち" pron="あたまうち" pa="0" pos="N" cn="达到顶点" />

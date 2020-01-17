@@ -858,8 +858,8 @@
 				<e ph="溺れた人を救助する・人命救助" />
 			</ex>
 		</r>
-		<r kun="すく`う" kk="救う" pa="0" pos="t5" jlpt="3" >
-			<e ph="命を救う" />
+		<r kun="すく`う" kk="救う" pa="0" pos="t5" jlpt="3" cn="拯救,搭救; 救济,赈济; 挽救" >
+			<e ph="危ないところを救われた・世を／命を救う" />
 		</r>
 	</kanji>
 	
@@ -1581,6 +1581,11 @@
 		</r>
 		<r kun="から" kk="空" pa="2" pos="N" jlpt="3" cn="空无一物; 接头词：空(箱子)" eng="emptiness; vacuum; blank" >
 			<ex	 word="空っぽ" pron="からっぽ" pa="0" pos="N/NA" jlpt="2" eng="hollow" />
+		</r>
+		<r kun="す`かす" kk="空かす" pa="0" pos="t5" cn="空(肚子)" >
+			<e ph="腹を空かして食事を待つ" />
+		</r>
+		<r kun="す`く" kk="空く" pa="0" pos="j5" jlpt="3" cn="空(饿肚子)" >
 		</r>
 	</kanji>
 	

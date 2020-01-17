@@ -813,9 +813,9 @@
 	
 	<kanji	id="判" freq="348" jlpt="3" gr="5">
 		<r on="ハン" >
-			<ex	 word="判断" pron="はんだん" pa="1" pos="N" jlpt="3" eng="judicial decision"/>
-			<ex	 word="批判" pron="ひはん" pa="1" pos="N" jlpt="3" eng="criticism"/>
-			<ex	 word="裁判" pron="さいばん" pa="1" pos="N" jlpt="3" eng="trial"/>
+			<ex	 word="判断" pron="はんだん" pa="1" pos="N" jlpt="3" eng="judicial decision" />
+			<ex	 word="批判" pron="ひはん" pa="1" pos="N" jlpt="3" eng="criticism" />
+			<ex	 word="裁判" pron="さいばん" pa="1" pos="N" jlpt="3" eng="trial" cn="做出裁决" />
 		</r>
 		<r on="バン" >
 			<ex	 word="大判" pron="おおばん" pa="0" pos="N" jlpt="1" cn="大纸张"/>

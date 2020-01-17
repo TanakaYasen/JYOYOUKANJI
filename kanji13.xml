@@ -549,10 +549,12 @@
 	
 	<kanji	id="薦" freq="2782" jlpt="1" gr="8">
 		<r on="セン" >
-			<ex	 word="推薦" pron="させん" pa="0" jlpt="3" pos="N"/>
-			<ex	 word="自薦" pron="じせｎ" pa="0" pos="N"/>
+			<ex	 word="推薦" pron="すいせん" pa="0" pos="N/ts" jlpt="3" eng="recommendation" ph="推薦状" />
+			<ex	 word="自薦" pron="じせん" pa="0" pos="N"/>
 		</r>
-		<r kun="すす`める" kk="薦める" pa="0" pos="t1" jlpt="3" eng="to recommend" ph="おすすめ" ref="勧める" />
+		<r kun="すす`める" kk="薦める" pa="0" pos="t1" jlpt="3" eng="to recommend" ph="おすすめ" ref="勧める" >
+			<e ph="新し本を／新製品を薦める・社長に薦める・候補者として知人を薦める" />
+		</r>
 	</kanji>
 	
 	<kanji	id="繊" freq="2567" jlpt="1" gr="8">
@@ -693,6 +695,9 @@
 			<ex	 word="素顔" pron="すがお" pa="1" pos="N" />
 			<ex	 word="素敵" pron="すてき" pa="0" pos="NA" jlpt="3" eng="nice; great"/>
 			<ex	 word="素晴らしい" pron="すばらしい" pa="4" pos="adj" jlpt="3" eng="wonderful; splendid" />
+			<ex	 word="素早い" pron="すばやい" pa="2" pos="adj" jlpt="1" cn="迅速的,敏捷的,干脆利落的" eng="fast;quick" >
+				<e ph="素早い反応・素早く見抜く" />
+			</ex>
 		</r>
 		<r kun="もと" kk="素・元・基" pa="2" />
 		<r kun="しろい" kk="白い" pa="2" >
@@ -903,7 +908,9 @@
 		<r on="ソウ" >
 			<ex	 word="巣窟" pron="そうくつ" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="す" kk="巣" pa="0" pos="N" jlpt="4" />
+		<r kun="す" kk="巣" pa="0" pos="N" jlpt="4" cn="巢穴;窝点" >
+			<e ph="鳥の巣・悪の巣・空き巣泥棒" />
+		</r>
 	</kanji>
 	
 	<kanji	id="掃" freq="1577" jlpt="2" gr="8">

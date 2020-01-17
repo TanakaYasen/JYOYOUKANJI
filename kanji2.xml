@@ -646,8 +646,8 @@
 		<r on="ゲ" >
 			<ex	 word="万華鏡" pron="ちゅうか" pa="1" pos="N" />
 		</r>
-		<r kun="はな`やか" kk="華やか" pa="2" pos="NA" jlpt="1" cn="光滑;流利" eng="smooth" >
-			<e ph="華やかな服" />
+		<r kun="はな`やか" kk="華やか" pa="2" pos="NA" jlpt="1" cn="华丽,华美" eng="smooth" >
+			<e ph="華やかな服・華やかに着飾る" />
 		</r>
 		<r nfu="ゲ・華やぐ(はなやぐ)"></r>
 	</kanji>

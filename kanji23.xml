@@ -200,7 +200,8 @@
 			<ex	 word="風鈴" pron="ふうりん" pa="0" pos="N" />
 			<ex	 word="呼び鈴" pron="よびりん" pa="0" pos="N" />
 		</r>
-		<r kun="すず" kk="鈴" pa="0" pos="N" jlpt="2" eng="bell" >
+		<r kun="すず" kk="鈴" pa="0" pos="N" jlpt="2" eng="bell" cn="铃铛" >
+			<e ph="鈴を鳴らす・鈴を張ったような目・鈴を転がすような声" />
 		</r>
 	</kanji>
 	
@@ -424,7 +425,7 @@
 		</r>
 		<r kun="おいる" kk="老いる" pa="2" pos="j1" jlpt="1" >
 		</r>
-		<r kun="ふける" kk="老ける" pa="2" pos="j1" jlpt="1" >
+		<r kun="ふ`ける" kk="老ける" pa="2" pos="j1" jlpt="1" cn="上年纪;老化,就陈旧而衰败" eng="to age; to grow old" jp="年を取る" >
 		</r>
 	</kanji>
 	
@@ -508,9 +509,11 @@
 		</r>
 		<r kun="もる" kk="漏る" pa="2" pos="j5" jlpt="1" >
 		</r>
-		<r kun="もれる" kk="漏れる" pa="2" pos="j1" jlpt="1" >
+		<r kun="もれ`る" kk="漏れる" pa="2" pos="j1" jlpt="1" eng="to leak out" ref="洩れる">
+			<e ph="ガス漏れ・水が漏れる・木漏れ日・日差しが漏れる" />
 		</r>
-		<r kun="もらす" kk="漏らす" pa="2" pos="NA" jlpt="3" >
+		<r kun="もら`す" kk="漏らす" pa="2" pos="t5" jlpt="1" >
+			<e ph="情報を漏らす・本心を漏らす" />
 		</r>
 	</kanji>
 	

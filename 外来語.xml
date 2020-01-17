@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	形容詞
+-->
+<Dict>
+	
+	<table tag="english">
+		<ex	 word="シンボル" pa="1" pos="N" jp="象徴" eng="symbol" ref="印">
+			<e ph="富士山は日本のシンボルだ・シンボルマーク" />
+		</ex>
+		<ex	 word="エッセイ・エッセー" pa="1" pos="N" jp="随筆" eng="essay" >
+		</ex>
+	</table>
+	
+</Dict>
+

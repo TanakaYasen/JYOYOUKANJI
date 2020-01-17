@@ -189,7 +189,9 @@
 		</r>
 		<r kun="はや`い" kk="速い" pa="2" pos="adj" jlpt="5"></r>
 		<r kun="はや`める" kk="早める" pa="3" pos="t5"></r>
-		<r kun="すみ`やか" kk="速やか" pa="2" pos="NA"></r>
+		<r kun="すみ`やか" kk="速やか" pa="2" pos="NA" cn="快速,迅速" eng="quick; rapid; swift" >
+			<e ph="速やかな解決・速やかに対策を講じる・速やかに処理する" />
+		</r>
 	</kanji>
 	
 	<kanji	id="側" freq="478" jlpt="3" gr="4">

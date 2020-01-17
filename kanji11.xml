@@ -693,12 +693,15 @@
 			<ex	 word="侵害" pron="しんがい" pa="0" pos="N/ts" >
 				<e ph="プライバシー(privacy)の侵害・人権を侵害する" />
 			</ex>
-			<ex	 word="侵入" pron="しんにゅう" pa="0" pos="N" jlpt="2" />
+			<ex	 word="侵入" pron="しんにゅう" pa="0" pos="N/js" jlpt="2" >
+				<e ph="不法侵入・隣国へ侵入する" />
+			</ex>
 			<ex	 word="侵犯" pron="しんぱん" pa="0" pos="N" />
-			<ex	 word="侵略" pron="しんりゃく" pa="0" pos="N" jlpt="1" />
+			<ex	 word="侵略" pron="しんりゃく" pa="0" pos="N" jlpt="1" >
+			</ex>
 		</r>
 		<r kun="おか`す" kk="侵す" pa="20" pos="t5" jlpt="1" ref="犯す" >
-			<e ph="国境を侵す" />
+			<e ph="国境を侵す・他人の正当な権利を侵す" />
 		</r>
 		<r nfu="侵い(みにくい)">
 		</r>
@@ -862,9 +865,10 @@
 			<ex	 word="昇進" pron="しょうしん" pa="0" pos="N" />
 			<ex	 word="進歩" pron="しんぽ" pa="0" pos="N/js" jlpt="3" eng="progress" />
 		</r>
-		<r kun="すすむ" kk="進む" pa="0" pos="j5" jlpt="4" >
+		<r kun="すす`む" kk="進む" pa="0" pos="j5" jlpt="4" >
 		</r>
-		<r kun="すすめる" kk="進める" pa="0" pos="t1" jlpt="5" >
+		<r kun="すす`める" kk="進める" pa="0" pos="t1" jlpt="3" cn="推进" >
+			<e ph="工事を進める・計画を進める・食欲を進める" />
 		</r>
 	</kanji>
 	
@@ -879,7 +883,9 @@
 	
 	<kanji	id="診" freq="1821" jlpt="1" gr="8">
 		<r on="シン" >
-			<ex	 word="診察" pron="しんさつ" pa="0" pos="N/ts" jlpt="3" />
+			<ex	 word="診察" pron="しんさつ" pa="0" pos="N/ts" jlpt="3" >
+				<e ph="患者を診察する・医者に診察してもらう" />
+			</ex>
 			<ex	 word="診療" pron="しんりょう" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="診断" pron="しんだん" pa="0" pos="N/ts" jlpt="2" />
 		</r>
@@ -938,7 +944,7 @@
 			</ex>
 			<ex	 word="審問" pron="しんもん" pa="0" pos="N" />
 			<ex	 word="審判" pron="しんぱん" pa="0" pos="N/ts" jlpt="3" eng="judgement" >
-				<e ph="審判を待つ・最後の審判" />
+				<e ph="審判を受ける・審判を下す・審判を待つ・最後の審判" />
 			</ex>
 		</r>
 		<r nfu="審らか(つまびらか)・審らかにする(つまびらかにする)・審に(まことに)">
