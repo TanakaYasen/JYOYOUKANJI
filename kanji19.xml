@@ -219,12 +219,14 @@
 			<ex	 word="準備" pron="じゅんび" pa="1" pos="N" jlpt="3" />
 			<ex	 word="設備" pron="せつび" pa="1" pos="N" jlpt="3" eng="device" />
 			<ex	 word="予備" pron="よび" pa="1" pos="N" jlpt="2" />
-			<ex	 word="整備" pron="せいび" pa="1" pos="N/ts" jlpt="2" />
+			<ex	 word="整備" pron="せいび" pa="1" pos="N/ts" jlpt="2" >
+				<e ph="道路を整備する・エンジンを整備する" />
+			</ex>
 			<ex	 word="守備" pron="しゅび" pa="1" pos="N/ts" jlpt="1" />
 			<ex	 word="備考" pron="びこう" pa="0" pos="N/ts" cn="备注" />
 		</r>
 		<r kun="そな`える" kk="備える" pa="3" pos="t1" jlpt="3" cn="准备;设置,备齐;天生具备,与生俱来" ga="に備えて">
-			<e ph="万が一の時に備える・条件を備える・資質を備える・教室にエアコンを備える" />
+			<e ph="万が一の時に備える・条件を備える・資質を備える・教室にエアコンを備える・地震に備える・入試に備える" />
 		</r>
 		<r kun="そな`わる" kk="備わる" pa="3" pos="j5" jlpt="1" cn="具备">
 			<e ph="必要な資料が全部備わっている" />

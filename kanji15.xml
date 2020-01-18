@@ -19,7 +19,7 @@
 			<ex	 word="濁音" pron="だくおん" pa="0" pos="N" />
 			<ex	 word="汚濁" pron="おだく" pa="0" pos="N" />
 		</r>
-		<r kun="にごる" kk="濁る" pa="2" pos="j5" jlpt="2" ph="川の水が濁る"></r>
+		<r kun="にご`る" kk="濁る" pa="2" pos="j5" jlpt="2" ph="川の水が濁る" ref="澄む" ></r>
 		<r kun="にごす" kk="濁す" pa="2" pos="t5" ph="お茶を濁す"></r>
 	</kanji>
 	
@@ -402,7 +402,9 @@
 		<r on="チク" >
 			<ex	 word="蓄積" pron="ちくせき" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="たくわ`える" kk="蓄える" pa="4" pos="t5" jlpt="2" ph="お金を～"></r>
+		<r kun="たくわ`える" kk="蓄える" pa="4" pos="t5" jlpt="2" cn="储备;积蓄;留" >
+			<e ph="お金を蓄える・知識を蓄える・力を蓄えておく・髭を蓄える" />
+		</r>
 	</kanji>
 	
 	<kanji	id="築" freq="1173" jlpt="2" gr="5">

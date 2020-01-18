@@ -545,9 +545,13 @@
 	<kanji	id="潔" freq="1571" jlpt="1" gr="5">
 		<r on="ケツ" >
 			<ex	 word="潔白" pron="けっぱく" pa="0" pos="N/NA" />
-			<ex	 word="清潔" pron="せいけつ" pa="0" pos="N/NA" jlpt="3" />
+			<ex	 word="清潔" pron="せいけつ" pa="0" pos="N/NA" jlpt="3" cn="清洁干净;(人品)端正" >
+				<e ph="清潔な服装・清潔な人柄" />
+			</ex>
 		</r>
-		<r kun="いさぎよい" kk="潔い" pa="4" pos="adj" > </r>
+		<r kun="いさぎよ`い" kk="潔い" pa="4" pos="adj" >
+			<e ph="潔く諦めた" />
+		</r>
 	</kanji>
 	
 	<kanji	id="月" freq="47" jlpt="5" gr="1" lv="10">

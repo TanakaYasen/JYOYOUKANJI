@@ -140,8 +140,10 @@
 		<r on="チョウ" >
 			<ex	 word="澄明" pron="ちょうめい" pa="0" pos="NA" />
 		</r>
-		<r kun="すむ" kk="澄む" pa="1" pos="j5" jlpt="2" ></r>
-		<r kun="すます" kk="澄ます" pa="2" pos="t5" jlpt="1" ></r>
+		<r kun="す`む" kk="澄む" pa="1" pos="j5" jlpt="2" ref="濁る">
+			<e ph="水が澄む・澄んだ鈴の音" />
+		</r>
+		<r kun="す`ます" kk="澄ます" pa="2" pos="t5" jlpt="1" ></r>
 	</kanji>
 	
 	<kanji	id="調" freq="284" jlpt="3" gr="3">
@@ -539,7 +541,7 @@
 			<ex	 word="締結" pron="ていけつ" pa="0" pos="N" />
 		</r>
 		<r kun="し`まる" kk="締まる" pa="2" pos="j5" jlpt="5" ></r>
-		<r kun="し`める" kk="締める" pa="2" pos="t1" jlpt="5" cn="系 绑" >
+		<r kun="し`める" kk="締める" pa="2" pos="t1" jlpt="5" cn="系;绑" >
 			<e ph="ネクタイを締める・シートベルトを締める" />
 		</r>
 	</kanji>

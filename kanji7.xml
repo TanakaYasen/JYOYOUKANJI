@@ -838,7 +838,8 @@
 			<ex	 word="印刷" pron="いんさつ" pa="0" pos="N" jlpt="3" eng="printing"/>
 			<ex	 word="刷新" pron="さっしん" pa="0" pos="N" />
 		</r>
-		<r kun="する" kk="刷る" pa="1" pos="t5" jlpt="2" eng="to print" >
+		<r kun="す`る" kk="刷る" pa="1" pos="t5" jlpt="2" eng="to print" >
+			<e ph="新聞を／版画を／名刺をする" />
 		</r>
 		<r nfu="刷く(はく)">
 		</r>
@@ -905,6 +906,7 @@
 		<r kun="する" kk="擦る" pa="2" pos="t5" jlpt="2" >
 		</r>
 		<r kun="すれる" kk="擦れる" pa="2" pos="j1" jlpt="1" >
+			<ex	 word="擦れ違う" pron="すれちがう" pa="0" pos="j5" jlpt="2" cn="擦肩而过; (意见)不一致" />
 		</r>
 		<r nfu="擦る(こする)・擦る(なする)・擦る(さする)・擦れる(かすれる)">
 		</r>

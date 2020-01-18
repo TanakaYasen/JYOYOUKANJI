@@ -416,9 +416,13 @@
 			<ex	 word="体育" pron="ちいき" pa="1" pos="N" jlpt="3" eng="PE" />
 			<ex	 word="育児" pron="いくじ" pa="1" pos="N" jlpt="2" eng="childcare" />
 			<ex	 word="保育" pron="ほいく" pa="0" pos="N" jlpt="1" eng="nursing" />
+			<ex	 word="成育" pron="せいいく" pa="0" pos="N" jlpt="1" />
+			<ex	 word="育成" pron="いくせい" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r kun="そだ`つ" kk="育つ" pa="2" pos="j5" jlpt="3" eng="to be raised" />
-		<r kun="そだ`てる" kk="育てる" pa="3" pos="t1" jlpt="4" eng="to raise; to bring up/to train; to educate" />
+		<r kun="そだ`てる" kk="育てる" pa="3" pos="t1" jlpt="4" eng="to raise; to bring up/to train; to educate" >
+			<e ph="子供を育てる・裕福な過程で育った" />
+		</r>
 		<r nfu="育む(はぐくむ)"></r>
 	</kanji>
 	
@@ -777,7 +781,8 @@
 			<ex	 word="精鋭" pron="せいえい" pa="0" pos="N/js" />
 			<ex	 word="新鋭" pron="しんえい" pa="0" pos="N/js" />
 		</r>
-		<r kun="するどい" kk="鋭い" pa="3" pos="adj" jlpt="3" >
+		<r kun="するど`い" kk="鋭い" pa="3" pos="adj" jlpt="3" cn="锋利的,快;激烈的,尖锐的;(洞察力,嗅觉,仪表)敏锐的" >
+			<e ph="鋭い刃物・鋭い目付き・鋭い洞察力・鋭い質問・頭が鋭い・観察が鋭い" />
 		</r>
 		<r nfu="鋭い(はやい)"></r>
 	</kanji>

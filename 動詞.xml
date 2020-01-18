@@ -6,6 +6,12 @@
 	
 	<table tag="no kanji">
 		<ex	 word="ぶつかる" pron="ぶつかる" pa="0" pos="j5" jlpt="2" eng="to collide" />
+		<ex	 word="ずらす" pron="ずらす" pa="2" pos="t5" jlpt="2" cn="挪开,移开" >
+			<e ph="家具をずらす・日程をずらす・箪笥を左へずらす" />
+		</ex>
+		<ex	 word="ずれる" pron="ずれる" pa="2" pos="j1" jlpt="2" cn="偏离；错离" >
+			<e ph="テーマからずれる・積み荷がずれる・話がずれる" />
+		</ex>
 		<ex	 word="しゃぶる" pron="しゃぶる" pa="0" pos="t5" jlpt="2" cn="吮吸;含;嘬" >
 			<e ph="乳を／指をしゃぶる・飴玉をしゃぶる" />
 		</ex>

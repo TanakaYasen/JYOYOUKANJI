@@ -326,6 +326,7 @@
 	<kanji	id="多" freq="121" jlpt="4" gr="2">
 		<r on="タ" >
 			<ex	 word="多重" pron="たじゅう" pa="0" jlpt="5" pos="N" cn="" />
+			<ex	 word="多少" pron="たしょう" pa="0" pos="N/adv" jlpt="3" cn="多少#稍微" />
 			<ex	 word="多様" pron="たよう" pa="0" jlpt="1" pos="N/NA" eng="diverse" />
 			<ex	 word="大多数" pron="だいたすう" pa="3" jlpt="5" pos="N" cn="" />
 		</r>
@@ -440,7 +441,9 @@
 		<r on="タイ" >
 			<ex	 word="忍耐" pron="にんたい" pa="1" pos="N" cn="" />
 		</r>
-		<r kun="たえる" kk="耐える" pa="2" pos="j1" jlpt="1" ref="堪える" ></r>
+		<r kun="た`える" kk="耐える" pa="2" pos="j1" jlpt="1" cn="忍受;经得住" ref="堪える" >
+			<e ph="悲しみに耐える・年月に耐える・高熱に耐える金属" />
+		</r>
 	</kanji>
 	
 	<kanji	id="待" freq="263" jlpt="4" gr="3">

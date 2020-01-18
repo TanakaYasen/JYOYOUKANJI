@@ -697,7 +697,9 @@
 		<r on="セイ" >
 			<ex	 word="至誠" pron="しせい" pa="0" pos="N" />
 			<ex	 word="誠意" pron="せいい" pa="0" pos="N" />
-			<ex	 word="誠実" pron="せいじつ" pa="0" pos="N" />
+			<ex	 word="誠実" pron="せいじつ" pa="0" pos="N/NA" jlpt="1" >
+				<e ph="誠実に働く・誠実な人柄・誠実に答える" />
+			</ex>
 		</r>
 		<r kun="まこと" kk="誠" pa="0" pos="N" jlpt="1" >
 		</r>
@@ -711,7 +713,9 @@
 			<ex	 word="精神" pron="せいい" pa="0" pos="N" />
 			<ex	 word="勢力" pron="せいりょく" pa="0" pos="N" />
 			<ex	 word="精巧" pron="せいこう" pa="0" pos="N" />
-			<ex	 word="精一杯" pron="せいいっぱい" pa="0" pos="N" />
+			<ex	 word="精一杯" pron="せいいっぱい" pa="0" pos="N/adv" cn="竭尽全力" >
+				<e ph="精いっぱい走る・精いっぱいおまけしましょう・精いっぱい努力する" />
+			</ex>
 		</r>
 		<r on="ショウ" >
 			<ex	 word="精進" pron="しょうじん" pa="0" pos="N" />
@@ -787,9 +791,11 @@
 			<ex	 word="整髪" pron="せいはつ" pa="0" pos="N" />
 			<ex	 word="整理" pron="せいり" pa="1" pos="N/ts" jlpt="3" />
 		</r>
-		<r kun="ととのえる" kk="整える" pa="4" pos="t1" jlpt="1" >
+		<r kun="ととの`える" kk="整える" pa="4" pos="t1" jlpt="1" >
+			<e ph="服装を整える・身なりを整える" />
 		</r>
-		<r kun="ととのう" kk="整う" pa="3" pos="j5" jlpt="2" >
+		<r kun="ととの`う" kk="整う" pa="3" pos="j5" jlpt="2" cn="匀称;完整;整齐协调" >
+			<e ph="整った文章;隊形が整う;準備万端が整う" />
 		</r>
 	</kanji>
 	

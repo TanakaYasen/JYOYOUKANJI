@@ -314,7 +314,6 @@
 	<kanji	id="杯" freq="892" jlpt="3" gr="8">
 		<r on="ハイ" >
 			<ex	 word="乾杯" pron="かんぱい" pa="0" pos="N/js" jlpt="2" />
-			<ex	 word="精一杯" pron="せいいっぱい" pa="0" pos="N/adv" />
 			<ex	 word="祝杯" pron="はいえつ" pa="0" pos="N" />
 		</r>
 		<r kun="さかずき" kk="杯・盃" pa="0" pos="t5" jlpt="1" htm="酒＋好き" ></r>
