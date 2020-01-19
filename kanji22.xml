@@ -574,9 +574,10 @@
 		</r>
 		<r kun="たのむ" kk="頼む" pa="2" pos="t5" jlpt="5" ph="に頼む" cn="拜托; 点餐" jp="お願いする" >
 		</r>
-		<r kun="たのもしい" kk="頼もしい" pa="4" pos="adj" jlpt="2" cn="可靠，值得信赖" jp="信頼できる">
-		</r>
 		<r kun="たよる" kk="頼る" pa="2" pos="j5" jlpt="3" ph="に頼る" cn="依靠~" >
+		</r>
+		<r kun="たのもしい" kk="頼もしい" pa="4" pos="adj" jlpt="2" cn="可靠，值得信赖;有把握的" jp="信頼できる">
+			<e ph="頼もしい男・将来が頼もしい" />
 		</r>
 	</kanji>
 	
@@ -782,8 +783,14 @@
 		</r>
 		<r kun="たつ" kk="立つ" pa="1" pos="j5" jlpt="5" >
 			<ex	 word="立場" pron="たちば" pa="0" pos="N" jlpt="4" />
+			<ex	 word="立ち直る" pron="たちなおる" pa="0" pos="j5" cn="恢复;回升;起色,重振" >
+				<e ph="景気が立ち直る・失意から立ち直る・敵に立ち直るひまを与えない" />
+			</ex>
 		</r>
-		<r kun="たてる" kk="立てる" pa="2" pos="t1" jlpt="4" >
+		<r kun="た`てる" kk="立てる" pa="2" pos="t1" jlpt="4" >
+			<ex	 word="立て替える" pron="たてかえる" pa="0" pos="t1" cn="垫付" >
+				<e ph="交通費を立て替える" />
+			</ex>
 		</r>
 	</kanji>
 	

@@ -1001,7 +1001,9 @@
 			<ex	 word="比率" pron="ひりつ" pa="0" pos="N" jlpt="1" eng="ratio"/>
 			<ex	 word="比重" pron="ひじゅう" pa="0" pos="N" jlpt="1"/>
 		</r>
-		<r kun="くらべる" kk="比べる" pa="0" pos="t1" jlpt="4" eng="to compare">	</r>
+		<r kun="くら`べる" kk="比べる" pa="0" pos="t1" jlpt="4" eng="to compare">
+			<e ph="腕比べ" />
+		</r>
 	</kanji>
 	
 	<kanji	id="皮" freq="810" jlpt="2" gr="3">

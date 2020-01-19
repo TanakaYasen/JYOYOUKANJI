@@ -382,7 +382,7 @@
 	<kanji	id="蔑" freq="1632" gr="8">
 		<r on="ベツ" >
 			<ex	 word="軽蔑" pron="けいべつ" pa="1" pos="N" />
-			<ex	 word="蔑視" pron="べっし" pa="1" pos="N" />
+			<ex	 word="蔑視" pron="べっし" pa="1" pos="N/ts" />
 		</r>
 		<r kun="さげすむ" kk="蔑む" pa="30" pos="t5" eng="to scorn" />
 	</kanji>
@@ -490,7 +490,8 @@
 		<r on="ビン" >
 			<ex	 word="郵便局" pron="ゆうびんきょく" pa="3" pos="N" jlpt="5" />
 		</r>
-		<r kun="たより" kk="便り" pa="1" pos="N" jlpt="3" eng="news">
+		<r kun="たよ`り" kk="便り" pa="1" pos="N" jlpt="3" eng="news" cn="音信,消息; 访问,来临">
+			<e ph="便りがとだえる" />
 		</r>
 	</kanji>
 	
@@ -525,7 +526,8 @@
 			<ex	 word="保守" pron="ほしゅ" pa="1" pos="N/ts" jlpt="1" />
 			<ex	 word="確保" pron="かくほ" pa="1" pos="N" jlpt="1" />
 		</r>
-		<r kun="たもつ" kk="保つ" pa="2" pos="t5" jlpt="1" >
+		<r kun="たも`つ" kk="保つ" pa="2" pos="t5" jlpt="1" cn="保持,维持; 保住; 保持不变" >
+			<e ph="健康を保つ・命を保つ・平和が保たれる・秘密を保つ" />
 		</r>
 	</kanji>
 	

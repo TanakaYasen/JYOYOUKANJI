@@ -987,7 +987,9 @@
 		<r on="ショウ" >
 			<ex	 word="装束" pron="しょうぞく" pa="1" pos="N" jlpt="2" />
 		</r>
-		<r kun="よそお`う" kk="装う" pa="3" pos="t5" eng="to dress; to pretend" />
+		<r kun="よそお`う" kk="装う" pa="3" pos="t5" eng="to dress; to pretend" cn="装饰;打扮;假装;预备" >
+			<e ph="店内を装う・美しく装った娘・平気を/貧乏を装う" />
+		</r>
 	</kanji>
 	
 	<kanji	id="僧" freq="748" jlpt="1" gr="8">

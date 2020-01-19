@@ -579,9 +579,10 @@
 			<ex	 word="試練" pron="しれん" pa="10" pos="N" />
 			<ex	 word="入試" pron="にゅうし" pa="01" pos="N" />
 		</r>
-		<r kun="こころみる" kk="試みる" pa="4" pos="t1" jlpt="1" >
+		<r kun="こころ`みる" kk="試みる" pa="4" pos="t1" jlpt="1" cn="" >
 		</r>
-		<r kun="ためす" kk="試す" pa="2" pos="t5" jlpt="3" >
+		<r kun="ため`す" kk="試す" pa="2" pos="t5" jlpt="3" cn="尝试;试验">
+			<e ph="切れ味を試す・実力を試す" />
 		</r>
 	</kanji>
 	

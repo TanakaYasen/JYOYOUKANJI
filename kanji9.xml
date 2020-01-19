@@ -46,6 +46,7 @@
 		</r>
 		<r on="シチ" >
 			<ex	 word="質屋" pron="しちや" pa="2" pos="N" cn="当铺" eng="pawnshop" />
+			<ex	 word="人質" pron="ひとじち" pa="0" pos="N" jlpt="1" cn="债务的担保人; 人质" eng="hostage" />
 		</r>
 		<r on="チ" >
 			<ex	 word="言質" pron="げんち" pa="1" pos="N" eng="promise" cn="许诺;承诺" />

@@ -29,7 +29,8 @@
 	
 	<kanji	id="達" freq="179" jlpt="3" gr="4">
 		<r on="タツ" >
-			<ex	 word="達成感" pron="たっせいかん" pa="3" pos="N"  />
+			<ex	 word="達する" pron="たっする" pa="0" pos="jts" cn="到达" />
+			<ex	 word="達成" pron="たっせい" pa="0" pos="N" ph="達成感" />
 			<ex	 word="伝達" pron="でんたつ" pa="0" jlpt="5" pos="N" />
 			<ex	 word="達人" pron="たつじん" pa="0" pos="N" eng="master;expert"/>
 		</r>
@@ -38,6 +39,7 @@
 	<kanji	id="脱" freq="907" jlpt="1" gr="8">
 		<r on="ダツ" >
 			<ex	 word="脱税" pron="だつぜい" pa="0" pos="N" />
+			<ex	 word="脱線" pron="だっせん" pa="0" pos="N/js" cn="脱轨;离开本题" />
 			<ex	 word="脱衣所" pron="だついしょ" pa="0" pos="N" />
 			<ex	 word="脱出" pron="だっしゅつ" pa="0" jlpt="1" pos="N/js" cn="逃脱;逃亡"/>
 			<ex	 word="脱退" pron="だったい" pa="0"  jlpt="1" pos="ts" cn="脱离;退出"/>
@@ -100,6 +102,11 @@
 			<ex	 word="簡単" pron="かんたん" pa="0" jlpt="4" pos="N" />
 			<ex	 word="単位" pron="たんい" pa="1" jlpt="3" pos="N" />
 			<ex	 word="単語" pron="たんご" pa="0" jlpt="3" pos="N" />
+			<ex	 word="単純" pron="たんじゅん" pa="0" pos="N/NA" jlpt="3" ref="純粋" />
+			<ex	 word="単なる" pron="たんなる" pa="1" pos="v" jlpt="3" cn="仅" />
+			<ex	 word="単に" pron="たんに" pa="1" pos="adv" jlpt="3" eng="merely; solely" >
+				<e ph="以上は単に事実を述べただけだ・単に君だけの問題ではない" />
+			</ex>
 		</r>
 	</kanji>
 	
@@ -141,8 +148,9 @@
 	<kanji	id="短" freq="823" jlpt="2" gr="3">
 		<r on="タン" >
 			<ex	 word="短期" pron="たんき" pa="1" jlpt="2" pos="N" />
+			<ex	 word="短気" pron="たんき" pa="1" jlpt="1" pos="NA" jlpt="1" cn="急性子" jp="気が短い" />
 		</r>
-		<r kun="みじか`い" kk="短い" pa="3" eng="short"></r>
+		<r kun="みじか`い" kk="短い" pa="3" jlpt="5" eng="short"></r>
 	</kanji>
 	
 	<kanji	id="嘆" freq="1300" jlpt="1" gr="8">

@@ -109,8 +109,9 @@
 			<ex	 word="懸垂" pron="けんすい" pa="0" pos="N" />
 			<ex	 word="垂直" pron="すいちょく" pa="0" pos="N/NA" jlpt="2" />
 		</r>
-		<r kun="た`れる" kk="垂れる" pa="2" pos="j1" jlpt="1" eng="to hang;to droop" >
+		<r kun="た`れる" kk="垂れる" pa="2" pos="jt1" jlpt="1" eng="to hang;to droop" cn="下垂#使 下垂,悬挂" >
 			<e ph="枝が垂れている・雫が垂れる・鼻水が垂れる・涎が垂れる" />
+			<e ph="頭を垂れる・教えを垂れる" />
 		</r>
 		<r kun="た`らす" kk="垂らす" pa="2" pos="t5" >
 			<e ph="目薬を垂らす・紅茶にレモンを垂らす・汗を垂らして働く・髪の毛を後ろに垂らす" />
@@ -740,7 +741,8 @@
 			<ex	 word="誓詞" pron="せいし" pa="0" pos="N" />
 			<ex	 word="宣誓" pron="せんせい" pa="0" pos="N/js" eng="oath" />
 		</r>
-		<r kun="ちかう" kk="誓う" pa="02" pos="t5" jlpt="2" eng="to swear" >
+		<r kun="ちか`う" kk="誓う" pa="02" pos="t5" jlpt="2" eng="to swear" >
+			<e ph="心に誓う・将来を誓う・誓い・健やかな時も病める時も変わらないことを誓いますか。はい、誓います" />
 		</r>
 		<r nfu="ゼイ">
 		</r>

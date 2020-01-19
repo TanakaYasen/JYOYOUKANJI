@@ -899,6 +899,7 @@
 		<r on="カン" >
 			<ex	 word="感覚" pron="かんかく" pa="0" pos="N" />
 			<ex	 word="感情" pron="かんじょう" pa="0" pos="NA" />
+			<e ph="達成感・羞恥感・臨場感・優越感・劣等感・一体感・緊張感" />
 		</r>
 		<r kun="かん`じる" kk="感じる" pa="0" pos="N" jlpt="4" />
 	</kanji>

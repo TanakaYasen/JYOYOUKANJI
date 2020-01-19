@@ -326,6 +326,7 @@
 	<kanji	id="多" freq="121" jlpt="4" gr="2">
 		<r on="タ" >
 			<ex	 word="多重" pron="たじゅう" pa="0" jlpt="5" pos="N" cn="" />
+			<ex	 word="多忙" pron="たぼう" pa="0" pos="N/NA" jlpt="1" cn="繁忙,忙碌" />
 			<ex	 word="多少" pron="たしょう" pa="0" pos="N/adv" jlpt="3" cn="多少#稍微" />
 			<ex	 word="多様" pron="たよう" pa="0" jlpt="1" pos="N/NA" eng="diverse" />
 			<ex	 word="大多数" pron="だいたすう" pa="3" jlpt="5" pos="N" cn="" />

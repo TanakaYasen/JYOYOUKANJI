@@ -1567,7 +1567,9 @@
 			<ex	 word="空港" pron="くうこう" pa="0" pos="N" jlpt="4" eng="airport" />
 			<ex	 word="空気" pron="くうき" pa="1" pos="N" jlpt="4" eng="air" />
 		</r>
-		<r kun="そら" kk="空" pa="1" pos="N" jlpt="5" eng="sky" ></r>
+		<r kun="そら" kk="空" pa="1" pos="N" jlpt="5" eng="sky" >
+			<ex	 word="空模様" pron="そらもよう" pa="3" pos="N" cn="天气" />
+		</r>
 		<r kun="あ`く" kk="空く" pa="0" pos="j5" jlpt="5" ph="午後は空いていますか（暇ですか）">
 			<ex	 word="空き" pron="あき" pa="1" pos="N" jlpt="4" eng="air" />
 			<ex	 word="空き箱" pron="あきばこ" pa="1" pos="N" jlpt="4" eng="air" />
