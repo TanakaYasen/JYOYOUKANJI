@@ -122,7 +122,8 @@
 		<r on="エン" >
 			<ex	 word="妖艶" pron="ようえん" pa="0" pos="NA" />
 		</r>
-		<r kun="つや" kk="艶" pa="2" pos="N" jlpt="2">
+		<r kun="つや" kk="艶" pa="2" pos="N" jlpt="2" cn="光泽; 兴味; 亮点">
+			<e ph="磨いて艶を出す・話の艶・艶が出る" />
 			<ex	 word="色艶" pron="いろつや" pa="2" pos="N" cn="光泽，色泽" />
 		</r>
 	</kanji>
@@ -540,7 +541,12 @@
 			<ex	 word="成果" pron="せいか" pa="1" pos="N" />
 			<ex	 word="果実" pron="かじつ" pa="0" pos="N" jlpt="2" cn="果实;收益" eng="fruit; nut" />
 		</r>
-		<r kun="は`たす" kk="果たす" pa="2" pos="t5" jlpt="5" />
+		<r kun="は`たす" kk="果たす" pa="2" pos="t5" jlpt="5" >
+			<e ph="義務を果たす" />
+			<ex	 word="使い果たす" pron="つかいはたす" pa="1" pos="t5" cn="用尽,花光" >
+				<e ph="燃料を使い果たす・精力を使い果たす" />
+			</ex>
+		</r>
 		<r kun="は`てる" kk="果てる" pa="2" pos="j1" jlpt="5" />
 		<r kun="は`て" kk="果て" pa="2" pos="N" jlpt="5" />
 	</kanji>

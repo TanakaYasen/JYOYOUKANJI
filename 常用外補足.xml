@@ -186,10 +186,34 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="絆" freq="2759" jlpt="3" gr="6">
+		<r on="ショウ" >
+		</r>
+		<r kun="きずな" kk="絆" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
+	<kanji	id="綺" freq="1395" jlpt="3" gr="6">
+		<r on="キ" >
+		</r>
+		<r kun="あや" kk="綺" pa="1" pos="N" jlpt="1" />
+	</kanji>
+	
 	<kanji	id="綾" freq="2155" jlpt="3" gr="4">
 		<r on="リョウ" >
 		</r>
 		<r kun="あや" kk="綾" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="繋" freq="1923" >
+		<r kun="つな`ぐ" kk="繋ぐ" pa="0" pos="t5" jlpt="3" htm="綱+ぐ" cn="绑,系,栓; 接起来; 维持,维系" >
+		</r>
+		<r kun="つな`がる" kk="繋がる" pa="0" pos="j5" jlpt="2" cn="连接,接通; 牵涉,与..相关联" >
+			<e ph="心と心が繋がっている・電話が繋がらない・殺人事件に繋がる・血液型は必ずしもその人性格に繋がっているとは限らない" />
+			<e ph="首が繋がる" />
+		</r>
+		<r kun="つな`げる" kk="繋げる" pa="0" pos="t1" jlpt="2" cn="接上; 连上" >
+			<e ph="手を繋げる" />
 		</r>
 	</kanji>
 	
@@ -500,6 +524,12 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="呟" freq="1534" >
+		<r kun="つぶや`く" kk="呟く" pa="3" pos="j5" jlpt="1" cn="嘟囔，发牢骚">
+			<e ph="不平を呟く" />
+		</r>
+	</kanji>
+	
 	<kanji	id="囀" freq="3289" >
 		<r kun="さえずる" kk="囀る" pa="3" pos="j5" jlpt="1" cn="(鸟儿)唧唧喳喳叫">
 			<e ph="雀がさえずる・よくさえずる女の子" />
@@ -585,6 +615,12 @@
 		<r kun="つかむ" kk="掴む" pa="2" pos="t5" jlpt="3" />
 	</kanji>
 	
+	<kanji	id="躓" freq="3336" >
+		<r kun="つまず`く" kk="躓く" pa="03" pos="j5" jlpt="2" cn="绊倒,摔倒; 栽跟头, 受挫" >
+			<e ph="石につまずいて転ぶ・二次面接でつまずく" />
+		</r>
+	</kanji>
+	
 	<kanji	id="辻" freq="1553" jlpt="3" gr="4">
 		<r kun="つじ" kk="辻" pa="1" pos="N" jlpt="1" />
 	</kanji>
@@ -622,18 +658,6 @@
 		<r on="ショウ" >
 		</r>
 		<r kun="めかけ" kk="妾" pa="1" pos="N" jlpt="1" />
-	</kanji>
-	
-	<kanji	id="絆" freq="2759" jlpt="3" gr="6">
-		<r on="ショウ" >
-		</r>
-		<r kun="きずな" kk="絆" pa="1" pos="N" jlpt="1" />
-	</kanji>
-	
-	<kanji	id="綺" freq="1395" jlpt="3" gr="6">
-		<r on="キ" >
-		</r>
-		<r kun="あや" kk="綺" pa="1" pos="N" jlpt="1" />
 	</kanji>
 	
 	<kanji	id="捧" freq="2074" gr="8">

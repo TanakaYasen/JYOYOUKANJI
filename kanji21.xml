@@ -262,7 +262,9 @@
 			<ex	 word="磨耗" pron="まもう" pa="0" pos="N" />
 			<ex	 word="歯磨き" pron="はみがき" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="みが`く" kk="磨く" pa="0" pos="t5" jlpt="5" > </r>
+		<r kun="みが`く" kk="磨く" pa="0" pos="t5" jlpt="5" cn="磨光,刷净,擦亮; 磨练(本领)" >
+			<e ph="歯を磨く・靴を磨く・腕を磨く">
+		</r>
 	</kanji>
 	
 	<kanji	id="魔" freq="770" jlpt="1" gr="8">
@@ -500,7 +502,7 @@
 	<kanji	id="眠" freq="661" jlpt="3" gr="4">
 		<r on="ミン" >
 			<ex	 word="睡眠薬" pron="みんしゅく" pa="0" pos="N" eng="sleeping pill" />
-			<ex	 word="不眠症" pron="みんぞく" pa="1" pos="N" eng="insomnia"/>
+			<ex	 word="不眠症" pron="ふみんしょう" pa="2" pos="N" eng="insomnia"/>
 		</r>
 		<r kun="ねむ`る" kk="眠る" pa="0" pos="j5" jlpt="4" > 
 		</r>
@@ -523,7 +525,8 @@
 			<ex	 word="義務" pron="ぎむ" pa="1" pos="N" jlpt="3" />
 			<ex	 word="任務" pron="にんむ" pa="1" pos="N" jlpt="1" />
 		</r>
-		<r kun="つと`める" kk="務める" pa="3" pos="t1" jlpt="5" > 
+		<r kun="つと`める" kk="務める" pa="3" pos="t1" jlpt="5" cn="担任...职务,担当...角色, 起到...作用" >
+			<e ph="会長を務める・主役を務める" />
 		</r>
 	</kanji>
 	
@@ -966,7 +969,7 @@
 		<r on="ヤク" >
 			<ex	 word="役所" pron="やくしょ" pa="0" pos="N" />
 			<ex	 word="役人" pron="やくにん" pa="0" pos="N" />
-			<ex	 word="主役" pron="しゅやく" pa="0" pos="N" />
+			<ex	 word="主役" pron="しゅやく" pa="0" pos="N" jlpt="2" cn="主角" eng="leading actor(actress)" ref="二枚目・三枚目" />
 			<ex	 word="脇役" pron="わきやく" pa="0" pos="N" />
 			<ex	 word="役割" pron="やくわり" pa="0" pos="N" />
 		</r>

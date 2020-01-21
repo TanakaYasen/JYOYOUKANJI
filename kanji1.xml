@@ -471,7 +471,6 @@
 			<ex	 word="引用" pron="いんよう" pa="0" pos="N/ts" jlpt="3" eng="quotation; reference" />
 		</r>
 		<r kun="ひ`く" kk="引く" pa="0" pos="t5" jlpt="5" eng="to pull/to draw; to attack" >
-			<ex	 word="取引" pron="とりひき" pa="2" pos="N" cn="交易;谈判"/>
 			<ex	 word="引越し" pron="ひっこし" pa="0" pos="N/js" jlpt="2" cn="搬家" eng="changing residence"/>
 			<ex	 word="引き算" pron="ひきざん" pa="2" pos="N" eng="subtraction"/>
 			<ex	 word="引き上げる" pron="ひきあげる" pa="4" pos="t1" jlpt="1" />

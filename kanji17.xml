@@ -661,7 +661,12 @@
 			<ex	 word="突然" pron="とつぜん" pa="0" pos="NA" jlpt="3" />
 			<ex	 word="唐突" pron="とうとつ" pa="0" pos="NA" />
 		</r>
-		<r kun="つく" kk="突く" pa="0" pos="t5" jlpt="2"> </r>
+		<r kun="つ`く" kk="突く" pa="0" pos="t5" jlpt="2" >
+			<ex	 word="突き当たる" pron="つきあたる" pa="4" pos="j5" jlpt="2" />
+			<ex	 word="突っ込む" pron="つっこむ" pa="4" pos="jt5" jlpt="2" cn="闯入;深入;追究" >
+				<e ph="敵陣に突っ込む・突っ込んだ話・ポケットに手を突っ込む・他人事に首を突っ込む" />
+			</ex>
+		</r>
 	</kanji>
 	
 	<kanji	id="届" freq="1241" jlpt="2" gr="6">

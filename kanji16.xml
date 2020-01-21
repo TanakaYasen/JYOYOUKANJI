@@ -30,7 +30,9 @@
 			<ex	 word="彫刻" pron="ちょうこく" pa="0" pos="N/jts" jlpt="2"/>
 			<ex	 word="木彫" pron="もくちょう" pa="0" pos="N" />
 		</r>
-		<r kun="ほる" kk="彫る" pa="1" pos="t1" jlpt="2"></r>
+		<r kun="ほ`る" kk="彫る" pa="1" pos="t5" jlpt="2" cn="雕刻">
+			<e ph="石像を彫る" />
+		</r>
 	</kanji>
 	
 	<kanji	id="眺" freq="637" jlpt="1" gr="8">
@@ -45,6 +47,7 @@
 			<ex	 word="釣魚" pron="ちょうぎょ" pa="1" pos="N" jlpt="0"/>
 		</r>
 		<r kun="つる" kk="釣る" pa="0" pos="t5" jlpt="4" ph="魚を釣る">
+			<ex	 word="釣り" pron="つり" pa="0" pos="N" jlpt="3" cn="找零"/>
 			<ex	 word="釣り合う" pron="つりあう" pa="3" pos="j5" jlpt="2" cn="(收支)平衡，均衡；相称相配"/>
 		</r>
 	</kanji>
@@ -74,6 +77,7 @@
 	<kanji	id="朝" freq="222" jlpt="4" gr="2">
 		<r on="チョウ" >
 			<ex	 word="朝食" pron="ちょうしょく" pa="0" pos="N" />
+			<ex	 word="朝鮮" pron="ちょうせん" pa="0" pos="N" ph="朝鮮人参" />
 		</r>
 		<r kun="あさ" kk="朝" pa="1" pos="N" jlpt="5">
 			<ex	 word="朝日" pron="あさひ" pa="1" pos="N" />
@@ -265,7 +269,12 @@
 	<kanji	id="追" freq="420" jlpt="3" gr="3">
 		<r on="ツイ" >
 			<ex	 word="追加" pron="ついか" pa="0" pos="N" jlpt="2" />
-			<ex	 word="追試" pron="ついし" pa="0" pos="N" />
+			<ex	 word="追求" pron="ついきゅう" pa="0" pos="N" eng="pursuit" >
+				<e ph="利潤の追求・幸福を追究する" />
+			</ex>
+			<ex	 word="追及" pron="ついきゅう" pa="0" pos="N/ts" jlpt="1" >
+				<e ph="利潤の追求・幸福を追究する" />
+			</ex>
 		</r>
 		<r kun="おう" kk="追う" pa="0" pos="t5" jlpt="3" >
 			<ex	 word="追いかける" pron="おいかける" pa="4" pos="t1" cn="追赶; 接连" >
@@ -306,6 +315,9 @@
 			<ex	 word="交通" pron="こうつう" pa="0" pos="N" jlpt="4" />
 			<ex	 word="通行" pron="つうこう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="疎通" pron="そつう" pa="0" pos="N/js" />
+			<ex	 word="通じる" pron="つうじる" pa="0" pos="jt1" cn="" ga="~に通じて" >
+				<e ph="電流を通じる・テレビを通じて知らせる" />
+			</ex>
 		</r>
 		<r on="ツ" >
 			<ex	 word="通夜" pron="つや" pa="1" pos="N" />
@@ -315,7 +327,8 @@
 				<e ph="透き通るような空・透き通った声" />
 			</ex>
 		</r>
-		<r kun="とおす" kk="通す" pa="1" pos="t5" jlpt="3" ></r>
+		<r kun="とおす" kk="通す" pa="1" pos="t5" jlpt="3" ga="～を通して" >
+		</r>
 		<r kun="かよ`う" kk="通う" pa="0" pos="j5" jlpt="4" ></r>
 	</kanji>
 	
@@ -701,6 +714,12 @@
 		<r on="テン" >
 			<ex	 word="点数" pron="てんすう" pa="0" pos="N" jlpt="2"/>
 		</r>
+		<r kun="つ`く" kk="点く" pa="1" pos="j5" jlpt="5" cn="打开(开关),接通(电源); 点火">
+			<e ph="電灯が点く・火が点いた" />
+		</r>
+		<r kun="つ`ける" kk="点ける" pa="2" pos="t1" jlpt="5" cn="打开(开关),接通(电源); 点火" eng="to turn on; to light up" >
+			<e ph="ラジオを点ける・火が点ける" />
+		</r>
 	</kanji>
 	
 	<kanji	id="展" freq="960" jlpt="1" gr="6">
@@ -887,7 +906,9 @@
 		<r on="ド" >
 			<ex	 word="努力" pron="どりょく" pa="0" pos="N" jlpt="3" eng="effort" />
 		</r>
-		<r kun="つとめる" kk="努める" pa="3" pos="j1" jlpt="2" ></r>
+		<r kun="つと`める" kk="努める" pa="3" pos="j1" jlpt="2" cn="尽力,努力;强忍着..." >
+			<e ph="研究に努める・仕事に努める・笑うまいと努める" />
+		</r>
 		<r nfu="ゆめ">
 		</r>
 	</kanji>

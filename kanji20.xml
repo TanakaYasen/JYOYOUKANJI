@@ -123,7 +123,9 @@
 			<ex	 word="分厚い" pron="ぶあつい" pa="0" pos="adj" cn="厚厚的"/>
 			<ex	 word="五分五分" pron="ごぶごぶ" pa="0" pos="ts" cn="不相伯仲;旗鼓相当;五五开" />
 		</r>
-		<r kun="わける" kk="分ける" pa="2" pos="t1" jlpt="3" >
+		<r kun="わける" kk="分ける" pa="2" pos="t1" jlpt="3" cn="分开; 分类; 分配" >
+			<e ph="" />
+			<ex	 word="使い分ける" pron="つかいわける" pa="0" pos="t1" cn="分开使用"/>
 		</r>
 		<r kun="わかれる" kk="分かれる" pa="3" pos="j1" jlpt="2" >
 		</r>
@@ -149,7 +151,6 @@
 		</r>
 		<r on="モン" >
 			<ex	 word="文字" pron="もんじ" pa="1" pos="N" jlpt="3"/>
-			<ex	 word="文句" pron="もんく" pa="1" pos="N" jlpt="3" cn="词句; 牢骚" />
 			<ex	 word="天文学" pron="てんもんがく" pa="3" pos="N" />
 		</r>
 		<r kun="ふみ" kk="文" pa="0" pos="N" jlpt="1" ph="勇気を奮う">
@@ -554,7 +555,8 @@
 		</r>
 		<r kun="つかまえる" kk="捕まえる" pa="0" pos="t1" jlpt="4" >
 		</r>
-		<r kun="つかまる" kk="捕まる" pa="0" pos="j5" jlpt="3" >
+		<r kun="つか`まる" kk="捕まる" pa="0" pos="j5" jlpt="3" cn="抓紧抓牢; 被捕" >
+			<e ph="電車の吊れ革に捕まる・犯人が捕まる" />
 		</r>
 	</kanji>
 	
@@ -658,7 +660,8 @@
 			<ex	 word="包装" pron="ほうそう" pa="0" pos="N" jlpt="2" />
 			<ex	 word="包囲" pron="ほうい" pa="1" pos="N" />
 		</r>
-		<r kun="つつむ" kk="包む" pa="2" pos="t5" jlpt="4" cn="生活">
+		<r kun="つつ`む" kk="包む" pa="2" pos="t5" jlpt="4" cn="包;裹; 笼罩,沉浸; 藏在心底">
+			<e ph="小包・包みを開く" />
 		</r>
 	</kanji>
 	

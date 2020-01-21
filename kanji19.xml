@@ -147,7 +147,8 @@
 			</ex>
 			<ex	 word="物件費" pron="ぶっけんひ" pa="0" pos="N" cn="物品购置开支" />
 		</r>
-		<r kun="ついやす" kk="費やす" pa="3" pos="t5" jlpt="1">
+		<r kun="つい`やす" kk="費やす" pa="3" pos="t5" jlpt="1" cn="消耗, 花费; 浪费" >
+			<e ph="労力を費やす・時間を空しく費やす" />
 		</r>
 		<r kun="ついえる" kk="費える" pa="3" pos="j1" >
 		</r>
@@ -549,9 +550,11 @@
 			<ex	 word="付与" pron="ふよ" pa="1" pos="N/ts" cn="授予;给予;赋予" />
 			<ex	 word="給付" pron="きゅうふ" pa="1" pos="N/ts" cn="发放;履行"/>
 		</r>
-		<r kun="つける" kk="付ける" pa="2" pos="t1" jlpt="3" cn="" str="true">
+		<r kun="つ`ける" kk="付ける" pa="2" pos="t1" jlpt="3" cn="" str="true">
+			<e ph="気を付ける" />
+			<ex	 word="付け加える" pron="つけくわえる" pa="2" pos="t1" cn="增加，添加，附加，补充"/>
 		</r>
-		<r kun="つく" kk="付く" pa="1" pos="j5" jlpt="4">
+		<r kun="つ`く" kk="付く" pa="1" pos="j5" jlpt="4" cn="沾染上...; 长进; 附带; 感觉到...; 谈妥; 走运" str="true" >
 			<ex	 word="付き合い" pron="つきあい" pa="30" pos="N" jlpt="3" cn="交际;来往"/>
 		</r>
 	</kanji>

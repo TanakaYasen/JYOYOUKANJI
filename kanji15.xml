@@ -149,6 +149,7 @@
 		<r on="タン" >
 			<ex	 word="短期" pron="たんき" pa="1" jlpt="2" pos="N" />
 			<ex	 word="短気" pron="たんき" pa="1" jlpt="1" pos="NA" jlpt="1" cn="急性子" jp="気が短い" />
+			<ex	 word="長短" pron="ちょうたん" pa="1" pos="N" jlpt="2" cn="长处和短处" eng="advantages and disadvantages" />
 		</r>
 		<r kun="みじか`い" kk="短い" pa="3" jlpt="5" eng="short"></r>
 	</kanji>
@@ -604,11 +605,11 @@
 	
 	<kanji	id="貯" freq="2112" jlpt="2" gr="4">
 		<r on="チョ" >
-			<ex	 word="貯金" pron="ちょきん" pa="0" pos="N" jlpt="3"/>
-			<ex	 word="貯蔵" pron="ちょぞう" pa="0" pos="N/ts" jlpt="2"/>
+			<ex	 word="貯金" pron="ちょきん" pa="0" pos="N/js" jlpt="3" ph="コツコツと貯金する" />
+			<ex	 word="貯蔵" pron="ちょぞう" pa="0" pos="N/ts" jlpt="2" ph="貯蔵庫" />
 			<ex	 word="貯水池" pron="ちょすいち" pa="3" pos="N" />
 		</r>
-		<r kun="た`める" kk="貯める" pa="0" pos="t1" cn="积累,储蓄" />
+		<r kun="た`める" kk="貯める" pa="0" pos="t1" cn="积累,储蓄" ref="蓄える" />
 		<r kun="た`まる" kk="貯まる" pa="0" pos="j5" cn="积存,积攒" />
 	</kanji>
 	
@@ -662,10 +663,12 @@
 	
 	<kanji	id="挑" freq="2431" jlpt="1" gr="8">
 		<r on="チョウ" >
-			<ex	 word="挑戦" pron="ちょうせん" pa="0" pos="js" jlpt="1"/>
+			<ex	 word="挑戦" pron="ちょうせん" pa="0" pos="js" jlpt="1" ph="挑戦状" jp="チャレンジ" eng="challenge" />
 			<ex	 word="挑発" pron="ちょうはつ" pa="0" pos="N/ts" cn="挑衅"/>
 		</r>
-		<r kun="いどむ" kk="挑む" pa="2" pos="jt5" jlpt="1" ph="強敵に挑む"></r>
+		<r kun="いど`む" kk="挑む" pa="2" pos="jt5" jlpt="1" cn="找碴挑衅;竞争">
+			<e ph="強敵に挑む・決戦を挑む" />
+		</r>
 	</kanji>
 	
 </Dict>

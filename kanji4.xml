@@ -955,6 +955,8 @@
 		<r on="コ" >
 			<ex	 word="虚空" pron="こくう" pa="0" pos="N" />
 		</r>
+		<r kun="むな`しい" kk="虚しい" pa="3" pos="adj" jlpt="1" ref="空しい" cn="空洞的; 徒然枉然的; 虚幻 不切实的" >
+		</r>
 	</kanji>
 	
 	<kanji	id="許" freq="526" jlpt="3" gr="5">
@@ -1169,7 +1171,9 @@
 		</r>
 		<r kun="つよ`い" kk="強い" pa="2" pos="adj" jlpt="1" ></r>
 		<r kun="つよ`まる" kk="強まる" pa="3" pos="j5" jlpt="1" eng="to get strong" ></r>
-		<r kun="つよ`める" kk="強める" pa="3" pos="j1" jlpt="1" eng="to strengthen; to emphasize" cn="强调" ></r>
+		<r kun="つよ`める" kk="強める" pa="3" pos="t1" jlpt="1" eng="to strengthen; to emphasize" cn="加强; 强调" >
+			<e ph="暖房を強める" />
+		</r>
 		<r kun="し`いる" kk="強いる" pa="2" pos="t1" jlpt="1" eng=" to force; to coerce" ph="強いて言えば" ></r>
 	</kanji>
 	
@@ -1402,13 +1406,17 @@
 	<kanji	id="勤" freq="1007" jlpt="3" gr="6">
 		<r on="キン" >
 			<ex	 word="通勤" pron="つうきん" pa="0" pos="N/js" jlpt="2" cn="上下班" />
+			<ex	 word="出勤" pron="つうきん" pa="0" pos="N/js" jlpt="2" cn="上班" />
+			<ex	 word="退勤" pron="たいきん" pa="0" pos="N/js" jlpt="2" cn="下班" />
 			<ex	 word="勤務" pron="きんむ" pa="1" pos="N/js" jlpt="1" cn="就职;工作"/>
 		</r>
 		<r on="ゴン" >
 			<ex	 word="勤行" pron="ごんぎょう" pa="0" pos="N" cn="(僧侶)修行"/>
 		</r>
-		<r kun="つと`まる" kk="勤まる" pa="3" pos="j5" jlpt="5"> </r>
-		<r kun="つと`める" kk="勤める" pa="3" pos="t1" jlpt="1" ph="工場に勤める" cn="（有编制）上班(所以用に)" jp="通勤するといる感じ" ref="働く"> </r>
+		<r kun="つと`まる" kk="勤まる" pa="3" pos="j5" jlpt="1"> </r>
+		<r kun="つと`める" kk="勤める" pa="3" pos="t1" jlpt="1" ph="工場に勤める" cn="（有编制）上班(所以用に)" jp="通勤するといる感じ" ref="働く">
+			<e ph="勤めに出る・勤めに辞める" />
+		</r>
 	</kanji>
 	
 	<kanji	id="琴" freq="1662" jlpt="1" gr="8">
@@ -1501,7 +1509,7 @@
 	<kanji	id="句" freq="594" jlpt="1" gr="5">
 		<r on="ク" >
 			<ex	 word="俳句" pron="はいく" pa="30" pos="N" jlpt="2" />
-			<ex	 word="文句" pron="もんく" pa="1" pos="N" jlpt="3" />
+			<ex	 word="文句" pron="もんく" pa="1" pos="N" jlpt="3" cn="词句; 牢骚抱怨" ph="文句を言う" />
 			<ex	 word="句点" pron="くてん" pa="02" pos="N" eng="period" />
 		</r>
 	</kanji>
@@ -1588,6 +1596,8 @@
 			<e ph="腹を空かして食事を待つ" />
 		</r>
 		<r kun="す`く" kk="空く" pa="0" pos="j5" jlpt="3" cn="空(饿肚子)" >
+		</r>
+		<r kun="むな`しい" kk="空しい" pa="3" pos="adj" jlpt="1" ref="虚しい" >
 		</r>
 	</kanji>
 	
