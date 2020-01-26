@@ -1406,9 +1406,12 @@
 	<kanji	id="勤" freq="1007" jlpt="3" gr="6">
 		<r on="キン" >
 			<ex	 word="通勤" pron="つうきん" pa="0" pos="N/js" jlpt="2" cn="上下班" />
-			<ex	 word="出勤" pron="つうきん" pa="0" pos="N/js" jlpt="2" cn="上班" />
+			<ex	 word="出勤" pron="しゅっきん" pa="0" pos="N/js" jlpt="2" cn="上班" />
 			<ex	 word="退勤" pron="たいきん" pa="0" pos="N/js" jlpt="2" cn="下班" />
 			<ex	 word="勤務" pron="きんむ" pa="1" pos="N/js" jlpt="1" cn="就职;工作"/>
+			<ex	 word="転勤" pron="てんきん" pa="0" pos="js" cn="调动工作,转职" >
+				<e ph="転勤を命じられる・支社へ転勤する" />
+			</ex>
 		</r>
 		<r on="ゴン" >
 			<ex	 word="勤行" pron="ごんぎょう" pa="0" pos="N" cn="(僧侶)修行"/>

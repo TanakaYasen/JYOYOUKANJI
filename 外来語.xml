@@ -10,6 +10,9 @@
 		</ex>
 		<ex	 word="エッセイ・エッセー" pa="1" pos="N" jp="随筆" eng="essay" >
 		</ex>
+		<ex	 word="トラブル" pa="1" pos="N" jp="随筆" eng="trouble" >
+			<e ph="トラブルが生じる・エンジントラブル(engine trouble)" />
+		</ex>
 	</table>
 	
 </Dict>

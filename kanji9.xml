@@ -549,7 +549,7 @@
 			<ex	 word="長寿" pron="ちょうじゅ" pa="0" pos="N" eng="longevity" />
 			<ex	 word="米寿" pron="べいじゅ" pa="0" pos="N" />
 		</r>
-		<r kun="ことぶき" kk="寿" pa="2" pos="N" >
+		<r kun="ことぶき" kk="寿" pa="2" pos="N" ph="寿退社">
 		</r>
 		<r sp="すし" word="寿司" pa="0" pos="N" jlpt="5" />
 		<r nfu="ス・とし・寿ぐ(ことほぐ)・寿しい(ひさしい)">

@@ -363,9 +363,13 @@
 			<ex	 word="溶解" pron="ようかい" pa="0" pos="N" />
 			<ex	 word="溶液" pron="ようえき" pa="0" pos="N" />
 		</r>
-		<r kun="とける" kk="溶ける" pa="2" pos="j1" jlpt="2" >
+		<r kun="と`ける" kk="溶ける" pa="2" pos="j1" jlpt="2" cn="溶化,溶解" >
+			<ex	 word="溶け込む" pron="とけこむ" pa="0" pos="j5" cn="溶入;" >
+				<e ph="塩分が水に溶け込む" />
+			</ex>
 		</r>
-		<r kun="とかす" kk="溶かす" pa="2" pos="t5" jlpt="2" >
+		<r kun="と`かす" kk="溶かす" pa="2" pos="t5" jlpt="2" cn="使溶解,融化,熔化" >
+			<e ph="砂糖を溶かす・バターを溶かす・金属を溶かす" />
 		</r>
 		<r kun="とく" kk="溶く" pa="1" pos="t5" jlpt="2" >
 		</r>

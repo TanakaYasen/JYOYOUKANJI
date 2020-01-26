@@ -745,6 +745,9 @@
 			<ex	 word="運転" pron="うんてん" pa="0" pos="N/jts" jlpt="3"/>
 			<ex	 word="自転車" pron="てんねん" pa="2" pos="N" jlpt="5"/>
 			<ex	 word="転職" pron="てんしょく" pa="0" pos="js" />
+			<ex	 word="転換" pron="てんかん" pa="0" pos="js" cn="" >
+				<e ph="気分転換・話題を転換する" />
+			</ex>
 			<ex	 word="回転" pron="かいてん" pa="0" pos="N/js" cn="旋转;周转" >
 				<e ph="回転資金・回転寿司・車輪が速く回転する・地球は太陽の周囲を回転する・頭の回転が速い・180度の回転をする" />
 			</ex>
@@ -756,7 +759,9 @@
 			<e ph="ボールを転がす・箸を転がす・車を転がす" />
 		</r>
 		<r kun="ころげる" kk="転げる" pa="0" pos="j1" ></r>
-		<r kun="ころぶ" kk="転ぶ" pa="0" pos="j5" jlpt="3" cn="跌倒"></r>
+		<r kun="ころ`ぶ" kk="転ぶ" pa="0" pos="j5" jlpt="3" cn="跌倒">
+			<e ph="雪地でころんじゃった" />
+		</r>
 	</kanji>
 	
 	<kanji	id="塡" freq="3645" gr="8" alt="填" >

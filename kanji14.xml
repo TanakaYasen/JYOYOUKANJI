@@ -180,7 +180,9 @@
 		<r on="ソク" >
 			<ex	 word="捕捉" pron="ほそく" pa="1" pos="N" />
 		</r>
-		<r kun="とらえる" kk="捉える" pa="32" pos="t1" jlpt="2" ></r>
+		<r kun="とらえる" kk="捉える" pa="32" pos="t1" jlpt="2" >
+			<e ph="" />
+		</r>
 	</kanji>
 	
 	<kanji	id="速" freq="874" jlpt="3" gr="3">

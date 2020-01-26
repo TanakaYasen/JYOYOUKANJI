@@ -905,7 +905,9 @@
 		</r>
 		<r on="ゴン" >
 			<ex	 word="過言" pron="かごん" pa="0" pos="N" cn="夸张，说得过火; 言过其实" />
-			<ex	 word="伝言" pron="でんごん" pa="0" pos="N" jlpt="1" cn="带口信" />
+			<ex	 word="伝言" pron="でんごん" pa="0" pos="N" jlpt="1" cn="传话,带口信" ref="メッセージ" >
+				<e ph="他の人に伝言してもらう" />
+			</ex>
 			<ex	 word="無言" pron="むごん" pa="0" pos="N" jlpt="1" cn="无言，不说话，沉默" />
 		</r>
 		<r kun="いう" kk="言う" pa="0" pos="jt5" jlpt="5" >

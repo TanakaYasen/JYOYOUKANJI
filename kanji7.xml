@@ -87,7 +87,7 @@
 		<r kun="こむ" kk="込む" pa="1" pos="j5" jlpt="4" cn="进入...内部,彻底充分,程度深">
 			<ex	 word="申し込み" pron="もうしこみ" pa="2" pos="N" jlpt="1" />
 			<ex	 word="追い込む" pron="おいこみ" pa="2" pos="N" jlpt="1" />
-			<ex	 word="飛び込む" pron="とびこむ" pa="2" pos="N" jlpt="1" />
+			<ex	 word="飛び込む" pron="とびこむ" pa="2" pos="N" jlpt="1" cn="突然闯入;投入台架" />
 			<ex	 word="走り込む" pron="はしりこむ" pa="2" pos="N" jlpt="1" />
 			<ex	 word="押し込む" pron="おしこむ" pa="2" pos="N" jlpt="1" />
 			<ex	 word="詰め込む" pron="つめこむ" pa="2" pos="N" jlpt="1" />
@@ -374,7 +374,9 @@
 	
 	<kanji	id="才" freq="952" jlpt="3" gr="2">
 		<r on="サイ" >
-			<ex	 word="天才" pron="てんさい" pa="1" pos="N" jlpt="1" eng="genius"/>
+			<ex	 word="天才" pron="てんさい" pa="1" pos="N" jlpt="1" eng="genius" ant="凡才" >
+				<e ph="天才画家・天才を発揮する" />
+			</ex>
 			<ex	 word="才能" pron="さいのう" pa="0" pos="N" jlpt="3" eng="talent"/>
 		</r>
 		<r nfu="ざえ・かど">

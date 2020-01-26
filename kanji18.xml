@@ -236,7 +236,9 @@
 	
 	<kanji	id="波" freq="447" jlpt="2" gr="3">
 		<r on="ハ" >
-			<ex	 word="電波" pron="でんぱ" pa="1" pos="N" jlpt="2" />
+			<ex	 word="電波" pron="でんぱ" pa="1" pos="N" jlpt="2">
+				<e ph="電波妨害・携帯の電波が悪い" />
+			</ex>
 			<ex	 word="かめはめ波" pron="かめはめは" pa="0" pos="N" />
 			<ex	 word="波乱" pron="はらん" pa="01" pos="N" />
 		</r>

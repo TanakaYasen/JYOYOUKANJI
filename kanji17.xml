@@ -510,7 +510,6 @@
 			<ex	 word="柔道" pron="じゅうどう" pa="1" pos="N" jlpt="4" />
 			<ex	 word="道具" pron="どうぐ" pa="0" pos="N" jlpt="4" />
 			<ex	 word="鉄道" pron="てつどう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="道徳" pron="どうとく" pa="0" pos="N" jlpt="3"/>
 			<ex	 word="報道" pron="ほうどう" pa="0" pos="N" jlpt="1"/>
 			<ex	 word="茶道" pron="さどう" pa="1" pos="N" />
 			<ex	 word="書道" pron="しょどう" pa="1" pos="N" jlpt="2"/>
@@ -541,6 +540,7 @@
 	
 	<kanji	id="導" freq="1152" jlpt="2" gr="5">
 		<r on="ドウ" >
+			<ex	 word="導入" pron="どうにゅう" pa="0" pos="N/ts" jlpt="1" cn="引进 导入" />
 			<ex	 word="誘導" pron="ゆうどう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="指導" pron="しどう" pa="0" pos="N" jlpt="3" eng="guidance"/>
 		</r>
@@ -632,7 +632,10 @@
 	
 	<kanji	id="読" freq="286" jlpt="5" gr="2">
 		<r on="ドク" >
-			<ex	 word="読書" pron="どくしょ" pa="1" pos="N/js" jlpt="3" />
+			<ex	 word="読書" pron="どくしょ" pa="1" pos="N/js" jlpt="3" >
+				<e ph="読書する習慣をつける・読書百遍、意自ずから通す" />
+			</ex>
+			<ex	 word="読者" pron="どくしゃ" pa="1" pos="N" jlpt="1" />
 			<ex	 word="音読" pron="おんどく" pa="0" pos="N/js" cn="朗读"/>
 		</r>
 		<r on="トク" >

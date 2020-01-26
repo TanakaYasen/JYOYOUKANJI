@@ -768,9 +768,10 @@
 	
 	<kanji	id="稼" freq="2010" jlpt="1" gr="8">
 		<r on="カ" >
-			<ex	 word="稼働" pron="かどう" pa="0" pos="N/jts" cn="运转;劳动"/>
+			<ex	 word="稼働" pron="かどう" pa="0" pos="N/jts" cn="(机器)运转;劳动"/>
 		</r>
 		<r kun="かせ`ぐ" kk="稼ぐ" pa="2" pos="t5" jlpt="3" eng="to earn" >
+			<ex	 word="共稼ぎ" pron="ともかせぎ" pa="03" pos="N" jlpt="1" cn="两人都工作挣钱" />
 		</r>
 	</kanji>
 	

@@ -475,6 +475,7 @@
 		<r on="ミャク" >
 			<ex	 word="脈動" pron="みゃくどう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="動脈" pron="どうみゃく" pa="0" pos="N" jlpt="3" />
+			<ex	 word="人脈" pron="じんみゃく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="山脈" pron="さんみゃく" pa="0" pos="N" jlpt="1" />
 		</r>
 	</kanji>
@@ -899,10 +900,14 @@
 			<ex	 word="訪問" pron="ほうもん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="質問" pron="しつもん" pa="0" pos="N" jlpt="5" />
 		</r>
-		<r kun="とう" kk="問う" pa="1" pos="t5" jlpt="1" >
+		<r kun="と`う" kk="問う" pa="1" pos="t5" jlpt="1" cn="询问;调查追求" ga="を問わず" >
+			<e ph="道を問う・責任を問う・経験の有無は問わない・問わぬは末代の恥" />
 		</r>
 		<r kun="とい" kk="問い" pa="0" pos="N" jlpt="3" >
 			<ex	 word="問いと答え" pron="といとこたえ" pa="0" pos="N" />
+			<ex	 word="問い合わせる" pron="といあわせる" pa="50" pos="t1" jlpt="1" cn="咨询打听" >
+				<e ph="電話で問い合わせる・詳細を問い合わせる" />
+			</ex>
 		</r>
 		<r kun="とん" kk="問" pa="0" pos="N" jlpt="1" >
 			<ex	 word="問屋" pron="とんや" pa="0" pos="N" />
