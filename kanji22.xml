@@ -790,6 +790,9 @@
 			<ex	 word="立ち直る" pron="たちなおる" pa="0" pos="j5" cn="恢复;回升;起色,重振" >
 				<e ph="景気が立ち直る・失意から立ち直る・敵に立ち直るひまを与えない" />
 			</ex>
+			<ex	 word="成り立つ" pron="なりたつ" pa="3" pos="j5" jlpt="1" cn="构成形成;成为" >
+				<e ph="三つのパートから成り立つ・仮説が成り立つ・経営が成り立つ" />
+			</ex>
 		</r>
 		<r kun="た`てる" kk="立てる" pa="2" pos="t1" jlpt="4" >
 			<ex	 word="立て替える" pron="たてかえる" pa="0" pos="t1" cn="垫付" >
@@ -812,6 +815,9 @@
 	<kanji	id="栗" freq="1622" jlpt="1" gr="8">
 		<r on="リツ" >
 			<ex	 word="戦慄" pron="せんりつ" pa="0" pos="N" />
+		</r>
+		<r kun="くり" kk="栗" pa="2" pos="N" jlpt="1" >
+			<ex	 word="団栗" pron="どんぐり" pa="0" pos="N" ph="団栗の背比べ" />
 		</r>
 	</kanji>
 	

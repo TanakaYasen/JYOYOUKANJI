@@ -229,10 +229,15 @@
 			<ex	 word="並列" pron="へいれつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="並立" pron="へいりつ" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="なみ" kk="並み" pa="0" pos="N" jlpt="1" >
+		<r kun="なみ" kk="並み" pa="0" pos="N/sf" jlpt="1" cn="并列,排列;与...同样程度" >
 			<ex	 word="並木" pron="なみき" pa="0" pos="N" jlpt="2" cn="街道树"/>
+			<ex	 word="足並み" pron="あしなみ" pa="0" pos="N" cn="脚步,步调"/>
+			<ex	 word="プロ並み" pron="ぷろなみ" pa="0" pos="N" cn="专家级水平"/>
+			<ex	 word="人並み" pron="ひとなみ" pa="0" pos="N" cn="普通,一般(泯然众人)"/>
+			<ex	 word="月並み" pron="つきなみ" pa="0" pos="N" cn="每月"/>
 		</r>
-		<r kun="ならべる" kk="並べる" pa="0" pos="t5" jlpt="3" ph="本を本棚に並べる・肩を並べる" >
+		<r kun="なら`べる" kk="並べる" pa="0" pos="t5" jlpt="3" cn="排列,并排;陈列" ph="本を本棚に並べる・肩を並べる" >
+			<e ph="席を並べる・店頭に並べる・証拠を並べる" />
 		</r>
 		<r kun="ならぶ" kk="並ぶ" pa="0" pos="j5" jlpt="3" >
 		</r>
@@ -491,7 +496,7 @@
 		<r on="ビン" >
 			<ex	 word="郵便局" pron="ゆうびんきょく" pa="3" pos="N" jlpt="5" />
 		</r>
-		<r kun="たよ`り" kk="便り" pa="1" pos="N" jlpt="3" eng="news" cn="音信,消息; 访问,来临">
+		<r kun="たよ`り" kk="便り" pa="*1" pos="N" jlpt="3" eng="news" cn="音信,消息; 访问,来临">
 			<e ph="便りがとだえる" />
 		</r>
 	</kanji>
@@ -551,7 +556,8 @@
 		</r>
 		<r kun="とらわれる" kk="捕らわれる" pa="0" pos="j5" >
 		</r>
-		<r kun="とる" kk="捕る" pa="1" pos="t5" jlpt="2" >
+		<r kun="と`る" kk="捕る" pa="1" pos="t5" jlpt="2" cn="抓住,逮住,捕获" >
+			<e ph="魚を/鼠を捕る" />
 		</r>
 		<r kun="つかまえる" kk="捕まえる" pa="0" pos="t1" jlpt="4" >
 		</r>
@@ -791,7 +797,8 @@
 		<r on="ホウ" >
 			<ex	 word="模倣" pron="もほう" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="ならう" kk="倣う" pa="2" pos="t5" jlpt="2" eng="to imitate; to follow; to emulate" >
+		<r kun="なら`う" kk="倣う" pa="2" pos="t5" jlpt="2" cn="仿效" eng="to imitate; to follow; to emulate" >
+			<e ph="右に倣う・前例に倣う" />
 		</r>
 	</kanji>
 	
@@ -896,6 +903,12 @@
 		<r on="モウ" >
 			<ex	 word="亡者" pron="もうじゃ" pa="1" pos="N" />
 		</r>
+		<r kun="な`くす" kk="亡くす" pa="0" pos="t5" jlpt="2" cn="死,丧" >
+			<e ph="両親を亡くす" />
+		</r>
+		<r kun="な`くなる" kk="亡くなる" pa="0" pos="j5" jlpt="4" cn="死;灭亡" jp="「死ぬ」の婉曲な言い方" >
+			<e ph="父が亡くなって3年になる" />
+		</r>
 		<r kun="ない" kk="亡い" pa="1" pos="adj" eng="dead" >
 		</r>
 		<r nfu="ム・ブ・亡げる(にげる)・亡びる(ほろびる)・亡う(うしなう)" />
@@ -914,6 +927,7 @@
 	<kanji	id="忙" freq="1406" jlpt="3" gr="8">
 		<r on="ボウ" >
 			<ex	 word="繁忙" pron="はんぼう" pa="0" pos="N" />
+			<ex	 word="多忙" pron="たぼう" pa="0" pos="NA" jlpt="1" />
 		</r>
 		<r kun="いそがしい" kk="忙しい" pa="4" pos="adj" jlpt="5" eng="busy;rectless">
 		</r>

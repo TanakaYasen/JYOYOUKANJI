@@ -124,10 +124,13 @@
 	<kanji	id="逃" freq="530" jlpt="3" gr="8">
 		<r on="トウ" >
 			<ex	 word="逃亡" pron="とうぼう" pa="0" pos="N" />
+			<ex	 word="逃走" pron="とうそう" pa="0" pos="N" />
 		</r>
-		<r kun="にげる" kk="逃げる" pa="2" pos="j1" jlpt="4" >
+		<r kun="に`げる" kk="逃げる" pa="2" pos="j1" jlpt="4" >
+			<e ph="" />
 		</r>
-		<r kun="にがす" kk="逃がす" pa="2" pos="t5" jlpt="2" cn="放跑" >
+		<r kun="に`がす" kk="逃がす" pa="2" pos="t5" jlpt="2" cn="放跑" >
+			<e ph="籠にいた鳥を逃がした・チャンスを逃がす・逃がした魚は大きい" />
 		</r>
 		<r kun="のがれる" kk="逃れる" pa="3" pos="j1" jlpt="1" ref="遁れる"></r>
 		<r kun="のがす" kk="逃す" pa="1" pos="t5" jlpt="2"></r>
@@ -714,7 +717,9 @@
 			<ex	 word="鈍感" pron="どんかん" pa="0" pos="NA" jlpt="1" />
 		</r>
 		<r kun="にぶい" kk="鈍い" pa="2" pos="adj" jlpt="2" cn="钝的;迟钝的"> </r>
-		<r kun="にぶる" kk="鈍る" pa="2" pos="j5" jlpt="1" cn="变钝"> </r>
+		<r kun="にぶる" kk="鈍る" pa="2" pos="j5" jlpt="1" cn="变钝,变迟钝">
+			<e ph="切れ味が鈍る・決心が鈍る・腕が鈍る" />
+		</r>
 		<r kun="のろい" kk="鈍い" pa="2" pos="adj" jlpt="2" cn="钝的;迟钝的"> </r>
 	</kanji>
 	

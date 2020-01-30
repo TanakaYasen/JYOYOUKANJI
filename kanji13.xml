@@ -657,8 +657,11 @@
 		<r on="ソ" >
 			<ex	 word="狙撃" pron="そげき" pa="0" pos="N/ts"/>
 		</r>
-		<r kun="ねらう" kk="狙う" pa="0" pos="t5" jlpt="2" >
-			<ex	 word="狙い" pron="ねらい" pa="0" pos="N" jlpt="2" />
+		<r kun="ねら`う" kk="狙う" pa="0" pos="t5" jlpt="2" cn="瞄准;以...为目标;窥伺" >
+			<e ph="的を狙う・優勝を狙う・隙を狙う" />
+			<ex	 word="狙い" pron="ねらい" pa="0" pos="N" jlpt="2" cn="目标,目的" >
+				<e ph="狙いを定める・狙いが当たる・狙いをつける・空き巣狙い" />
+			</ex>
 		</r>
 	</kanji>
 	

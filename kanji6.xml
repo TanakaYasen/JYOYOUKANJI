@@ -91,7 +91,9 @@
 			<ex	 word="後者" pron="こうしゃ" pa="0" pos="N" jlpt="3" />
 		</r>
 		<r kun="のち" kk="後" pa="02" pos="N" >
-			<ex	 word="後程" pron="のちほど" pa="0" pos="adv" />
+			<ex	 word="後程" pron="のちほど" pa="0" pos="adv" ant="先程" cn="过一会,随后" >
+				<e ph="のちほどお伺いします・のちほどお電話を致します" />
+			</ex>
 		</r>
 		<r kun="うしろ" kk="後" pa="02" pos="N" >
 		</r>

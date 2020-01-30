@@ -371,7 +371,9 @@
 			<ex	 word="慰安" pron="いあん" pa="0" pos="N" />
 			<ex	 word="慰労" pron="いろう" pa="0" pos="N/ts" cn="犒劳"/>
 		</r>
-		<r kun="なぐさ`める" kk="慰める" pa="4" pos="t1" jlpt="2" eng="to comfort" />
+		<r kun="なぐさ`める" kk="慰める" pa="4" pos="t1" jlpt="2" eng="to comfort" >
+			<e ph="落ち込んでいる友達を慰める・音楽が心を慰めてくれる・霊を慰める・悲しい時、慰めてもらうより、一人にしてもらいたい" />
+		</r>
 		<r kun="なぐさ`む" kk="慰む" pa="3" pos="j5" jp="心が晴れる" />
 	</kanji>
 	
@@ -471,6 +473,9 @@
 			<ex	 word="引用" pron="いんよう" pa="0" pos="N/ts" jlpt="3" eng="quotation; reference" />
 		</r>
 		<r kun="ひ`く" kk="引く" pa="0" pos="t5" jlpt="5" eng="to pull/to draw; to attack" >
+			<ex	 word="長引く" pron="ながびく" pa="3" pos="j5" jlpt="2" cn="拖长,延长" >
+				<e ph="病気が長引く・会議が長引く" />
+			</ex>
 			<ex	 word="引越し" pron="ひっこし" pa="0" pos="N/js" jlpt="2" cn="搬家" eng="changing residence"/>
 			<ex	 word="引き算" pron="ひきざん" pa="2" pos="N" eng="subtraction"/>
 			<ex	 word="引き上げる" pron="ひきあげる" pa="4" pos="t1" jlpt="1" />

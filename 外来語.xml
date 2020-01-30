@@ -13,6 +13,13 @@
 		<ex	 word="トラブル" pa="1" pos="N" jp="随筆" eng="trouble" >
 			<e ph="トラブルが生じる・エンジントラブル(engine trouble)" />
 		</ex>
+		<ex	 word="ダイヤル" pa="1" pos="N" jp="随筆" eng="essay" >
+		</ex>
+		<ex	 word="ダイヤ" pa="1" pos="N" cn="钻石" eng="diamond#diagram" >
+			<e ph="ダイヤの指輪・ダイヤの5(diamond 5)・暴雨のため、列車のダイヤが乱れた" />
+		</ex>
+		<ex	 word="タイヤ" pa="1" pos="N" cn="轮胎" eng="tire" >
+		</ex>
 	</table>
 	
 </Dict>

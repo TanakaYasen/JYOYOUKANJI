@@ -231,7 +231,9 @@
 			<ex	 word="恩恵" pron="おんけい" pa="0" pos="N" jlpt="2" eng="grace" />
 		</r>
 		<r on="エ" >
-			<ex	 word="知恵" pron="ちえ" pa="0" pos="N" jlpt="3" cn="智慧" eng="wisdom"/>
+			<ex	 word="知恵" pron="ちえ" pa="0" pos="N" jlpt="3" cn="智慧" eng="wisdom" >
+				<e ph="知恵を借りる" />
+			</ex>
 			<ex	 word="恵比寿" pron="えびす" pa="0" pos="N" />
 		</r>
 		<r kun="めぐ`む" kk="恵む" pa="0" pos="t5" jlpt="1" ref="恤"></r>

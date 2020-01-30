@@ -156,9 +156,11 @@
 	
 	<kanji	id="嘆" freq="1300" jlpt="1" gr="8">
 		<r on="タン" >
-			<ex	 word="嘆息" pron="たんそく" pa="0" pos="N" />
+			<ex	 word="嘆息" pron="たんそく" pa="0" pos="N" eng="sigh" />
 		</r>
-		<r kun="なげ`く" kk="嘆く" pa="2" jlpt="1">	</r>
+		<r kun="なげ`く" kk="嘆く" pa="2" pos="jt5" jlpt="1">
+			<e ph="友の死を嘆く・当局に腐敗を嘆く" />
+		</r>
 		<r kun="なげ`かわしい" kk="嘆かわしい" pa="5"></r>
 	</kanji>
 	
@@ -301,6 +303,9 @@
 		<r on="チ" >
 			<ex	 word="知識" pron="ちしき" pa="1" jlpt="3" pos="N" eng="knowledge" />
 			<ex	 word="知事" pron="ちじ" pa="1" jlpt="3" pos="N" />
+			<ex	 word="知能" pron="ちのう" pa="1" pos="N" jlpt="3" eng="intelligence" >
+				<e ph="知能が低い・知能検査" />
+			</ex>
 		</r>
 		<r kun="しる" kk="知る" pa="0" pos="N">
 			<ex	 word="物知り" pron="ものしり" pa="2" pos="N" cn="百事通" />
@@ -478,6 +483,7 @@
 	<kanji	id="中" freq="15" jlpt="5" gr="1">
 		<r on="チュウ" >
 			<ex	 word="中心" pron="ちゅうしん" pa="0" pos="N" jlpt="3" />
+			<ex	 word="最中" pron="さいちゅう" pa="1" pos="N" jlpt="3" cn="正在关键时候;最盛时期" />
 			<ex	 word="胸中" pron="きょうちゅう" pa="10" pos="N" />
 			<ex	 word="途中" pron="とちゅう" pa="0" pos="N"  jlpt="4" />
 			<ex	 word="中立" pron="ちゅうりつ" pa="0" pos="N"  jlpt="1" />

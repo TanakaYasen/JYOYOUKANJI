@@ -31,10 +31,12 @@
 	</kanji>
 	
 	<kanji	id="覗" freq="1150" >
-		<r kun="のぞ`く" kk="覗く" pa="3" pos="t5" jlpt="2" cn="偷窥" ></r>
+		<r kun="のぞ`く" kk="覗く" pa="3" pos="t5" jlpt="2" cn="偷窥; 顺便看看#露出" >
+			<e ph="穴から覗く・隙間から教室にいる人を覗く・本屋を覗く・ホームページを覗く・笑うと白い歯が覗く" />
+		</r>
 	</kanji>
 	
-	<kanji	id="皺" freq="1150" >
+	<kanji	id="皺" freq="1928" >
 		<r kun="しわ" kk="皺" pa="0" pos="N" jlpt="1" cn="皱纹;负债" >
 			<e ph="皺だらけの顔・皺が寄る" />
 		</r>
@@ -50,24 +52,33 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="佇" freq="3658" jlpt="3" gr="4">
+	<kanji	id="佇" freq="2223" jlpt="3" gr="4">
 		<r on="チョ" >
 		</r>
 		<r kun="たたずむ" kk="佇む" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="儘" freq="3658" jlpt="3" gr="4">
+	<kanji	id="儘" freq="1388" >
 		<r on="ジン" >
 		</r>
 		<r kun="まま" kk="儘" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
 	
-	<kanji	id="俘" freq="3658" jlpt="3" gr="4">
+	<kanji	id="俘" freq="3558" >
 		<r on="ジン" >
 		</r>
 		<r kun="とりこ" kk="俘" pa="0" pos="N" jlpt="1" >
+		</r>
+	</kanji>
+	
+	<kanji	id="俄" freq="1711" >
+		<r on="ガ" >
+		</r>
+		<r kun="にわか" kk="俄" pa="1" pos="NA" jlpt="1" cn="骤然;立刻" >
+			<e ph="病状が俄に変化した・俄の出来事・俄には返答しかねる">
+			<ex	 word="俄雨" pron="にわかあめ" pa="4" pos="N" />
 		</r>
 	</kanji>
 	
@@ -246,6 +257,15 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="賑" freq="1763" >
+		<r kun="にぎ`わう" kk="賑わう" pa="0" pos="j5" jlpt="1" cn="热闹,兴旺;拥挤" >
+			<e ph="店が賑わう・食卓が賑わう・初詣の人出で賑わう" />
+		</r>
+		<r kun="にぎ`やか" kk="賑やか" pa="0" pos="N" jlpt="1" >
+			<e ph="" />
+		</r>
+	</kanji>
+	
 	<kanji	id="瓜" freq="1714" jlpt="3" gr="4">
 		<r on="カ" >
 		</r>
@@ -297,6 +317,14 @@
 	
 	<kanji	id="癌" freq="3703" jlpt="3" gr="4">
 		<r on="ガン" >
+		</r>
+	</kanji>
+	
+	<kanji	id="馴" freq="1311" >
+		<r on="シュン" ></r>
+		<r on="ジュン" ></r>
+		<r kun="なれ`る" kk="馴れる" pa="2" pos="j1" jlpt="4" >
+			<e ph="人に馴れた犬" />
 		</r>
 	</kanji>
 	
@@ -558,8 +586,17 @@
 	</kanji>
 	
 	<kanji	id="溜" freq="1416" >
-		<r kun="溜める" kk="た`める" pa="0" pos="t1" jlpt="1" cn="积蓄,储存" >
+		<r kun="た`める" kk="溜める" pa="0" pos="t1" jlpt="1" cn="积蓄,储存" >
 			<ex	 word="ため息" pron="ためいき" pa="0" pos="N" cn="叹息"/>
+		</r>
+	</kanji>
+	
+	<kanji	id="濡" freq="1461" >
+		<r kun="ぬ`らす" kk="濡らす" pa="0" pos="t5" jlpt="2" cn="弄湿" >
+			<e ph="涙で枕を濡らす・子供たちが水遊びで服を濡らす" />
+		</r>
+		<r kun="ぬ`れる" kk="濡れる" pa="0" pos="j1" jlpt="4" cn="积蓄,储存" >
+			<e ph="" />
 		</r>
 	</kanji>
 	

@@ -250,6 +250,12 @@
 		</r>
 		<r kun="の`る" kk="乗る" pa="0" pos="j5" jlpt="5" >
 			<ex	 word="乗り物" pron="のりもの" pa="0" pos="N" jlpt="4" eng="vehicle" />
+			<ex	 word="乗り切る" pron="のりきる" pa="3" pos="t5" jlpt="4" cn="突破;克服;熬过去" >
+				<e ph="難局を乗り切る・不況を乗り切る" />
+			</ex>
+			<ex	 word="乗り超える" pron="のりこえる" pa="0" pos="j5" jlpt="4" />
+			<ex	 word="乗り越す" pron="のりこす" pa="3" pos="t5" jlpt="4" cn="坐过站" />
+			<ex	 word="乗り込む" pron="のりこむ" pa="0" pos="j5" jlpt="4" cn="乘坐" />
 		</r>
 		<r kun="の`せる" kk="乗せる" pa="0" pos="t1" jlpt="3" >
 		</r>
@@ -313,7 +319,10 @@
 		</r>
 		<r on="セイ" >
 		</r>
-		<r kun="なさけ" kk="情け" pa="13" pos="N/NA" jlpt="1" cn="仁慈 同情; 可怜的" eng="pity;mercy;sympathy" >
+		<r kun="なさ`け" kk="情け" pa="13" pos="N/NA" jlpt="1" cn="仁慈 同情; 可怜的" eng="pity;mercy;sympathy" >
+			<ex	 word="情けない" pron="なさけない" pa="4" pos="adj" cn="无情;悲惨,可怜;可耻,可鄙" >
+				<e ph="情けない顔をしている・我ながら情けない" />
+			</ex>
 		</r>
 		<r nfu="こころ・おもむき">
 		</r>
@@ -899,10 +908,12 @@
 			<ex	 word="就寝" pron="しゅうしん" pa="0" pos="N" />
 			<ex	 word="寝具" pron="しんぐ" pa="0" pos="N" />
 			<ex	 word="寝室" pron="しんしつ" pa="0" pos="N" />
+			<ex	 word="寝台" pron="しんだい" pa="0" pos="N" />
 		</r>
-		<r kun="ねる" kk="寝る" pa="0" pos="j1" jlpt="5" >
+		<r kun="ね`る" kk="寝る" pa="0" pos="j1" jlpt="5" >
 		</r>
-		<r kun="ねかす" kk="寝かす" pa="0" pos="t5" >
+		<r kun="ね`かす" kk="寝かす" pa="0" pos="t5" cn="使...睡觉; 搁置; 使发酵" >
+			<e ph="子供を寝かす・資金を寝かす・50年寝かしたワイン" />
 		</r>
 		<r nfu="みたまや・寝める(やめる)・寝い(みにくい)">
 		</r>

@@ -154,10 +154,13 @@
 			<ex	 word="煩悩" pron="ぼんのう" pa="0" pos="N" />
 			<ex	 word="悩殺" pron="のうさつ" pa="0" pos="N" />
 		</r>
-		<r kun="なや`む" kk="悩む" pa="2" pos="j1" jlpt="3" eng="to be worried">
+		<r kun="なや`む" kk="悩む" pa="2" pos="j5" jlpt="3" eng="to be worried" ph="~に悩む" >
+			<e ph="" />
 			<ex	 word="悩み" pron="なやみ" pa="3" pos="N" jlpt="1" />
 		</r>
-		<r kun="なや`ます" kk="悩ます" pa="3" pos="t5" jlpt="1"> </r>
+		<r kun="なや`ます" kk="悩ます" pa="3" pos="t5" jlpt="1" cn="使苦恼,使为难">
+			<e ph="騒音に悩まされる・" />
+		</r>
 		<r kun="なや`ましい" kk="悩ましい" pa="4" pos="adj" jlpt="1"> </r>
 	</kanji>
 	
@@ -303,6 +306,7 @@
 	<kanji	id="拝" freq="1103" jlpt="2" gr="6">
 		<r on="ハイ" >
 			<ex	 word="拝見" pron="はいけん" pa="0" pos="" jlpt="4" />
+			<ex	 word="拝借" pron="はいしゃく" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="崇拝" pron="すうはい" pa="0" pos="" jlpt="1" eng="worship"/>
 			<ex	 word="拝謁" pron="はいえつ" pa="0" pos="N" />
 			<ex	 word="拝啓" pron="はいけい" pa="1" pos="" jlpt="1" />
@@ -386,7 +390,7 @@
 	<kanji	id="廃" freq="1509" jlpt="1" gr="8">
 		<r on="ハイ" >
 			<ex	 word="廃棄" pron="はいき" pa="10" pos="N/ts" jlpt="1" />
-			<ex	 word="廃止" pron="はいし" pa="0" pos="N/ts" jlpt="1" />
+			<ex	 word="廃止" pron="はいし" pa="0" pos="N/ts" jlpt="1" ant="存置" cn="废除;撤销" />
 			<ex	 word="廃退" pron="はいたい" pa="0" pos="N/js" jlpt="3" />
 			<ex	 word="廃車" pron="はいしゃ" pa="0" pos="N" />
 		</r>
@@ -764,7 +768,9 @@
 			<ex	 word="大半" pron="たいはん" pa="0" pos="N" jlpt="3" eng="majority" />
 			<ex	 word="半島" pron="はんとう" pa="0" pos="N" jlpt="2" eng="peninsula" />
 		</r>
-		<r kun="なかば" kk="半ば" pa="3" pos="N/adv" jlpt="2" eng="mid;half;semi"></r>
+		<r kun="なか`ば" kk="半ば" pa="3" pos="N/adv" jlpt="2" cn="半数;中途中间" eng="mid;half;semi">
+			<e ph="半ば完成した・十月も半ばに入った・話の半ばで席を立つ" />
+		</r>
 	</kanji>
 	
 	<kanji	id="氾" freq="3481" gr="8">

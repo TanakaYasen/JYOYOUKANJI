@@ -32,7 +32,7 @@
 		<ex	 word="捻る" pron="ねじる" pa="2" pos="t5" />
 		<ex	 word="穿る" pron="ほじる" pa="2" pos="t5" />
 		<ex	 word="混じる" pron="まじる" pa="2" pos="j5" />
-		<ex	 word="捩る" pron="もじる" pa="2" pos="j5" />
+		<ex	 word="捩る" pron="もじる" pa="2" pos="j5" cn="扭,拧"  />
 		<ex	 word="やじる" pron="やじる" pa="2" pos="t5" cn="发出怪声" />
 		<ex	 word="過ぎる" pron="よぎる" pa="2" pos="j5" />
 		<ex	 word="捩る" pron="よじる" pa="2" pos="j5" />

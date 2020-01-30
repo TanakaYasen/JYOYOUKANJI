@@ -467,7 +467,8 @@
 			<ex	 word="採用" pron="さいよう" pa="0" pos="N/ts" jlpt="1" eng="pick; employment"/>
 			<ex	 word="採決" pron="さいけつ" pa="0" pos="N/ts" jlpt="1" eng="vote" />
 		</r>
-		<r kun="とる" kk="採る" pa="1" pos="t5" jlpt="2" >
+		<r kun="と`る" kk="採る" pa="1" pos="t5" jlpt="2" cn="选取; 采用; 提取制取" >
+			<e ph="A案を採る・新社員を採る・血を採る・菜種から油を採る・茸を採る" />
 		</r>
 	</kanji>
 	

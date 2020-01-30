@@ -81,7 +81,9 @@
 		<r on="ゾウ" >
 			<ex	 word="憎悪" pron="ぞうお" pa="1" pos="N" cn="" />
 		</r>
-		<r kun="にく`む" kk="憎む" pa="2" pos="t5" jlpt="2" ph="戦争を憎む"></r>
+		<r kun="にく`む" kk="憎む" pa="2" pos="t5" jlpt="2" ph="～を憎む">
+			<e ph="戦争を憎む・罪を憎んで、人を憎まず" />
+		</r>
 		<r kun="にく`い" kk="憎い" pa="2" pos="adj" jlpt="2"></r>
 		<r kun="にく`らしい" kk="憎らしい" pa="4" pos="adj"></r>
 		<r kun="にく`しみ" kk="憎しみ" pa="0" pos="N" jlpt="1"></r>
@@ -242,8 +244,12 @@
 				<e ph="観客が続々とやって来る・新製品が続々と登場する" />	
 			</ex>
 		</r>
-		<r kun="つづ`く" kk="続く" pa="0" pos="j5" ph="試合が続く"></r>
-		<r kun="つづ`ける" kk="続ける" pa="0" pos="t1" ph="ゲームを続ける"></r>
+		<r kun="つづ`く" kk="続く" pa="0" pos="j5" jlpt="4" ph="試合が続く">
+			<ex	 word="長続き" pron="ながつづき" pa="3" pos="N/js" jlpt="2" cn="持续;持久" >
+				<e ph="どんな仕事をしても長続きしない・あの人は飽きっぽくて長続きしない" />
+			</ex>
+		</r>
+		<r kun="つづ`ける" kk="続ける" pa="0" pos="t1" jlpt="4" ph="ゲームを続ける"></r>
 	</kanji>
 	
 	<kanji	id="卒" freq="1255" jlpt="2" gr="4">
@@ -320,6 +326,7 @@
 	<kanji	id="他" freq="209" jlpt="3" gr="3">
 		<r on="タ" >
 			<ex	 word="他人" pron="たにん" pa="0" jlpt="3" pos="N" cn="" />
+			<ex	 word="他界" pron="たかい" pa="0" pos="N/js" cn="逝世(委婉)" jp="死ぬこと" ph="80歳で他界した" />
 			<ex	 word="その他" pron="そのた" pa="2" jlpt="5" pos="N" cn="" />
 		</r>
 		<r kun="ほか" kk="他" pa="0" pos="N" ref="外"></r>
@@ -426,6 +433,7 @@
 	<kanji	id="体" freq="116" jlpt="4" gr="2">
 		<r on="タイ" >
 			<ex	 word="体温" pron="たいおん" pa="0" jlpt="3" pos="N" cn="" />
+			<ex	 word="体調" pron="たいちょう" pa="0" pos="N" cn="身体状况" ph="体調が良い" />
 			<ex	 word="体制" pron="たいせい" pa="0" jlpt="2" pos="N" cn="" />
 			<ex	 word="体操" pron="たいそう" pa="0" jlpt="2" pos="N" cn="" />
 			<ex	 word="体系" pron="たいけい" pa="0" jlpt="2" pos="N" cn="" />
@@ -464,8 +472,11 @@
 			<ex	 word="怠惰" pron="たいだ" pa="1" pos="N" cn="" />
 		</r>
 		<r kun="おこた`る" kk="怠る" pa="0" pos="t5"></r>
-		<r kun="なま`ける" kk="怠ける" pa="3" pos="j1"></r>
-		<r kun="だるい" kk="怠い・懈い" pa="0" pos="t5"></r>
+		<r kun="なま`ける" kk="怠ける" pa="3" pos="j1" jlpt="3" cn="懒惰,不卖力" >
+			<ex	 word="怠け者" pron="なまけもの" pa="5" pos="N" cn="懒汉" ph="怠け者の" />
+		</r>
+		<r kun="だる`い" kk="怠い・懈い" pa="0" pos="adj" jlpt="1" cn="懒倦的;慵懒的" >
+		</r>
 	</kanji>
 	
 	<kanji	id="胎" freq="2385" jlpt="1" gr="8">

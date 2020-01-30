@@ -177,6 +177,9 @@
 	<kanji	id="気" freq="28" jlpt="5" gr="1" lv="10">
 		<r on="キ" >
 			<ex	 word="人気" pron="にんき" pa="0" pos="N" jlpt="3" eng="popularity"/>
+			<ex	 word="生意気" pron="なまいき" pa="0" pos="NA" jlpt="2" cn="自大;傲慢;狂妄" ref="偉そう・我が儘">
+				<e ph="生意気なことを言う・子供のくせに、生意気な口を聴く" />
+			</ex>
 			<ex	 word="気候" pron="きこう" pa="0" pos="N" jlpt="3" eng="climate"/>
 			<ex	 word="気体" pron="きたい" pa="0" pos="N" jlpt="2" eng="gas"/>
 			<ex	 word="気づく" pron="きづく" pa="2" pos="j5" jlpt="3" eng="to notice; to recognize"/>
