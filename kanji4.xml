@@ -455,7 +455,9 @@
 		<r on="キ" >
 			<ex	 word="武器" pron="ぶき" pa="1" pos="N" jlpt="3" />
 			<ex	 word="楽器" pron="がっき" pa="1" pos="N" jlpt="2" />
-			<ex	 word="器用" pron="きよう" pa="1" pos="N" jlpt="3" />
+			<ex	 word="器用" pron="きよう" pa="1" pos="NA" jlpt="3" cn="灵巧,精巧,巧妙" >
+				<e ph="不器用な手つき・世渡りが不器用だ" />
+			</ex>
 			<ex	 word="器量" pron="きりょう" pa="1" pos="N" />
 		</r>
 		<r kun="うつわ" kk="器" pa="0" pos="N" jlpt="1" ></r>
@@ -1090,7 +1092,8 @@
 		<r on="キョウ" >
 			<ex	 word="挟撃" pron="きょうげき" pa="0" pos="N" />
 		</r>
-		<r kun="はさむ" kk="挟む" pa="2" pos="t5" jlpt="2" >
+		<r kun="はさむ" kk="挟む" pa="2" pos="t5" jlpt="2" cn="插;夹" >
+			<e ph="本にしおりを挟む・お箸で挟む・道を挟んで歓迎・口を挟む" >
 			<ex	 word="板挟み" pron="いたばさみ" pa="3" pos="N" cn="进退维谷"/>
 		</r>
 		<r kun="はさまる" kk="挟まる" pa="2" pos="t5" jlpt="2" >
@@ -1249,7 +1252,9 @@
 			<ex	 word="影響" pron="えいきょう" pa="0" pos="N/js" jlpt="3" eng="influence" />
 			<ex	 word="反響" pron="はんきょう" pa="0" pos="N/js" jlpt="1" eng="echo;response" />
 		</r>
-		<r kun="ひび`く" kk="響く" pa="2" pos="N" jlpt="1" ></r>
+		<r kun="ひび`く" kk="響く" pa="2" pos="j5" jlpt="1" cn="作响;回响;影响;扬名" >
+			<e ph="サイレンが響く・健康に響く・名声が世に響く" />
+		</r>
 	</kanji>
 	
 	<kanji	id="驚" freq="459" jlpt="1" gr="8">

@@ -27,7 +27,7 @@
 	
 	<kanji	id="披" freq="2404" jlpt="1" gr="8">
 		<r on="ヒ" >
-			<ex	 word="披露宴" pron="ひろうえん" pa="2" pos="N" />
+			<ex	 word="披露" pron="ひろう" pa="1" pos="N" />
 		</r>
 	</kanji>
 	
@@ -369,7 +369,7 @@
 	<kanji	id="評" freq="580" jlpt="1" gr="5">
 		<r on="ヒョウ" >
 			<ex	 word="評価" pron="ひょうか" pa="1" pos="N" jlpt="3" ph="評価が高い／低い" />
-			<ex	 word="評判" pron="ひょうばん" pa="0" pos="N" jlpt="3" cn="口碑"/>
+			<ex	 word="評判" pron="ひょうばん" pa="0" pos="N" jlpt="3" cn="口碑; 公认" />
 			<ex	 word="批評" pron="ひひょう" pa="0" pos="N" />
 		</r>
 	</kanji>
@@ -462,9 +462,11 @@
 	<kanji	id="貧" freq="891" jlpt="3" gr="5">
 		<r on="ヒン" >
 			<ex	 word="貧困" pron="ひんこん" pa="0" pos="N/NA" jlpt="1"/>
-			<ex	 word="貧弱" pron="ひんじゃく" pa="0" pos="N/NA" jlpt="1"/>
+			<ex	 word="貧弱" pron="ひんじゃく" pa="0" pos="N/NA" jlpt="1" cn="贫穷软弱,寒碜" >
+				<e ph="貧弱な身なり・貧弱な内容の本" />
+			</ex>
 		</r>
-		<r kun="まずしい" kk="貧しい" pa="3" pos="adj" jlpt="3">
+		<r kun="まず`しい" kk="貧しい" pa="3" pos="adj" jlpt="3">
 		</r>
 	</kanji>
 	
@@ -617,11 +619,11 @@
 			<ex	 word="勝負" pron="しょうぶ" pa="1" pos="N" jlpt="2" />
 			<ex	 word="負債" pron="ふさい" pa="0" pos="N" jlpt="1"/>
 		</r>
-		<r kun="まける" kk="負ける" pa="0" pos="jt1" jlpt="4">
+		<r kun="ま`ける" kk="負ける" pa="0" pos="jt1" jlpt="4">
 		</r>
 		<r kun="まかす" kk="負かす" pa="0" pos="t5" jlpt="1">
 		</r>
-		<r kun="おう" kk="負う" pa="0" pos="adj" jlpt="1" cn="背负" ph="責任を負う">
+		<r kun="お`う" kk="負う" pa="0" pos="adj" jlpt="1" cn="背负" ph="責任を負う">
 		</r>
 	</kanji>
 	
@@ -789,6 +791,9 @@
 	
 	<kanji	id="封" freq="1225" jlpt="2" gr="8">
 		<r on="フウ" >
+			<ex	 word="封じる" pron="ふうじる" pa="3" pos="t1" >
+				<e ph="退路を封じる・発言を封じる" />
+			</ex>
 			<ex	 word="封筒" pron="ふうとう" pa="0" pos="N" jlpt="5" eng="envelope" />
 			<ex	 word="封印" pron="ふういん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="封鎖" pron="ぶかさ" pa="0" pos="N" jlpt="1" />
@@ -923,8 +928,12 @@
 		<r kun="はらう" kk="払う" pa="2" pos="N" jlpt="4" ref="祓う">
 			<ex	 word="支払い" pron="しはらい" pa="0" pos="N" jlpt="3" eng="payment"/>
 			<ex	 word="支払う" pron="しはらう" pa="0" pos="t5" jlpt="3" eng="to pay" />
-			<ex	 word="払い込む" pron="はらいこむ" pa="04" pos="t5" jlpt="2" cn="转账" eng="to deposit" />
-			<ex	 word="払い戻す" pron="はらいもどす" pa="05" pos="t5" jlpt="2" cn="退还/还款" ph="埃を払う・下草を払う・代金を払う" />
+			<ex	 word="払い込む" pron="はらいこむ" pa="04" pos="t5" jlpt="2" cn="缴纳" eng="to deposit" >
+				<e ph="税金を払い込む・公共料金を払い込む" />
+			</ex>
+			<ex	 word="払い戻す" pron="はらいもどす" pa="05" pos="t5" jlpt="2" cn="退还/还款" ph="埃を払う・下草を払う・代金を払う" >
+				<e ph="料金を払い戻す・定期預金を払い戻す" />
+			</ex>
 		</r>
 	</kanji>
 	

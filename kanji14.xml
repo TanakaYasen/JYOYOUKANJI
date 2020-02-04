@@ -39,8 +39,11 @@
 		<r on="ソウ" >
 			<r kun="そうぞうしい" kk="騒々しい" pa="2" pos="adj" jlpt="2" cn="吵闹的,喧嚣的;国家不安定" />
 			<ex	 word="騒動" pron="そうどう" pa="1" pos="N" jlpt="1" eng="strife" />
+			<ex	 word="物騒" pron="ぶっそう" pa="0" pos="N/NA" jlpt="2" cn="动荡不安的;危险的" >
+				<e ph="物騒な世の中・物騒な人物" />
+			</ex>
 		</r>
-		<r kun="さわぐ" kk="騒ぐ" pa="2" pos="j5" jlpt="4" cn="吵闹" >
+		<r kun="さわ`ぐ" kk="騒ぐ" pa="2" pos="j5" jlpt="4" cn="吵闹" >
 			<e ph="図書館で騒ぐな" />
 		</r>
 		<r kun="さわがしい" kk="騒がしい" pa="4" pos="adj" jlpt="2" cn="吵闹" eng="noisy" />

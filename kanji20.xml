@@ -51,7 +51,9 @@
 	<kanji	id="紛" freq="1616" jlpt="1" gr="8">
 		<r on="フン" >
 			<ex	 word="紛争" pron="ふんそう" pa="0" pos="N" />
-			<ex	 word="紛失" pron="ふんしつ" pa="0" pos="N" eng="loss" />
+			<ex	 word="紛失" pron="ふんしつ" pa="0" pos="N/jts" jlpt="1" eng="loss" cn="遗失" >
+				<e ph="紛失物・財布を紛失する" />
+			</ex>
 			<ex	 word="粉飾" pron="ふんしょく" pa="0" pos="N/ts" />
 		</r>
 		<r kun="まぎれる" kk="紛れる" pa="3" pos="j1" jlpt="1" cn="混入">
@@ -76,8 +78,10 @@
 			<ex	 word="噴出" pron="ふんしゅつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="噴水" pron="ふんすい" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="ふく" kk="噴く" pa="1" pos="N" jlpt="5" >
-			<ex	 word="噴き出す" pron="ふきだす" pa="3" pos="j5" />
+		<r kun="ふ`く" kk="噴く" pa="1" pos="N" jlpt="5" >
+			<ex	 word="噴き出す" pron="ふきだす" pa="3" pos="j5" cn="喷出;忍不住笑出来" >
+				<e ph="温泉が噴出す・ついに我慢しきれず噴出してしまった" />
+			</ex>
 		</r>
 	</kanji>
 	
@@ -321,7 +325,9 @@
 		<r on="ヘイ" >
 			<ex	 word="煎餅" pron="せんべい" pa="0" pos="N" />
 		</r>
-		<r kun="もち" kk="餅" pa="0" pos="N" jlpt="2" >
+		<r kun="もち" kk="餅" pa="0" pos="N" jlpt="2" cn="年糕" >
+			<ex	 word="焼餅" pron="せんべい" pa="0" pos="N" />
+			<ex	 word="餅肌" pron="もちはだ" pa="0" pos="N" cn="白而光滑细腻的肌肤" />
 			<e ph="さすが餅は餅屋だ" />
 		</r>
 	</kanji>
@@ -916,10 +922,13 @@
 	
 	<kanji	id="乏" freq="1189" jlpt="1" gr="8">
 		<r on="ボウ" >
-			<ex	 word="貧乏" pron="びんぼう" pa="0" pos="N/NA" jlpt="1" eng="poverty" />
+			<ex	 word="貧乏" pron="びんぼう" pa="0" pos="N/NA" jlpt="1" eng="poverty" >
+				<e ph="貧乏な暮らし・貧乏暇なし" />
+			</ex>
 			<ex	 word="欠乏" pron="けつぼう" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r kun="とぼしい" kk="乏しい" pa="03" pos="adj" jlpt="1" >
+			
 		</r>
 		<r nfu="ホウ" />
 	</kanji>

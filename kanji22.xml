@@ -130,7 +130,8 @@
 			<ex	 word="誘拐" pron="ゆうかい" pa="1" pos="N/ts" />
 			<ex	 word="勧誘" pron="かんゆう" pa="1" pos="N/ts" jlpt="1" />
 		</r>
-		<r kun="さそう" kk="誘う" pa="0" pos="t5" jlpt="3" >
+		<r kun="さそ`う" kk="誘う" pa="0" pos="t5" jlpt="3" cn="促使,诱发;劝诱,邀请;引诱" jp="促す" >
+			<e ph="友人を誘って映画を見に行く・涙を誘う物語・悪事に誘いこむ" />
 		</r>
 	</kanji>
 	
@@ -931,6 +932,9 @@
 			<ex	 word="思慮" pron="しりょ" pa="1" pos="N" />
 			<ex	 word="遠慮" pron="えんりょ" pa="0" pos="N/ts" jlpt="4" cn="顾忌">
 				<e ph="ご遠慮お願いします・遠慮しないで" />
+			</ex>
+			<ex	 word="配慮" pron="はいりょ" pa="1" pos="N/ts" jlpt="1" cn="关怀,照顾,照料">
+				<e ph="配慮が足りない・当事者の気持ちを配慮する" />
 			</ex>
 		</r>
 		<r kun="おもんぱかる" kk="慮る" pa="5" pos="t5" >

@@ -17,10 +17,13 @@
 			<ex	 word="出張" pron="しゅっちょう" pa="1" pos="N" jlpt="3"/>
 			<ex	 word="張力" pron="ちょうりょく" pa="1" pos="N" jlpt="0"/>
 		</r>
-		<r kun="はる" kk="張る・貼る" pa="0" pos="jt5" jlpt="5" ph="池に氷が張る">
+		<r kun="は`る" kk="張る・貼る" pa="0" pos="jt5" jlpt="5" ph="池に氷が張る">
 			<ex	 word="威張る" pron="いばる" pa="2" pos="j5" jlpt="2" cn="嚣张;摆架子" >
 			</ex>
 			<ex	 word="頑張る" pron="がんばる" pa="3" pos="j5" jlpt="2" cn="勉励;加油" >
+			</ex>
+			<ex	 word="張り切る" pron="はりきる" pa="3" pos="j5" jlpt="2" cn="拉紧,绷紧;干劲十足;紧张" >
+				<e ph="弓の弦が張り切っている・自分の新しい事業に張り切っている・張り切った気分が緩んだ" />
 			</ex>
 		</r>
 	</kanji>
@@ -891,6 +894,7 @@
 	
 	<kanji	id="土" freq="234" jlpt="5" gr="1">
 		<r on="ド" >
+			<ex	 word="風土" pron="ふうど" pa="1" pos="N" jlpt="1"/>
 			<ex	 word="土木" pron="どぼく" pa="0" pos="N" jlpt="1"/>
 			<ex	 word="国土" pron="こくど" pa="1" pos="N" jlpt="1"/>
 			<ex	 word="粘土" pron="ねんど" pa="1" pos="N" />

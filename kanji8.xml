@@ -20,6 +20,9 @@
 		<r on="サン" >
 			<ex	 word="生産" pron="せいさん" pa="0" pos="N" jlpt="4" eng="production"/>
 			<ex	 word="産業" pron="さんぎょう" pa="0" pos="N" jlpt="4" eng="industry"/>
+			<ex	 word="破産" pron="はさん" pa="0" pos="N/js" jlpt="3" eng="bankruptcy" >
+				<e ph="破産に瀕する・事業に失敗して破産する・" />
+			</ex>
 		</r>
 		<r kun="うむ" kk="産む" pa="20" pos="t5" jlpt="1" ref="生む" >
 		</r>

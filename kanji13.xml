@@ -441,7 +441,7 @@
 		<r kun="ふね" kk="船" pa="1" pos="N" jlpt="4" eng="ship; boat" />
 		<r kun="ふな～" kk="船～" pa="1" pos="N">
 			<ex word="船便" pron="ふなびん" pa="0" pos="N" />	
-			<ex word="船酔い" pron="ふなよい" pa="0"  cn="晕船"/>	
+			<ex word="船酔い" pron="ふなよい" pa="0" pos="N" cn="晕船"/>	
 		</r>
 	</kanji>
 	

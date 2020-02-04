@@ -393,7 +393,8 @@
 			<ex	 word="再来年" pron="さらいねん" pa="0" pos="N" jlpt="5" eng="year after next"/>
 			<ex	 word="再来週" pron="さらいしゅう" pa="0" pos="N" jlpt="4" eng="next next week"/>
 		</r>
-		<r kun="ふたたび" kk="再び" pa="2" pos="adv" jlpt="3" >
+		<r kun="ふたたび" kk="再び" pa="2" pos="adv" jlpt="3" htm="二+度" jp="再度" >
+			<e ph="再び過ちを繰り返す・再び巡り合う" />
 		</r>
 	</kanji>
 	
@@ -585,9 +586,12 @@
 		<r on="ソク" >
 			<ex	 word="閉塞" pron="へいそく" pa="0" pos="N/jts" eng="blockage"/>
 		</r>
-		<r kun="ふさぐ" kk="塞ぐ" pa="0" pos="jt5" jlpt="2" >
+		<r kun="ふさ`ぐ" kk="塞ぐ" pa="0" pos="jt5" jlpt="2" cn="遮盖;占用;堵上#郁闷不乐" >
+			<e ph="目を塞ぐ・大半の紙面を塞ぐ・穴を塞ぐ・気が塞ぐ" />
 		</r>
-		<r kun="ふさがる" kk="塞がる" pa="0" pos="j5" jlpt="2" >
+		<r kun="ふさ`がる" kk="塞がる" pa="0" pos="j5" jlpt="2" cn="关闭;不畅,堵塞;填满;占用" >
+			<e ph="目が塞がる・排水管が塞がる・手が塞がる" />
+			<e ph="席が塞がる・電話が塞がる" />
 		</r>
 		<r nfu="とりで">
 		</r>

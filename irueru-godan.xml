@@ -55,7 +55,7 @@
 		<ex	 word="抓る" pron="つねる" pa="2" pos="t5" />
 		<ex	 word="照る" pron="てる" pa="1" pos="j5" />
 		<ex	 word="練る" pron="ねる" pa="1" pos="j5" />
-		<ex	 word="捻る" pron="ひねる" pa="2" pos="t5" />
+		<ex	 word="捻る" pron="ひねる" pa="2" pos="t5" cn="拧,扭;扭转" />
 		<ex	 word="耽る" pron="ふける" pa="2" pos="j5" cn="沉溺于" ph="飲酒に耽る" />
 		<ex	 word="減る" pron="へる" pa="0" pos="j5" />
 		<ex	 word="蘇る" pron="よみがえる" pa="30" pos="j5" />

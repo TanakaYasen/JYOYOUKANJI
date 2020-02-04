@@ -18,7 +18,8 @@
 		</r>
 		<r kun="はなはだ" kk="甚だ" pa="0" pos="adv" jlpt="1" eng="very" >
 		</r>
-		<r kun="はなはだしい" kk="甚だしい" pa="5" pos="adj" jlpt="2" eng="extreme" >
+		<r kun="はなはだしい" kk="甚だしい" pa="5" pos="adj" jlpt="2" cn="非常;程度重" eng="extreme" >
+			<e ph="甚だしく不利な条件・非常識も甚だしい・甚だしい誤解・公私混同も甚だしい・甚だしく彼の気持ちを傷つけた" />
 		</r>
 		<r nfu="甚く(いたく)">
 		</r>
@@ -412,7 +413,8 @@
 		</r>
 		<r kun="はえる" kk="生える" pa="2" pos="j1" jlpt="2" cn="(牙,须,苗)生出" >
 		</r>
-		<r kun="はやす" kk="生やす" pa="2" pos="t5" jlpt="1" >
+		<r kun="は`やす" kk="生やす" pa="2" pos="t5" jlpt="1" cn="使...生长; 蓄留(须发)"	 >
+			<e ph="雑草を生やす・髭を生やす・根を生やす" />
 		</r>
 		<r kun="き" kk="生" pa="1" pos="N" jlpt="1" >
 		</r>
@@ -638,7 +640,9 @@
 			<ex	 word="盛大" pron="せいだい" pa="0" pos="N" />
 		</r>
 		<r on="ジョウ" >
-			<ex	 word="繁盛" pron="はんじょう" pa="0" pos="N/js"  />
+			<ex	 word="繁盛" pron="はんじょう" pa="0" pos="N/js" >
+				<e ph="商売繁盛・店が繁盛する" />
+			</ex>
 		</r>
 		<r kun="もる" kk="盛る" pa="0" pos="t5" jlpt="2" >
 		</r>
@@ -650,7 +654,8 @@
 		<r kun="～ざかり" kk="～盛り" pa="0" pos="sf" jlpt="1" cn="连用 +~ 最...">
 			<e ph="花盛り・働き盛り・食べ盛り・育ち盛り・若盛り" />
 		</r>
-		<r kun="さかん" kk="盛ん" pa="0" pos="NA" jlpt="4" >
+		<r kun="さかん" kk="盛ん" pa="0" pos="NA" jlpt="4" cn="猛烈的, 热烈的" >
+			<e ph="火が盛んに燃えている・雨が盛んに降る・盛んに議論する・盛んな拍手に迎える" />
 		</r>
 	</kanji>
 	

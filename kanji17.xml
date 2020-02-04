@@ -65,6 +65,9 @@
 		<r on="トウ" >
 			<ex	 word="本当" pron="ほんとう" pa="0" pos="adv" jlpt="5"/>
 			<ex	 word="当時" pron="とうじ" pa="0" pos="adv" jlpt="3"/>
+			<ex	 word="不当" pron="ふとう" pa="0" pos="NA" jlpt="3" cn="不正当不合理" >
+				<e ph="不当な差別" />
+			</ex>
 			<ex	 word="当確" pron="とうかく" pa="0" pos="" />
 			<ex	 word="当然" pron="とうぜん" pa="0" pos="" />
 			<ex	 word="当該" pron="とうがい" pa="0" pos="" jlpt=""/>
@@ -195,7 +198,6 @@
 	
 	<kanji	id="討" freq="1258" jlpt="1" gr="6">
 		<r on="トウ" >
-			<ex	 word="検討" pron="とうきょう" pa="0" pos="N" jlpt="3" eng="consideration" />
 			<ex	 word="討論" pron="とうろん" pa="5" pos="N" jlpt="1" />
 			<ex	 word="討議" pron="とうぎ" pa="5" pos="N" jlpt="1" />
 		</r>
@@ -325,8 +327,8 @@
 			<ex	 word="等級" pron="とうきゅう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="上等" pron="じょうとう" pa="0" pos="N" jlpt="3" />
 		</r>
-		<r kun="ひと`しい" kk="等しい" pa="3" pos="adj" jlpt="3" ph="~に等しい" >
-			<e ph="泥棒に等しい行い・鬼にも等しい心" />
+		<r kun="ひと`しい" kk="等しい" pa="3" pos="adj" jlpt="3" cn="相等同;(性质)与...完全一样" ph="~に等しい" >
+			<e ph="面積が等しい・誘拐に等しい行為・泥棒に等しい行い・鬼にも等しい心" />
 		</r>
 	</kanji>
 	
@@ -365,15 +367,14 @@
 	
 	<kanji	id="踏" freq="758" jlpt="1" gr="8">
 		<r on="トウ" >
-			<ex	 word="踏襲" pron="とうしゅう" pa="0" pos="" cn="模仿;沿袭"/>
+			<ex	 word="踏襲" pron="とうしゅう" pa="0" pos="N/ts" cn="模仿;沿袭" />
 		</r>
-		<r kun="ふむ" kk="踏む" pa="0" pos="" jlpt="4" >
-			<ex	 word="踏切" pron="ふみきり" pa="" pos="" jlpt="2"/>
-			<ex	 word="踏み切る" pron="ふみきる" pa="" pos="" />
+		<r kun="ふ`む" kk="踏む" pa="0" pos="t5" jlpt="4" >
+			<ex	 word="踏切" pron="ふみきり" pa="0" pos="N" jlpt="2"/>
+			<ex	 word="踏み切る" pron="ふみきる" pa="3" pos="t5" cn="弹跳;下定决心" />
 		</r>
-		<r kun="ふまえる" kk="踏まえる" pa="3" pos="" jlpt="4" jp="しっかり踏む">
+		<r kun="ふ`まえる" kk="踏まえる" pa="3" pos="t1" jlpt="4" jp="しっかり踏む">
 			<ex	 word="踏切" pron="ふみきり" pa="" pos="" jlpt="2"/>
-			<ex	 word="踏み切る" pron="ふみきる" pa="" pos="" />
 		</r>
 	</kanji>
 	
@@ -530,9 +531,11 @@
 	<kanji	id="働" freq="449" jlpt="3" gr="4">
 		<r on="ドウ" >
 			<ex	 word="労働" pron="しょくどう" pa="0" pos="N" jlpt="3"/>
-			<ex	 word="稼働" pron="どうとく" pa="0" pos="N" />
+			<ex	 word="稼働" pron="かどう" pa="0" pos="N/jts" cn="(机器)运转;劳动" />
 		</r>
-		<r kun="はたら`く" kk="働く" pa="0" pos="jt5" jlpt="5" ph="工場で働く" jp="単純に仕事する" ref="勤める"></r>
+		<r kun="はたら`く" kk="働く" pa="0" pos="jt5" jlpt="5" ph="工場で働く" jp="単純に仕事する" ant="怠ける" ref="勤める">
+			<e ph="働き者" />
+		</r>
 	</kanji>
 	
 	<kanji	id="銅" freq="1596" jlpt="2" gr="5">
@@ -848,7 +851,9 @@
 	<kanji	id="肉" freq="533" jlpt="4" gr="2">
 		<r kun="にく" kk="肉" pa="2" pos="N" jlpt="5" >
 			<ex	 word="贅肉" pron="ぜいにく" pa="0" pos="N" />
-			<ex	 word="皮肉" pron="ひにく" pa="0" pos="N" jlpt="" />
+			<ex	 word="皮肉" pron="ひにく" pa="0" pos="N/NA" jlpt="2" cn="皮肉,身体;讽刺挖苦;不如意不凑巧" >
+				<e ph="皮肉を言う・世の中は皮肉なものだ・皮肉の見" />
+			</ex>
 		</r>
 	</kanji>
 	

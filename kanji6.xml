@@ -413,7 +413,7 @@
 		<r on="コウ" >
 			<ex	 word="変更" pron="こうだい" pa="0" pos="N" jlpt="5" />
 		</r>
-		<r kun="ふ`ける" kk="更ける" pa="2" pos="j1" jlpt="2" cn="深。酣" ref="深ける" >
+		<r kun="ふ`ける" kk="更ける" pa="2" pos="j1" jlpt="2" cn="深;酣" ref="深ける" >
 			<e ph="夜が更けて人が寝静まる・秋が更ける" />
 		</r>
 	</kanji>

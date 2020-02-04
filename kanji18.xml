@@ -263,7 +263,6 @@
 	<kanji	id="破" freq="586" jlpt="3" gr="6">
 		<r on="ハ" >
 			<ex	 word="破片" pron="はへん" pa="0" pos="N" jlpt="2" eng="fragment" />
-			<ex	 word="破壊" pron="はかい" pa="0" pos="N/jts" jlpt="1" />
 			<ex	 word="突破" pron="とっぱ" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="爆破" pron="ばくは" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="撃破" pron="げきは" pa="1" pos="N/ts"  />
@@ -542,9 +541,13 @@
 		</r>
 		<r on="ホク" >
 		</r>
-		<r kun="はがす" kk="剥がす" pa="0" pos="j5" jlpt="4"></r>
+		<r kun="は`がす" kk="剥がす" pa="2" pos="t5" jlpt="2" cn="剥下;揭下" >
+			<e ph="ポスターを剥がす・郵便切手を剥がす・生爪を剥がす" />
+		</r>
 		<r kun="はぐ" kk="剥ぐ" pa="0" pos="t1" jlpt="2"></r>
-		<r kun="はがれる" kk="剥がれる" pa="0" pos="t1" jlpt="2"></r>
+		<r kun="は`がれる" kk="剥がれる" pa="3" pos="j1" cn="剥落" >
+			<e ph="ポスターが剥がれる・化けの皮が剥がれる・めっきが剥がれる" />
+		</r>
 		<r kun="はげる" kk="剥げる" pa="0" pos="t1" jlpt="2"></r>
 		<r kun="さく" kk="削" pa="0" pos="t1" jlpt="2"></r>
 		<r kun="むく" kk="剥く" pa="0" pos="t1" jlpt="2"></r>
@@ -639,7 +642,9 @@
 	
 	<kanji	id="肌" freq="1449" jlpt="2" gr="8">
 		<r kun="はだ" kk="肌" pa="1" pos="N" jlpt="3" >
-			<ex	 word="肌寒い" pron="はだざむい" pa="4" pos="adj" />
+			<ex	 word="肌寒い" pron="はだざむい" pa="4" pos="adj" >
+				<e ph="朝夕が肌寒く感じる・肌寒い光景" />
+			</ex>
 			<ex	 word="肌色" pron="はだいろ" pa="0" pos="N" />
 			<ex	 word="肌着" pron="はだぎ" pa="0" pos="N" />
 		</r>
@@ -747,10 +752,15 @@
 	
 	<kanji	id="反" freq="341" jlpt="3" gr="3">
 		<r on="ハン" >
+			<ex	 word="反する" pron="はんする" pa="0" pos="N/js" jlpt="1" cn="与...相反;违反;背叛" >
+				<e ph="予想に反して、オリンピックの代表選手に選ばれなかった・ルールに/道義に反する" />
+			</ex>
 			<ex	 word="違反" pron="いはん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="反対" pron="はんたい" pa="0" pos="N" jlpt="4" />
 			<ex	 word="反抗" pron="はんこう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="反省" pron="はんせい" pa="0" pos="N" jlpt="2" />
+			<ex	 word="反省" pron="はんせい" pa="0" pos="N" jlpt="2" cn="自我审视" >
+				<e ph="反省の色が見られない・客観的に自分の行為を反省する" />
+			</ex>
 		</r>
 		<r on="ホン" >
 			<ex	 word="謀反" pron="むほん" pa="1" pos="N" />
@@ -960,9 +970,13 @@
 	
 	<kanji	id="繁" freq="1210" jlpt="1" gr="8">
 		<r on="ハン" >
-			<ex	 word="繁栄" pron="はんえい" pa="0" pos="N" jlpt="1" />
+			<ex	 word="繁栄" pron="はんえい" pa="0" pos="N/js" jlpt="1" >
+				<e ph="家が繁栄する・国の繁栄を維持する" />
+			</ex>
 			<ex	 word="繁茂" pron="はんも" pa="1" pos="N" />
-			<ex	 word="繁盛" pron="はんじょう" pa="1" pos="N" />
+		</r>
+		<r kun="しげ`る" kk="繁る" pa="0" pos="j5" jlpt="2" ref="茂る">
+			<e ph="木の茂った山" />
 		</r>
 	</kanji>
 	

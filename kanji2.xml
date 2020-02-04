@@ -541,8 +541,8 @@
 			<ex	 word="成果" pron="せいか" pa="1" pos="N" />
 			<ex	 word="果実" pron="かじつ" pa="0" pos="N" jlpt="2" cn="果实;收益" eng="fruit; nut" />
 		</r>
-		<r kun="は`たす" kk="果たす" pa="2" pos="t5" jlpt="5" >
-			<e ph="義務を果たす" />
+		<r kun="は`たす" kk="果たす" pa="2" pos="t5" jlpt="1" cn="完成,实现;起...作用" >
+			<e ph="目的を果たす・義務を/責任を果たす・パイプ役を果たす・お金を使い果たす" />
 			<ex	 word="使い果たす" pron="つかいはたす" pa="1" pos="t5" cn="用尽,花光" >
 				<e ph="燃料を使い果たす・精力を使い果たす" />
 			</ex>
@@ -652,8 +652,8 @@
 		<r on="ゲ" >
 			<ex	 word="万華鏡" pron="ちゅうか" pa="1" pos="N" />
 		</r>
-		<r kun="はな`やか" kk="華やか" pa="2" pos="NA" jlpt="1" cn="华丽,华美" eng="smooth" >
-			<e ph="華やかな服・華やかに着飾る" />
+		<r kun="はな`やか" kk="華やか" pa="2" pos="NA" jlpt="1" cn="华丽,华美;盛大,辉煌的" eng="smooth" >
+			<e ph="華やかな装い/服/結婚式・華やかに着飾る" />
 		</r>
 		<r nfu="ゲ・華やぐ(はなやぐ)"></r>
 	</kanji>

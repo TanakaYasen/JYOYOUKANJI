@@ -140,7 +140,7 @@
 	<kanji	id="壊" freq="1441" jlpt="1" gr="8">
 		<r on="カイ" >
 			<ex	 word="壊滅" pron="かいめつ" pa="0" pos="N" />
-			<ex	 word="破壊" pron="はかい" pa="0" pos="N" />
+			<ex	 word="破壊" pron="はかい" pa="0" pos="N/js" jlpt="1" />
 			<ex	 word="崩壊" pron="ほうかい" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r kun="こわ`す" kk="壊す" pa="2" pos="t5" jlpt="4" />

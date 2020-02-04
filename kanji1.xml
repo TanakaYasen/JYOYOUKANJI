@@ -478,8 +478,15 @@
 			</ex>
 			<ex	 word="引越し" pron="ひっこし" pa="0" pos="N/js" jlpt="2" cn="搬家" eng="changing residence"/>
 			<ex	 word="引き算" pron="ひきざん" pa="2" pos="N" eng="subtraction"/>
-			<ex	 word="引き上げる" pron="ひきあげる" pa="4" pos="t1" jlpt="1" />
-			<ex	 word="引き下げる" pron="ひきさげる" pa="4" pos="t1" jlpt="1" />
+			<ex	 word="引き上げる" pron="ひきあげる" pa="4" pos="t1" jlpt="1" cn="提升;抬高涨价;收回取回" >
+				<e ph="部長に引き上げる・関税を引き上げる・部隊を引き上げる・ロープで海底の金塊を引き上げる・難破船を引き上げる" />
+			</ex>
+			<ex	 word="引き下げる" pron="ひきさげる" pa="4" pos="t1" jlpt="1" cn="降价;使后退;撤回" >
+				<e ph="値段を引き下げる・車を引き下げる・提案を引き下げる・コストを引き下げる" />
+			</ex>
+			<ex	 word="引き出す" pron="ひきだす" pa="4" pos="t5" jlpt="1" cn="拉出,抽出;提取;调动发挥" >
+				<e ph="本棚から本を引き出す・銀行からお金を引き出す・生徒の才能を引き出す・押入れから布団を引き出す。貯金を引き出す" />
+			</ex>
 		</r>
 		<r kun="ひ`ける" kk="引ける" pa="0" pos="j1" />
 	</kanji>
@@ -737,11 +744,11 @@
 	<kanji	id="栄" freq="1069" jlpt="2" gr="4">
 		<r on="エイ" >
 			<ex	 word="栄養" pron="えいよう" pa="0" pos="N" jlpt="3" />
-			<ex	 word="繁栄" pron="はんえい" pa="0" pos="N" jlpt="1" />
 			<ex	 word="光栄" pron="こうえい" pa="0" pos="N" jlpt="1" />
 			<ex	 word="栄誉" pron="えいよ" pa="0" pos="N/js" />
 		</r>
-		<r kun="さかえる" kk="栄える" pa="32" pos="j1" jlpt="1" cn="势力变强" >
+		<r kun="さか`える" kk="栄える" pa="32" pos="j1" jlpt="1" cn="势力变强" >
+			<e ph="店が栄えている" />
 		</r>
 		<r kun="はえ" kk="栄え" pa="2" pos="N" jlpt="5" >
 		</r>

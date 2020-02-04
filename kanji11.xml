@@ -24,7 +24,9 @@
 		<r on="ショウ" >
 			<ex	 word="感傷" pron="かんしょう" pa="0" pos="NA" />
 			<ex	 word="傷害" pron="しょうがい" pa="0" pos="NA" />
-			<ex	 word="負傷" pron="ふしょう" pa="0" pos="N" />
+			<ex	 word="負傷" pron="ふしょう" pa="0" pos="N/js" jlpt="1" >
+				<e ph="足を負傷する" />
+			</ex>
 			<ex	 word="傷病" pron="しょうびょう" pa="0" pos="N" />
 		</r>
 		<r kun="きず" kk="傷" pa="0" pos="N" jlpt="3" eng="wound;injury" >
@@ -138,12 +140,15 @@
 	<kanji	id="償" freq="2297" jlpt="1" gr="8">
 		<r on="ショウ" >
 			<ex	 word="無償" pron="ほしょう" pa="0" pos="N" eng="without pay"/>
-			<ex	 word="賠償" pron="ばいしょう" pa="0" pos="N/ts" jlpt="1" eng="compensation" />
+			<ex	 word="賠償" pron="ばいしょう" pa="0" pos="N/ts" jlpt="1" eng="compensation" >
+				<e ph="損害を賠償する" />
+			</ex>
 			<ex	 word="補償" pron="ほしょう" pa="0" pos="N/ts" jlpt="1" eng="compensation" />
 			<ex	 word="償還" pron="しょうかん" pa="0" pos="N/ts" eng="repayment" />
 			<ex	 word="償金" pron="しょうきん" pa="0" pos="N" />
 		</r>
-		<r kun="つぐな`う" kk="償う" pa="1" pos="t5" jlpt="5" >
+		<r kun="つぐな`う" kk="償う" pa="3" pos="t5" >
+			<e ph="損失を償う" />
 		</r>
 	</kanji>
 	
@@ -496,9 +501,10 @@
 			<ex	 word="繁殖" pron="はんしょく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="学殖" pron="がくしょく" pa="0" pos="N" />
 		</r>
-		<r kun="ふえる" kk="殖える" pa="2" pos="j1" jlpt="4" ref="増える" >
+		<r kun="ふ`える" kk="殖える" pa="2" pos="j1" jlpt="4" cn="(生物)繁殖;(财产)增加" ref="増える" >
+			<e ph="ねずみが殖える・貯金が殖える" />
 		</r>
-		<r kun="ふやす" kk="殖やす" pa="2" pos="t5" jlpt="2" ref="増える">
+		<r kun="ふやす" kk="殖やす" pa="2" pos="t5" jlpt="2" ref="増やす">
 		</r>
 	</kanji>
 	
@@ -785,9 +791,14 @@
 			<ex	 word="振興" pron="しんこう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="振動" pron="しんどう" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="ふる" kk="振る" pa="0" pos="t5" jlpt="3" eng="to wave" >
+		<r kun="ふ`る" kk="振る" pa="0" pos="t5" jlpt="3"cn="摇动;播撒;挥手" eng="to wave" >
+			<e ph="手を振って見送る・塩を振る" />
+			<ex	 word="振り込む" pron="ふりこむ" pa="3" pos="t5" jlpt="1" cn="缴款;转账" >
+				<e ph="授業料を銀行口座に振り込む" />
+			</ex>
 		</r>
-		<r kun="ふるう" kk="振るう" pa="0" pos="t5" >
+		<r kun="ふ`るう" kk="振るう" pa="0" pos="t5" >
+			<e ph="拳を振るう・腕を振るう・暴力を振るう・商売が振るう" />
 		</r>
 		<r kun="ふれる" kk="振れる" pa="0" pos="j1" eng="to swing; to shake" >
 		</r>
@@ -850,7 +861,8 @@
 			<ex	 word="深奥" pron="しんおう" pa="0" pos="NA" />
 			<ex	 word="深刻" pron="しんこく" pa="0" pos="NA" jlpt="3" />
 		</r>
-		<r kun="ふかい" kk="深い" pa="2" pos="adj" jlpt="4" >
+		<r kun="ふか`い" kk="深い" pa="2" pos="adj/sf" jlpt="4" >
+			<e ph="毛深い・印象深い・遠慮深い" />
 		</r>
 		<r kun="ふかまる" kk="深まる" pa="3" pos="j5" jlpt="2" >
 		</r>
@@ -968,7 +980,7 @@
 			<ex	 word="震動" pron="しんどう" pa="0" pos="N/js"  />
 			<ex	 word="地震" pron="じしん" pa="0" pos="N" jlpt="4" eng="earthquake" ref="マグニチュード(magnitude)" />
 		</r>
-		<r kun="ふるう" kk="震う" pa="0" pos="j5" >
+		<r kun="ふる`う" kk="震う" pa="0" pos="j5" >
 		</r>
 		<r kun="ふる`える" kk="震える" pa="3" pos="j1" jlpt="3" eng="to shake" >
 			<e ph="彼女は恐怖で唇が震えていた" />
