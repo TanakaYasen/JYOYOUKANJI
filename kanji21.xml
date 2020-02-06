@@ -42,10 +42,13 @@
 	<kanji	id="暴" freq="940" jlpt="2" gr="5">
 		<r on="ボウ" >
 			<ex	 word="乱暴" pron="らんぼう" pa="0" pos="N" jlpt="3" cn="粗暴" />
-			<ex	 word="暴力" pron="ぼうりょく" pa="1" pos="N" jlpt="1" eng="violence"/>
+			<ex	 word="暴力" pron="ぼうりょく" pa="1" pos="N" jlpt="1" eng="violence" >
+				<e ph="暴力に訴える・妻に暴力を振るう" />
+			</ex>
 			<ex	 word="暴言" pron="ぼうげん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="暴動" pron="ぼうどう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="暴行" pron="ぼうこう" pa="0" pos="N" />
+			<ex	 word="暴風雨" pron="ぼうふうう" pa="3" pos="N" jp="嵐"/>
 		</r>
 		<r kun="あば`く" kk="暴く" pa="2" pos="t5" cn="揭露;掘开" ph="嘘を暴く"> 
 		</r>
@@ -57,6 +60,9 @@
 	<kanji	id="膨" freq="2292" jlpt="1" gr="8">
 		<r on="ボウ" >
 			<ex	 word="膨脹" pron="ぼうちょう" pa="0" pos="N" jlpt="3" />
+			<ex	 word="膨大" pron="ほうだい" pa="0" pos="NA" jlpt="3" >
+				<e ph="" />
+			</ex>
 		</r>
 		<r kun="ふく`らます" kk="膨らます" pa="0" pos="t5" jlpt="2" cn="使膨胀;使鼓起来">
 			<e ph="風船を膨らます・希望を膨らます" />
@@ -128,7 +134,7 @@
 	<kanji	id="牧" freq="1227" jlpt="1" gr="4">
 		<r on="ボク" >
 			<ex	 word="牧場" pron="ぼくじょう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="牧畜" pron="ぼくちく" pa="0" pos="N" jlpt="2" />
+			<ex	 word="牧畜" pron="ぼくちく" pa="0" pos="N" jlpt="2" eng="stock-farming" />
 			<ex	 word="牧師" pron="ぼくし" pa="1" pos="N" jlpt="1" />
 			<ex	 word="遊牧" pron="ゆうぼく" pa="0" pos="N" jlpt="3" />
 		</r>
@@ -174,7 +180,9 @@
 	
 	<kanji	id="没" freq="1570" jlpt="1" gr="8">
 		<r on="ボツ" >
-			<ex	 word="没収" pron="ぼっしゅう" pa="0" pos="N" jlpt="1" />
+			<ex	 word="没収" pron="ぼっしゅう" pa="0" pos="N/ts" jlpt="1" >
+				<e ph="財産を没収される" />
+			</ex>
 			<ex	 word="沈没" pron="ちんぼつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="没落" pron="ぼつらく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="出没" pron="しゅつぼつ" pa="0" pos="N" />
@@ -204,6 +212,12 @@
 			<ex	 word="本質" pron="ほんしつ" pa="0" pos="N" jlpt="1" />
 			<ex	 word="本田" pron="ほんだ" pa="*0" pos="N" />
 			<ex	 word="本場" pron="ほんば" pa="0" pos="N" cn="原产地;当地;正宗" />
+			<ex	 word="本気" pron="ほんき" pa="0" pos="N/NA" jlpt="1" cn="纯真,直性子;认真;死心眼" >
+				<e ph="" />
+			</ex>
+			<ex	 word="本物" pron="ほんもの" pa="0" pos="N" jlpt="3" ant="偽物" cn="真货,正品;正式.正规" >
+				<e ph="本物の骨董品・本物の味・彼の腕前は本物だ" />
+			</ex>
 		</r>
 		<r kun="もと" kk="本" pa="2" pos="N" jlpt="3" > 
 			<ex	 word="旗本" pron="はたもと" pa="0" pos="N" />
@@ -230,7 +244,9 @@
 	
 	<kanji	id="凡" freq="893" jlpt="1" gr="8">
 		<r on="ボン" >
-			<ex	 word="平凡" pron="へいぼん" pa="0" pos="N" jlpt="2" />
+			<ex	 word="平凡" pron="へいぼん" pa="0" pos="N/NA" jlpt="2" ant="非凡" >
+				<e ph="平凡な人生・平凡な生活を送る" />
+			</ex>
 			<ex	 word="凡人" pron="ぼんじん" pa="0" pos="N" />
 		</r>
 		<r on="ハン" >
@@ -390,9 +406,11 @@
 			<ex	 word="満期" pron="まんき" pa="0" pos="N" />
 			<ex	 word="満々" pron="まんまん" pa="0" pos="sf" ph="やる気満々・自信満々" />
 		</r>
-		<r kun="み`ちる" kk="満ちる" pa="2" pos="j1" jlpt="3" >
+		<r kun="み`ちる" kk="満ちる" pa="2" pos="j1" jlpt="3" cn="充满;月满;任满">
+			<e ph="希望に満ちている・任期が満ちる・月が満ちる" />
 		</r>
-		<r kun="み`たす" kk="満たす" pa="2" pos="t5" jlpt="1" >
+		<r kun="み`たす" kk="満たす" pa="2" pos="t5" jlpt="1" cn="填满;满足" >
+			<e ph="腹を満たす・全ての条件を満たす・需要を満たす" />
 		</r>
 	</kanji>
 	
@@ -653,12 +671,11 @@
 	
 	<kanji	id="迷" freq="855" jlpt="3" gr="5">
 		<r on="メイ" >
-			<ex	 word="迷惑" pron="めいわく" pa="1" pos="N/NA" jlpt="3" eng="trouble;bother" />
 			<ex	 word="低迷" pron="ていめい" pa="0" pos="N" />
 		</r>
 		<r kun="まよ`う" kk="迷う" pa="2" pos="N" ph="路頭に迷う・道に迷う" > 
 		</r>
-		<r kun="まよい" kk="迷い" pa="2" pos="adj" > 
+		<r kun="まよ`い" kk="迷い" pa="2" pos="adj" > 
 		</r>
 	</kanji>
 	
@@ -990,6 +1007,7 @@
 		<r on="ヤク" >
 			<ex	 word="役所" pron="やくしょ" pa="0" pos="N" />
 			<ex	 word="役人" pron="やくにん" pa="0" pos="N" />
+			<ex	 word="上役" pron="うわやく" pa="0" pos="N" />
 			<ex	 word="主役" pron="しゅやく" pa="0" pos="N" jlpt="2" cn="主角" eng="leading actor(actress)" ref="二枚目・三枚目" />
 			<ex	 word="脇役" pron="わきやく" pa="0" pos="N" />
 			<ex	 word="役割" pron="やくわり" pa="0" pos="N" jlpt="3" cn="分配的任务,担当的职务" />

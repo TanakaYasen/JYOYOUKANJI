@@ -539,7 +539,9 @@
 			<ex	 word="過程" pron="かてい" pa="0" pos="N" jlpt="2"/>
 			<ex	 word="課程" pron="かてい" pa="0" pos="N" jlpt="2"/>
 		</r>
-		<r kun="ほど" kk="程" pa="0" pos="N" jlpt="3" >
+		<r kun="ほど" kk="程" pa="0" pos="N" jlpt="3" cn="程度;限度;分寸; 时候#大致 范围,比较基准;越...越..." >
+			<e ph="真偽のほどを確かめる・馬鹿にもほどがある・身のほどを知る" />
+			<e ph="駅まで十分ほど掛かる・昨年ほど寒くない・食べれば食べるほど美味しい" />
 			<ex	 word="先程" pron="さきほど" pa="0" pos="adv" jlpt="2"/>
 			<ex	 word="後程" pron="のちほど" pa="0" pos="adv" />
 		</r>

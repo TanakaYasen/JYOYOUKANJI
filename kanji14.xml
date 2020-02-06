@@ -75,7 +75,9 @@
 		<r on="ゾウ" >
 			<ex	 word="増加" pron="ぞうか" pa="0" jlpt="3" pos="N" cn="" />
 		</r>
-		<r kun="ま`す" kk="増す" pa="0" pos="jt5" jlpt="3" ></r>
+		<r kun="ま`す" kk="増す" pa="0" pos="jt5" jlpt="3" cn="增加" >
+			<e ph="可能性が増す・スピードを増す" />
+		</r>
 		<r kun="ふ`える" kk="増える" pa="2" pos="j1" jlpt="4"></r>
 		<r kun="ふ`やす" kk="増やす" pa="2" pos="t5" jlpt="2"></r>
 	</kanji>
@@ -465,7 +467,10 @@
 			<ex	 word="待遇" pron="たいぐう" pa="0" jlpt="1" pos="N" />
 		</r>
 		<r kun="ま`つ" kk="待つ" pa="1" pos="jt1" jlpt="5">
-			<ex	 word="待ち合わせる" pron="まちあわせる" pa="5" jlpt="2" pos="t1" cn="等候;碰头;会面" />
+			<ex	 word="待ち合わせる" pron="まちあわせる" pa="5" jlpt="2" pos="t1" cn="在约定的地方等候碰头;约定会面" />
+			<ex	 word="待ち望む" pron="まちのぞむ" pa="4" jlpt="2" pos="t1" cn="盼望" >
+				<e ph="平和を待ち望む・終戦の日を待ち望む・子供の健やかな成長を待ち望む" />
+			</ex>
 		</r>
 	</kanji>
 	

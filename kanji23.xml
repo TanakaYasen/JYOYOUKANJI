@@ -217,7 +217,7 @@
 		<r kun="こぼれる" kk="零れる" pa="3" pos="j1" jlpt="2" eng="to overflow" cn="洒落,溢出;表露流露;凋谢" ref="溢れる" >
 			<e ph="涙が零れる・水が零れる・ご飯が零れる・笑みが零れた・笑みの中に刃を隠す・笑うと白い歯が零れる" />
 		</r>
-		<r kun="こぼす" kk="零す" pa="3" pos="j1" jlpt="2" eng="to overflow" cn="洒落;溢出;凋谢" ref="溢れる" >
+		<r kun="こぼ`す" kk="零す" pa="3" pos="j1" jlpt="2" eng="to overflow" cn="洒落;溢出;凋谢" ref="溢れる" >
 			<e ph="涙を零す・手が滑ってお茶を零してしまった・愚痴を零す" />
 		</r>
 	</kanji>
@@ -634,7 +634,9 @@
 	<kanji	id="惑" freq="949" jlpt="1" gr="8">
 		<r on="ワク" >
 			<ex	 word="疑惑" pron="ぎわく" pa="0" pos="N" jlpt="1" />
-			<ex	 word="迷惑" pron="めいわく" pa="0" pos="N" jlpt="3" />
+			<ex	 word="迷惑" pron="めいわく" pa="1" pos="N/NA" jlpt="3" eng="trouble;bother" >
+				<e ph="迷惑をかける・ありがた迷惑" />
+			</ex>
 		</r>
 		<r kun="まどう" kk="惑う" pa="2" pos="j5" >
 		</r>

@@ -50,7 +50,9 @@
 	
 	<kanji	id="紛" freq="1616" jlpt="1" gr="8">
 		<r on="フン" >
-			<ex	 word="紛争" pron="ふんそう" pa="0" pos="N" />
+			<ex	 word="紛争" pron="ふんそう" pa="0" pos="N" jlpt="1" >
+				<e ph="紛争を解決する" />
+			</ex>
 			<ex	 word="紛失" pron="ふんしつ" pa="0" pos="N/jts" jlpt="1" eng="loss" cn="遗失" >
 				<e ph="紛失物・財布を紛失する" />
 			</ex>
@@ -75,7 +77,9 @@
 	<kanji	id="噴" freq="1803" jlpt="1" gr="8">
 		<r on="フン" >
 			<ex	 word="噴火" pron="ふんか" pa="0" pos="N" jlpt="2" />
-			<ex	 word="噴出" pron="ふんしゅつ" pa="0" pos="N" jlpt="1" />
+			<ex	 word="噴出" pron="ふんしゅつ" pa="0" pos="N" jlpt="1" >
+				<e ph="温泉が噴出する・反対意見が噴出する・不満を噴出する" />
+			</ex>
 			<ex	 word="噴水" pron="ふんすい" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r kun="ふ`く" kk="噴く" pa="1" pos="N" jlpt="5" >
@@ -117,6 +121,9 @@
 			<ex	 word="分野" pron="ぶんや" pa="1" pos="N" jlpt="3" cn="领域" />
 			<ex	 word="部分" pron="ぶぶん" pa="1" pos="N" jlpt="3" />
 			<ex	 word="自分" pron="じぶん" pa="0" pos="N" jlpt="5" />
+			<ex	 word="分布" pron="ぶんぷ" pa="0" pos="N" jlpt="2" eng="distribution" >
+				<e ph="全国各地に分布する" />
+			</ex>
 			<ex	 word="分解" pron="ぶんかい" pa="0" pos="jts" />
 			<ex	 word="水分" pron="すいぶん" pa="1" pos="N" />
 		</r>
@@ -278,7 +285,9 @@
 	
 	<kanji	id="閉" freq="966" jlpt="3" gr="6">
 		<r on="ヘイ" >
-			<ex	 word="閉鎖" pron="へいさ" pa="0" pos="N" jlpt="1" />
+			<ex	 word="閉鎖" pron="へいさ" pa="0" pos="N" jlpt="1" ant="開放" >
+				<e ph="工場を閉鎖する・国境を閉鎖する" />
+			</ex>
 			<ex	 word="密閉" pron="みっぺい" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r kun="とじる" kk="閉じる" pa="2" pos="jt1" jlpt="3" >
@@ -534,7 +543,6 @@
 	
 	<kanji	id="保" freq="573" jlpt="1" gr="5">
 		<r on="ホ" >
-			<ex	 word="保護" pron="ほご" pa="1" pos="N" jlpt="1" />
 			<ex	 word="保守" pron="ほしゅ" pa="1" pos="N/ts" jlpt="1" />
 			<ex	 word="確保" pron="かくほ" pa="1" pos="N" jlpt="1" />
 		</r>
@@ -574,7 +582,9 @@
 	
 	<kanji	id="補" freq="1515" jlpt="2" gr="6">
 		<r on="ホ" >
-			<ex	 word="補助" pron="ほじょ" pa="1" pos="N/js" jlpt="1" />
+			<ex	 word="補助" pron="ほじょ" pa="1" pos="N/ts" jlpt="1" >
+				<e ph="生活費を補助する" />
+			</ex>
 			<ex	 word="補充" pron="ほじゅう" pa="0" pos="N/js" jlpt="1" />
 			<ex	 word="補償" pron="ほしょう" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="補欠" pron="ほりょ" pa="0" pos="N" />
@@ -587,7 +597,9 @@
 	
 	<kanji	id="舗" freq="2742" jlpt="1" gr="8">
 		<r on="ホ" >
-			<ex	 word="舗装" pron="ほそう" pa="0" pos="N/js" jlpt="1" />
+			<ex	 word="舗装" pron="ほそう" pa="0" pos="N/js" jlpt="1" cn="铺设路面" >
+				<e ph="舗装工事・道路を舗装する" />
+			</ex>
 			<ex	 word="店舗" pron="てんぽ" pa="1" pos="N" />
 		</r>
 	</kanji>
@@ -651,6 +663,9 @@
 	<kanji	id="方" freq="21" jlpt="4" gr="2">
 		<r on="ホウ" >
 			<ex	 word="方針" pron="ほうしん" pa="0" pos="N" jlpt="3" />
+			<ex	 word="方々" pron="ほうぼう" pa="1" pos="N" jlpt="3" cn="各处;到处;各方面" ref="所々" >
+				<e ph="方々探し回る・方々に迷惑をかける" />
+			</ex>
 			<ex	 word="方法" pron="ほうほう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="方向" pron="ほうこう" pa="0" pos="N" jlpt="3" />
 			<ex	 word="地方" pron="ちほう" pa="2" pos="N" jlpt="3" />
@@ -754,7 +769,15 @@
 		<r kun="はなれる" kk="放れる" pa="3" pos="j1" jlpt="2" cn="脱离">
 		</r>
 		<r kun="ほうる" kk="放る" pa="0" pos="t5" cn="抛;扔;弃置">
-			<ex	 word="放り込む" pron="ほうりこむ" pa="0" pos="t5" jlpt="1" />
+			<ex	 word="放って置く" pron="ほうっておく" pa="0" pos="t5" cn="放在一边;弃置不管" >
+				<e ph="遣り掛けの仕事を放っておく・放っといてください" />
+			</ex>
+			<ex	 word="放り込む" pron="ほうりこむ" pa="0" pos="t5" jlpt="1" cn="丢进,漫不经心地放入" >
+				<e ph="チョコレートを口に放り込む・そのまま引き出しに放り込む" />
+			</ex>
+			<ex	 word="放り出す" pron="ほうりだす" pa="0" pos="t5" jlpt="1" cn="扔出;胡乱放置;开除解雇" >
+				<e ph="鞄を放り出して遊びに出かけた・仕事を放り出す・秘書を放り出す" />
+			</ex>
 		</r>
 		<r nfu="ほしいまま・放す(まかす)・放す(ゆるす)・放る(ひる)・放く(こく)・放く(さく)" />
 	</kanji>
@@ -864,9 +887,12 @@
 	<kanji	id="豊" freq="955" jlpt="2" gr="5">
 		<r on="ホウ" >
 			<ex	 word="豊富" pron="ほうふ" pa="0" pos="N" jlpt="3" />
-			<ex	 word="豊作" pron="ほうさく" pa="0" pos="N" jlpt="3" />
+			<ex	 word="豊作" pron="ほうさく" pa="0" pos="N" jlpt="3" ant="不作" cn="丰收" >
+				<e ph="今年の文学界は豊作だ" />
+			</ex>
 		</r>
-		<r kun="ゆたか" kk="豊か" pa="1" pos="NA" jlpt="3" >
+		<r kun="ゆた`か" kk="豊か" pa="1" pos="NA" jlpt="3" cn="丰饶;充裕" >
+			
 		</r>
 		<r nfu="とよ・レイ" />
 	</kanji>
@@ -944,7 +970,12 @@
 	
 	<kanji	id="坊" freq="714" gr="8">
 		<r on="ボウ" >
-			<ex	 word="坊主" pron="ぼうず" pa="1" pos="N" />
+			<ex	 word="坊主" pron="ぼうず" pa="1" pos="N" >
+				<e ph="坊主頭・三日坊主" />
+			</ex>
+			<ex	 word="坊や" pron="ぼうや" pa="1" pos="N" cn="男孩;毛头小子" >
+				<e ph="活発な坊や・いつまでも坊やで困る" />
+			</ex>
 		</r>
 		<r on="ボッ" >
 		</r>
@@ -975,6 +1006,7 @@
 		<r on="ボウ" >
 			<ex	 word="防衛" pron="ぼうえい" pa="0" pos="N/ts" jlpt="1" />
 			<ex	 word="防止" pron="ぼうし" pa="0" pos="N/ts" jlpt="2" />
+			<ex	 word="防犯" pron="ぼうはん" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r kun="ふせ`ぐ" kk="防ぐ" pa="2" pos="t5" jlpt="3" eng="to defend against; to prevent/avoid" >
 			<e ph="火を防ぐ・疫病を防ぐ" />
@@ -1008,7 +1040,9 @@
 	<kanji	id="冒" freq="1805" jlpt="1" gr="8">
 		<r on="ボウ" >
 			<ex	 word="感冒" pron="かんぼう" pa="0" pos="N" />
-			<ex	 word="冒険" pron="ぼうけん" pa="0" pos="N" />
+			<ex	 word="冒険" pron="ぼうけん" pa="0" pos="N/js" jlpt="3" >
+				<e ph="冒険談・冒険をおかす" />
+			</ex>
 		</r>
 		<r kun="おかす" kk="冒す" pa="02" pos="t5" eng="to brave; to risk" >
 		</r>
@@ -1038,7 +1072,9 @@
 			<ex	 word="展望" pron="てんぼう" pa="0" pos="N" />
 			<ex	 word="絶望" pron="ぜつぼう" pa="0" pos="N" />
 		</r>
-		<r kun="のぞむ" kk="望む" pa="0" pos="t5" jlpt="3" eng="to desire; to wish for">
+		<r kun="のぞ`む" kk="望む" pa="0" pos="t5" jlpt="3" eng="to desire; to wish for">
+			<e ph="ここからは富士山を望むことができる・出世を望む・成功を望む" />
+			<e ph="幸福を望む・彼には多くは望めない" />
 		</r>
 		<r kun="のぞましい" kk="望ましい" pa="04" pos="adj" jlpt="1" cn="最好最理想的" eng="desirable">
 		</r>

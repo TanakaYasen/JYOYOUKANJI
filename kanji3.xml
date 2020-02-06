@@ -387,8 +387,10 @@
 			<ex	 word="隔離" pron="かくり" pa="1" pos="N" />
 			<ex	 word="間隔" pron="かんかく" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="へだてる" kk="隔てる" pa="3" pos="t1" jlpt="2" eng="to separate;to isolate" />
-		<r kun="へだたる" kk="隔たる" pa="3" pos="j5" jlpt="1" eng="to be distant" />
+		<r kun="へだ`てる" kk="隔てる" pa="3" pos="t1" jlpt="2" cn="使分开,隔开;离间,疏离" eng="to separate;to isolate" />
+		<r kun="へだ`たる" kk="隔たる" pa="3" pos="j5" jlpt="1" cn="存在距离;有差距;关系疏远" eng="to be distant" >
+			<e ph="年月が隔たる・意見が隔たる・仲が隔たる" />
+		</r>
 	</kanji>
 	
 	<kanji	id="閣" freq="1265" jlpt="1" gr="6">
@@ -509,7 +511,7 @@
 	
 	<kanji	id="活" freq="181" jlpt="3" gr="2">
 		<r on="カツ" >
-			<ex	 word="活気" pron="かっき" pa="0" pos="N" cn="活力生机" ph="活気に溢れる都市" />
+			<ex	 word="活気" pron="かっき" pa="0" pos="N" jlpt="3" cn="活力生机" ph="活気に溢れる都市" />
 			<ex	 word="活発" pron="かっぱつ" pa="0" pos="NA" cn="活泼;活跃" ph="活発な" />
 			<ex	 word="生活" pron="せいかつ" pa="0" pos="N" jlpt="4" />
 			<ex	 word="快活" pron="かいかつ" pa="0" pos="N" />

@@ -490,7 +490,8 @@
 			<ex	 word="布施" pron="ふせ" pa="0" pos="N" />
 			<ex	 word="施療" pron="せりょう" pa="0" pos="js" />
 		</r>
-		<r kun="ほどこ`す" kk="施す" pa="3" pos="t5" jlpt="1" eng="to give/donate" >
+		<r kun="ほどこ`す" kk="施す" pa="3" pos="t5" jlpt="1" cn="施舍;施行;施加" eng="to give/donate" >
+			<e ph="恩恵を施す・手の施しようがない・肥料を施す" />
 		</r>
 		<r nfu="施く(しく)" >
 		</r>

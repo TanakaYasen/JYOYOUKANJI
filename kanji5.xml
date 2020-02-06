@@ -595,6 +595,33 @@
 		</r>
 		<r kun="み`る" kk="見る" pa="1" pos="t1" jlpt="5">
 			<ex	 word="見積もる" pron="みつもる" pa="03" pos="t5"  />
+			<ex	 word="見合い" pron="みあい" pa="0" pos="t5" jlpt="1" cn="对视;相亲;相抵" />
+			<ex	 word="見落とす" pron="みおとす" pa="3" pos="t5" jlpt="1" cn="看漏;忽略过去" >
+				<e ph="数字を見落とす・間違いを見落とす" />
+			</ex>
+			<ex	 word="見下ろす" pron="みおろす" pa="0" pos="t5" jlpt="2" cn="俯视;小看瞧不起" >
+				<e ph="頂上から見下ろす・人を見下ろす" />
+			</ex>
+			<ex	 word="見捨てる" pron="みすてる" pa="3" pos="t1" cn="弃而不顾;视而不见" >
+				<e ph="医者に見捨てられる・仲間を見捨てて逃げる・困っている友人を見捨てる" />
+			</ex>
+			<ex	 word="見違える" pron="みちがえる" pa="3" pos="t1" cn="看错" >
+				<e ph="見違えるほど変わった・見違えるほどおおきくなった・家具を新しくしたので部屋が見違えるようになった" />
+			</ex>
+			<ex	 word="見慣れる" pron="みなれる" pa="3" pos="j1" cn="看惯,司空见惯" >
+				<e ph="見慣れた風景・見慣れない顔・見慣れないとほとんど区別がつかない" />
+			</ex>
+			<ex	 word="見抜く" pron="みぬく" pa="2" pos="t5" cn="看穿,识破" >
+				<e ph="嘘を見抜く・本心を見抜く" />
+			</ex>
+			<ex	 word="見守る" pron="みまもる" pa="3" pos="t5" cn="注视,关怀" >
+				<e ph="スクリーンを見守る・子供の成長を見守る・事件の展開を見守る" />
+			</ex>
+			<ex	 word="見回す" pron="みまわす" pa="3" pos="t5" cn="环视" >
+			</ex>
+			<ex	 word="見分ける" pron="みわける" pa="3" pos="t1" cn="识别,鉴别" >
+				<e ph="色で見分ける・欠陥品を見分ける" />
+			</ex>
 		</r>
 		<r kun="み`える" kk="見える" pa="2" pos="j1" jlpt="4"> </r>
 		<r kun="み`せる" kk="見せる" pa="2" pos="t5" jlpt="5"> </r>
@@ -696,6 +723,7 @@
 			<ex	 word="健全" pron="けんぜん" pa="0" pos="NA" jlpt="3" >
 				<e ph="健全な肉体・健全な財政" />
 			</ex>
+			<ex	 word="保健" pron="ほけん" pa="0" pos="N" jlpt="2" />
 		</r>
 		<r kun="すこ`やか" kk="健やか" pa="2" pos="NA" jlpt="1" cn="健壮的" >
 			<e ph="健やかな体・子供が健やかに育つ／に成長する" />
@@ -706,8 +734,9 @@
 	<kanji	id="険" freq="1077" jlpt="3" gr="5">
 		<r on="ケン" >
 			<ex	 word="危険" pron="きけん" pa="0" pos="N/NA" jlpt="4" />
-			<ex	 word="冒険" pron="ぼうけん" pa="0" pos="N/js" jlpt="3" />
-			<ex	 word="保険" pron="ほけん" pa="0" pos="N/js" jlpt="1" eng="insurance; guarantee" ph="保険を掛ける" />
+			<ex	 word="保険" pron="ほけん" pa="0" pos="N/js" jlpt="1" eng="insurance; guarantee" >
+			 	<e ph="保険会社・保険に加入する・保険を掛ける" />
+			 </ex>
 		</r>
 		<r kun="けわ`しい" kk="険しい" pa="3" pos="adj" jlpt="2" cn="险峻，陡峭;险恶，艰险" > </r>
 	</kanji>
@@ -774,6 +803,7 @@
 		</r>
 		<r kun="つかう" kk="遣う" pa="*0" pos="t5" jlpt="5" ></r>
 		<r kun="つかわす" kk="遣わす" pa="03" pos="N" ></r>
+		<r kun="やる" kk="遣る" pa="0" pos="t5" ></r>
 	</kanji>
 	
 	<kanji	id="権" freq="700" jlpt="3" gr="6">

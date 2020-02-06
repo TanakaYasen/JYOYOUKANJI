@@ -722,5 +722,12 @@
 		</r>
 	</kanji>
 	
+	
+	<kanji	id="跨ぐ" freq="1454" >
+		<r kun="またぐ" kk="跨ぐ" pa="2" pos="t5" jlpt="2" >
+			<e ph="溝を跨ぐ・車道を跨ぐ歩道橋" />
+		</r>
+	</kanji>
+	
 </Dict>
 

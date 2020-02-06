@@ -79,7 +79,7 @@
 		<r on="ユウ" >
 			<ex	 word="湧水" pron="ゆうすい" pa="3" pos="N" />
 		</r>
-		<r kun="わく" kk="湧く" pa="0" pos="j5" jlpt="2" >
+		<r kun="わ`く" kk="湧く" pa="0" pos="j5" jlpt="2" cn="喷涌" >
 		</r>
 	</kanji>
 	
@@ -634,9 +634,11 @@
 			<ex	 word="乱暴" pron="らんぼう" pa="0" pos="N" jlpt="2" eng="violence" />
 			<ex	 word="乱戦" pron="らんせん" pa="0" pos="N" />
 		</r>
-		<r kun="みだれる" kk="乱れる" pa="3" pos="j1" jlpt="1" >
+		<r kun="みだ`れる" kk="乱れる" pa="3" pos="j1" jlpt="1" cn="紊乱;骚乱不安定;困惑" >
+			<e ph="秩序が/順序が乱れる・脈が乱れる・世が乱れる・心が乱れる" />
 		</r>
-		<r kun="みだす" kk="乱す" pa="2" pos="t5" jlpt="1" ref="紊す">
+		<r kun="みだ`す" kk="乱す" pa="2" pos="t5" jlpt="1" cn="弄乱扰乱" ref="紊す">
+			<e ph="秩序を乱す・心を乱す・風俗を乱す・髪を乱す" />
 		</r>
 	</kanji>
 	

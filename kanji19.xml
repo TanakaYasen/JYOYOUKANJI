@@ -619,9 +619,11 @@
 			<ex	 word="勝負" pron="しょうぶ" pa="1" pos="N" jlpt="2" />
 			<ex	 word="負債" pron="ふさい" pa="0" pos="N" jlpt="1"/>
 		</r>
-		<r kun="ま`ける" kk="負ける" pa="0" pos="jt1" jlpt="4">
+		<r kun="ま`ける" kk="負ける" pa="0" pos="jt1" jlpt="4" cn="输,战败;屈服认输">
+			<e ph="わずか一点差で相手チームに負けちゃった" />
 		</r>
-		<r kun="まかす" kk="負かす" pa="0" pos="t5" jlpt="1">
+		<r kun="ま`かす" kk="負かす" pa="0" pos="t5" jlpt="1" cn="打败...,战胜" >
+			<e ph="一点の差で相手を負かす・ライバルを負かす" />
 		</r>
 		<r kun="お`う" kk="負う" pa="0" pos="adj" jlpt="1" cn="背负" ph="責任を負う">
 		</r>
