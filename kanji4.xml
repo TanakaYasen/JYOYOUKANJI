@@ -302,7 +302,7 @@
 			<ex	 word="起源" pron="きげん" pa="1" pos="N" />
 			<ex	 word="起立" pron="きりつ" pa="1" pos="N" />
 		</r>
-		<r kun="お`きる" kk="起きる" pa="2" pos="j1" jlpt="5" cn="起床" eng="to get up; to occur"></r>
+		<r kun="お`きる" kk="起きる" pa="2" pos="j1" jlpt="5" ant="寝る" cn="起床" eng="to get up; to occur"></r>
 		<r kun="お`こす" kk="起こす" pa="2" pos="t5" jlpt="4" cn="引起" eng="to raise; to waken; to cause" ></r>
 		<r kun="お`こる" kk="起こる" pa="2" pos="j5" jlpt="1" cn="发生;发作" ></r>
 		<r nfu="起つ(たつ)"></r>
@@ -330,7 +330,7 @@
 		<r on="キ" >
 			<ex	 word="帰依" pron="きえ" pa="1" pos="N" />
 		</r>
-		<r kun="かえ`る" kk="帰る" pa="1" pos="j5" jlpt="1" ref="返る" cn="回家" ></r>
+		<r kun="かえ`る" kk="帰る" pa="*1" pos="*j5" jlpt="1" ref="返る" cn="回家" ></r>
 		<r kun="かえ`す" kk="帰す" pa="3" pos="t5" jlpt="2" ></r>
 		<r nfu="帰ぐ(とつぐ)・帰る(おくる)"></r>
 	</kanji>
@@ -382,7 +382,11 @@
 		<r on="キ" >
 			<ex	 word="幾何" pron="きか" pa="1" pos="N" />
 		</r>
-		<r kun="いく" kk="幾" pa="3" pos="j5" jlpt="1" ></r>
+		<r kun="いく" kk="幾" pa="3" pos="j5" jlpt="1" >
+		
+			<ex	 word="幾つ" pron="*いくつ" pa="1" pos="N" jlpt="5" cn="几岁" />
+			<ex	 word="幾ら" pron="*いくら" pa="1" pos="N" jlpt="5" cn="多少钱" />
+		</r>
 		<r nfu="幾し(きざし)・幾う(こいねがう)・幾ど(ほとんど)"></r>
 	</kanji>
 	
@@ -642,7 +646,9 @@
 			<ex	 word="詰問" pron="きつもん" pa="0" pos="N/ts" />
 		</r>
 		<r kun="つ`める" kk="詰める" pa="2" pos="t1" jlpt="3" ></r>
-		<r kun="つ`まる" kk="詰まる" pa="2" pos="j5" jlpt="2" ></r>
+		<r kun="つ`まる" kk="詰まる" pa="2" pos="j5" jlpt="2" >
+			<ex	 word="詰まらない" pron="つまらない" pa="3" pos="adj" jlpt="5" ant="面白い" jp="興味が湧かない。退屈だ"/>
+		</r>
 		<r kun="つ`む" kk="詰む" pa="1" pos="j5" ></r>
 	</kanji>
 	
@@ -829,7 +835,9 @@
 			<ex	 word="宅急便" pron="たくきゅうびん" pa="0" pos="N" />
 			<ex	 word="急激" pron="きゅうげき" pa="0" pos="NA" jlpt="3" eng="sudden; rapid; sharp" cn="激烈的" />
 		</r>
-		<r kun="いそ`ぐ" kk="急ぐ" pa="2" pos="j5" jlpt="4" ></r>
+		<r kun="いそ`ぐ" kk="急ぐ" pa="2" pos="j5" jlpt="4" cn="赶紧着急">
+			<e ph="仕事を急ぐ" />
+		</r>
 		<r kun="いそが`しい" kk="忙しい" pa="4" pos="adj" jlpt="5" ></r>
 	</kanji>
 	
@@ -1093,7 +1101,7 @@
 			<ex	 word="挟撃" pron="きょうげき" pa="0" pos="N" />
 		</r>
 		<r kun="はさむ" kk="挟む" pa="2" pos="t5" jlpt="2" cn="插;夹" >
-			<e ph="本にしおりを挟む・お箸で挟む・道を挟んで歓迎・口を挟む" >
+			<e ph="本にしおりを挟む・お箸で挟む・道を挟んで歓迎・口を挟む" />
 			<ex	 word="板挟み" pron="いたばさみ" pa="3" pos="N" cn="进退维谷"/>
 		</r>
 		<r kun="はさまる" kk="挟まる" pa="2" pos="t5" jlpt="2" >
@@ -1172,7 +1180,7 @@
 		</r>
 		<r on="ゴウ" >
 			<ex	 word="強引" pron="ごういん" pa="0" pos="NA" cn="强迫; 强行">
-				<e ph="強引なやり方・強引に推し進める・強引でも彼女を病院に連れて往く">
+				<e ph="強引なやり方・強引に推し進める・強引でも彼女を病院に連れて往く" />
 			</ex>
 		</r>
 		<r kun="つよ`い" kk="強い" pa="2" pos="adj" jlpt="1" ></r>
@@ -1275,9 +1283,12 @@
 			</ex>
 		</r>
 		<r kun="あお`ぐ" kk="仰ぐ" pa="2" pos="t5" jlpt="1" cn="瞻仰;尊为,推举为;仰赖仰仗" >
-			<e ph="高層ビルを仰ぎ見る" />
+			<e ph="高層ビルを/空を仰ぎ見る" />
 		</r>
-		<r kun="おお`せ" kk="仰せ" pa="0" pos="N" cn="上司的训示"> </r>
+		<r kun="おお`せ" kk="仰せ" pa="0" pos="N" cn="指示吩咐; 上司的训示"></r>
+		<r kun="おっしゃる" kk="仰る" pa="3" pos="j5" jlpt="5" jp="おおせある" cn="言う尊他语" ph="とおっしゃる" >
+			<e ph="先生の仰る通りです" />
+		</r>
 	</kanji>
 	
 	<kanji	id="暁" freq="1979" jlpt="1" gr="8">
@@ -1447,7 +1458,8 @@
 		</r>
 		<r kun="すじ" kk="筋" pa="1" pos="N" jlpt="3" ref="条" >
 			<ex	 word="一筋" pron="ひとすじ" pa="2" pos="N/adv" jlpt="1" />
-			<ex	 word="大筋" pron="おおすじ" pa="0" pos="N" jlpt="1" cn="梗概" eng="outline" />
+			<ex	 word="大筋" pron="おおすじ" pa="0" pos="N" jlpt="1" cn="梗概;大纲" eng="outline" />
+			<ex	 word="粗筋" pron="あらすじ" pa="0" pos="N" jlpt="2" cn="梗概;大纲" eng="outline;summary" />
 			<ex	 word="首筋" pron="くびすじ" pa="0" pos="N" cn="脖颈" />
 		</r>
 	</kanji>

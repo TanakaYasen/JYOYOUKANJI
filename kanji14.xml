@@ -148,6 +148,9 @@
 		<r on="ソク" >
 			<ex	 word="蛇足" pron="だそく" pa="0" jlpt="5" pos="N" cn="画蛇添足" />
 			<ex	 word="不足" pron="ふそく" pa="0" jlpt="3" pos="N" eng="insufficiency" />
+			<ex	 word="遠足" pron="えんそく" pa="0" pos="N/js" jlpt="5" ref="ハイキング">
+				<e ph="郊外へ遠足に行く" />
+			</ex>
 		</r>
 		<r kun="あし" kk="足" pa="2" pos="N" jlpt="5" ph="足を洗う">
 			<ex	 word="足取り" pron="あしどり" pa="0" pos="N" cn="脚步" eng="gait; footstep; trace" />
@@ -618,8 +621,8 @@
 			<ex	 word="大人" pron="おとな" pa="3" jlpt="5" pos="N" eng="adult"/>
 		</r>
 		<r kun="おお" kk="大" pa="0" >
-			<ex	 word="大勢" pron="おおぜい" pa="3" jlpt="5" pos="N" />
-			<ex	 word="大神" pron="おおかみ" pa="3" jlpt="2" pos="N" />
+			<ex	 word="大勢" pron="おおぜい" pa="3" pos="N" jlpt="5" ph="大勢の人" />
+			<ex	 word="大神" pron="おおかみ" pa="3" pos="N" jlpt="2" />
 		</r>
 		<r kun="おお`きい" kk="大きい" pa="3" jlpt="5" ></r>
 		<r kun="おお`いに" kk="大いに" pa="1" ></r>

@@ -228,21 +228,24 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="塚" freq="1519" jlpt="3" gr="4">
-		<r on="キ" >
+	<kanji	id="埃" freq="1914" >
+		<r on="アイ" >
+			<ex	 word="塵埃" pron="じんあい" pa="0" pos="N" />
 		</r>
-		<r kun="つか" kk="塚" pa="0" pos="N" jlpt="1" >
+		<r kun="ちり" kk="塵" pa="0" pos="N" >
 		</r>
-	</kanji>
-	
-	<kanji	id="磯" freq="1726" jlpt="3" gr="4">
-		<r on="キ" >
-		</r>
-		<r kun="いそ" kk="磯" pa="0" pos="N" jlpt="1" >
+		<r kun="ほこり" kk="埃" pa="0" pos="N" >
 		</r>
 	</kanji>
 	
-	<kanji	id="碇" freq="3322" jlpt="3" gr="4">
+	<kanji	id="磯" freq="1726" >
+		<r on="キ" >
+		</r>
+		<r kun="いそ" kk="磯" pa="0" pos="N" jlpt="1" cn="海岸湖滨;礁石">
+		</r>
+	</kanji>
+	
+	<kanji	id="碇" freq="3322" >
 		<r on="テイ" >
 		</r>
 		<r kun="いかり" kk="碇" pa="0" pos="N" jlpt="1" >
@@ -336,6 +339,14 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="騙" freq="1311" >
+		<r on="シュン" ></r>
+		<r on="ジュン" ></r>
+		<r kun="だます" kk="騙す" pa="2" pos="j1" jlpt="4" >
+			<e ph="人に馴れた犬" />
+		</r>
+	</kanji>
+	
 	<kanji	id="鳶" freq="2452" jlpt="3" gr="4">
 		<r on="エン" >
 		</r>
@@ -421,7 +432,7 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="獏" freq="2073" jlpt="3" gr="4">
+	<kanji	id="獏" freq="4655" jlpt="3" gr="4">
 		<r kun="ばく" kk="獏" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
@@ -431,7 +442,7 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="鮭" freq="3896" jlpt="3" gr="4">
+	<kanji	id="鮭" freq="3134" jlpt="3" gr="4">
 		<r kun="ふぐ" kk="鮭" pa="0" pos="N" jlpt="1" >
 		</r>
 	</kanji>
@@ -475,8 +486,8 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="鮫" freq="2706" jlpt="3" gr="4">
-		<r on="バン" >
+	<kanji	id="鮫" freq="3166" jlpt="3" gr="4">
+		<r on="コウ" >
 		</r>
 		<r kun="さめ" kk="鮫" pa="0" pos="N" jlpt="1" >
 		</r>
@@ -489,22 +500,23 @@
 		</r>
 	</kanji>
 	
-	<kanji	id="唸" freq="1230" jlpt="3" gr="4">
+	<kanji	id="唸" freq="2062" jlpt="3" gr="4">
 		<r kun="うな`る" kk="唸る" pa="2" pos="j5" jlpt="1" cn="呻吟;悲鸣;轰鸣" >
 			<e ph="犬が唸る・痛さに唸る。病人が一晩中唸っていた・サイレンが唸る" />
 		</r>
 	</kanji>
 	
 	<kanji	id="喋" freq="1230" jlpt="3" gr="4">
-		<r kun="お喋り" kk="唸る" pa="2" pos="j5" jlpt="1" cn="呻吟;悲鸣;轰鸣" >
-			<e ph="犬が唸る・痛さに唸る。病人が一晩中唸っていた・サイレンが唸る" />
+		<r kun="おしゃべり" kk="お喋り" pa="2" pos="j5" jlpt="1" cn="呻吟;悲鸣;轰鸣" >
 		</r>
 	</kanji>
 	
 	<kanji	id="叶" freq="2530" jlpt="3" gr="4">
 		<r on="キョウ" >
 		</r>
-		<r kun="かなう" kk="叶う" pa="0" pos="N" jlpt="1" >
+		<r kun="かな`う" kk="叶う" pa="2" pos="j5" jlpt="1" cn="实现,如愿以偿">
+		</r>
+		<r kun="かな`える" kk="叶える" pa="2" pos="t1" jlpt="1" cn="使达到; 满足愿望">
 		</r>
 	</kanji>
 	
@@ -657,7 +669,9 @@
 	<kanji	id="掴" freq="1503" >
 		<r on="カク" >
 		</r>
-		<r kun="つかむ" kk="掴む" pa="2" pos="t5" jlpt="3" />
+		<r kun="つか`む" kk="掴む" pa="2" pos="t5" jlpt="3" cn="抓住；弄到手；抓住（机会）；（对事情的重点）完全理解，深刻理解" >
+			<e ph="チャンスを掴む・人心を掴む・問題の核心を掴む" >
+		</r>
 	</kanji>
 	
 	<kanji	id="躓" freq="3336" >
@@ -706,11 +720,9 @@
 	</kanji>
 	
 	<kanji	id="捧" freq="2074" gr="8">
-		<r on="ベツ" >
-			<ex	 word="軽蔑" pron="けいべつ" pa="1" pos="N" />
-			<ex	 word="蔑視" pron="べっし" pa="1" pos="N" />
+		<r on="ホウ" >
 		</r>
-		<r kun="ささげる" kk="捧げる" pa="30" pos="t5" eng="to scorn" />
+		<r kun="ささ`げる" kk="捧げる" pa="30" pos="t5" eng="to scorn" cn="献出，贡献; 供奉" />
 	</kanji>
 	
 	<kanji	id="揃" freq="1454" jlpt="3" gr="4">

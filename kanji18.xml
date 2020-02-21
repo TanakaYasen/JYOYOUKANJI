@@ -9,17 +9,19 @@
 			<ex	 word="収入" pron="しゅうにゅう" pa="0" pos="N/ts" jlpt="3" eng="income"/>
 			<ex	 word="入札" pron="にゅうさつ" pa="0" pos="js" cn="投标" eng="bid" />
 		</r>
-		<r kun="いる" kk="入る" pa="0" pos="j5" jlpt="1"> 
+		<r kun="い`る" kk="入る" pa="0" pos="j5" jlpt="1"> 
 			<ex	 word="立ち入る" pron="たちいる" pa="0" pos="j5" />
-			<ex	 word="入口" pron="いりぐち" pa="0" pos="N" jlpt="5" />
+			<ex	 word="入り口" pron="いりぐち" pa="0" pos="N" jlpt="5" ant="出口(でぐち)" />
 		</r>
-		<r kun="い`れる" kk="入れる" pa="*0" pos="t1" jlpt="5" cn="装入" jp="収納する">
+		<r kun="い`れる" kk="入れる" pa="*0" pos="t1" jlpt="5" cn="放入装入;打开(开关.机器)" jp="収納する">
 			<ex	 word="入れ物" pron="いれもの" pa="0" pos="N" jlpt="2" cn="容器;钱包" />
 			<ex	 word="入れ替える" pron="いれかえる" pa="34" pos="t1" cn="改换,更换" >
 				<e ph="空気を入れ替える・心を入れ替える・担当者を入れ替える・体の弱い人を入れ替える・AとBを入れ替える" />
 			</ex>
 		</r>
-		<r kun="はい`る" kk="入る" pa="1" pos="*j5" jlpt="5"> </r>
+		<r kun="はい`る" kk="入る" pa="1" pos="*j5" jlpt="5">
+			<e ph="お風呂に/温泉に入る" />
+		</r>
 	</kanji>
 	
 	<kanji	id="乳" freq="1147" jlpt="2" gr="6">
@@ -413,7 +415,7 @@
 			<ex	 word="売却" pron="ばいきゃく" pa="0" pos="N" jlpt="3" />
 		</r>
 		<r kun="う`る" kk="売る" pa="*0" pos="t5" jlpt="5" >
-			<ex	 word="売り場" pron="うりば" pa="0" pos="N" jlpt="4" />
+			<ex	 word="売り場" pron="うりば" pa="0" pos="N" jlpt="4" ph="チケット売り場" />
 			<ex	 word="売り上げ" pron="うりあげ" pa="0" pos="N" jlpt="2" cn="销售额" />
 			<ex	 word="売り出す" pron="うりだす" pa="0" pos="t1" jlpt="2" cn="上市;推销;以...出名">
 				<e ph="新薬を売り出す・彼女はこの歌で売り出した・～は最近めきめきと売り出した歌手" />
@@ -580,7 +582,7 @@
 			<ex	 word="軽薄" pron="けいはく" pa="0" pos="N/NA" />
 			<ex	 word="薄弱" pron="はくじゃく" pa="0" pos="N/NA" jlpt="1" />
 		</r>
-		<r kun="うすい" kk="薄い" pa="0" pos="adj" jlpt="5" ref="淡い">
+		<r kun="うす`い" kk="薄い" pa="2" pos="adj" jlpt="5" cn="薄的;(味道颜色)淡的" ant="厚い・濃い" ref="淡い">
 			<ex	 word="薄暗い" pron="うすぐらい" pa="4" pos="adj" jlpt="2" />
 		</r>
 		<r kun="うすめる" kk="薄める" pa="0" pos="t1" jlpt="2" ></r>

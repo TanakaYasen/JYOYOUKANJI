@@ -13,7 +13,7 @@
 	
 	<kanji	id="祝" freq="1285" jlpt="2" gr="4">
 		<r on="シュク" >
-			<ex	 word="祝日" pron="しゅくじつ" pa="0" pos="N" jlpt="2" eng="national holiday" />
+			<ex	 word="祝日" pron="しゅくじつ" pa="0" pos="N" jlpt="2" cn="节假日" eng="national holiday" />
 			<ex	 word="祝賀" pron="しゅくが" pa="0" pos="N" jlpt="1" eng="celebration; congratulations" />
 			<ex	 word="祝福" pron="しゅくふく" pa="0" pos="N" eng="blessing" />
 			<ex	 word="慶祝" pron="けいしゅく" pa="0" pos="NA" />
@@ -22,7 +22,8 @@
 			<ex	 word="祝儀" pron="しゅうぎ" pa="0" pos="N" />
 			<ex	 word="祝言" pron="しゅうげん" pa="0" pos="N" />
 		</r>
-		<r kun="いわ`う" kk="祝う" pa="2" pos="t5" jlpt="3" eng="to celebrate; to congratulate" >
+		<r kun="いわ`う" kk="祝う" pa="2" pos="t5" jlpt="3" cn="祝贺,庆祝;祝愿" eng="to celebrate; to congratulate" >
+			<e ph="結婚を祝う・幸福を祝う" />
 		</r>
 		<r sp="のりと" word="祝詞" pa="0" pos="N" />
 		<r nfu="祝る(のる)・呪う≒祝う(のろう)・祝つ(たつ)">
@@ -40,7 +41,7 @@
 			<ex	 word="相宿" pron="あいやど" pa="0" pos="N" />
 		</r>
 		<r kun="やどる" kk="宿る" pa="2" pos="j5" cn="投宿;寄居">
-			<e ph="鳥は木に宿る・人体に回虫が宿る" >
+			<e ph="鳥は木に宿る・人体に回虫が宿る" />
 		</r>
 		<r kun="やどす" kk="宿す" pa="1" pos="t5" cn="留宿;怀孕">
 		</r>
@@ -177,12 +178,12 @@
 	<kanji	id="瞬" freq="969" jlpt="3" gr="6">
 		<r on="シュン" >
 			<ex	 word="瞬間" pron="しゅんかん" pa="0" pos="N" jlpt="3" >
-				<e ph="決定的な瞬間・瞬間的に決める">
+				<e ph="決定的な瞬間・瞬間的に決める" />
 			</ex>
 			<ex	 word="一瞬" pron="いっしゅん" pa="0" pos="NA" />
 		</r>
 		<r kun="またた`く" kk="瞬く" pa="3" pos="j5" cn="眨眼; 闪烁,明灭" ref="まばたく" >
-			<ex	 word="瞬く間に" pron="またたくまに" pa="0" pos="adv" >
+			<ex	 word="瞬く間に" pron="またたくまに" pa="0" pos="adv" />
 		</r>
 		<r nfu="瞬く(しばたく)・瞬く(しばたく)・瞬ぐ(まじろぐ)・瞬く(しばたたく)">
 		</r>
@@ -256,6 +257,9 @@
 			<ex	 word="恭順" pron="きょうじゅん" pa="0" pos="NA" />
 			<ex	 word="従順" pron="じゅうじゅん" pa="0" pos="NA" />
 			<ex	 word="順序" pron="じゅんじょ" pa="0" pos="NA" />
+			<ex	 word="順番" pron="じゅんばん" pa="0" pos="N" jlpt="3" cn="次序; 轮流" eng="turn" >
+				<e ph="なかなか私の順番が回ってこない・順番に参観する" />
+			</ex>
 		</r>
 		<r nfu="すなお・順う(したがう)">
 		</r>

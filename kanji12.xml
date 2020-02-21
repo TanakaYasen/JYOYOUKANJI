@@ -65,10 +65,10 @@
 	<kanji	id="図" freq="315" jlpt="4" gr="2">
 		<r on="ズ" >
 			<ex	 word="合図" pron="あいず" pa="1" pos="N/jts" jlpt="2" cn="暗号" >
-				<e ph="合図を送る・手まねで合図する・目で合図する">
+				<e ph="合図を送る・手まねで合図する・目で合図する" />
 			</ex>
 			<ex	 word="図々しい" pron="ずうずうしい" pa="5" pos="adj" jlpt="2" cn="厚颜无耻" jp="厚かましい" >
-				<e ph="本当に図々しい奴だと">
+				<e ph="本当に図々しい奴だと" />
 			</ex>
 			<ex	 word="地図" pron="ちず" pa="0" pos="N" jlpt="5" eng="map" />
 			<ex	 word="絵図" pron="えず" pa="0" pos="N" />
@@ -395,7 +395,7 @@
 			<ex	 word="殺生" pron="せっしょう" pa="0" pos="NA" />
 			<ex	 word="生じる" pron="しょうじる" pa="0" pos="jts" />
 		</r>
-		<r kun="いきる" kk="生きる" pa="2" pos="j1" jlpt="4" >
+		<r kun="い`きる" kk="生きる" pa="2" pos="j1" jlpt="4" >
 			<ex	 word="生きがい" pron="いきがい" pa="30" pos="N" cn="人生意义/价值" ref="甲斐（かい）" >
 				<e ph="生きがいのある人生。	仕事を通じて生きがいを見つけた。" />
 			</ex>
@@ -404,7 +404,8 @@
 		</r>
 		<r kun="いける" kk="生ける" pa="2" pos="t1" jlpt="1" >
 		</r>
-		<r kun="うまれる" kk="生まれる" pa="0" pos="j1" jlpt="5" >
+		<r kun="う`まれる" kk="生まれる" pa="0" pos="j1" jlpt="5" cn="出生;产出" >
+			<e ph="可愛い赤ちゃんが生まれた・新しい作品が生まれた" />
 		</r>
 		<r kun="うむ" kk="生む" pa="0" pos="t5" jlpt="1" >
 			<ex	 word="生み出す" pron="うみだす" pa="3" pos="t5" cn="生出;生产出创造出" >

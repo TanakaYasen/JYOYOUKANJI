@@ -535,9 +535,10 @@
 		</r>
 		<r on="フ" >
 		</r>
-		<r kun="あるく" kk="歩く" pa="2" pos="j5" jlpt="5" >
+		<r kun="ある`く" kk="歩く" pa="2" pos="j5" jlpt="5" cn="步行" >
 		</r>
-		<r kun="あゆむ" kk="歩む" pa="2" pos="j5" jlpt="1" >
+		<r kun="あゆ`む" kk="歩む" pa="2" pos="j5" jlpt="1" >
+			<e ph="いばらの道を歩む" />
 		</r>
 	</kanji>
 	

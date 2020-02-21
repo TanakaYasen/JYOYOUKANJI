@@ -349,7 +349,8 @@
 	</kanji>
 	
 	<kanji	id="塚" freq="1519" jlpt="1" gr="8">
-		<r kun="つか" kk="塚" pa="2" pos="N" ></r>
+		<r kun="つか" kk="塚" pa="0" pos="N" jlpt="1" >
+		</r>
 	</kanji>
 	
 	<kanji	id="漬" freq="2081" jlpt="1" gr="8">
@@ -862,10 +863,14 @@
 			<ex	 word="首都" pron="しゅと" pa="12" pos="N" jlpt="3" eng="capital"/>
 		</r>
 		<r on="ツ" >
-			<ex	 word="都合" pron="つごう" pa="0" pos="N/adv" jlpt="4" ph="～の都合" cn="关系;原因" />
-			<ex	 word="都度" pron="つど" pa="1" pos="N" />
+			<ex	 word="都合" pron="つごう" pa="0" pos="N/adv" jlpt="4" ph="～の都合" cn="关系;原因" >
+				<e ph="ご都合はいかがですか・都合の/宜しい/良い/悪い・都合が付く" />
+			</ex>
+			<ex	 word="都度" pron="つど" pa="1" pos="N" cn="每次" >
+				<e ph ="数回やってみたが，その都度失敗した" />
+			</ex>
 		</r>
-		<r kun="みやこ" kk="都" pa="0" pos="N" jlpt="3" ph="住んで都にする"></r>
+		<r kun="みやこ" kk="都" pa="0" pos="N" jlpt="3" of="京" ph="住んで都にする"></r>
 	</kanji>
 	
 	<kanji	id="渡" freq="399" jlpt="3" gr="8">

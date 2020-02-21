@@ -671,7 +671,7 @@
 	
 	<kanji	id="芯" freq="3402" gr="8">
 		<r on="シン" >
-			<e ph="鉛筆の芯・芯まで凍える寒さ・芯が強い" >
+			<e ph="鉛筆の芯・芯まで凍える寒さ・芯が強い" />
 		</r>
 	</kanji>
 	
@@ -791,7 +791,7 @@
 			<ex	 word="振興" pron="しんこう" pa="0" pos="N" jlpt="1" />
 			<ex	 word="振動" pron="しんどう" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="ふ`る" kk="振る" pa="0" pos="t5" jlpt="3"cn="摇动;播撒;挥手" eng="to wave" >
+		<r kun="ふ`る" kk="振る" pa="0" pos="t5" jlpt="3" cn="摇动;播撒;挥手" eng="to wave" >
 			<e ph="手を振って見送る・塩を振る" />
 			<ex	 word="振り込む" pron="ふりこむ" pa="3" pos="t5" jlpt="1" cn="缴款;转账" >
 				<e ph="授業料を銀行口座に振り込む" />

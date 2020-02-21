@@ -162,7 +162,7 @@
 	<kanji	id="口" freq="89" jlpt="4" gr="1">
 		<r on="コウ" >
 			<ex	 word="人口" pron="じんこう" pa="0" pos="N" jlpt="4" eng="population" />
-			<ex	 word="口実" pron="こうじつ" pa="0" pos="N" jlpt="2" cn="*借口" eng="excuse" ><
+			<ex	 word="口実" pron="こうじつ" pa="0" pos="N" jlpt="2" cn="*借口" eng="excuse" >
 				<e ph="口実を設ける" />
 			</ex>
 		</r>
@@ -264,7 +264,7 @@
 	<kanji	id="交" freq="481" jlpt="3" gr="2">
 		<r on="コウ" >
 			<ex	 word="交渉" pron="こうしょう" pa="0" pos="N" jlpt="5" >
-				<e ph="交渉が行き詰まる・交渉を絶つ">
+				<e ph="交渉が行き詰まる・交渉を絶つ" />
 			</ex>
 			<ex	 word="交付" pron="こうふ" pa="01" pos="N/ts" jlpt="1" />
 			<ex	 word="交流" pron="こうりゅう" pa="0" pos="N" jlpt="2" />
@@ -635,11 +635,12 @@
 			<ex	 word="降伏" pron="こうふく" pa="0" pos="N" jlpt="1" />
 			<ex	 word="以降" pron="いこう" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="おりる" kk="降りる" pa="2" pos="j1" jlpt="5" cn="下来;下车;退位" eng="to descend" ref="下りる" >
+		<r kun="お`りる" kk="降りる" pa="2" pos="j1" jlpt="5" cn="下来;下车;退位" eng="to descend" ref="下りる" >
+			<e ph="上から降りる・電車から降りる" />
 		</r>
-		<r kun="おろす" kk="降ろす" pa="2" pos="t5" jlpt="3" ref="下ろす" >
+		<r kun="お`ろす" kk="降ろす" pa="2" pos="t5" jlpt="3" ref="下ろす" >
 		</r>
-		<r kun="ふる" kk="降る" pa="1" pos="j5" jlpt="5" eng="to fall" >
+		<r kun="ふ`る" kk="降る" pa="1" pos="j5" jlpt="5" cn="(雪,雨等)降" eng="to fall" >
 		</r>
 		<r nfu="ゴウ・降る(くだる)・降す(くだす)">
 		</r>

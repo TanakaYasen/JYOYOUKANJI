@@ -810,7 +810,7 @@
 		<r on="ケン" >
 			<ex	 word="権勢" pron="けんせい" pa="1" pos="N" jlpt="3"/>
 			<ex	 word="権利" pron="けんり" pa="1" pos="N" jlpt="3" >
-				<e ph="生きる権利・権利を行使す" >
+				<e ph="生きる権利・権利を行使す" />
 			</ex>
 			<ex	 word="政権" pron="せいけん" pa="0" pos="N" jlpt="1"/>
 			<ex	 word="権力" pron="けんりょく" pa="1" pos="N" jlpt="1" ph="権力争い"/>
@@ -851,7 +851,7 @@
 		<r on="ケン" >
 			<ex	 word="鍵盤" pron="けんばん" pa="0" pos="N" />
 		</r>
-		<r kun="かぎ" kk="鍵" pa="2" pos="N" jlpt="5" >
+		<r kun="かぎ" kk="鍵" pa="2" pos="N" jlpt="5" cn="钥匙" >
 			<ex	 word="鍵穴" pron="かぎあな" pa="0" pos="N" />
 		</r>
 	</kanji>

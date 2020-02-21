@@ -147,8 +147,8 @@
 	
 	<kanji	id="短" freq="823" jlpt="2" gr="3">
 		<r on="タン" >
-			<ex	 word="短期" pron="たんき" pa="1" jlpt="2" pos="N" />
-			<ex	 word="短気" pron="たんき" pa="1" jlpt="1" pos="NA" jlpt="1" cn="急性子" jp="気が短い" />
+			<ex	 word="短期" pron="たんき" pa="1" pos="N" jlpt="2" />
+			<ex	 word="短気" pron="たんき" pa="1" pos="NA" jlpt="1" cn="急性子" jp="気が短い" />
 			<ex	 word="長短" pron="ちょうたん" pa="1" pos="N" jlpt="2" cn="长处和短处" eng="advantages and disadvantages" />
 		</r>
 		<r kun="みじか`い" kk="短い" pa="3" jlpt="5" eng="short"></r>
@@ -301,8 +301,8 @@
 		<r on="チ" >
 			<ex	 word="電池" pron="でんち" pa="1" jlpt="2" pos="N" eng="battery" />
 		</r>
-		<r kun="いけ" kk="池" pa="2" pos="N" eng="pond">
-			<ex	 word="池袋" pron="いけぶくろ" pa="3" pos="N" />
+		<r kun="いけ" kk="池" pa="2" pos="N" jlpt="5" eng="pond">
+			<ex	 word="池袋" pron="いけぶくろ" pa="3" pos="N" cn="东京一处地名" />
 		</r>
 	</kanji>
 	
@@ -354,9 +354,9 @@
 			<ex	 word="遅刻" pron="ちこく" pa="0" jlpt="3" pos="N" cn="" />
 			<ex	 word="遅延証明" pron="ちえん" pa="0" jlpt="5" pos="N" cn="" />
 		</r>
-		<r kun="おくれる" kk="遅れる" pa="0" pos="j1" jlpt="4" ph="電車に遅れる"></r>
-		<r kun="おくらす" kk="遅らす" pa="0" pos="t5" jlpt="1" ph="～を遅らす"></r>
-		<r kun="おそい" kk="遅い" pa="*0" pos="adj" jlpt="5" ph="～が遅い">
+		<r kun="おく`れる" kk="遅れる" pa="0" pos="j1" jlpt="4" ph="電車に遅れる"></r>
+		<r kun="おく`らす" kk="遅らす" pa="0" pos="t5" jlpt="1" ph="～を遅らす"></r>
+		<r kun="おそ`い" kk="遅い" pa="*0" pos="adj" jlpt="5" ant="早い・速い" ph="～が遅い">
 			<ex	 word="遅くとも" pron="おそくとも" pa="2" pos="adv" jlpt="3" cn="最晚,最迟" ref="早くとも" >
 				<e ph="遅くとも来週までには完成できるだろう・この鉄道は遅くとも五月には開通する" />
 			</ex>
@@ -384,7 +384,9 @@
 			<ex	 word="装置" pron="そうち" pa="1" jlpt="3" pos="N" />
 			<ex	 word="位置" pron="いち" pa="1" jlpt="3" pos="N" />
 		</r>
-		<r kun="おく" kk="置く" pa="0" pos="t5" jlpt="5"></r>
+		<r kun="お`く" kk="置く" pa="0" pos="t5" jlpt="5" cn="放置,搁" >
+			<e ph="卵を冷蔵庫の中に置く" />
+		</r>
 	</kanji>
 	
 	<kanji	id="緻" freq="3013" gr="8">

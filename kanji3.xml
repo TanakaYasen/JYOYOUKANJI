@@ -61,6 +61,7 @@
 		<r on="エ" >
 			<ex	 word="影絵" pron="かげえ" pa="0" pos="N" />
 			<ex	 word="油絵" pron="あぶらえ" pa="0" pos="N" jlpt="1" />
+			<ex	 word="絵葉書" pron="えはがき" pa="2" pos="N" jlpt="5" cn="明信片" ref="ポストカード" />
 		</r>
 		<r nfu="絵く(えがく)"></r>
 	</kanji>
@@ -133,7 +134,9 @@
 		<r on="カイ" >
 			<ex	 word="潰瘍" pron="かいよう" pa="0" pos="N" />
 		</r>
-		<r kun="つぶ`す" kk="潰す" pa="0" pos="t5" jlpt="2" />
+		<r kun="つぶ`す" kk="潰す" pa="0" pos="t5" jlpt="2" >
+			<e ph="顔を潰す" />
+		</r>
 		<r kun="つぶ`れる" kk="潰れる" pa="0" pos="j1" jlpt="2" />
 	</kanji>
 	
@@ -363,13 +366,13 @@
 			<ex	 word="発覚" pron="はっかく" pa="1" pos="N" />
 			<ex	 word="覚醒" pron="かくせい" pa="1" pos="N" />
 		</r>
-		<r kun="おぼ`える" kk="覚える" pa="3" pos="t1" jlpt="5" cn="记住;感觉到" eng="to memorize" >
-			<e ph="覚えていますか・手に痛みを覚える・彼はそろそろ仕事の要領を覚え始めた" />
+		<r kun="おぼ`える" kk="覚える" pa="3" pos="t1" jlpt="5" cn="记住,学会;感觉到" eng="to memorize" >
+			<e ph="単語を覚える・覚えていますか・手に痛みを覚える・彼はそろそろ仕事の要領を覚え始めた" />
 		</r>
 		<r kun="さ`ます" kk="覚ます" pa="2" pos="t5" jlpt="3" ref="醒ます" cn="唤醒;扫兴" eng="to awaken" >
 			<e ph="眠りを覚ます・目を覚ます・酔いを覚ます・いい加減に目を覚ませ" />
 		</r>
-		<r kun="さ`める" kk="覚める" pa="2" pos="j1" jlpt="3" ref="醒める" cn="自醒" eng="to wake up" cn="醒，觉醒" >
+		<r kun="さ`める" kk="覚める" pa="2" pos="j1" jlpt="3" ref="醒める" cn="自醒" eng="to wake up" >
 			<ex	 word="目覚める" pron="めざめる" pa="1" pos="N" />
 		</r>
 		<r nfu="覚る≒悟る(さとる)・覚り(さとり)・覚す(さとす)・覚え(おぼえ)"></r>
@@ -654,12 +657,12 @@
 		<r on="カン" >
 			<ex	 word="甘味料" pron="かんみりょう" pa="0" pos="N" />
 		</r>
-		<r kun="あまい" kk="甘い" pa="0" pos="adj" jlpt="5" cn="甜的" eng="sweet" >
+		<r kun="あま`い" kk="甘い" pa="0" pos="adj" jlpt="5" ant="苦い" cn="甜的" eng="sweet" >
 		</r>
 		<r kun="あまえる" kk="甘える" pa="0" pos="j1" jlpt="1" cn="撒娇" eng="to behave like a spoiled child" >
 			<e ph="両親に甘える。甘えた調子で言う。この子は甘えてしようがない・甘えん坊（嗲）" />
 		</r>
-		<r kun="あまやかす" kk="甘やかす" pa="4" pos="t5" jlpt="2" cn="宠;惯纵" eng="to pamper" >
+		<r kun="あま`やかす" kk="甘やかす" pa="4" pos="t5" jlpt="2" cn="宠;惯纵" eng="to pamper" >
 			<e ph="子供を甘やかしてはならない・甘やかした子・この子は両親に甘やかされて育った" />
 		</r>
 		<r nfu="甘い(うまい)"></r>
@@ -874,8 +877,8 @@
 			<ex	 word="勧告" pron="かんこく" pa="0" pos="N" jlpt="1" />
 		</r>
 		<r kun="すす`める" kk="勧める" pa="0" pos="t1" jlpt="3" cn="建议,劝告;鼓励" >
-			<e ph="医者の勧めに従う・学問を勧める・酒を進める">
-		</>
+			<e ph="医者の勧めに従う・学問を勧める・酒を進める" />
+		</r>
 		<r nfu="ケン"></r>
 	</kanji>
 	

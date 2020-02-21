@@ -544,12 +544,14 @@
 	
 	<kanji	id="選" freq="868" jlpt="3" gr="4">
 		<r on="セン" >
-			<ex	 word="選手" pron="せんしゅ"	pa="1" jlpt="3" pos="N" eng="player" />
-			<ex	 word="選挙" pron="せんきょ"	pa="1" jlpt="4" pos="N" eng="election" />
-			<ex	 word="選抜" pron="せんばつ"	pa="0" pos="N" eng="selection" />
-			<ex	 word="選択" pron="せんたく"	pa="0" jlpt="3" pos="N/ts" />
+			<ex	 word="選手" pron="せんしゅ" pa="1" pos="N" jlpt="3" eng="player" />
+			<ex	 word="選挙" pron="せんきょ" pa="1" pos="N" jlpt="4" eng="election" />
+			<ex	 word="選抜" pron="せんばつ" pa="0" pos="N" eng="selection" />
+			<ex	 word="選択" pron="せんたく" pa="0" pos="N/ts" jlpt="3" />
 		</r>
-		<r kun="えら`ぶ" kk="選ぶ" pa="2" pos="t5" jlpt="4" eng="to choose; to select" />
+		<r kun="えら`ぶ" kk="選ぶ" pa="2" pos="t5" jlpt="4" eng="to choose; to select" >
+			<e ph="正しい答えを一つ選ぶ" />
+		</r>
 	</kanji>
 	
 	<kanji	id="薦" freq="2782" jlpt="1" gr="8">
@@ -773,7 +775,7 @@
 			<ex	 word="遡源" pron="そげん" pa="0" pos="N" />
 		</r>
 		<r kun="さかのぼ`る" kk="遡る" pa="3" pos="j5" jlpt="2" cn="逆流而上;追溯">
-			<e ph="船で川を遡る・中古時代に遡る・遡って責任を追究する">
+			<e ph="船で川を遡る・中古時代に遡る・遡って責任を追究する" />
 		</r>
 	</kanji>
 	
@@ -877,7 +879,9 @@
 				<e ph="両親に送金する・送金小切手" />
 			</ex>
 		</r>
-		<r kun="おく`る" kk="送る" pa="0" jlpt="4" pos="t5" cn="注音/传送/汇寄/贈る"/>
+		<r kun="おく`る" kk="送る" pa="0" pos="t5" jlpt="4" cn="邮寄;注音/传送/" ref="贈る" >
+			<e ph="手紙を送る・友達を送る" />
+		</r>
 	</kanji>
 	
 	<kanji	id="倉" freq="761" jlpt="1" gr="4">

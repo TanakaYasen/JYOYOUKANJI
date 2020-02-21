@@ -456,7 +456,7 @@
 	</kanji>
 	
 	<kanji	id="茨" freq="2874" gr="8">
-		<r kun="いばら" kk="茨" pa="0" pos="N" >
+		<r kun="いばら" kk="茨" pa="0" pos="N" ref="荊" cn="荆棘; 充满苦难,多磨多难">
 			<ex	 word="茨城" pron="いばらき" pa="2" pos="N" cn="日本关东一个县" />
 		</r>
 	</kanji>
@@ -714,7 +714,7 @@
 		<r on="エイ" >
 			<ex	 word="水泳" pron="すいえい" pa="0" pos="N/js" jlpt="4" eng="swimming"/>
 		</r>
-		<r kun="およぐ" kk="泳ぐ" pa="2" pos="j5" jlpt="5" >
+		<r kun="およ`ぐ" kk="泳ぐ" pa="2" pos="j5" jlpt="5" >
 		</r>
 	</kanji>
 	

@@ -24,7 +24,7 @@
 		<r sp="おとな" word="大人" pa="0" pos="N" />
 		<r sp="おとめ" word="乙女" pa="2" pos="N" />
 		<r sp="おば" word="叔母・伯母" pa="0" pos="N" />
-		<r sp="おまわりさん" word="お巡りさん" pa="2" pos="N" />
+		<r sp="おまわりさん" word="お巡りさん" pa="2" pos="N" ref="警察" />
 		<r sp="おみき" word="お神酒" pa="0" pos="N" />
 		<r sp="おもや" word="母屋" pa="1" pos="N" cn="正屋;主建筑" />
 		<r sp="かぐら" word="神楽" pa="1" pos="N" />
@@ -211,7 +211,7 @@
 
 		<r sp="まずい" word="不味い" pa="2" pos="adj" />
 		<r sp="うまい" word="上手い" pa="2" pos="adj" />
-		<r sp="うるさい" word="五月蠅い" pa="0" pos="adj" />
+		<r sp="うるさい" word="五月蠅い" pa="0" pos="adj" cn="吵闹的,聒噪;爱唠叨的" ph="外の騒音がうるさくて落ち着けない・うるさい母・食物にうるさい" />
 		<r sp="いたいけ" word="幼気" pa="1" pos="NA" />
 		
 		<r sp="おはせ" word="男茎" pa="0" pos="N" />

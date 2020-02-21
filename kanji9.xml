@@ -1058,7 +1058,7 @@
 		</r>
 		<r kun="え" kk="重" pa="1" pos="NA" jlpt="5" >
 		</r>
-		<r kun="おも`い" kk="重い" pa="0" pos="adj" jlpt="5" >
+		<r kun="おも`い" kk="重い" pa="*0" pos="adj" jlpt="5" ant="軽い" cn="重的;沉重的" >
 			<ex	 word="重たい" pron="おもたい" pa="0" pos="adj" jlpt="2" cn="沉重的;(心情)沉重" >
 				<e ph="重たい荷物・瞼が重たい・気分が重たい" />
 			</ex>

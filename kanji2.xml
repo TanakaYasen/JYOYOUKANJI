@@ -349,7 +349,7 @@
 		</r>
 		<r on="イン" >
 		</r>
-		<r kun="おと" kk="音" pa="0" pos="N" jlpt="4" >
+		<r kun="おと" kk="音" pa="2" pos="N" jlpt="4" cn="(非生命体发出的)声响">
 		</r>
 		<r kun="ね" kk="音" pa="0" pos="N" jlpt="4" >
 			<ex	 word="本音" pron="ほんね" pa="0" pos="N" jlpt="1" eng="real intention" />
