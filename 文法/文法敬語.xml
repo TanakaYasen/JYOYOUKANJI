@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dict>
+	<grammar id="いらっしゃる" >
+		
+		<point cn="いる・行く、来る 的特殊敬语" />
+	</ grammar>
+	
+	<grammar id="見える・お見えになる" >
+		<point cn="来る" />
+			
+	</ grammar>
+	
+	<grammar id="おいでになる" >
+		<point cn="来る、行く、いる 的尊他语..." />
+	</ grammar>
+	
+	<grammar id="お越しになる" >
+		<point cn="来る、行く、いる 的尊他语..." />
+	</ grammar>
+	
+	<grammar id="おっしゃる" >
+		<point cn="言う 的尊他语..." />
+	</ grammar>
+	
+	<grammar id="ご存知です" >
+		<point cn="知る 的尊他语" />
+	</ grammar>
+	
+	<grammar id="ご覧になる" >
+		<point cn="看..." />
+	</ grammar>
+	
+	<grammar id="ご覧ください" >
+		<point cn="请看..." />
+	</ grammar>
+	
+	<grammar id="召す・召し上がる" >
+		<point cn="请看..." />
+	</ grammar>
+	
+	<grammar id="お・ご～なさい" >
+		<point cn="请看..." />
+	</ grammar>
+	
+	<grammar id="お・ご～になる" >
+		<point cn="请看..." />
+	</ grammar>
+	
+	<grammar id="れる・られる" >
+		<point cn="请看..." />
+		佐藤さんは何時に帰られましたか
+	</ grammar>
+	
+</Dict>
+
+<Dict>
+	
+	<grammar id="お・ご～いただけませんか" >
+		<point cn="能否请您..." ps="" />
+	</ grammar>
+	
+	<grammar id="お・ご～願えませんか" >
+		<point cn="请您..." ps="" />
+	</ grammar>
+	
+	<grammar id="お・ご～申し上げる" >
+		<point cn="..." ps="" />
+	</ grammar>
+	
+	<grammar id="～させていただけませんか/ないでしょうか" >
+		<point cn="能否允许我...  请让我..." ps="委婉的请求 自谦语的固定表达" />
+	</ grammar>
+	
+	<grammar id="～させてやっていただけませんか/ないでしょうか" >
+		<point cn="能否让...来做呢" ps="委婉的请求 让第三者来做 这个第三方多为自己人" />
+	</ grammar>
+	
+	<grammar id="～ていただけるとありがたいですが" >
+		<point cn="如果能...就实在太好了" ps="委婉请求,同时表壳对对方的感谢之意" />
+	</ grammar>
+	
+</Dict>

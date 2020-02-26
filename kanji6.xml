@@ -642,6 +642,9 @@
 		</r>
 		<r kun="ふ`る" kk="降る" pa="1" pos="j5" jlpt="5" cn="(雪,雨等)降" eng="to fall" >
 		</r>
+		<r kun="くだ`る" kk="降る" pa="0" pos="j5" jlpt="2" cn="下达(命令); 投降" eng="surrender" >
+			<e ph="敵軍は終に我が軍門に降った" />
+		</r>
 		<r nfu="ゴウ・降る(くだる)・降す(くだす)">
 		</r>
 	</kanji>

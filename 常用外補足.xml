@@ -506,6 +506,12 @@
 		</r>
 	</kanji>
 	
+	<kanji	id="喘" freq="2561" >
+		<r kun="あえ`ぐ" kk="喘ぐ" pa="2" pos="j5" jlpt="1" cn="喘气; 挣扎,苦于" >
+			<e ph="" />
+		</r>
+	</kanji>
+	
 	<kanji	id="喋" freq="1230" jlpt="3" gr="4">
 		<r kun="おしゃべり" kk="お喋り" pa="2" pos="j5" jlpt="1" cn="呻吟;悲鸣;轰鸣" >
 		</r>

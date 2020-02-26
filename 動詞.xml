@@ -27,6 +27,7 @@
 	<table tag="daily">
 		<ex	 word="じわる" pron="じわる" pa="0" pos="j5" cn="真香" />
 		<ex	 word="サボる" pron="サボる" pa="2" pos="t5" jlpt="1" cn="怠工，旷课，逃学" ph="授業をさぼる" />
+		<ex	 word="ほざく" pron="ホザく" pa="2" pos="t5" cn="胡诌" ph="余計な事をほざくな" />
 	</table>
 	
 	<table tag="JLPT">

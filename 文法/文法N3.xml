@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dict>
+	<grammar id="~間" >
+		<point cn="在...期间, 一直" />
+		
+			山田先生の講演の間、皆熱心に話を聞いていた
+		V普通形/adj普通形/NAな/N + 間、
+		
+	</ grammar>
+	
+	<grammar id="~間に" >
+		<point cn="在...期间, 做了..." />
+		
+			山田先生の講演の間、皆熱心に話を聞いていた
+		V普通形/adj普通形/NAな/N + 間、
+		
+	</ grammar>
+	
+	<grammar id="~あがる" >
+		<point cn="完成..." />
+		Vstem + あげる　書き上げる	V完
+		<point cn="向上...起来" ps="动作移动等向上" />
+	</ grammar>
+	
+	<grammar id="~いい・よい" >
+		<point cn="容易... 易于..." ps="表示某个动作做起来很容易" />
+		
+	</ grammar>
+	
+	<grammar id="~一方(で)" >
+		<point cn="一方面..., 另一方面...; ...的同时又..." />
+		
+	</ grammar>
+	
+	<grammar id="~一方だ" >
+		<point cn="不断地..., 越来越..." />
+		
+	</ grammar>
+	
+	<grammar id="~上で(の)" >
+		<point cn="在...之后" />
+		Ved + 上で
+	</ grammar>
+	
+	<grammar id="~上で(は)" >
+		<point cn="在...之后" />
+		Ved + 上で
+	</ grammar>
+	
+	<grammar id="~上に" >
+		<point cn="在...之后" ps="だけでなく" />
+		Ved + / NAな / NのNである + 上に
+	</ grammar>
+	
+	<grammar id="~うちは・ないうちは" >
+		<point cn="在...的时候" ps="" />
+		V / adj / NAな / Nの + 上に
+	</ grammar>
+	
+	<grammar id="~おかげで／おかげだ" >
+		<point cn="托...的福, 多亏..." />
+		<point htu="ｖ/Na/adj/N+の （連体形）　＋　おかげで／おかげだ" />
+		<point ps="かげ=陰。　由于前项原因导致后项的好结果.也用于不好的结果(反讽=拜您所赐)" />
+		お陰様でした
+		母は「風邪をひかないのは、毎朝しているジョギングのおかげだ」とよく言っている
+		パソコン教室の講師になったおかげで、人に教えるのは難しいけど楽しいということが分かりました。
+	</ grammar>
+	
+	
+	<grammar id="~おきに" >
+		<point cn="每隔..." ps="" />
+		数量词+おきに
+	</ grammar>
+	
+	<grammar id="~恐れがある" >
+		<point jp="" />
+		<point cn="恐怕会...	 有...的危险	有...之虞" />
+		<point htu="ｖ辞書形/N+の 恐れがある" />
+		<point ps="有会发生不好事情的可能	おそれ可以写作虞" />
+		今晩、大型の台風がこの地方へ近づく恐れがあります
+		この欠陥を直さないと、重大な事故が起こる恐れがある
+	</ grammar>
+	
+	<grammar id="~がかり" >
+		<point cn="花...,用..." ps="某事花了人力或者时间等" />
+		三年がかりの調査の結果、工場廃水に含まれている金属物質が住民に危害を及ぼしたことが分かった		
+	</ grammar>
+	
+	<grammar id="~難い(がたい)" >
+		<point cn="难以... 很难..." ps="主观上难以... 说话人的自我感觉" />
+	</ grammar>
+	
+	<grammar id="~か何か" >
+		<point cn="...什么的, ...之类的" ps="不明确的指示" />
+	</ grammar>
+	
+	<grammar id="~から言うと・から言えば・から言って" >
+		<point cn="从..来看,从..来讲" ps="站在某立场" />
+	</ grammar>
+	
+	<grammar id="~からすると・からすれば" >
+		<point cn="从..来看, 从...来衡量" ps="不明确的指示" />
+	</ grammar>
+	
+	<grammar id="~から~にかけて" >
+		<point cn="从..到..." ps="表示时间,空间的大致范围" />
+	</ grammar>
+	
+	<grammar id="~から見ると" >
+		<point cn="从..来看" ps="站在某立场上得出看法结论,判断" />
+	</ grammar>
+	
+	<grammar id="~きる・切れる・切れない" >
+		<point cn="...完 .. 光" ps="动作进行到底" />
+	</ grammar>
+	
+	<grammar id="~くせに・癖に" >
+		<point cn="明明...却..." ps="" />
+	</ grammar>
+	
+	<grammar id="~くらい・ぐらい" >
+		<point cn="...得..." ps="" />
+		<point cn="至少... 最起码..." ps="" />
+		<point cn="没有比...更...的了" ps="~ほど～はない" />
+	</ grammar>
+	
+	<grammar id="~こそ" >
+		<point cn="正是..." ps="" />
+	</ grammar>
+	
+	<grammar id="~こと" >
+		<point cn="要..." ps="命令" />
+		<point cn="多么...啊" ps="惊讶或者感叹" />
+	</ grammar>
+	
+	<grammar id="~ことか" >
+		<point cn="多么...啊" ps="惊讶或者感叹" />
+	</ grammar>
+	
+	<grammar id="~ことだ" >
+		<point cn="应该... 不应该" ps="忠告或提议" />
+	</ grammar>
+	
+	<grammar id="~ことに" >
+		<point cn="令人...的是," eng="to someone's ..." ps="" />
+	</ grammar>
+	
+	<grammar id="~ことにする" >
+		<point cn="决定" eng="" ps="" />
+	</ grammar>
+	
+	<grammar id="~ことになっている・こととなっている" >
+		<point cn="预定..." eng="" ps="" />
+	</ grammar>
+	
+	<grammar id="~ことになる" >
+		<point cn="决定..." eng="" ps="" />
+	</ grammar>
+	
+	<grammar id="~ことはない・こともない" >
+		<point cn="没必要..." ps="" />
+	</ grammar>
+	
+	<grammar id="~最中に" >
+		<point cn="正在...的时候" eng="" ps="" />
+	</ grammar>
+	
+	<grammar id="~さえ" >
+		<point cn="甚至... 连..." ps="" />
+	</ grammar>
+	
+	<grammar id="~さえ~ば" >
+		<point cn="只要...就..." ps="" />
+	</ grammar>
+	
+	<grammar id="~じゃん・じゃない・じゃないの・じゃないか" >
+		<point cn="不...吗" ps="反问语气" />
+		<point cn="一起...吧" ps="建议 劝诱 号召" />
+	</ grammar>
+	
+	<grammar id="~上・じょう" >
+		<point cn="在...上 在...方面" ps="某范围上 某领域" />
+	</ grammar>
+	
+	<grammar id="~ずとも" >
+		<point cn="即使不...也" ps="反问语气" />
+	</ grammar>
+	
+	<grammar id="~はする・もする" >
+		<point cn="花费" ps="意料外的花费,竟然这么多" />
+	</ grammar>
+	
+	<grammar id="~せいで・せいだ・せいか" >
+		<point cn="都怪... 因为... 大概是因为..." ps="...之故,  用于消极条件" />
+	</ grammar>
+	
+	<grammar id="~そうにない・そうもない" >
+		<point cn="看样子不会..." ps="根据周围形势作出的判断" />
+	</ grammar>
+	
+	<grammar id="~たきり～ない" >
+		<point cn="自...之后再也没/不..." ps="" />
+	</ grammar>
+	
+	<grammar id="~だけでなく" >
+		<point cn="不但...而且..." ps="" />
+	</ grammar>
+	
+	<grammar id="~だけでは" >
+		<point cn="不但...而且..." ps="" />
+	</ grammar>
+	
+	<grammar id="~たことにする" >
+		<point cn="就当是...了; 就当作..." ps="按事实相反的情况处理" />
+	</ grammar>
+	
+	<grammar id="~たって・だって" >
+		<point cn="即使...也......" ps="逆接条件" />
+		<point cn="无论...都......" ps="逆接条件" />
+	</ grammar>
+	
+	<grammar id="~たとえ・たとい～ても" >
+		<point cn="即使...也......" ps="即使前项成立，后项也不受影响" />
+	</ grammar>
+	
+	<grammar id="~たばかりだ" >
+		<point cn="刚刚......" ps="刚刚做完某个动作" />
+	</ grammar>
+	
+	<grammar id="~たびに" >
+		<point cn="每当...就..." ps="每当前项行为,总伴随后项事态发生" />
+	</ grammar>
+	
+	<grammar id="~たまえ" >
+		<point cn="..." ps="轻微的命令" />
+	</ grammar>
+	
+	<grammar id="~たら・ったら" >
+		<point cn="..." ps="轻微的命令" />
+	</ grammar>
+	
+	<grammar id="~だらけ" >
+		<point cn="净是... 满是..." ps="轻微的命令" />
+	</ grammar>
+	
+	<grammar id="~たらどうですか" >
+		<point cn="那样做如何" ps="提议或者劝诱时用" />
+	</ grammar>
+	
+	<grammar id="~だろうか" >
+		<point cn="能...吗,会是...吗" ps="询问 推测 怀疑" />
+	</ grammar>
+	
+	<grammar id="~っけ" >
+		<point cn="能...吗,会是...吗" ps="询问 推测 怀疑" />
+	</ grammar>
+	
+	<grammar id="~って" >
+		<point cn="叫...的" ps="称谓 =という" />
+		<point cn="...的是..." ps="=は・というのは・とは" />
+		<point cn="听说..." ps="传闻 =そうだ・らしい・という" />
+		<point cn="内容引用..." ps="言う・思う・書く・聞く" />
+	</ grammar>
+	
+	<grammar id="~つもり" >
+		<point cn="自以为..." ps="主语自己的想法" />
+	</ grammar>
+	
+	<grammar id="~で" >
+		<point cn="因为... 通过..." ps="原因或者依据" />
+	</ grammar>
+	
+	<grammar id="~てごらん" >
+		<point cn="请... 试试" ps="让对方尝试做某事" />
+	</ grammar>
+	
+	<grammar id="~て仕方がない・て仕様がない・てしょうがない" >
+		<point cn="... 得不得了" ps="说话人的感觉" />
+	</ grammar>
+	
+	<grammar id="~て済む・で済む" >
+		<point cn="靠...足矣. 靠... 就好办了" ps="" />
+	</ grammar>
+	
+	<grammar id="~てはたまらない" >
+		<point cn="... 得不得了" ps="堪る（たまる）" />
+	</ grammar>
+	
+	<grammar id="~てならない" >
+		<point cn="不由得... " ps="情不自禁产生..." />
+	</ grammar>
+	
+	<grammar id="~ては・では" >
+		<point cn="一...就... " ps="动作的反复" />
+		<point cn="如果...的话 " ps="后项一般是不好的结果..." />
+	</ grammar>
+	
+	<grammar id="~てはないか" >
+		<point cn="不是...吗 " ps="征求对方同意, 反问, 惊讶" />
+	</ grammar>
+	
+	<grammar id="~のではないか" >
+		<point cn="不是...吗, 恐怕...吧 " ps="征求对方同意, 反问, 惊讶" />
+	</ grammar>
+	
+	<grammar id="~てはならない" >
+		<point cn="不能...不可以" ps="禁止.  做某事是不被允许的" />
+	</ grammar>
+	
+	<grammar id="~てほしい" >
+		<point cn="希望..." ps="对对方或者他人的要求, 希望对方帮己方做" />
+	</ grammar>
+	
+	<grammar id="~てみせる" >
+		<point cn="做给...看" ps="做出某个行为给对方看" />
+	</ grammar>
+	
+	<grammar id="~ても仕方がない・ても仕様がない" >
+		<point cn="即使...也没办法" ps="表示 即使...也无济于事" />
+	</ grammar>
+	
+	<grammar id="~ても始まらない" >
+		<point cn="即使...也没用" ps="=てもだめだ" />
+		焦っても始まらない
+	</ grammar>
+	
+	<grammar id="~てやってくれないか" >
+		<point cn="可否给...做..." ps="请求对方为第三者" />
+		娘に英語を教えてやってくれないか
+		
+	</ grammar>
+	
+	<grammar id="~てよかった・なくてよかった" >
+		<point cn="...太好了; 幸亏..." ps="事情结束后给好评" />
+		怖い思いをしたが、取りあえずしななくてよかった
+		
+	</ grammar>
+	
+	<grammar id="~ということだ" >
+		<point cn="听说...; 据说..." ps="" />
+		<point cn="即..., 也就是说..." ps="" />
+	</ grammar>
+	
+	<grammar id="~というと・といえば・といったら" >
+		<point cn="一说起...; 谈到..." ps="一提出话题就联想到" />
+		<point cn="你说的...就是...吧" ps="" />
+	</ grammar>
+	
+	<grammar id="~といのは・とは" >
+		<point cn="所谓的..." ps="一提出话题就联想到" />
+		<point cn="...是因为..." ps="表示原因" />
+	</ grammar>
+	
+	<grammar id="~というほどではない・というほどでもない" >
+		<point cn="并没有达到...的程度" ps="" />
+	</ grammar>
+	
+	<grammar id="~というものは" >
+		<point cn="...这种东西" ps="一般性的叙述 一般用于普遍真理" />
+	</ grammar>
+	
+	<grammar id="~や～といった" >
+		<point cn="...这样的..." ps="" />
+	</ grammar>
+	
+	<grammar id="~といっても" >
+		<point cn="...这样的..." ps="" />
+	</ grammar>
+	
+	<grammar id="~とおりに・とおりの・どおりに・どおりの" >
+		<point cn="如...那样, 按照..." ps="" />
+	</ grammar>
+	
+	<grammar id="~とされている" >
+		<point cn="被视为..." ps="表示对于事情或者结果的推断, 多用于书面语 =とみられている" />
+	</ grammar>
+	
+	<grammar id="~として・としての・としても" >
+		<point cn="作为...（也）" ps="作为某种身份 资格 立场" />
+		<point cn="即使...也..." ps="假定或确定的逆接条件" />
+	</ grammar>
+	
+	<grammar id="~と(は)反対に" >
+		<point cn="与...相反" ps="用于比较对照性事物" />
+	</ grammar>
+	
+	<grammar id="~ないかな" >
+		<point cn="多希望...啊" ps="" />
+	</ grammar>
+	
+	<grammar id="~直す" >
+		<point cn="重新" ps="对行为结果不满意所以重新做一次" />
+	</ grammar>
+	
+	<grammar id="なにしろ～から" >
+		<point cn="因为..." ps="多用此形式陈述理由" />
+	</ grammar>
+	
+	<grammar id="～なんか・なんて" >
+		<point cn="...之类的" ps="表示列举" />
+		<point cn="...之类的 ...什么的" ps="用于自己有谦逊的意思,用于他人时带有不屑和轻蔑" />
+		<point cn="竟然..." ps="表示惊讶 意外" />
+		<point cn="...这种..." ps="表示例示" />
+	</ grammar>
+	
+	<grammar id="～において・における" >
+		<point cn="在... 在...方面" ps="表示场合,时间,范围" />
+	</ grammar>
+	
+	<grammar id="～に関して・に関しても・に関する" >
+		<point cn="关于... 有关..." ps="事物行为相关的，所涉及的..." />
+	</ grammar>
+	
+	<grammar id="～に比べて・と比べて" >
+		<point cn="和...相比，相比于..." ps="=と比較して" />
+	</ grammar>
+	
+	<grammar id="～にしろ～にしろ・～にせよ～にせよ・～にしても～にしても" >
+		<point cn="无论是...还是...都" ps="举出具有相反和对立意义的两个事物都无一例外" />
+	</ grammar>
+	
+	<grammar id="～に対して・に対する" >
+		<point cn="对..." ps="对于, 实行某动作" />
+		<point cn="每..." ps="for each, do" />
+		<point cn="与...相反" ps="表示对比" />
+	</ grammar>
+	
+	<grammar id="～について・についての" >
+		<point cn="关于..." ps="=に関して" />
+	</ grammar>
+	
+	<grammar id="～につれて・につれ" >
+		<point cn="随着..." ps="随着前项发生变化，后项也相应变化" />
+	</ grammar>
+	
+	<grammar id="～にて" >
+		<point cn="在..." ps="事情发生的场所 =で" />
+		<point cn="以...为手段， 用.." ps="工具 方法 =で・によって" />
+		<point cn="于..." ps="表示结束时间, 书面语" />
+	</ grammar>
+	
+	<grammar id="～にとって" >
+		<point cn="对...来说" ps="站在某人的立场来说" />
+	</ grammar>
+	
+	<grammar id="～には" >
+		<point cn="要...就得..." ps="前项是目的,后项是达到此目的所需要做的事情 =ためには" />
+	</ grammar>
+	
+	<grammar id="～によって・により・による" >
+		<point cn="根据...而" ps="因...而异" />
+		<point cn="根据..." ps="表示依据" />
+		<point cn="通过... 凭借..." ps="表示手段" />
+		<point cn="因为... 由于..." ps="表示客观原因" />
+		<point cn="被... " ps="动作的主体 用于被动句中" />
+	</ grammar>
+	
+	<grammar id="～ぬ・ん" >
+		<point cn="不..." ps="表示否定" />
+	</ grammar>
+	
+	<grammar id="～ねばならない" >
+		<point cn="必须..." ps="=なければならない" />
+	</ grammar>
+	
+	<grammar id="～の" >
+		<point cn="...吗" ps="疑问语句助词" />
+		<point cn="...吗" ps="轻微的断定" />
+		<point cn="...吗" ps="轻微的命令" />
+	</ grammar>
+	
+	<grammar id="～のに" >
+		<point cn="用于..., 为了..." ps="表示用途 目的" />
+	</ grammar>
+	
+	<grammar id="～の話では" >
+		<point cn="据说..." ps="表示传闻的根据 消息的来源" />
+	</ grammar>
+	
+	<grammar id="～ばかりだ" >
+		<point cn="越来越..." ps="表示事态恶化" />
+	</ grammar>
+	
+	<grammar id="～ば~ほど" >
+		<point cn="越...越..." ps="表示事态恶化" />
+	</ grammar>
+	
+	<grammar id="～ばよかった・なければよかった" >
+		<point cn="要是...就好了" ps="遗憾 的心情" />
+	</ grammar>
+	
+	<grammar id="~ぶり(に)" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="经过...之后又.." />
+		<point cn="...的样子" />
+	</ grammar>
+	
+	<grammar id="~べき/べきだ/べきではない" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="表示程度" />
+		V普通形/adj普通形/NAな/N + ほど
+		应该	不应该
+		
+	</ grammar>
+	
+	<grammar id="~ほど" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="表示程度" />
+		V普通形/adj普通形/NAな/N + ほど
+		
+	</ grammar>
+	
+	<grammar id="~向きだ/向きに/向きの" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="适合于..." />
+		N＋向きだ/向きに/向きの
+		
+	</ grammar>
+	
+	<grammar id="~向けだ/向けに/向けの" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="适合于..." />
+		N＋向けだ/向けに/向けの
+		面向... 的, 专门针对...的
+		
+	</ grammar>
+	
+	<grammar id="~もの/もん" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="因为..." />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		
+		多用于对自己行为进行辩解 だって呼应
+	</ grammar>
+	
+	<grammar id="~ものだ" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="理应..." />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		
+		因为
+		多用于对自己行为进行辩解 だって呼应
+	</ grammar>
+	
+	<grammar id="~ように" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="希望..." />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		<point cn="请转达..." />
+		
+	</ grammar>
+	
+	<grammar id="~ようになっている" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="希望..." />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		<point cn="请转达..." />
+		
+	</ grammar>
+	
+	<grammar id="~ように見える" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="希望..." />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		<point cn="请转达..." />
+		
+	</ grammar>
+	
+	<grammar id="~られる" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="希望..." />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		<point cn="请转达..." />
+		
+	</ grammar>
+	
+	<grammar id="~わけがない/わけはない" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="不可能... 不会" />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		<point cn="请转达..." />
+		
+	</ grammar>
+	
+	<grammar id="~わけだ" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="不可能... 不会" />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		<point cn="请转达..." />
+		
+	</ grammar>
+	
+	<grammar id="~わけではない/わけでもない" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="并不是" />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		<point cn="请转达..." />
+		
+	</ grammar>
+	
+	<grammar id="~わけにはいかない" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="并不是" />
+		Vc+んだ
+		adj+んだ
+		NA+だ	NA+なんだ
+		N＋だ	N＋なんだ
+		た形	＋んだ
+		<point cn="请转达..." />
+		
+	</ grammar>
+	
+	<grammar id="~を込めて" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="充满... 怀着..." />
+		
+	</ grammar>
+	
+	<grammar id="~を~とする" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="把...当作..." />
+		
+	</ grammar>
+	
+	<grammar id="~をはじめ/をはじめとする" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="以...为代表..." />
+		
+	</ grammar>
+	
+	<grammar id="~んじゃない" >
+		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
+		<point cn="以...为代表..." />
+		
+	</ grammar>
+</Dict>
