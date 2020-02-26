@@ -727,7 +727,11 @@
 			<ex	 word="抜群" pron="ばつぐん" pa="0" pos="N" />
 			<ex	 word="抜擢" pron="ばってき" pa="0" pos="N" />
 		</r>
-		<r kun="ぬく" kk="抜く" pa="0" pos="t5" jlpt="3" ></r>
+		<r kun="ぬく" kk="抜く" pa="0" pos="t5" jlpt="3" >
+			<ex	 word="手抜き" pron="てぬき" pa="0" pos="N/jts" cn="偷工" >
+				<e ph="手抜き工事・仕事を手抜きした" />
+			</ex>
+		</r>
 		<r kun="ぬける" kk="抜ける" pa="0" pos="j1" jlpt="3" ></r>
 		<r kun="ぬかす" kk="抜かす" pa="0" pos="t5" jlpt="1" ph="腰を抜かす"></r>
 		<r kun="ぬかる" kk="抜かる" pa="0" pos="j5" jlpt="2" ></r>

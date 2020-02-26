@@ -106,6 +106,9 @@
 		<r kun="ころ" kk="頃" pa="1" pos="N" jlpt="4" >
 			<ex	 word="近頃" pron="ちかごろ" pa="2" pos="adv" eng="recently" />
 			<ex	 word="先頃" pron="さきごろ" pa="2" pos="adv" eng="lately" />
+			<ex	 word="手頃" pron="てごろ" pa="0" pos="NA" cn="称手的;与能力正相当的" >
+				<e ph="手ごろな価格" />
+			</ex>
 		</r>
 		<r nfu="ケイ・頃く(しばらく)">
 		</r>

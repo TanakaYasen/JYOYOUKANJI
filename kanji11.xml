@@ -538,6 +538,9 @@
 		</r>
 		<r kun="さわ`る" kk="触る" pa="0" pos="j5" jlpt="4" eng="to touch" cn="有意识的碰触" >
 			<e ph="濡れた手で電灯に触ると危ない・あんな奴に触らない方がいい" />
+			<ex	 word="手触り" pron="てざわり" pa="2" pos="N" />
+			<ex	 word="肌触り" pron="はだざわり" pa="3" pos="N" />
+			<ex	 word="歯触り" pron="はざわり" pa="2" pos="N" />
 		</r>
 		<r nfu="ソク">
 		</r>

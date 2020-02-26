@@ -585,15 +585,20 @@
 	</kanji>
 	
 	<kanji	id="囀" freq="3289" >
-		<r kun="さえずる" kk="囀る" pa="3" pos="j5" jlpt="1" cn="(鸟儿)唧唧喳喳叫">
+		<r kun="さえず`る" kk="囀る" pa="3" pos="j5" jlpt="1" cn="(鸟儿)唧唧喳喳叫">
 			<e ph="雀がさえずる・よくさえずる女の子" />
 		</r>
 	</kanji>
 	
 	<kanji	id="噛" freq="1049" jlpt="3" gr="4">
-		<r on="コウ" >
+		<r on="コウ" ></r>
+		<r kun="か`む" kk="噛む" pa="0" pos="N" jlpt="1" ref="咬む" >
 		</r>
-		<r kun="かむ" kk="噛む" pa="0" pos="N" jlpt="1" ref="咬む" >
+	</kanji>
+	
+	<kanji	id="吊" freq="2050" >
+		<r kun="つ`る" kk="吊る" pa="0" pos="t5" jlpt="2" cn="吊,悬挂" >
+			<e ph="首を吊る・橋を吊る" />
 		</r>
 	</kanji>
 	
