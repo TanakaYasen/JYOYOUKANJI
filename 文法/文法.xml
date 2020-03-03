@@ -323,8 +323,8 @@
 		
 	</ grammar>
 	
-	<grammar id="～上に" >
-		<point mn="～に（さらに）" /> 
+	<grammar id="～上に" tag="" jlpt="2">
+		<point mn="～に（さらに）～に加えて / それに" /> 
 		<point mn="責任が伴う場合が多い" /> 
 		<point mn="硬い言葉" /> 
 		
