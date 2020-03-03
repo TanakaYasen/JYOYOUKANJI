@@ -115,8 +115,8 @@
 		<point cn="...完 .. 光" ps="动作进行到底" />
 	</ grammar>
 	
-	<grammar id="~くせに・癖に" >
-		<point cn="明明...却..." ps="" />
+	<grammar id="~癖(くせ)に" >
+		<point cn="明明...却..." ps="癖 是不好的嗜好 くせに是责怪他人" />
 	</ grammar>
 	
 	<grammar id="~くらい・ぐらい" >

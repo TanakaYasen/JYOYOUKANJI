@@ -1,397 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Dict>
-	<grammar id="~ず(に)" >
-		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
-		<point cn="不..." />
-		なくて		ないで
-		V普通形/adj普通形/NAな/N + ほど
-		应该	不应该
+	<grammar id="~は~です" >
+		<point cn="...是..." ps="肯定断定" />
 		
 	</ grammar>
 	
-	<grammar id="~たがる" >
-		<point jp="いろいろやってみた結果。結局のところ。普通、よくない結果になる場合に用いる。副詞的にも用いる。 " />
-		<point cn="想要... 愿意..." />
-			Vr1+たがる
-			<e ph="うちの子供は怖い話を聞きたがる" />
-			
-	</ grammar>
-	
-	<grammar id="~がる" >
-		<point jp="" />
-		<point cn="感到... 觉得..." />
+	<grammar id="~は~です" >
+		<point cn="...是..." ps="肯定断定" />
 		
 	</ grammar>
 	
-	<grammar id="~そうだ" >
-		<point cn="听说... / 据说..." />
-		<point cn="好像.. / 似乎... /眼看就要" />
-	</ grammar>
-	
-	<grammar id="~らしい" >
-		<point cn="好像...(推测)" />
-		
-		<point cn="像...似的" />
-	</ grammar>
-	
-	<grammar id="~みたいだ" >
-		<point cn="好像... 似乎..." />
-		Vc+んだ
-		adj+んだ
+	<grammar id="する" >
+		<point cn="做..." ps="為る" />
 		
 	</ grammar>
 	
-	<grammar id="~れる/られる" >
-		<point cn="可能形" />
-	</ grammar>
-	
-	<grammar id="~せる/させる" >
-		<point cn="使役" />
+	<grammar id="やる" >
+		<point cn="做..." ps="遣る" />
 		
 	</ grammar>
 	
-	<grammar id="~れる/られる" >
-		<point cn="被动态..." />
-		
-		
+	<grammar id="できる" >
+		<point cn="可以做到.." ps="表示能力" />
+		<point cn="完成, 做完.." ps="よくできました" />
+		<point cn="新建成 产生 交(朋友)" ps="是一个自动词" />
 	</ grammar>
 	
-	<grammar id="される・させられる" >
-		<point cn="使役被动" />
-		
+	<grammar id="ある" >
+		<point cn="有" ps="表示存在" />
+		<point cn="拥有" ps="拥有物品 知识 财产 经历等 具体抽象事物都可以 是个 inanimate" />
+		<point cn="事情的发生" ps="发生火灾 召开会议 举办考试 事件发生等" />
 	</ grammar>
 	
-	<grammar id="れ・ろ" >
-		<point cn="命令形" />
-		
+	<grammar id="いる" >
+		<point cn="有" ps="表示有意识 有生命的生物的存在" />
 	</ grammar>
 	
-	<grammar id="～な" >
-		<point cn="禁止形" />
-		
+	<grammar id="な形容詞普通形" >
+		<point cn="作谓语" ps="词干+だ/だった	词干+ではない /ではなかった" />
 	</ grammar>
 	
-	<grammar id="~ておく / とく" >
-		<point cn="事先..." />
-		
+	<grammar id="な形容詞敬体形" >
+		<point cn="作谓语" ps="词干+です/でした	过去简体为 ではないです/ではありません	# 过去否定敬体 ではなかったです/ではありませんでした" />
 	</ grammar>
 	
-	<grammar id="~ていく" >
-		<point cn="...而去" />
-		
-		<point cn="...下去" />
-		
+	<grammar id="な形容詞+名詞" >
+		<point cn="...的(作定语)" ps="词干+な" />
 	</ grammar>
 	
-	<grammar id="~てくる" >
-		<point cn="...去去就来" />
-		
-		<point cn="...朝这里来" />
-			近づいてくる・走ってくる
-		<point cn="一直...到现在" />
-		
+	<grammar id="な形容詞て形" >
+		<point cn="并列 中断" ps="词干+で" />
 	</ grammar>
 	
-	<grammar id="~てしまう / ちゃう" >
-		<point cn="...完了" />
-		
+	<grammar id="な形容詞+動詞" >
+		<point cn="...地(作状语)" ps="词干+に" />
 	</ grammar>
 	
-	<grammar id="~てみる / ちゃう" >
-		<point cn="试着...看" />
-		
+	<grammar id="い形容詞普通形" >
+		<point cn="作谓语" ps="肯定形式 词干+い・かった	否定形式 くない・くなかった" />
 	</ grammar>
 	
-	<grammar id="~もの" >
-		<point cn="形式体言" />
-		
+	<grammar id="い形容詞敬体形" >
+		<point cn="作谓语" ps="肯定形式 词干+いです・かったです	否定形式 くないです・くなかったです" />	</ grammar>
 	</ grammar>
 	
-	<grammar id="~こと" >
-		<point cn="形式体言" />
-		
+	<grammar id="い形容詞+名詞" >
+		<point cn="...的(作定语)" ps="词干+い" />
 	</ grammar>
 	
-	<grammar id="~ということ" >
-		<point cn="形式体言" />
-		
+	<grammar id="い形容詞て形" >
+		<point cn="并列 中断" ps="词干+く+て" />
 	</ grammar>
 	
-	<grammar id="～の / んです" >
-		<point cn="是, 表示强调（解释原因）" />
-		
+	<grammar id="い形容詞+動詞" >
+		<point cn="变副词, 作状语" ps="词干+く" />
 	</ grammar>
 	
-	<grammar id="~のに" >
-		<point cn="却..." />
-		
+	<grammar id="いくつ" >
+		<point cn="几个 多少" ps="问小孩子年龄 问对方小孩的时候要加美化接头お" />
 	</ grammar>
 	
-	<grammar id="~てもいい" >
-		<point cn="却..." />
-		
+	<grammar id="いつ" >
+		<point cn="什么时候" ps="询问时间" />
 	</ grammar>
 	
-	<grammar id="~ても構わない" >
-		<point cn="...也行,也不要紧" />
-		
+	<grammar id="誰・どの人・何方・どの方" >
+		<point cn="谁" ps="说话人不认识或不明确第三者是某人	敬意程度上 誰<どの人<どなた<どの方 " />
 	</ grammar>
 	
-	<grammar id="~てはいけない" >
-		<point cn="不可以, 不能..." />
-		
+	<grammar id="どう・如何" >
+		<point cn="...怎么样" ps="用来询问对方想法或事物的性质状态 回答中多出现形容词对其说明" />
+		<point cn="...意下如何" ps="表示委婉向对方提出某项建议" />
+		<point cn="...怎么做" ps="询问某事应该怎么做 how to do?	此用法不能用いかが" />
 	</ grammar>
 	
-	<grammar id="~なければならない・なければいけない・なきゃ" >
-		<point cn="不可以, 不能..." />
-		
+	<grammar id="どのぐらい・どれぐらい" >
+		<point cn="多久 多长 多远" ps="询问时间 距离 程度 具体数量" />
 	</ grammar>
 	
-	<grammar id="~なくてもいい" >
-		<point cn="不...也行" />
-		
+	<grammar id="なに・なん・何" >
+		<point cn="什么" ps="向对方询问自己不了解的内容情况" />
 	</ grammar>
 	
-	<grammar id="~なくてもならない / なくてもいけない" >
-		<point cn="不...也不行" />
-		
+	<grammar id="何故・どうして・なんで" >
+		<point cn="为什么" ps="询问原因 理由的疑问词" />
 	</ grammar>
 	
-	<grammar id="~すぎる" >
-		<point cn="过于..." />
-		
+	<grammar id="が" ps="主格助词">
+		<point cn="提示主语" ps="表示客观现象 事物状态性质 或者 话题中首次出现的事物" />
+		<point cn="整体一部分" ps="表示从句中的主语" />
+		<point cn="疑问句中的主语" ps="" />
+		<point cn="好恶 希望 能力 的对象" ps="" />
 	</ grammar>
 	
-	<grammar id="~だす" >
-		<point cn="开始...了起来" />
-		<point cn="...出来" />
-		
+	<grammar id="の" >
+		<point cn="的..." ps="表示属于 材料 产地" />
 	</ grammar>
 	
-	<grammar id="~続ける" >
-		<point cn="持续..." />
-		
+	<grammar id="を" >
+		<point cn="提示宾语" ps="表示" />
 	</ grammar>
 	
-	<grammar id="~やすい" >
-		<point cn="容易... 易于..." />
-		
+	<grammar id="から" >
+		<point cn="提示主语" ps="表示" />
 	</ grammar>
 	
-	<grammar id="~にくい　~難い" >
-		<point cn="容易... 易于..." />
-		
+	<grammar id="で" >
+		<point cn="提示主语" ps="表示" />
 	</ grammar>
 	
-	<grammar id="~方" >
-		<point cn="...的方法" />
-		
+	接续助词 终助词
+	<grammar id="ても・でも" >
+		<point cn="但是" ps="表示逆接" />
+		<point cn="不管..都.. 就算...也..." ps="動詞て形+も　表示让步 前项条件不会对后项事实造成影响">
+		<point cn="无论...不管..." ps="表示某一类事物中不特指某一个">
 	</ grammar>
 	
-	<grammar id="~さ" >
-		<point cn="...度" />
-		adj-stem + さ
+	<grammar id="けれども・けれど・けど" >
+		<point cn="但是... 可是..." ps="" />
 	</ grammar>
 	
-	<grammar id="~うちに" >
-		<point cn="在...之内, 趁着..." />
-		V / adj + うちに
+	<grammar id="しかし" >
+		<point cn="但是... 不过..." ps="表示转折" />
 	</ grammar>
 	
-	<grammar id="~ところ" >
-		<point cn="...正打算..." />
-		adj-stem + さ
+	<grammar id="~から" >
+		<point cn="因为... 由于..." ps="表示原因 理由" />
 	</ grammar>
 	
-	<grammar id="~ているところだ" >
-		<point cn="正在..." />
-		adj-stem + さ
+	<grammar id="~ので" >
+		<point cn="因为... 由于..." ps="の(体言化)＋で(原因)	表示客观的原因 理由" />
 	</ grammar>
 	
-	<grammar id="~たところだ" >
-		<point cn="刚刚..." />
-		adj-stem + さ
+	<grammar id="て・で" >
+		<point cn="中顿" ps="" />
+		<point cn="并列" ps="" />
+		<point cn="轻微的原因" ps="" />
 	</ grammar>
 	
-	<grammar id="~ばかり" >
-		<point cn="只...，光是..." />
-		adj-stem + さ
+	<grammar id="~ながら" >
+		<point cn="一边...一边..." ps="表示进行某项动作行为的同时，进行另一项动作行为" />
 	</ grammar>
 	
-	<grammar id="~てばかり" >
-		<point cn="只...，光是..." />
-		adj-stem + さ
+	<grammar id="それに" >
+		<point cn="而且... 还有..." ps="用于同类事物的列举" />
 	</ grammar>
 	
-	<grammar id="~たばかり" >
-		<point cn="刚..." />
-		adj-stem + さ
+	<grammar id="それとも" >
+		<point cn="是... 还是..." ps="or 放在两个疑问句中间 " />
 	</ grammar>
 	
-	<grammar id="~までに" >
-		<point cn="到...为止, 在...之前" />
-		adj-stem + さ
+	<grammar id="それから" >
+		<point cn="然后..." ps="表示前项动作结束之后 接着做后项的事情 " />
 	</ grammar>
 	
-	<grammar id="~でも" >
-		<point cn="...之类的" />
-		adj-stem + さ
+	<grammar id="ところで" >
+		<point cn="对了...  话说..." ps="用于转移话题，常用于段落开头或是对话中途停顿后的开头" />
 	</ grammar>
 	
-	<grammar id="~とか" >
-		<point cn="...之类的" />
-		adj-stem + さ
+	<grammar id="それで" >
+		<point cn="所以...  因此..." ps="用于转移话题，常用于段落开头或是对话中途停顿后的开头" />
 	</ grammar>
 	
-	<grammar id="~か" >
-		<point cn="某..." />
-		何か	いつか	誰か
+	<grammar id="か" >
+		<point cn="...吗" ps="读作升调 表示疑问或再次确认等语气 读降调表示惊讶感叹等语气" />
 	</ grammar>
 	
-	<grammar id="~も" >
-		<point cn="都（不）..." />
-		誰も
+	<grammar id="ね" >
+		<point cn="...对吧" ps="表示轻微的感叹或者征求对方认同 还可以表示叮嘱" />
 	</ grammar>
 	
-	<grammar id="~または" >
-		<point cn="或者" />
-		誰も
+	<grammar id="よ" >
+		<point cn="...哟" ps="表示提醒对方 或向对方提出自己的主张" />
 	</ grammar>
 	
-	<grammar id="~たり　たり" >
-		<point cn="有时...有时..." />
-		誰も
+	<grammar id="わ" >
+		<point cn="..." ps="表示自己的判断决心, 女性用语" />
 	</ grammar>
 	
-	<grammar id="~　たり" >
-		<point cn="有时...有时..." />
-		誰も
+	<grammar id="かな・かしら" >
+		<point cn="...吗" ps="表示疑惑和不确实的态度;多用于自言自语。用于对话时表示 间接提出请求或期望。" />
 	</ grammar>
 	
-	<grammar id="~ほど～ない" >
-		<point cn="没有...那么..." />
-		
+	<grammar id="時間すぎ・まえ" >
+		<point cn="...前/...后" ps="表示时间上的偏差" />
 	</ grammar>
 	
-	<grammar id="~ほど～ない" >
-		<point cn="没有...那么..." />
-		
+	<grammar id="たち・がた" >
+		<point cn="...们" ps="表示复数 がた是尊他语只能用在别人上" />
 	</ grammar>
 	
-	<grammar id="~より" >
-		<point cn="比..." />
-		兄より、弟のほうが背が高い
+	<grammar id="~中" >
+		<point cn="...们" ps="表示正在进行 或 之内之中" />
 	</ grammar>
 	
-	<grammar id="~まま" >
-		<point cn="保持着...,  维持...原样" />
-		
+	<grammar id="~人" >
+		<point cn="...人" ps="表示" />
 	</ grammar>
 	
-	<grammar id="~のうち" >
-		<point cn="在...之中, ...范围内" />
-		昨日もらったプレゼントのうち、ピンクのワンピースが一番好きです
+	<grammar id="~ずつ" >
+		<point cn="第..." ps="each" />
 	</ grammar>
 	
-	<grammar id="必ず" >
-		<point cn="一定, 务必 " />
+	<grammar id="とても" >
+		<point cn="非常..." ps="肯定表达" />
+		<point cn="无论如何也..." ps="否定表达" />
 	</ grammar>
 	
-	<grammar id="～かも知れない" >
-		<point cn="也许...,   ... 也未可知" />
+	<grammar id="あまり" >
+		<point cn="非常..." ps="肯定表达" />
+		<point cn="不太..." ps="否定表达" />
 	</ grammar>
 	
-	<grammar id="～つもりだ" >
-		<point cn="打算..." />
+	<grammar id="少し" >
+		<point cn="稍微.一点" ps="程度轻微" />
 	</ grammar>
 	
-	<grammar id="～たつもりで" >
-		<point cn="就当作是...而..." />
-		Ved +つもりで
+	<grammar id="全然" >
+		<point cn="完全不..." ps="接否定 表示完全不" />
 	</ grammar>
 	
-	<grammar id="～はずだ / はずがない" >
-		<point cn="(推测)理应..." />
-		V + はずだ
+	<grammar id="殆ど" >
+		<point cn="大体上, 差不多 几乎..." ps="程度深" />
 	</ grammar>
 	
-	<grammar id="～たら" >
-		<point cn="如果...的话" />
-		
-		<point cn="之后" />
-		<point cn="....一看" />
+	<grammar id="いつも" >
+		<point cn="经常 总是" ps="表示一般状态或习惯" />
 	</ grammar>
 	
-	<grammar id="～なら" >
-		<point cn="如果...的话" />
-		
-		<point cn="...的话" />
+	<grammar id="どうぞ" >
+		<point cn="请..." ps="请对方做" />
 	</ grammar>
 	
-	<grammar id="～ば" >
-		<point cn="如果...的话" />
+	<grammar id="やっと" >
+		<point cn="终于..." ps="表示 经过艰难困苦之后终于愿望得以实现。表示喜悦，解脱，松了口气的情绪" />
 	</ grammar>
 	
-	<grammar id="～と" >
-		<point cn="一...就..." />
-		<point cn="如果...的话" />
-		<point cn="刚一...就" />
-		<point cn="一...立即" />
+	<grammar id="ぜひ" >
+		<point cn="务必..." ps="用于自己时表示做某事的强烈决心或愿望 用于对方则表示非常希望对方做事" />
 	</ grammar>
 	
-	<grammar id="もし" >
-		<point cn="如果" />
+	<grammar id="そろそろ" >
+		<point cn="差不多该..." ps="表示时间上紧迫，是时候做某事了" />
 	</ grammar>
-	
-	<grammar id="もし~ても" >
-		<point cn="就算...也" />
-	</ grammar>
-	
-	<grammar id="~といい" >
-		<point cn="...的话就好了" />
-		病気が早く良くなるといいですね
-	</ grammar>
-	
-	<grammar id="~ため / ために" >
-		<point cn="由于..., 因为..." />
-		
-		<point cn="为了..." />
-			日本で働くために日本語を勉強している
-	</ grammar>
-	
-	<grammar id="~ように" >
-		<point cn="为了..." />
-		
-	</ grammar>
-	
-	<grammar id="~ようになる" >
-		<point cn="变得..." />
-		
-	</ grammar>
-	
-	<grammar id="~ようにする" >
-		<point cn="要做到... 设法做到..." />
-		
-	</ grammar>
-	
-	<grammar id="~(よ)うとする" >
-		<point cn="要做到... 设法做到..." />
-		attemp to do
-		意志形＋とする
-	</ grammar>
-	
-	<grammar id="~ではなく" >
-		<point cn="不是... 而是..." />
-		rather than..
-	</ grammar>
-	
-	<grammar id="ちっとも～ない" >
-		<point cn="一点也不..." />
-	</ grammar>
-	
-	<grammar id="おもに" >
-		<point cn="主要" />
-	</ grammar>
-	
 </Dict>

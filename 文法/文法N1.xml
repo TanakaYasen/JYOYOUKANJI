@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dict>
+	<grammar id="~あっての" >
+		<point cn="正因为有了A 才有B的存在" ps="前项和后项是不同的名词" />
+	</ grammar>
+	
+	<grammar id="~いがの何物でもない" >
+		<point cn="不是别的，正是..." ps="表示强调" />
+	</ grammar>
+	
+	<grammar id="~如何で・いかんでは・いかんによっては・いかんにかかっている・いかんだ" >
+		<point cn="" ps="表示强调" />
+		<point cn="取决于... 要看..." ps="表示前后两项的依赖 =次第だ" />
+	</ grammar>
+	
+	<grammar id="~如何に関わらず・いかんによらず・いかんを問わず" >
+		<point cn="不管...如何; 不论..." ps="表示无视条件" />
+	</ grammar>
+	
+	<grammar id="いざ～となると・いざ～となれば・いざ～となったら" >
+		<point cn="一旦发生问题...; 万一..." ps="单独使用作惯用短语" />
+		<point cn="一旦真的要...的话，就会..." ps="表示假设" />
+	</ grammar>
+	
+	<grammar id="今一つ～ない" >
+		<point cn="还差一点..." ps="表示评价　=今一" />
+	</ grammar>
+	
+	<grammar id="言わずもがな" >
+		<point cn="不应该说的... 不说为妙的..." ps="言わずもがなだ=いわない方がいい　もがな是一个终助词 出现在古典日语文言体中表示愿望，前面用ず形接续" />
+		<point cn="...自不必说... 也" ps="=～は言うまでもなく～も＝～はもちろん" />
+	</ grammar>
+	
+	<grammar id="～ようが・ようと" >
+		<point cn="无论...都; 即使...也...; 不管...也..." ps="表示假定条件的逆接，无论前项如何后项都不会有太大变化" />
+	</ grammar>
+	
+	<grammar id="～ようが~ようが・ようと～ようと" >
+		<point cn="无论...也好...也好, 都;" ps="=～ても～ても" />
+	</ grammar>
+	
+	<grammar id="～ようが~まいが・ようと～まいと" >
+		<point cn="无论...也好...也好, 都;" ps="=～ても～ても" />
+	</ grammar>
+	
+	<grammar id="～ようとも・くとも" >
+		<point cn="无论...也好...也好, 都;" ps="条件的逆接" />
+	</ grammar>
+	
+	<grammar id="～ようにも～ない" >
+		<point cn="即使想...也不能..." ps="表示想做无法做到" />
+	</ grammar>
+	
+	<grammar id="甲斐があって・甲斐がある・甲斐もなく・甲斐がない" >
+		<point cn="有价值..." ps="" />
+	</ grammar>
+	
+	<grammar id="～か否か" >
+		<point cn="是否..." ps="书面语 =～かどうか" />
+	</ grammar>
+	
+	<grammar id="～限りだ" >
+		<point cn="无比... 非常... ...极了" ps="表达一种强烈的感情 常与 嬉しい・寂しい・羨ましい・残念な 表示情感的词搭配" />
+	</ grammar>
+	
+	<grammar id="～が最後・たら最後" >
+		<point cn="一旦... 就..." ps="表示假定条件 某事一旦发生就必定..." />
+	</ grammar>
+	
+	<grammar id="～かたがた" >
+		<point cn="顺便..." ps="表示某个行为同时有两个目的 ＝を兼ねて" />
+	</ grammar>
+	
+	<grammar id="～傍ら(かたわら)" >
+		<point cn="一边... 一边..." ps="表示集中主要精力做某事的同时，顺便做另外一件事 常指主业与副业的关系" />
+	</ grammar>
+	
+	<grammar id="～がてら" >
+		<point cn="顺便... " ps="表示在进行某动作的同时也兼做其他" />
+	</ grammar>
+	
+	<grammar id="～が早いか" >
+		<point cn="刚刚...就... " ps="表示前项动作发生后紧接着进行下一个动作" />
+	</ grammar>
+	
+	<grammar id="～が早いか" >
+		<point cn="刚刚...就... " ps="表示前项动作发生后紧接着进行下一个动作" />
+	</ grammar>
+	
+	<grammar id="～からある・からする・からの" >
+		<point cn="足有...; 多达... " ps="强调 大多重长 前多为数量 长度 金额" />
+	</ grammar>
+	
+	<grammar id="～嫌いがある" >
+		<point cn="有...倾向; 有点... " ps="多指某个人不好的特征 表示消极的意思" />
+	</ grammar>
+	
+	<grammar id="～極まる・極まりない" >
+		<point cn="极其... " ps="表示说话人强烈的语气 两者都表示否定 不用过去式" />
+	</ grammar>
+	
+	<grammar id="～如き・如く・如し" >
+		<point cn="像...一样; 如...; 就像... " ps="表示比喻 举例 = ような・ように・ようだ" />
+	</ grammar>
+	
+	<grammar id="～ことだし" >
+		<point cn="也因为... " ps="用来陈述其中一个理由" />
+	</ grammar>
+	
+	<grammar id="～こととて" >
+		<point cn="因为...所以... " ps="表示原因 是比较正式的表达方式" />
+	</ grammar>
+	
+	<grammar id="～ことなしに" >
+		<point cn="如果不...就无法 " ps="表示假定的条件 如果没有前项就很难有后项" />
+		<point cn="没有...就... " ps="表示不做某事的情况下 就进行了后项。=～をしないまま" />
+	</ grammar>
+	
+	<grammar id="～ことのないよう" >
+		<point cn="为了不要... 应该 " ps="表示目的 =～ことがないように" />
+	</ grammar>
+	
+	<grammar id="～こともあって" >
+		<point cn="也是由于..." ps="表示其中一个原因" />
+	</ grammar>
+	
+	<grammar id="～始末だ" >
+		<point cn="最终(沦落到)... 到了...的地步" ps="表示结果 大多用于不好的结果" />
+	</ grammar>
+	
+	<grammar id="～すぐめ" >
+		<point cn="尽是... 全是..." ps="表示状态 后续接の" />
+	</ grammar>
+	
+	<grammar id="～ずじまいだ" >
+		<point cn="最终未能... 结果还是没能..." ps="表示结果 有一种遗憾 自责的感情 用来描述过去的事情" />
+	</ grammar>
+	
+	<grammar id="～ずには置かない・ないでは置かない" >
+		<point cn="肯定会使... 必然会引起..." ps="表示对事情的评价或者一种强烈的意志" />
+	</ grammar>
+	
+	<grammar id="～ずには済まない・ないでは済まない" >
+		<point cn="不...不行" ps="表示从自己的责任感，周围的情况，常识出发 必须要做某事" />
+	</ grammar>
+	
+	<grammar id="～術がない" >
+		<point cn="没办法做到..." ps="すべ 的意思是方法" />
+	</ grammar>
+	
+	<grammar id="～ですら" >
+		<point cn="甚至... 连..." ps="表示强调" />
+	</ grammar>
+	
+	<grammar id="～そばから" >
+		<point cn="刚...就..." ps="表示强调" />
+	</ grammar>
+	
+	<grammar id="～そびれる" >
+		<point cn="错失良机没能..." ps="表示结果" />
+	</ grammar>
+	
+	<grammar id="～だけでなく・のみならず" >
+		<point cn="不仅..." ps="表示无限定" />
+	</ grammar>
+	
+	<grammar id="～だけましだ" >
+		<point cn="幸好..." ps="表示不幸中的万幸 幸亏没更糟糕" />
+	</ grammar>
+	
+	<grammar id="ただ～のみだ" >
+		<point cn="只好是..." ps="表示限定" />
+	</ grammar>
+	
+	<grammar id="ただ～のみならず・のみか" >
+		<point cn="不仅..." ps="表示限定" />
+	</ grammar>
+	
+	<grammar id="～たところで" >
+		<point cn="即使...也(未必)" ps="表示假定条件的逆接，假设前项条件成立，也未必会达成后项的结果" />
+	</ grammar>
+	
+	<grammar id="～だに" >
+		<point cn="就连... 压根没.. 连...都..." ps="表示强调" />
+	</ grammar>
+	
+	<grammar id="～だに" >
+		<point cn="就连... 压根没.. 连...都..." ps="表示强调 文语助动词" />
+	</ grammar>
+	
+	<grammar id="～試し(ためし)がない" >
+		<point cn="从未... 不曾" ps="表示从未做过某事或者未曾有某种经历。多用于描述行为，暗含不满责难的语气" />
+	</ grammar>
+	
+	<grammar id="～たらきりがない・ばきりがない" >
+		<point cn="若是...的话就没完没了" ps="用于 若说起某事话就长了 或者 同类的事情不胜枚举" />
+	</ grammar>
+	
+	<grammar id="～たりとも" >
+		<point cn="就连...也不能" ps="强调 小 少 弱" />
+	</ grammar>
+	
+	<grammar id="～たる・たるもの" >
+		<point cn="作为...本应..." ps="前面常用职业身份地位的名词" />
+	</ grammar>
+	
+	<grammar id="～つ～つ" >
+		<point cn="一会儿...一会儿..." ps="表示 两个动作交替进行" />
+	</ grammar>
+	
+	<grammar id="っぱなし" >
+		<point cn="放任...不管" ps="接他动词 表示本应该做的事情却不去做。 多用于负面评价" />
+		<point cn="一直..." ps="接自动词 表示某个状态的持续" />
+	</ grammar>
+	
+	<grammar id="～であれ・であろうと" >
+		<point cn="无论...如何，都(不)" ps="表示假定条件的逆接， 无论前项如何后项都不改变" />
+	</ grammar>
+	
+	<grammar id="～であれ～であれ・～であろうと～であろうと" >
+		<point cn="无论是...还是...都" ps="表示假定条件的逆接， 无论前两项中的哪个，后项都一样的要求" />
+	</ grammar>
+	
+	<grammar id="～てからというもの" >
+		<point cn="自从...之后" ps="表示自从事件发生后，后项发生了很大的变化" />
+	</ grammar>
+	
+	<grammar id="～てしかるべきだ" >
+		<point cn="理应...(但现在条件不允许)" ps="表示做某事是理所应当的。" />
+	</ grammar>
+	
+	<grammar id="～でなくてなんだろう" >
+		<point cn="不是...又是什么呢" ps="用于句末，表示说话人强烈的语气" />
+	</ grammar>
+	
+	<grammar id="～ではあるまいし・じゃあるまいし" >
+		<point cn="又不是...(所以没必要)" ps="表示原因理由" />
+	</ grammar>
+	
+	<grammar id="～ては適わない" >
+		<point cn="...的话，让人受不了; " ps="强调主观的一种情绪感受" />
+	</ grammar>
+	
+	<grammar id="～ては～ては" >
+		<point cn="...又... " ps="表示动作或者现象的重复出现" />
+	</ grammar>
+	
+	<grammar id="～て憚らない(はばからない)" >
+		<point cn="毫不顾忌... " ps="用于描述他人的言论 与　言う・断言する搭配" />
+	</ grammar>
+	
+	<grammar id="～ては遣り切れない" >
+		<point cn="...的话，让人受不了; " ps="强调主观的一种情绪感受" />
+	</ grammar>
+	
+	<grammar id="～てまで" >
+		<point cn="甚至不惜 " ps="为达到某种目的 甚至不惜做出超出寻常的事情" />
+	</ grammar>
+	
+	<grammar id="～ても差し支えない" >
+		<point cn="即使...也无妨 " ps="表示不影响 没有妨碍 =～てもかまわない" />
+	</ grammar>
+	
+	<grammar id="～でもしたら" >
+		<point cn="一旦...的话就会 如果...就(糟了) " ps="表示假设" />
+	</ grammar>
+	
+	<grammar id="～ても知らない" >
+		<point cn="如果你继续...的话 我可不管了 如果再...可就..." ps="用来警告对方这个状态持续的后果" />
+	</ grammar>
+	
+	<grammar id="～でもって" >
+		<point cn="用... 以... 凭借..." ps="口语 =~をもって" />
+	</ grammar>
+	
+	<grammar id="～てもどうにもならない・てもどうなるものでもない" >
+		<point cn="即使...也无济于事" ps="表示假定条件逆接，即使做了前项也解决不了问题" />
+	</ grammar>
+	
+	<grammar id="～てもともとだ" >
+		<point cn="...的话也无所谓" ps="表示内心不抱太大期望" />
+	</ grammar>
+	
+	<grammar id="～でも何でもない・くもなんともない" >
+		<point cn="一点也不... 根本不是..." ps="表示强烈的否定 有否定批判不满的语气" />
+	</ grammar>
+	
+	<grammar id="～ても始まらない" >
+		<point cn="即使...也无济于事" ps="表示假定条件逆接，即使做了前项也解决不了问题" />
+	</ grammar>
+	
+	<grammar id="～て止まない" >
+		<point cn="...不已" ps="表达强烈的愿望和一种心情" />
+	</ grammar>
+	
+	<grammar id="～とが相まって・も相まって" >
+		<point cn="" ps="" />
+	</ grammar>
+	
+	<grammar id="～とあって" >
+		<point cn="因为... 由于..." ps="表示因果关系" />
+	</ grammar>
+	
+	<grammar id="～とあっては" >
+		<point cn="若是...的话就会..." ps="表示一定假设条件状态下应该采取的措施 或者发生的事情 后项常用 なきゃ・ないわけにはいかない・ないはずがない・断れない" />
+	</ grammar>
+	
+	<grammar id="～とあれば" >
+		<point cn="如果是... " ps="表示为了前项可以尽最在努力，或者既然前项如此就不得不做后项" />
+	</ grammar>
+	
+	<grammar id="～といい～といい" >
+		<point cn="无论...也好 ...也好 都 " ps="表示对同一事件的不同侧面总体评价" />
+	</ grammar>
+	
+	<grammar id="～という~" >
+		<point cn="所有的...全都 " ps="表示强调" />
+	</ grammar>
+	
+	<grammar id="～というか~というか" >
+		<point cn="不知道说...好呢不是说...好呢 总之 " ps="表示对人或者事物的评价" />
+	</ grammar>
+	
+	<grammar id="～というところだ・といったところだ" >
+		<point cn="大概是... 大致上... 最多不过... " ps="前面常用表示程度数量级别的词，强调再多再好也不过如此" />
+	</ grammar>
+	
+	<grammar id="～というもの" >
+		<point cn="这段时间以来... " ps="描述最近很长一段时间内一直处于某种状态" />
+	</ grammar>
+	
+	<grammar id="～といえども" >
+		<point cn="虽说...但还是..." ps="表示让步转折 承认前项的事实 后项问题不是未能解决" />
+	</ grammar>
+	
+	<grammar id="～と言えなくもない" >
+		<point cn="硬是这么说的话也没错， 也可以说是..." ps=" 双重否定表示消极的肯定表示" />
+	</ grammar>
+	
+	<grammar id="～といったらありはしない・と言ったらありゃしない" >
+		<point cn="硬是这么说的话也没错， 也可以说是..." ps=" 双重否定表示消极的肯定表示" />
+	</ grammar>
+	
+	<grammar id="～といって～ない・といった～ない" >
+		<point cn="并没有特别值得一提的..." ps=" 双重否定表示消极的肯定表示" />
+	</ grammar>
+	
+	<grammar id="～と言わず～と言わず" >
+		<point cn="不论...还是...;  ...也好...也罢" ps=" ～といい～といい 是说话人主观评价， ～といわず是客观事实" />
+	</ grammar>
+	
+	<grammar id="～と(は)打って変わって" >
+		<point cn="和...截然不同" ps="表示和过去相比短时间发生了根本性的变化" />
+	</ grammar>
+	
+	<grammar id="～(か)と思いきゃ" >
+		<point cn="原以为...但出乎意料的是..." ps="表示一种惊讶意外的语气" />
+	</ grammar>
+	
+	<grammar id="～ときたら" >
+		<point cn="说起...就..." ps="提示主语, 后接为否定责难的内容 用来表示负面的评价" />
+	</ grammar>
+	
+	<grammar id="～ところを" >
+		<point cn="当...的时候" ps="表示时间 场景 状况" />
+	</ grammar>
+	
+	<grammar id="～としたことが" >
+		<point cn="像...的人 竟然" ps="表示批评某人自不量力的行为" />
+	</ grammar>
+	
+	<grammar id="～としたって・としたところで・にしたところで・にしたって" >
+		<point cn="即使...也... " ps="表示让步转折" />
+	</ grammar>
+	
+	<grammar id="～として～ない" >
+		<point cn="没有... " ps="表示全面否定" />
+	</ grammar>
+	
+	<grammar id="～とて" >
+		<point cn="即使...也不例外; 就连... " ps="=としても" />
+		<point cn="就算...也... " ps="表示假定条件的逆接" />
+	</ grammar>
+	
+	<grammar id="～とは・なんて" >
+		<point cn="居然..." ps="出现意外情况时的惊讶 意外的语气" />
+	</ grammar>
+	
+	<grammar id="～とはいうものの・とは言い条" >
+		<point cn="虽说...但是" ps="表示让步转折" />
+	</ grammar>
+	
+	<grammar id="～とはいえ" >
+		<point cn="虽说...但是" ps="表示让步转折" />
+	</ grammar>
+	
+	<grammar id="～とばかりに" >
+		<point cn="...似的" ps="用来描述对方的动作神态" />
+	</ grammar>
+	
+	<grammar id="～とまではいかないが・とまではいかないとしても" >
+		<point cn="虽然达不到...但起码" ps="前项程度高于后项" />
+	</ grammar>
+	
+	<grammar id="～とまではいわないが・～とまではいわないとしても" >
+		<point cn="虽然做不到...但至少要" ps="言わないが是虽然不要求" />
+	</ grammar>
+	
+	<grammar id="～ともあろうものが" >
+		<point cn="身为...竟做出如此..." ps="表示有一定地位的人竟然做出了与身份不符合的事情 表达失望吃惊的语气" />
+	</ grammar>
+	
+	<grammar id="～ともなく・ともなしに" >
+		<point cn="漫不经心地... ; 无意间..." ps="意外地" />
+	</ grammar>
+	
+	<grammar id="～ともなると・ともなれば" >
+		<point cn="一到...的时候 一旦...的话" ps="表示评价的角度" />
+	</ grammar>
+	
+	<grammar id="～と/に～を重ねて" >
+		<point cn="反复 屡次..." ps="表示反复尝试后得到了来之不易的成果" />
+	</ grammar>
+	
+	<grammar id="～ないではない・ないでもない" >
+		<point cn="并非不..." ps="表示前项提及的事情也是有可能的。双重否定表示消极的肯定" />
+	</ grammar>
+	
+	<grammar id="～ないまでも" >
+		<point cn="即使做不到...但至少..." ps="表示做不到前项也要后项达标" />
+	</ grammar>
+	
+	<grammar id="～ないものでもない" >
+		<point cn="不是不... 未必不..." ps="表示某个前提条件下 后项也有可能成立" />
+	</ grammar>
+	
+	<grammar id="～ながらに・ながらの" >
+		<point cn="保持...的状态, ...着" ps="" />
+	</ grammar>
+	
+	<grammar id="～ながらも" >
+		<point cn="仅管...但是..." ps="表示逆接 =けれども・が" />
+	</ grammar>
+	
+	<grammar id="～なくして(は)" >
+		<point cn="如果没有...就不能..." ps="表示逆接 =けれども・が" />
+	</ grammar>
+	
+	<grammar id="～なくはない・なくもない" >
+		<point cn="也不是不..." ps="" />
+	</ grammar>
+	
+	<grammar id="～なしに・なしには・なしでは" >
+		<point cn="如果没有...就不能..." ps="" />
+	</ grammar>
+	
+	<grammar id="～ならいざしらず" >
+		<point cn="如果...的话就 另当别论/情有可原" ps="" />
+	</ grammar>
+	
+	<grammar id="～ならでは・ならではの" >
+		<point cn="...独有的" ps="多强调地方特色，某人专属的才能 某群体的特征 含义积极" />
+	</ grammar>
+	
+	<grammar id="～なり" >
+		<point cn="一...就..." ps="表示前项动作结束后紧接着进行后项动作 后项多是没有预想到的情况" />
+	</ grammar>
+	
+	<grammar id="～なりとも" >
+		<point cn="...之类的" ps="表示列举几个事物中的一个" />
+		<point cn="不论..." ps="表示列举几个事物中的一个 暗示其他" />
+	</ grammar>
+	
+	<grammar id="～なり～なり" >
+		<point cn="也好...也好..." ps="表示列举" />
+	</ grammar>
+	
+	<grammar id="～なりに・なりの" >
+		<point cn="一...就..." ps="表示前项动作结束后紧接着进行后项动作 后项多是没有预想到的情况" />
+	</ grammar>
+	
+	<grammar id="～に値する・に値しない" >
+		<point cn="值得..." ps="" />
+	</ grammar>
+	
+	<grammar id="～に(は)当たらない" >
+		<point cn="用不着..." ps="表示没有必要做某事" />
+	</ grammar>
+	
+	<grammar id="～にあって(は)/にあっても" >
+		<point cn="处于..." ps="描述某种场合时间情况" />
+	</ grammar>
+	
+	<grammar id="～に至って・に至る・にいたっては・にいたっても" >
+		<point cn="到...为止" ps="表示程度 结果 范围等" />
+	</ grammar>
+	
+	<grammar id="～に至るまで" >
+		<point cn="从...到... 甚至连... " ps="表示程度 范围等" />
+	</ grammar>
+	
+	<grammar id="～におうところが多い・におうところが大きい" >
+		<point cn="得益于... 多亏..." ps="表示承蒙恩惠" />
+	</ grammar>
+	
+	<grammar id="～におかれましては" >
+		<point cn="关于... " ps="提示前项的人或事" />
+	</ grammar>
+	
+	<grammar id="～には及ばない" >
+		<point cn="不必... " ps="=ことはない　" />
+		<point cn="不及... " ps="表示无法企及　" />
+	</ grammar>
+	
+	<grammar id="～に欠かせない・が欠かせない" >
+		<point cn="在...方面不可或缺 " ps="=にとってなくてはならない" />
+	</ grammar>
+	
+	<grammar id="～にかかったら・にかかっては・にかかると" >
+		<point cn="说到...提到..." ps="提示主语" />
+	</ grammar>
+	
+	<grammar id="～にかかっている" >
+		<point cn="取决于.." ps="表示前后两项的依赖 后项的结果完看前项的条件" />
+	</ grammar>
+	
+	<grammar id="～にかかわる" >
+		<point cn="关系到..." ps="常与 命・名誉・存亡　多为重要内容" />
+	</ grammar>
+	
+	<grammar id="～に限ったことではない" >
+		<point cn="不是...所独有的问题" ps="=～に限った問題ではない" />
+	</ grammar>
+	
+	<grammar id="～にかこつけて" >
+		<point cn="以...为借口 托辞" ps="" />
+	</ grammar>
+	
+	<grammar id="～にかこつけて" >
+		<point cn="以...为借口 托辞" ps="" />
+	</ grammar>
+	
+	<grammar id="～に難くない" >
+		<point cn="不难想象 不难察觉" ps="常与 想像する・理解する" />
+	</ grammar>
+	
+	<grammar id="～にかまけて" >
+		<point cn="忙于..." ps="忙于...无暇顾及其他/忽略了其他" />
+	</ grammar>
+	
+	<grammar id="～に越したことはない" >
+		<point cn="莫过于..." ps="多用于表示一些常识性的陈述" />
+	</ grammar>
+	
+	<grammar id="～に如くはない" >
+		<point cn="不如..." ps="表示在某方面没有比之更好的。" />
+	</ grammar>
+	
+	<grammar id="～にして" >
+		<point cn="在..." ps="表示时间次数" />
+		<point cn="既是...又是..." ps="表示并列" />
+	</ grammar>
+	
+	<grammar id="～に忍びない" >
+		<point cn="不堪... 不忍心..." ps="見るに忍びない" />
+	</ grammar>
+	
+	<grammar id="～に準じて・に準じる" >
+		<point cn="以...的标准  按照...对待" ps="見るに忍びない" />
+	</ grammar>
+	
+	<grammar id="～に即して・に即した" >
+	</ grammar>
+	
+	<grammar id="～にたえる・にたえない" >
+		<point cn="值得..." ps="見るに忍びない" />
+	</ grammar>
+	
+	<grammar id="～に足りる・に足る" >
+		<point cn="值得..." ps="" />
+	</ grammar>
+	
+	<grammar id="～に足りない・に足らない" >
+		<point cn="不值得..." ps="" />
+	</ grammar>
+	
+	<grammar id="～に照らして" >
+		<point cn="依照..." ps="表示动作行为的依据  憲法・法律・規則・ルール" />
+	</ grammar>
+	
+	<grammar id="～にとどまらす" >
+		<point cn="不仅停留在..." ps="表示不仅限定在某个领域范围" />
+	</ grammar>
+	
+	<grammar id="～に則って" >
+		<point cn="依据..." ps="表示动作行为的依据  慣例・先例・習慣・常識" />
+	</ grammar>
+	
+	<grammar id="～には無理がある" >
+		<point cn="...方面有不合理的地方" ps="" />
+	</ grammar>
+	
+	<grammar id="～にひきかえ・に引き換えて" >
+		<point cn="与...相反 与...不同" ps="" />
+	</ grammar>
+	
+	<grammar id="～にも程がある" >
+		<point cn="...也就适可而止" ps="用于告诫对方做事情要有度 不能太过分	冗談にも程がある" />
+	</ grammar>
+	
+	<grammar id="～にも増して" >
+		<point cn="比...更加..." ps="AにもましてB　以前にも増して" />
+	</ grammar>
+	
+	<grammar id="～によるところが多い" >
+		<point cn="利益于... 主要依赖于..." ps="～に負うところが大きい" />
+	</ grammar>
+	
+	<grammar id="～の至り" >
+		<point cn="...之至" ps="光栄の至り　若気の至り・赤面の至り・感激の至り" />
+	</ grammar>
+	
+	<grammar id="～の極み" >
+		<point cn="...之极" ps="疲労の極み・遺憾の極み・贅沢の極み" />
+	</ grammar>
+	
+	<grammar id="～のなんの" >
+		<point cn="又是扯... 又是扯东扯西的" ps="列举一个有代表性的言论 多用于负面" />
+	</ grammar>
+	
+	<grammar id="～はおろか" >
+		<point cn="别说是... 就连" ps="表示递退。Aはおろか、Bも～ない" />
+	</ grammar>
+	
+	<grammar id="～ばこそ" >
+		<point cn="正因为...才..." ps="强调原因 =～からこそ" />
+	</ grammar>
+	
+	<grammar id="～はさておき・はさておいて" >
+		<point cn="其他暂且不论首先..." ps="先处理最重要的	何はさておき" />
+	</ grammar>
+	
+	<grammar id="～弾み(はずみ)" >
+		<point cn="在...的时候" ps="先处理最重要的	何はさておき" />
+	</ grammar>
+	
+	<grammar id="～はそっちのけで・をそっちのけで" >
+		<point cn="抛开...不管  不顾..." ps="表示把本应该做的事情搁置，而去做其他事情 " />
+	</ grammar>
+	
+	<grammar id="～ばそれまでだ" >
+		<point cn="...的话 也就完蛋了" ps=" " />
+	</ grammar>
+	
+	<grammar id="～羽目になる・羽目に陥る" >
+		<point cn="落到...的地步 陷入...的境地" ps="表示种种原因 使某人陷入困境 " />
+	</ grammar>
+	
+	<grammar id="～べからず・べからざる" >
+		<point cn="禁止..." ps="多用于布告 招牌 " />
+		<point cn="不应该做的..." ps="多用于布告 招牌 " />
+	</ grammar>
+	
+	<grammar id="～べく" >
+		<point cn="为了... 想要..." ps="表示目的 =ために" />
+	</ grammar>
+	
+	<grammar id="～べくして" >
+		<point cn="...的出现是必然的" ps="表示一种必然性" />
+	</ grammar>
+	
+	<grammar id="～べくもない" >
+		<point cn="做不到..." ps="表示否定 生硬的文言体" />
+	</ grammar>
+	
+	<grammar id="～まじき" >
+		<point cn="作为...不应该有的行为" ps="表示出于某种身份 不应该做某事" />
+	</ grammar>
+	
+	<grammar id="～までして" >
+		<point cn="甚至于到了...的地步  不惜..." ps="极端行为  为达目的不择手段 也可以是 以极大牺牲达到目的" />
+	</ grammar>
+	
+	<grammar id="～までだ・までのことだ" >
+		<point cn="只不过...罢了 只是...而已" ps="用于解释某个行为目的 =ただ～だけだ" />
+		<point cn="只好..." ps="表示别无选择 =～しかない" />
+	</ grammar>
+	
+	<grammar id="～までもなく・までもない" >
+		<point cn="没有必要... 用不着..." ps=" =ことはない" />
+	</ grammar>
+	
+	<grammar id="～まみれ" >
+		<point cn="全是... 浑身是..." ps="指表面沾满了...的状态 多为污渍 =だらけ" />
+	</ grammar>
+	
+	<grammar id="～めく" >
+		<point cn="带有...气息的  有一点...感觉的" ps="表示 某种上状态和特征" />
+	</ grammar>
+	
+	<grammar id="～も顧みず・を顧みず" >
+		<point cn="不顾..." ps="表示不顾某种危险 坚持做某事" />
+	</ grammar>
+	
+	<grammar id="～もさることながら" >
+		<point cn="...自不必说...更是如此" ps="表示相比于前项，后项更加" />
+	</ grammar>
+	
+	<grammar id="～も同然だ・も同然の" >
+		<point cn="几乎等同于..." ps="表示相比于前项，后项更加" />
+	</ grammar>
+	
+	<grammar id="～ものと思われる" >
+		<point cn="在大家看来... 人们一般认为" ps="表示大多数人的看法" />
+	</ grammar>
+	
+	<grammar id="～ものを" >
+		<point cn="要是...就好了" ps="表示对已经发生的事情的假设  有后悔 遗憾的感情" />
+	</ grammar>
+	
+	<grammar id="～や・や否や" >
+	</ grammar>
+	
+	<grammar id="～やしない・はしない" >
+	</ grammar>
+	
+	<grammar id="～矢先に" >
+		<point cn="正当...的时候" ps="多为意外" />
+	</ grammar>
+	
+	<grammar id="やれ～やれ～" >
+		<point cn="什么...啦. 什么...啦" ps="表示列举" />
+	</ grammar>
+	
+	<grammar id="～がゆえに・故の" >
+		<point cn="因为... 由于..." ps="表示理由 古典日语中的用法" />
+	</ grammar>
+	
+	<grammar id="～ようによっては" >
+		<point cn="要看怎么... 取决于...的方法" ps="常用 かんがえようによっては　やりようによっては	見ようによっては" />
+	</ grammar>
+	
+	<grammar id="～をおいて" >
+		<point cn="除了... 没有..." ps="后面接否定" />
+	</ grammar>
+	
+	<grammar id="～を押して・を押し切って" >
+		<point cn="冒着...  不顾..反对" ps="表示时限" />
+	</ grammar>
+	
+	<grammar id="～を限りに" >
+		<point cn="以...为截止日期" ps="表示克服困难 或者不顾大家反对坚持做某事" />
+		<point cn="尽最大..." ps="表示尽自己最大的可能" />
+	</ grammar>
+	
+	<grammar id="～を皮切りに" >
+		<point cn="以...为开端" ps="表示...之后相继展开类似的事情 " />
+	</ grammar>
+	
+	<grammar id="～を機に" >
+		<point cn="以...为契机 借...的机会" ps="=を契機に・をきっかけに " />
+	</ grammar>
+	
+	<grammar id="～を禁じ得ない" >
+		<point cn="不禁... 忍不住..." ps="强调一种感情 +涙・怒り・同情・戸惑い" />
+	</ grammar>
+	
+	<grammar id="～を蔑ろにする" >
+		<point cn="轻视... 瞧不起... " ps="を無視する" />
+	</ grammar>
+	
+	<grammar id="～をなおざりにして" >
+		<point cn="轻视... 忽视... " ps="表示随便应付 不认真" />
+	</ grammar>
+	
+	<grammar id="～を控え・を控えて・を控えた" >
+		<point cn="面临... " ps="常用表示时间的名词" />
+	</ grammar>
+	
+	<grammar id="～を踏まえ・を踏まえて" >
+		<point cn="依据... 根据..." ps="立足于 常与　現状・実情・状況" />
+	</ grammar>
+	
+	<grammar id="～を振り出しに" >
+		<point cn="以...为开端 以...为起点" ps="立足于 常与　現状・実情・状況" />
+	</ grammar>
+	
+	<grammar id="～を経て" >
+		<point cn="经过..." ps="常搭配表示地点 途径 流程的名词" />
+	</ grammar>
+	
+	<grammar id="～をもって・をもちまして" >
+	</ grammar>
+	
+	<grammar id="～をものともせずに" >
+		<point cn="克服困难做..." ps="表示克服困难 坚持做某事。多为积极意思 " />
+	</ grammar>
+	
+	<grammar id="～を余儀なくさせる" >
+		<point cn="迫使..." ps=" " />
+	</ grammar>
+	
+	<grammar id="～を余儀なくされる" >
+		<point cn="被迫..." ps=" " />
+	</ grammar>
+	
+	<grammar id="～をよそに" >
+		<point cn="不顾..." ps=" 多为消极" />
+	</ grammar>
+	
+	<grammar id="～んがため(に)・んがための" >
+		<point cn="为了..." ps=" 表示积极的目的" />
+	</ grammar>
+	
+	<grammar id="～んじゃなかった" >
+		<point cn="早知道就不...了" ps=" 表示遗憾 后悔" />
+	</ grammar>
+	
+	<grammar id="～んだって・んですって" >
+		<point cn="据说..." ps=" 表示传闻" />
+	</ grammar>
+	
+	<grammar id="～んばかりに・んばかりの・んばかりだ" >
+		<point cn="几乎显出...的样子 几乎就要" ps=" 表示样态" />
+	</ grammar>
+	
+</Dict>
