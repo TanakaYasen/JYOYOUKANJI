@@ -9,6 +9,8 @@
 		</ex>
 		<ex	 word="アルバイト" pa="3" pos="N/js" sr="[独]arbeit" cn="打工" >
 		</ex>
+		<ex	 word="アンケート" pa="13" pos="N/js" sr="[仏]enquête" cn="问卷调查" >
+		</ex>
 		<ex	 word="シンボル" pa="1" pos="N" jp="象徴" eng="symbol" ref="印">
 			<e ph="富士山は日本のシンボルだ・シンボルマーク" />
 		</ex>

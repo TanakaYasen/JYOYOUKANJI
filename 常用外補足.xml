@@ -699,7 +699,7 @@
 		<r on="カ" >
 		</r>
 		<r kun="かすみ" kk="霞" pa="1" pos="N" jlpt="1" />
-		<r kun="かすむ" kk="霞む" pa="1" pos="N" jlpt="1" />
+		<r kun="かすむ" kk="霞む" pa="30" pos="N" jlpt="1" cn="起雾霭; 朦胧 看不清" />
 	</kanji>
 	
 	<kanji	id="鞄" freq="2177" jlpt="3" gr="4">

@@ -31,7 +31,8 @@
 	</ grammar>
 	
 	<grammar id="~らしい" >
-		<point cn="好像...(推测)" />
+		<point cn="好像...(推测)"
+			ps="有根据的推测" />
 		
 		<point cn="像...似的" />
 	</ grammar>
@@ -439,9 +440,20 @@
 		
 	</ grammar>
 	
-	<grammar id="～ことがある" >
-		<point cn="有过...(某种经历)" />
-		<point cn="有时... 偶尔..." />
+	<grammar id="～ことがある・～こともある" jlpt="4">
+		<point 
+			htu="Vた形+ことがある"
+			jp=""
+			cn="曾经有过...(某种经历)"
+			ps="当" 
+			es="私は日本に住んだことがあります。" />
+		<point 
+			htu="V辞書形+ことがある"
+			jp="いつもではないが、時々〜する"
+			eng="sometimes do"
+			cn="有时... 偶尔..." 
+			ps="也有这样的情况 即有时做某事"
+			es="大学をしてからも、たまに同じ学部だった友達に会うことがあります" />
 	</ grammar>
 	
 	<grammar id="～ことができる" >

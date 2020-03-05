@@ -256,7 +256,7 @@
 		<r on="ハ" >
 			<ex	 word="立派" pron="りっぱ" pa="0" pos="NA" jlpt="5" />
 			<ex	 word="派遣" pron="はけん" pa="0" pos="N/ts" jlpt="1" />
-			<ex	 word="派手" pron="はで" pa="2" pos="N/NA" />
+			<ex	 word="派手" pron="はで" pa="2" pos="N/NA" jlpt="2" cn="花哨,鲜艳; 夸张,浮华" />
 			<ex	 word="派生" pron="はせい" pa="0" pos="jts" />
 			<ex	 word="派閥" pron="はばつ" pa="0" pos="N" />
 		</r>
