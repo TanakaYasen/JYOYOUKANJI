@@ -251,7 +251,7 @@
 			<ex	 word="用意" pron="ようい" pa="0" pos="N" jlpt="2" cn="准备，预备"/>
 			<ex	 word="用心" pron="ようじん" pa="0" pos="N" jlpt="2" cn="注意，小心，提防，留神，留意，留心，警惕，警戒" />
 		</r>
-		<r kun="もちいる" kk="用いる" pa="3" pos="t1" jlpt="3"  >
+		<r kun="もち`いる" kk="用いる" pa="03" pos="t1" jlpt="3" cn="使用; 采用; 录用; 用心" >
 		</r>
 	</kanji>
 	
@@ -692,7 +692,7 @@
 	<kanji	id="利" freq="269" jlpt="3" gr="4">
 		<r on="リ" >
 			<ex	 word="利用" pron="りよう" pa="0" pos="N" jlpt="4" />
-			<ex	 word="利益" pron="りえき" pa="1" pos="N" jlpt="3" eng="profit" />
+			<ex	 word="利益" pron="りえき" pa="1" pos="N" jlpt="3" eng="profit" cn="赚头(盈利收益); 好处利益" />
 			<ex	 word="勝利" pron="しょうり" pa="1" pos="N" jlpt="1" eng="victory" />
 		</r>
 		<r kun="きく" kk="左利き" pa="0" pos="N" jlpt="3" cn="左撇子" >

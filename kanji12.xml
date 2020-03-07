@@ -583,6 +583,9 @@
 		<r on="セイ" >
 			<ex	 word="帰省" pron="きせい" pa="0" pos="N" />
 			<ex	 word="内省" pron="ないせい" pa="0" pos="N" />
+			<ex	 word="反省" pron="はんせい" pa="0" pos="N" jlpt="2" cn="自我审视" >
+				<e ph="反省の色が見られない・客観的に自分の行為を反省する" />
+			</ex>
 		</r>
 		<r on="ショウ" >
 			<ex	 word="労働省" pron="ろうどうしょう" pa="0" pos="N" />

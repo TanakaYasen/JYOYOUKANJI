@@ -306,9 +306,10 @@
 	<kanji	id="至" freq="488" jlpt="1" gr="6">
 		<r on="シ" >
 			<ex	 word="夏至" pron="げし" pa="0" pos="N" />
+			<ex	 word="至急" pron="しきゅう" pa="0" pos="N/adv" jlpt="2" eng="urgent; urgently" />
 			<ex	 word="冬至" pron="とうじ" pa="0" pos="N" />
 		</r>
-		<r kun="いたる" kk="至る" pa="20" pos="j5" jlpt="3" >
+		<r kun="いた`る" kk="至る" pa="20" pos="j5" jlpt="3" cn="至,到; 到来; 至于 达到;" jp="到着する" >
 		</r>
 	</kanji>
 	

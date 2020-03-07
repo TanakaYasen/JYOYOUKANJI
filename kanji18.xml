@@ -764,9 +764,6 @@
 			<ex	 word="違反" pron="いはん" pa="0" pos="N" jlpt="3" />
 			<ex	 word="反対" pron="はんたい" pa="0" pos="N" jlpt="4" />
 			<ex	 word="反抗" pron="はんこう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="反省" pron="はんせい" pa="0" pos="N" jlpt="2" cn="自我审视" >
-				<e ph="反省の色が見られない・客観的に自分の行為を反省する" />
-			</ex>
 		</r>
 		<r on="ホン" >
 			<ex	 word="謀反" pron="むほん" pa="1" pos="N" />

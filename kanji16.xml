@@ -188,8 +188,9 @@
 	
 	<kanji	id="直" freq="178" jlpt="3" gr="2">
 		<r on="チョク" >
-			<ex	 word="直接" pron="ちょくせつ" pa="0" pos="N" jlpt="3" eng="directly" ref="間接"/>
-			<ex	 word="直前" pron="ちょくぜん" pa="0" pos="N/adv" jlpt="2" cn="即将…之前" eng="just before"/>
+			<ex	 word="直接" pron="ちょくせつ" pa="0" pos="NA" jlpt="3" eng="directly" ref="間接"/>
+			<ex	 word="直前" pron="ちょくぜん" pa="0" pos="N" jlpt="2" cn="即将…之前; 正前方" jp="ことの起こるすぐ前; すぐ前方" eng="just before"/>
+			<ex	 word="直後" pron="ちょくご" pa="0" pos="N" jlpt="2" cn="...之后不久 紧接着; 正后面" jp="ことの起こったすぐ後; あるもののすぐ後。" eng="just after"/>
 		</r>
 		<r on="ジキ" >
 			<ex	 word="正直" pron="しょうじき" pa="34" pos="N/NA" jlpt="3" cn="老实的;坦白的" eng="honest; frank" >
@@ -198,10 +199,10 @@
 			<ex	 word="直" pron="じき" pa="1" pos="N/NA" cn="直接 # 就在眼前; 立刻马上; 很容易" eng="soon; in a moment" ph="直に" />
 			<ex	 word="直に" pron="じきに" pa="0" pos="adv" cn="立刻马上; 很容易" eng="soon; in a moment" ph="直に" />
 			<ex	 word="直に" pron="じかに" pa="1" pos="adv" cn="直接" eng="directly" ph="直に手渡せ" />
-	</r>
-		<r kun="ただちに" kk="直ちに" pa="1" pos="adv" jlpt="3" cn="立刻" eng="at once; immediately" ></r>
-		<r kun="なおす" kk="直す" pa="2" pos="t5" jlpt="4"></r>
-		<r kun="なおる" kk="直る" pa="2" pos="j5" jlpt="4"></r>
+		</r>
+		<r kun="ただ`ちに" kk="直ちに" pa="1" pos="adv" jlpt="3" cn="立刻" eng="at once; immediately" ></r>
+		<r kun="なお`す" kk="直す" pa="2" pos="t5" jlpt="4" cn="修理修复; 纠正; 整理" ga="~なおす" ></r>
+		<r kun="なお`る" kk="直る" pa="2" pos="j5" jlpt="4"></r>
 	</kanji>
 	
 	<kanji	id="勅" freq="2459" jlpt="1" gr="8">
@@ -861,6 +862,7 @@
 		<r on="ト" >
 			<ex	 word="都市" pron="とし" pa="1" pos="N" jlpt="3" eng="city;town"/>
 			<ex	 word="首都" pron="しゅと" pa="12" pos="N" jlpt="3" eng="capital"/>
+			<ex	 word="都心" pron="としん" pa="0" pos="N" jlpt="2" eng="city center"/>
 		</r>
 		<r on="ツ" >
 			<ex	 word="都合" pron="つごう" pa="0" pos="N/adv" jlpt="4" ph="～の都合" cn="关系;原因" >

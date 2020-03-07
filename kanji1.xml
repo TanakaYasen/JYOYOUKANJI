@@ -835,7 +835,6 @@
 	
 	<kanji	id="益" freq="1002" jlpt="1" gr="5">
 		<r on="エキ" >
-			<ex	 word="利益" pron="りえき" pa="0" pos="N" />
 			<ex	 word="損益" pron="そんえき" pa="0" pos="N/js" />
 			<ex	 word="収益" pron="しゅうえき" pa="0" pos="N/js" />
 			<ex	 word="公益" pron="めんえき" pa="0" pos="N/js" />
