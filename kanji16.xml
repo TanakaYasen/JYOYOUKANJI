@@ -340,8 +340,9 @@
 		<r on="ツウ" >
 			<ex	 word="痛感" pron="つうかん" pa="0" pos="N/ts" jlpt="1" />
 		</r>
-		<r kun="いたい" kk="痛い" pa="2" pos="adj" jlpt="5" ></r>
-		<r kun="いたむ" kk="痛む" pa="2" pos="j5" jlpt="1" cn="痛苦;苦恼" ref="傷む">
+		<r kun="いた`い" kk="痛い" pa="2" pos="adj" jlpt="5" >
+		</r>
+		<r kun="いた`む" kk="痛む" pa="2" pos="j5" jlpt="1" cn="痛苦;苦恼" ref="傷む">
 			<e ph="虫歯が痛む。傷が痛むので眠れなかった。" />
 		</r>
 		<r kun="いためる" kk="痛める" pa="3" pos="t1" jlpt="1" cn="弄痛" ref="炒める">
@@ -355,7 +356,9 @@
 	</kanji>
 	
 	<kanji	id="漬" freq="2081" jlpt="1" gr="8">
-		<r kun="つける" kk="漬ける" pa="0" pos="t1" jlpt="4" ></r>
+		<r kun="つける" kk="漬ける" pa="0" pos="t1" jlpt="4" cn="腌; 泡" ph="勉強漬け">
+			
+		</r>
 		<r kun="つかる" kk="漬かる・浸かる" pa="0" pos="j5" ></r>
 	</kanji>
 	

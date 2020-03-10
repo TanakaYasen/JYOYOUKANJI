@@ -386,7 +386,7 @@
 			<ex	 word="洗濯" pron="せんたく" pa="0" pos="N/ts" jlpt="5" />
 			<ex	 word="洗剤" pron="せんざい" pa="0" pos="N/ts" jlpt="2" cn="洗涤剂，洗衣粉" />
 		</r>
-		<r kun="あら`う" kk="洗う" pa="*0" pos="t5" jlpt="5">
+		<r kun="あら`う" kk="洗う" pa="*0" pos="t5" jlpt="5" cn="清洗" >
 		</r>
 	</kanji>
 	

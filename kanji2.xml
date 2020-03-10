@@ -753,7 +753,7 @@
 			<ex	 word="歌曲" pron="かきょく" pa="0" pos="N" />
 			<ex	 word="歌詞" pron="かし" pa="0" pos="N" />
 		</r>
-		<r kun="うた" kk="歌" pa="2" pos="N" jlpt="5" >
+		<r kun="うた" kk="歌" pa="2" pos="N" jlpt="5" ref="曲">
 		</r>
 		<r kun="うた`う" kk="歌う" pa="0" pos="j5" jlpt="5" >
 		</r>

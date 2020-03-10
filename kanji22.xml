@@ -107,7 +107,7 @@
 		</r>
 		<r on="ユ" >
 		</r>
-		<r kun="あそぶ" kk="遊ぶ" pa="0" pos="j5" jlpt="5" eng="to play;to enjoy" >
+		<r kun="あそ`ぶ" kk="遊ぶ" pa="0" pos="j5" jlpt="5" cn="玩耍" eng="to play;to enjoy" >
 		</r>
 	</kanji>
 	
@@ -292,7 +292,7 @@
 			<ex	 word="需要" pron="じゅよう" pa="0" pos="N" jlpt="3" eng="demand" />
 			<ex	 word="要注意" pron="ようちゅうい" pa="3" pos="N" />
 		</r>
-		<r kun="いる" kk="要る" pa="0" pos="j5" jlpt="5" >
+		<r kun="い`る" kk="要る" pa="0" pos="j5" jlpt="5" cn="需要" ph="要らない">
 		</r>
 	</kanji>
 	
@@ -412,7 +412,7 @@
 		<r on="ヨウ" >
 			<ex	 word="舞踊" pron="ぶよう" pa="0" pos="N" eng="dancing" />
 		</r>
-		<r kun="おどる" kk="踊る" pa="0" pos="j5" jlpt="4" eng="to dance" >
+		<r kun="おど`る" kk="踊る" pa="0" pos="j5" jlpt="4" eng="to dance" >
 			<ex	 word="盆踊り" pron="ぼんおどり" pa="3" pos="N" />
 		</r>
 		<r kun="おどり" kk="踊り" pa="0" pos="N" jlpt="4" >
@@ -490,8 +490,8 @@
 			<ex	 word="浴場" pron="よくじょう" pa="0" pos="N" />
 			<ex	 word="浴室" pron="よくしつ" pa="2" pos="N" jlpt="1" />
 		</r>
-		<r kun="あびる" kk="浴びる" pa="0" pos="t1" jlpt="5" cn="淋浴;遭受" >
-			<e ph="喝采を浴びる		血を浴びて戦う	非難を浴びる" />
+		<r kun="あ`びる" kk="浴びる" pa="0" pos="t1" jlpt="5" cn="淋浴; 遭受" >
+			<e ph="シャワーを浴びる・喝采を浴びる・血を浴びて戦う・非難を浴びる" />
 		</r>
 		<r kun="あびせる" kk="浴びせる" pa="0" pos="t1" >
 		</r>

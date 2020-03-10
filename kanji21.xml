@@ -1031,8 +1031,8 @@
 	
 	<kanji	id="訳" freq="570" jlpt="1" gr="6">
 		<r on="ヤク" >
-			<ex	 word="翻訳" pron="やくしょ" pa="0" pos="N" jlpt="4" />
-			<ex	 word="通訳" pron="やくにん" pa="0" pos="N" jlpt="2" />
+			<ex	 word="翻訳" pron="ほんやく" pa="0" pos="N/ts" jlpt="4" cn="笔译" eng="" />
+			<ex	 word="通訳" pron="つうやく" pa="0" pos="N/ts" jlpt="2" cn="口译" eng="interpretation" />
 			<ex	 word="訳文" pron="やくぶん" pa="0" pos="N" />
 		</r>
 		<r kun="わけ" kk="訳" pa="1" pos="N" jlpt="4" >

@@ -436,11 +436,13 @@
 		<r on="ショク" >
 			<ex	 word="原色" pron="げんしょく" pa="0" pos="N" />
 			<ex	 word="褐色" pron="かっしょく" pa="0" pos="N" />
+			<ex	 word="一色" pron="いっしょく" pa="0" pos="N" cn="一种颜色的" />
 		</r>
 		<r on="シキ" >
 			<ex	 word="色彩" pron="しきさい" pa="0" pos="N" />
 			<ex	 word="色欲" pron="しきよく" pa="0" pos="N" />
 			<ex	 word="色覚" pron="しきかく" pa="0" pos="N" />
+			<ex	 word="一色" pron="いっしき" pa="0" pos="N" cn="清一色的" />
 		</r>
 		<r kun="いろ" kk="色" pa="2" pos="N" jlpt="5" >
 			<ex	 word="鉛色" pron="なまりいろ" pa="0" pos="N" />
@@ -465,7 +467,6 @@
 		<r on="ショク" >
 			<ex	 word="食物" pron="*しょくもつ" pa="0" pos="N" />
 			<ex	 word="衣食住" pron="いしょくじゅう" pa="0" pos="N" jlpt="2" />
-			<ex	 word="飲食" pron="いんしょく" pa="0" pos="N" />
 			<ex	 word="食事" pron="しょくじ" pa="0" pos="N" jlpt="3" eng="meal" />
 		</r>
 		<r on="ジキ" >
@@ -952,7 +953,7 @@
 			<ex	 word="更新" pron="こうしん" pa="0" pos="N" />
 			<ex	 word="新聞" pron="しんぶん" pa="0" pos="N" jlpt="5" eng="newspaper" />
 		</r>
-		<r kun="あたらしい" kk="新しい" pa="4" pos="adj" jlpt="5" eng="new">
+		<r kun="あたら`しい" kk="新しい" pa="4" pos="adj" jlpt="5" eng="new" ant="古い">
 		</r>
 		<r kun="あらた" kk="新た" pa="1" pos="NA" jlpt="3" >
 		</r>
@@ -1011,7 +1012,7 @@
 		<r kun="おや" kk="親" pa="2" pos="N" jlpt="4" >
 			<ex	 word="親指" pron="おやゆび" pa="0" pos="N" jlpt="2" eng="thumb" />
 		</r>
-		<r kun="したしい" kk="親しい" pa="3" pos="adj" jlpt="3" eng="close" >
+		<r kun="したしい" kk="親しい" pa="3" pos="adj" jlpt="3" eng="close" cn="亲密的">
 		</r>
 		<r kun="したしむ" kk="親しむ" pa="3" pos="j5" jlpt="1" >
 		</r>

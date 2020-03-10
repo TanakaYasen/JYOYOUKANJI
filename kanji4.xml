@@ -155,7 +155,8 @@
 			<ex	 word="危険" pron="きけん" pa="0" pos="N" jlpt="4" eng="danger"/>
 			<ex	 word="危機" pron="きき" pa="0" pos="N" jlpt="1" eng="crisis"/>
 		</r>
-		<r kun="あぶない" kk="危ない" pa="30" pos="adj" jlpt="5" eng="dangerous;risky" >
+		<r kun="あぶ`ない" kk="危ない" pa="30" pos="adj" jlpt="5" cn="危险的, 不可靠的" eng="dangerous;risky" >
+			<e ph="危ない道・命が危ない" />
 		</r>
 		<r kun="あや`うい" kk="危うい" pa="3" pos="adj" jlpt="2" cn="危险的，危急的" >
 			<e ph="危ういところを助けられた。成功は危うい。" />
@@ -1179,7 +1180,7 @@
 			<ex	 word="~強" pron="～きょう" pa="0" pos="sf" jlpt="5"  cn="接数词后表示超过,大于并舍去尾数" ref="～弱(じゃく)" />
 		</r>
 		<r on="ゴウ" >
-			<ex	 word="強引" pron="ごういん" pa="0" pos="NA" cn="强迫; 强行">
+			<ex	 word="強引*" pron="ごういん" pa="0" pos="NA" jlpt="2" cn="强迫; 强行">
 				<e ph="強引なやり方・強引に推し進める・強引でも彼女を病院に連れて往く" />
 			</ex>
 		</r>
@@ -1544,17 +1545,18 @@
 			<ex	 word="苦痛" pron="くつう" pa="20" pos="N" jlpt="3" />
 			<ex	 word="苦情" pron="くじょう" pa="0" pos="N" jlpt="2" cn="请求;抱怨"/>
 		</r>
-		<r kun="くる`しい" kk="苦しい" pa="3" pos="adj" jlpt="3" cn="痛苦;艰苦;困难"> </r>
+		<r kun="くる`しい" kk="苦しい" pa="3" pos="adj" jlpt="3" cn="痛苦的;艰苦;困难"> </r>
 		<r kun="くる`しむ" kk="苦しむ" pa="3" pos="j5" jlpt="3" cn="受苦">
 			<e ph="恋に苦しむ・頭痛に苦しむ" />
 		</r>
 		<r kun="くる`しめる" kk="苦しめる" pa="4" pos="t1" jlpt="1" cn="使痛苦,为难; 欺负">
 			<e ph="人を苦しめる・住宅ローンに苦しめられる" />
 		</r>
-		<r kun="にが`い" kk="苦い" pa="2" pos="adj" jlpt="4">
+		<r kun="にが`い" kk="苦い" pa="2" pos="adj" jlpt="4" cn="苦味的" >
+		</r>
+		<r kun="にがる" kk="苦る" pa="2" pos="j5" >
 			<ex	 word="苦手" pron="にがて" pa="03" pos="N" jlpt="3" />
 		</r>
-		<r kun="にがる" kk="苦る" pa="2" pos="j5" > </r>
 	</kanji>
 	
 	<kanji	id="駆" freq="1206" jlpt="1" gr="8">

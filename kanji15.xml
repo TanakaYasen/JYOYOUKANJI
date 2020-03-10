@@ -142,7 +142,7 @@
 			<ex	 word="淡々と" pron="たんたん" pa="0" pos="N" />
 			<ex	 word="淡水" pron="たんすい" pa="0" pos="N" jlpt="2" />
 		</r>
-		<r kun="あわ`い" kk="淡い" pa="2"></r>
+		<r kun="あわ`い" kk="淡い" pa="2" pos="adj" ref="薄い"></r>
 	</kanji>
 	
 	<kanji	id="短" freq="823" jlpt="2" gr="3">

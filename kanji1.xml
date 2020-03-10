@@ -569,7 +569,7 @@
 	
 	<kanji	id="飲" freq="571" jlpt="4" gr="3">
 		<r on="イン" >
-			<ex	 word="飲食" pron="いんしょく" pa="0" pos="N" />
+			<ex	 word="飲食" pron="いんしょく" pa="0" pos="N" jlpt="5" />
 			<ex	 word="飲料" pron="いんりょう" pa="3" pos="N" />
 		</r>
 		<r kun="のむ" kk="飲む" pa="1" pos="t5" jlpt="5" />

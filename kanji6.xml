@@ -97,9 +97,9 @@
 				<e ph="のちほどお伺いします・のちほどお電話を致します" />
 			</ex>
 		</r>
-		<r kun="うしろ" kk="後" pa="02" pos="N" >
+		<r kun="うし`ろ" kk="後ろ" pa="02" pos="N" jlpt="5" ant="前">
 		</r>
-		<r kun="あと" kk="後" pa="1" pos="N" >
+		<r kun="あと" kk="後" pa="1" pos="N" jlpt="5" cn="后面, 之后" ant="先">
 		</r>
 	</kanji>
 	
@@ -379,7 +379,7 @@
 		</r>
 		<r on="アン" >
 		</r>
-		<r kun="いく" kk="行く" pa="0" pos="j5" jlpt="5" cn="行进;去;前往;进展" >
+		<r kun="い`く" kk="行く" pa="0" pos="j5" jlpt="5" cn="行进;去;前往;进展" ant="来る" >
 		</r>
 		<r kun="ゆく" kk="行く" pa="0" pos="j5" jlpt="5" cn="" ref="逝く" >
 		</r>
@@ -484,9 +484,9 @@
 		<r on="コウ" >
 			<ex	 word="厚意" pron="こうい" pa="1" pos="N" jlpt="5" />
 		</r>
-		<r kun="あつい" kk="厚い" pa="*0" pos="adj" jlpt="5" eng="thick; deep" >
+		<r kun="あつ`い" kk="厚い" pa="*0" pos="adj" jlpt="5" eng="thick; deep" ant="薄い" >
 		</r>
-		<r kun="あつかましい" kk="厚かましい" pa="4" pos="adj" jlpt="2" eng="shameless" ref="図々しい・鉄面皮てつめんぴな" >
+		<r kun="あつ`かましい" kk="厚かましい" pa="4" pos="adj" jlpt="2" eng="shameless" ref="図々しい・鉄面皮てつめんぴな" >
 			<e ph="厚かましいにも程がある。私が言うのも厚かましいが(不情之请)。何という厚かましいやつだろう。" />
 		</r>
 	</kanji>
