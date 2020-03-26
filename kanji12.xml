@@ -464,7 +464,7 @@
 		</r>
 		<r on="ショウ" >
 		</r>
-		<r kun="こえ" kk="声" pa="1" pos="N" jlpt="5" eng="voice" >
+		<r kun="こえ" kk="声" pa="*1" pos="N" jlpt="5" eng="voice" >
 			<ex	 word="歌声" pron="うたごえ" pa="0" pos="N" />
 		</r>
 		<r kun="こわ" kk="声" pa="2" pos="N" jlpt="5" >

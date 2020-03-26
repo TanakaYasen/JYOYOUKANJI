@@ -173,7 +173,7 @@
 			<ex	 word="聴力" pron="ちょうりょく" pa="0" pos="N" jlpt="0"/>
 			<ex	 word="視聴" pron="しちょう" pa="0" pos="N" jlpt="0"/>
 		</r>
-		<r kun="きく" kk="聴く・聞く" pa="0" pos="t5" jlpt="5" ></r>
+		<r kun="きく" kk="聴く" pa="0" pos="t5" jlpt="5" ref="聞く" ></r>
 	</kanji>
 	
 	<kanji	id="懲" freq="2382" jlpt="1" gr="8">

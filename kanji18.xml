@@ -863,7 +863,8 @@
 	
 	<kanji	id="板" freq="732" jlpt="2" gr="3">
 		<r on="ハン" >
-			<ex	 word="看板" pron="かんばん" pa="0" pos="N" jlpt="1" />
+			<ex	 word="看板" pron="かんばん" pa="0" pos="N" jlpt="1" cn="招牌"
+				ph="店の看板・看板料理" />
 			<ex	 word="甲板" pron="こうはん" pa="0" pos="N" />
 			<ex	 word="鉄板" pron="てっぱん" pa="0" pos="N" />
 		</r>

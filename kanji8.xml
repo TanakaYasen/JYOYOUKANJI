@@ -520,8 +520,9 @@
 			<ex	 word="紙片" pron="しへん" pa="0" pos="N" />
 			<ex	 word="和紙" pron="わし" pa="0" pos="N" />
 		</r>
-		<r kun="かみ" kk="紙" pa="1" pos="N" jlpt="5" >
+		<r kun="かみ" kk="紙" pa="2" pos="N" jlpt="5" >
 			<ex	 word="手紙" pron="てがみ" pa="0" pos="N" jlpt="5" eng="letter" />
+			<ex	 word="折り紙" pron="おりがみ" pa="0" pos="N" />
 			<ex	 word="渋紙" pron="しぶがみ" pa="0" pos="N" />
 		</r>
 	</kanji>

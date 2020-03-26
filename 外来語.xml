@@ -49,5 +49,12 @@
 		</ex>
 	</table>
 	
+	<table>
+		<ex	 word="ピアノ" pa="2" pos="N" cn="" eng="piano" >
+		</ex>
+		<ex	 word="ギター" pa="1" pos="N" cn="" eng="guitar" >
+		</ex>
+	</table>
+	
 </Dict>
 

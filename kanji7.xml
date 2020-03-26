@@ -812,7 +812,7 @@
 	</kanji>
 	
 	<kanji	id="咲" freq="1051" jlpt="2" gr="8">
-		<r kun="さく" kk="咲く" pa="0" pos="j5" jlpt="5" eng="to bloom" >
+		<r kun="さ`く" kk="咲く" pa="0" pos="j5" jlpt="5" cn="开花" eng="to bloom" ant="散る" >
 		</r>
 		<r nfu="ショウ">
 		</r>

@@ -179,7 +179,7 @@
 			<ex	 word="聴聞会" pron="ちょうもんかい" pa="3" pos="N" />
 			<ex	 word="前代未聞" pron="ぜんだいみもん" pa="1" pos="N" />
 		</r>
-		<r kun="き`く" kk="聞く" pa="0" pos="t5" jlpt="5" >
+		<r kun="き`く" kk="聞く" pa="0" pos="t5" jlpt="5" cn="听 闻; 询问" ref="尋ねる">
 			<ex	 word="聞き取る" pron="ききとる" pa="3" pos="t5" cn="听懂" >
 				<e ph="聞き取れましたか・君のいうことがよく聞き取れなかった・外国語を聞き取ることは難しい" />
 			</ex>
@@ -903,9 +903,9 @@
 			<ex	 word="飽食" pron="ほうしょく" pa="0" pos="N" />
 			<ex	 word="飽和" pron="ほうわ" pa="0" pos="N" jlpt="1" eng="satiation"/>
 		</r>
-		<r kun="あきる" kk="飽きる" pa="2" pos="j1" eng="to get tired of; to lose interest in" >
+		<r kun="あ`きる" kk="飽きる" pa="2" pos="j1" cn="厌烦; 失去兴趣" eng="to get tired of; to lose interest in" >
 		</r>
-		<r kun="あかす" kk="飽かす" pa="2" pos="t5" eng="to bore; to tire" >
+		<r kun="あ`かす" kk="飽かす" pa="2" pos="t5" eng="to bore; to tire" >
 		</r>
 	</kanji>
 	

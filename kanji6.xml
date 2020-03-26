@@ -709,7 +709,7 @@
 		<r on="オウ" >
 			<ex	 word="黄金" pron="おうごん" pa="0" pos="N" jlpt="1" />
 		</r>
-		<r kun="き" kk="黄" pa="0" pos="jt1" >
+		<r kun="き" kk="黄" pa="0" pos="N" >
 			<ex	 word="黄身" pron="きみ" pa="0" pos="N" />
 			<ex	 word="黄色" pron="きいろ" pa="0" pos="N" eng="5" />
 		</r>
